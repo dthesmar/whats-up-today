@@ -381,7 +381,7 @@ def scrape_brattle_theatre():
 
                 if today_tab_active or is_today(pr.text):
                     # Get time spans from the showtimes ordered list
-                    for span in st_desc.select("ol.showtimes span.showtime"):
+                    for span in st_desc.select("ol.showtimes .showtime, ol.showtimes a.showtime, ol.showtimes span.showtime"):
                         raw = clean(span.get_text())
                         if re.search(r"\d{1,2}:\d{2}", raw):
                             today_times.append(raw)
