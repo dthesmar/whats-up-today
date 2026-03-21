@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-21T13:47:59.351139",
+  "scraped_at": "2026-03-21T15:09:09.080749",
   "date": "2026-03-21"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Food Truck: Stolen Love... and Moo Deng (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:15 PM",
      "7:00 PM",
      "9:45 PM"
@@ -38,7 +37,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "6:00 PM",
      "9:45 PM",
      "3:20 PM",
@@ -76,7 +74,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -90,7 +87,6 @@
     "title": "Tow (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -176,7 +172,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "7:15 PM",
      "4:30 PM",
      "10:00 PM"
@@ -234,7 +229,6 @@
     "synopsis": "",
     "showtimes": [
      "5:15 PM",
-     "2:30 PM",
      "8:00 PM",
      "10:15 PM"
     ],
@@ -248,9 +242,7 @@
    {
     "title": "Wuthering Heights (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/wuthering-heights-2026-243497/movie-overview",
@@ -351,8 +343,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "2:10 PM",
      "3:50 PM",
      "4:50 PM",
      "5:30 PM",
@@ -374,7 +364,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:40 PM",
      "4:20 PM",
      "7:00 PM",
      "9:30 PM"
@@ -390,7 +379,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:30 PM",
      "7:15 PM",
      "9:45 PM"
@@ -420,7 +408,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:35 PM",
      "7:10 PM",
      "9:35 PM"
@@ -546,13 +533,27 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Reminders of Him",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
+   },
+   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "2:20 pm",
      "4:45 pm",
      "7:00 pm",
      "12:00 pm",
+     "2:20 pm",
      "7:10 pm"
     ],
     "theater": "Capitol Theatre",
@@ -566,7 +567,6 @@
     "title": "Sir\u00e2t",
     "synopsis": "",
     "showtimes": [
-     "2:40 pm",
      "5:15 pm",
      "7:45 pm",
      "7:00 pm"
@@ -577,20 +577,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/Sirat-Final-Poster-27x40-1-600x869.jpg"
-   },
-   {
-    "title": "Reminders of Him",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "One Battle After Another",
@@ -882,6 +868,306 @@
     "rating": "",
     "runtime": "",
     "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/696038cf5effe.jpg?1767913680"
+   }
+  ],
+  "Apple Cinemas Cambridge": [
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "6:00 PM",
+     "6:45 PM",
+     "9:30 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Ready or Not 2: Here I Come (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
+   },
+   {
+    "title": "The Pout-Pout Fish (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-pout-pout-fish-2026-243069/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243069/ThePoutPoutFish-KeyArtDigital27x40.jpg"
+   },
+   {
+    "title": "Dhurandhar: The Revenge (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "9:00 PM",
+     "9:05 PM",
+     "9:20 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg"
+   },
+   {
+    "title": "Ustaad Bhagat Singh (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:10 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/ustaad-bhagat-singh-2026-244706/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 34 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244706/UBS-27x40.jpg"
+   },
+   {
+    "title": "Wardriver (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/wardriver-2026-244791/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244791/wardriver.jpg"
+   },
+   {
+    "title": "Reminders of Him (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "6:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/reminders-of-him-2026-243076/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243076/ROH_Adv1Sheet5_RGB_6.jpg"
+   },
+   {
+    "title": "Undertone (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/undertone-2026-243943/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243943/undertone1.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:40 PM",
+     "6:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+   },
+   {
+    "title": "Peaky Blinders: The Immortal Man (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/peaky-blinders-the-immortal-man-2026-244401/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244401/peakyblinders.jpg"
+   },
+   {
+    "title": "GOAT (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/goat-2026-239629/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239629/GOAT_Online_2000x3000_TSR_Character_03.jpg"
+   },
+   {
+    "title": "Wuthering Heights (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/wuthering-heights-2026-243497/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 16 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243497/WUTHER_VERT_TSR_2764x4096_DOM.jpg"
+   }
+  ],
+  "Majestic 7 at Arsenal Yards": [
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "11:15AM",
+     "1:00PM",
+     "3:30PM",
+     "6:00PM",
+     "6:35PM",
+     "8:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/hoppers",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "2:15PM",
+     "5:30PM",
+     "9:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Reminders Of Him",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "1:55PM",
+     "4:30PM",
+     "7:05PM",
+     "9:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/reminders-of-him",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Ready Or Not: Here I Come",
+    "synopsis": "",
+    "showtimes": [
+     "11:30AM",
+     "2:05PM",
+     "4:45PM",
+     "7:15PM",
+     "9:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/ready-or-not-here-i-come",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "11:45AM",
+     "3:20PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Metropolitan Opera: Tristan und Isolde",
+    "synopsis": "",
+    "showtimes": [
+     "12:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-metropolitan-opera-tristan-und-isolde",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Undertone",
+    "synopsis": "",
+    "showtimes": [
+     "1:50PM",
+     "4:20PM",
+     "6:50PM",
+     "9:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/undertone",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "One Battle After Another",
+    "synopsis": "",
+    "showtimes": [
+     "9:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/one-battle-after-another",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [

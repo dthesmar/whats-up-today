@@ -58,7 +58,7 @@
   </div>
   <!-- Movie sub-filters -->
   <div id="movie-filters" class="max-w-xl mx-auto px-4 py-2 flex gap-2 overflow-x-auto border-t border-slate-800" style="display:none;scrollbar-width:none">
-    <span class="pill active"   id="f-all"        onclick="setFilter('all')">All Theaters</span>
+    <span class="pill active"   id="f-all"        onclick="setFilter('all')">All</span>
     <span class="pill inactive" id="f-amc"        onclick="setFilter('amc')">AMC</span>
     <span class="pill inactive" id="f-kendall"    onclick="setFilter('kendall')">Kendall</span>
     <span class="pill inactive" id="f-somerville" onclick="setFilter('somerville')">Somerville</span>
@@ -66,6 +66,8 @@
     <span class="pill inactive" id="f-coolidge"   onclick="setFilter('coolidge')">Coolidge</span>
     <span class="pill inactive" id="f-brattle"    onclick="setFilter('brattle')">Brattle</span>
     <span class="pill inactive" id="f-hfa"        onclick="setFilter('hfa')">HFA</span>
+    <span class="pill inactive" id="f-apple"      onclick="setFilter('apple')">Apple</span>
+    <span class="pill inactive" id="f-arsenal"    onclick="setFilter('arsenal')">Arsenal</span>
   </div>
 </div>
 
@@ -76,7 +78,8 @@ const CONCERT_KEYS=['Classical Music (Boston)','The Beehive','Scullers Jazz Club
 const DANCE_KEYS=['Boston Ballet','Dance & Ballet (Boston)'];
 const MOVIE_PILLS={all:'',amc:'AMC Boston Common 19',kendall:'Kendall Square Cinema',
   somerville:'Somerville Theatre',capitol:'Capitol Theatre',coolidge:'Coolidge Corner Theatre',
-  brattle:'Brattle Theatre',hfa:'Harvard Film Archive'};
+  brattle:'Brattle Theatre',hfa:'Harvard Film Archive',apple:'Apple Cinemas Cambridge',
+  arsenal:'Majestic 7 at Arsenal Yards'};
 const ALL_TABS=['concerts','dance','movies'];
 let DATA={},META={},currentTab='concerts',movieFilter='all';
 
