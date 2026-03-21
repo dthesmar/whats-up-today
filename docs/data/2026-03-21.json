@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-21T11:05:51.000788",
+  "scraped_at": "2026-03-21T13:47:59.351139",
   "date": "2026-03-21"
  },
  "data": {
@@ -41,14 +41,13 @@
      "2:00 PM",
      "6:00 PM",
      "9:45 PM",
-     "11:30 AM",
      "3:20 PM",
      "7:00 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM",
      "4:00 PM",
-     "7:45 PM"
+     "7:45 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -62,7 +61,6 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "12:30 PM",
      "3:30 PM",
      "6:30 PM",
      "9:30 PM"
@@ -78,7 +76,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:00 PM",
      "4:30 PM"
     ],
@@ -93,7 +90,6 @@
     "title": "Tow (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:15 PM",
      "5:00 PM",
      "7:45 PM",
@@ -110,9 +106,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
-     "12:00 PM",
-     "1:00 PM",
      "4:00 PM",
      "6:00 PM",
      "7:45 PM",
@@ -129,7 +122,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -144,9 +136,7 @@
    {
     "title": "Slanted (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/slanted-2026-244436/movie-overview",
@@ -171,8 +161,6 @@
     "title": "Undertone (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
-     "12:30 PM",
      "3:15 PM",
      "6:15 PM",
      "10:30 PM"
@@ -190,7 +178,6 @@
     "showtimes": [
      "1:45 PM",
      "7:15 PM",
-     "11:00 AM",
      "4:30 PM",
      "10:00 PM"
     ],
@@ -205,9 +192,7 @@
     "title": "THE BRIDE! (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
-     "7:00 PM",
-     "10:00 PM"
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -220,7 +205,6 @@
     "title": "Scream 7 (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:15 PM",
      "9:00 PM"
@@ -249,9 +233,7 @@
     "title": "GOAT (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "5:15 PM",
-     "1:15 PM",
      "2:30 PM",
      "8:00 PM",
      "10:15 PM"
@@ -306,7 +288,6 @@
     "title": "One Battle After Another (2025)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "5:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -332,9 +313,7 @@
    {
     "title": "Hubble",
     "synopsis": "",
-    "showtimes": [
-     "11:45 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hubble-132292/movie-overview",
@@ -360,9 +339,7 @@
    {
     "title": "The Metropolitan Opera: Tristan und Isolde (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/the-metropolitan-opera-tristan-und-isolde-2026-241654/movie-overview",
@@ -374,7 +351,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "1:30 PM",
      "2:10 PM",
      "3:50 PM",
@@ -444,7 +420,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:25 PM",
      "2:00 PM",
      "4:35 PM",
      "7:10 PM",
@@ -499,25 +474,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:15 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "Undertone",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
      "3:20 pm",
      "5:30 pm",
      "7:45 pm"
@@ -528,6 +487,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-6-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "BEAT THE LOTTO",
@@ -576,10 +549,10 @@
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
      "2:20 pm",
      "4:45 pm",
      "7:00 pm",
+     "12:00 pm",
      "7:10 pm"
     ],
     "theater": "Capitol Theatre",
@@ -588,34 +561,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "GOAT",
-    "synopsis": "",
-    "showtimes": [
-     "12:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/goat/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/01/unnamed-file-8-600x1067.jpg"
-   },
-   {
-    "title": "Reminders of Him",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "Sir\u00e2t",
@@ -632,6 +577,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/Sirat-Final-Poster-27x40-1-600x869.jpg"
+   },
+   {
+    "title": "Reminders of Him",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "One Battle After Another",
@@ -817,19 +776,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/rev-1-OBAA-00364245-2_High_Res_JPEG.jpg"
    },
    {
-    "title": "I Hate It Here (Midnight Shorts)",
-    "synopsis": "Presented by BUFF!",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-hate-it-here-midnight-shorts",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Metanoia%20Still.jpg"
-   },
-   {
     "title": "Exorcist II: The Heretic",
     "synopsis": "See it before, or after, watching Boorman and the Devil at BUFF!",
     "showtimes": [
@@ -841,6 +787,19 @@
     "rating": "",
     "runtime": "1hr 57mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Exorcist_II_1977_5%20copy.jpg"
+   },
+   {
+    "title": "I Hate It Here (Midnight Shorts)",
+    "synopsis": "Presented by BUFF!",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/i-hate-it-here-midnight-shorts",
+    "rating": "",
+    "runtime": "1hr 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Metanoia%20Still.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -1052,6 +1011,93 @@
     "theater": "Classical Music (Boston)",
     "address": "University Lutheran Church, 66 Winthrop St., in Cambridge",
     "url": "https://orianaconsort.org/upcoming-concerts/spring2026cambridge",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "The Beehive": [
+   {
+    "title": "Evil Gal Blues Brunch-Michelle Wilson",
+    "synopsis": "Evil Gal Michelle Wilson wakes us all up early with passionate and gritty vocals and blues. What a way to start the day!",
+    "showtimes": [
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Naya Trio-Early Music",
+    "synopsis": "Nathan Sabanayagam is a multidimensional and deep presence in the reggae/fusion world. He is a drummer, composer, band leader, and most importantly a producer to too many of the great musicians coming from the Kingston Jamaica. Nathan is at the center and always brings creative veteran players. This will be exciting",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "Scullers Jazz Club": [
+   {
+    "title": "DONNA BYRNE",
+    "synopsis": "",
+    "showtimes": [
+     "One Show at 7pm"
+    ],
+    "theater": "Scullers Jazz Club",
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://www.ticketweb.com/event/donna-byrne-scullers-jazz-club-tickets/14728733?pl=scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2025/12/2025-12-27T15-45-20_donna%20byrne%202026_2-StandardPoster.jpg"
+   }
+  ],
+  "Regattabar": [
+   {
+    "title": "The John Scofield Trio",
+    "synopsis": "Featuring Vicente Archer & Bill Stewart",
+    "showtimes": [
+     "7:30 PM (Sold Out)"
+    ],
+    "theater": "Regattabar",
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/13/33/04/23_Listings.jpg?v=3"
+   },
+   {
+    "title": "The John Scofield Trio",
+    "synopsis": "Featuring Vicente Archer & Bill Stewart",
+    "showtimes": [
+     "9:30 PM (Sold Out)"
+    ],
+    "theater": "Regattabar",
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/13/33/04/23_Listings.jpg?v=3"
+   }
+  ],
+  "Wally's Cafe Jazz Club": [
+   {
+    "title": "Jazz Night \u2014 Saturday",
+    "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
+    "showtimes": [
+     "7:00 PM (Jam)",
+     "10:00 PM (Sets)"
+    ],
+    "theater": "Wally's Cafe Jazz Club",
+    "address": "427 Massachusetts Ave, Boston, MA",
+    "url": "https://wallyscafe.com/live-music-schedule/",
     "rating": "",
     "runtime": "",
     "poster": ""

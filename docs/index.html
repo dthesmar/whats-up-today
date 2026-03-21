@@ -52,7 +52,7 @@
   </div>
   <!-- Tabs -->
   <div class="max-w-xl mx-auto px-4 pt-3 flex gap-1">
-    <span class="tab active"   id="tab-classical" onclick="setTab('classical')">Classical</span>
+    <span class="tab active"   id="tab-concerts"  onclick="setTab('concerts')">Concerts</span>
     <span class="tab inactive" id="tab-dance"     onclick="setTab('dance')">Ballet & Dance</span>
     <span class="tab inactive" id="tab-movies"    onclick="setTab('movies')">Movies</span>
   </div>
@@ -72,13 +72,13 @@
 <div id="root" class="max-w-xl mx-auto px-4 pt-4 pb-10"></div>
 
 <script>
-const CLASSICAL_KEY='Classical Music (Boston)';
+const CONCERT_KEYS=['Classical Music (Boston)','The Beehive','Scullers Jazz Club','Regattabar',"Wally's Cafe Jazz Club"];
 const DANCE_KEYS=['Boston Ballet','Dance & Ballet (Boston)'];
 const MOVIE_PILLS={all:'',amc:'AMC Boston Common 19',kendall:'Kendall Square Cinema',
   somerville:'Somerville Theatre',capitol:'Capitol Theatre',coolidge:'Coolidge Corner Theatre',
   brattle:'Brattle Theatre',hfa:'Harvard Film Archive'};
-const ALL_TABS=['classical','dance','movies'];
-let DATA={},META={},currentTab='classical',movieFilter='all';
+const ALL_TABS=['concerts','dance','movies'];
+let DATA={},META={},currentTab='concerts',movieFilter='all';
 
 function todayISO(){
   // Use Eastern time for "today"
@@ -205,10 +205,12 @@ function renderCard(theater, movies, cardType){
 
 function render(){
   let html='';
-  if(currentTab==='classical'){
-    const cm=DATA[CLASSICAL_KEY];
-    if(cm) html+=renderCard(CLASSICAL_KEY,cm,'music');
-    else html='<p class="text-slate-500 text-center py-16">No classical music data.</p>';
+  if(currentTab==='concerts'){
+    for(const key of CONCERT_KEYS){
+      const d=DATA[key];
+      if(d) html+=renderCard(key,d,'music');
+    }
+    if(!html) html='<p class="text-slate-500 text-center py-16">No concert data.</p>';
   }else if(currentTab==='dance'){
     for(const key of DANCE_KEYS){
       const d=DATA[key];
@@ -217,7 +219,7 @@ function render(){
     if(!html) html='<p class="text-slate-500 text-center py-16">No dance data.</p>';
   }else{
     for(const [theater,movies] of Object.entries(DATA)){
-      if(theater===CLASSICAL_KEY||DANCE_KEYS.includes(theater)) continue;
+      if(CONCERT_KEYS.includes(theater)||DANCE_KEYS.includes(theater)) continue;
       if(movieFilter!=='all'&&MOVIE_PILLS[movieFilter]!==theater) continue;
       html+=renderCard(theater,movies,'movie');
     }
