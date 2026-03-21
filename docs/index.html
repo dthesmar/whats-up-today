@@ -206,6 +206,68 @@ function renderCard(theater, movies, cardType){
   return html;
 }
 
+// Group movies by title across all theaters, sorted by total showtime count desc
+function getMoviesByTitle(){
+  const map={};
+  for(const [theater,movies] of Object.entries(DATA)){
+    if(CONCERT_KEYS.includes(theater)||DANCE_KEYS.includes(theater)) continue;
+    if(movieFilter!=='all'&&MOVIE_PILLS[movieFilter]!==theater) continue;
+    for(const m of movies){
+      if(!m.title||m.error) continue;
+      const key=m.title.trim().toLowerCase();
+      if(!map[key]) map[key]={title:m.title,synopsis:m.synopsis||'',rating:m.rating||'',runtime:m.runtime||'',poster:m.poster||'',url:m.url||'',theaters:[], totalTimes:0};
+      // Prefer longer synopsis, poster, rating, runtime
+      const rec=map[key];
+      if(m.synopsis&&m.synopsis.length>(rec.synopsis||'').length) rec.synopsis=m.synopsis;
+      if(m.poster&&!rec.poster) rec.poster=m.poster;
+      if(m.rating&&!rec.rating) rec.rating=m.rating;
+      if(m.runtime&&!rec.runtime) rec.runtime=m.runtime;
+      if(m.url&&!rec.url) rec.url=m.url;
+      const times=m.showtimes||[];
+      rec.theaters.push({name:theater,showtimes:times,url:m.url||''});
+      rec.totalTimes+=times.length;
+    }
+  }
+  return Object.values(map).sort((a,b)=>b.totalTimes-a.totalTimes);
+}
+
+function renderMovieCard(movie){
+  const id='x'+Math.random().toString(36).slice(2);
+  const longSyn=movie.synopsis&&movie.synopsis.length>130;
+  const shortSyn=longSyn?movie.synopsis.slice(0,130)+'\u2026':movie.synopsis;
+  let html=`<div class="card">
+    <div class="card-hdr">
+      <div class="flex items-start gap-3">
+        ${movie.poster?`<img class="poster" src="${esc(movie.poster)}" loading="lazy" onerror="this.style.display='none'" alt="">`:
+          `<div class="poster flex items-center justify-center text-2xl">\u{1F39E}</div>`}
+        <div class="flex-1 min-w-0">
+          <h2 class="font-bold text-white text-base leading-snug">${esc(movie.title)}</h2>
+          <div class="mt-0.5 flex flex-wrap gap-0.5">
+            ${movie.rating?`<span class="badge">${esc(movie.rating)}</span>`:''}
+            ${movie.runtime?`<span class="badge">${esc(movie.runtime)}</span>`:''}
+            <span class="badge">${movie.totalTimes} showtime${movie.totalTimes!==1?'s':''}</span>
+          </div>
+          ${movie.synopsis?`<p class="text-slate-400 text-xs mt-1.5 leading-relaxed">
+            <span id="${id}s">${esc(shortSyn)}</span>
+            <span id="${id}f" style="display:none">${esc(movie.synopsis)}</span>
+            ${longSyn?`<span class="more-btn" onclick="expand('${id}',this)">more</span>`:''}
+          </p>`:''}
+        </div>
+      </div>
+    </div>`;
+  for(const t of movie.theaters){
+    html+=`<div class="px-4 py-2.5 border-t border-slate-800">
+      <div class="flex items-start justify-between gap-2">
+        <span class="text-slate-400 text-xs font-semibold shrink-0 mt-0.5" style="min-width:90px">${esc(t.name)}</span>
+        <div class="flex-1 flex flex-wrap justify-end">${t.showtimes.map(s=>`<span class="chip">${esc(s)}</span>`).join('')}</div>
+      </div>
+    </div>`;
+  }
+  if(movie.url) html+=`<div class="px-4 py-2 border-t border-slate-800"><a href="${esc(movie.url)}" target="_blank" rel="noopener" class="text-amber-400 text-xs hover:underline">Tickets / Details \u2192</a></div>`;
+  html+='</div>';
+  return html;
+}
+
 function render(){
   let html='';
   if(currentTab==='concerts'){
@@ -221,10 +283,9 @@ function render(){
     }
     if(!html) html='<p class="text-slate-500 text-center py-16">No dance data.</p>';
   }else{
-    for(const [theater,movies] of Object.entries(DATA)){
-      if(CONCERT_KEYS.includes(theater)||DANCE_KEYS.includes(theater)) continue;
-      if(movieFilter!=='all'&&MOVIE_PILLS[movieFilter]!==theater) continue;
-      html+=renderCard(theater,movies,'movie');
+    const grouped=getMoviesByTitle();
+    for(const movie of grouped){
+      html+=renderMovieCard(movie);
     }
   }
   document.getElementById('root').innerHTML=html||'<p class="text-slate-500 text-center py-16">No results.</p>';
