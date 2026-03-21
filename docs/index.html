@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>What's Up Today</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root{color-scheme:dark}
+    body{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text',Helvetica,sans-serif}
+    .chip{display:inline-block;background:#1e293b;color:#93c5fd;border:1px solid #2563eb44;border-radius:20px;padding:3px 11px;font-size:.73rem;font-variant-numeric:tabular-nums;margin:2px 3px 0 0;white-space:nowrap;font-weight:600}
+    .pill{display:inline-flex;align-items:center;padding:4px 13px;border-radius:99px;font-size:.72rem;font-weight:600;cursor:pointer;white-space:nowrap;transition:all .15s;user-select:none}
+    .pill.active{background:#f59e0b;color:#1c1917}
+    .pill.inactive{background:#1e293b;color:#94a3b8}
+    .tab{padding:7px 18px;border-radius:10px 10px 0 0;font-size:.82rem;font-weight:700;cursor:pointer;transition:all .15s;user-select:none;border:1px solid transparent;border-bottom:none}
+    .tab.active{background:#0f172a;color:#f59e0b;border-color:#1e293b}
+    .tab.inactive{background:#020617;color:#64748b}
+    .spinner{border:3px solid rgba(255,255,255,.12);border-top-color:#f59e0b;border-radius:50%;width:34px;height:34px;animation:spin .8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .card{background:#0f172a;border:1px solid #1e293b;border-radius:16px;overflow:hidden;margin-bottom:20px}
+    .card-hdr{background:linear-gradient(135deg,#0f1f3b 0%,#1e3a5f 100%);padding:13px 16px}
+    .card-hdr-music{background:linear-gradient(135deg,#1f0f3b 0%,#3b1e5f 100%);padding:13px 16px}
+    .card-hdr-dance{background:linear-gradient(135deg,#2d0f1f 0%,#5f1e3b 100%);padding:13px 16px}
+    .movie-row{padding:14px 16px;border-top:1px solid #1e293b;display:flex;gap:12px}
+    .poster{width:58px;height:84px;object-fit:cover;border-radius:7px;flex-shrink:0;background:#1e293b}
+    .badge{display:inline-block;padding:1px 6px;border-radius:4px;font-size:.64rem;font-weight:700;background:#1e293b;color:#64748b;margin-right:4px}
+    .more-btn{color:#f59e0b;font-size:.75rem;cursor:pointer;margin-left:2px}
+    .date-input{background:#1e293b;color:#e2e8f0;border:1px solid #334155;border-radius:8px;padding:3px 8px;font-size:.75rem;font-family:inherit;cursor:pointer}
+    .date-input::-webkit-calendar-picker-indicator{filter:invert(0.7)}
+    .freshness{font-size:.65rem;color:#64748b;margin-top:2px}
+    .freshness.stale{color:#f59e0b}
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+
+<div class="sticky top-0 z-50 bg-slate-950/95 backdrop-blur border-b border-slate-800">
+  <div class="max-w-xl mx-auto px-4 pt-4 pb-2">
+    <div class="flex items-start justify-between">
+      <div>
+        <h1 class="text-lg font-bold tracking-tight leading-tight">What's Up Today</h1>
+        <div class="flex items-center gap-2 mt-1">
+          <input type="date" id="date-picker" class="date-input" onchange="changeDate(this.value)">
+          <button onclick="jumpDate(-1)" class="text-slate-400 text-xs px-1.5 py-0.5 rounded border border-slate-700 hover:text-white">&larr;</button>
+          <button onclick="jumpDate(0)" class="text-slate-400 text-xs px-1.5 py-0.5 rounded border border-slate-700 hover:text-white">Today</button>
+          <button onclick="jumpDate(1)" class="text-slate-400 text-xs px-1.5 py-0.5 rounded border border-slate-700 hover:text-white">&rarr;</button>
+        </div>
+        <div id="freshness" class="freshness"></div>
+      </div>
+    </div>
+  </div>
+  <!-- Tabs -->
+  <div class="max-w-xl mx-auto px-4 pt-3 flex gap-1">
+    <span class="tab active"   id="tab-classical" onclick="setTab('classical')">Classical</span>
+    <span class="tab inactive" id="tab-dance"     onclick="setTab('dance')">Ballet & Dance</span>
+    <span class="tab inactive" id="tab-movies"    onclick="setTab('movies')">Movies</span>
+  </div>
+  <!-- Movie sub-filters -->
+  <div id="movie-filters" class="max-w-xl mx-auto px-4 py-2 flex gap-2 overflow-x-auto border-t border-slate-800" style="display:none;scrollbar-width:none">
+    <span class="pill active"   id="f-all"        onclick="setFilter('all')">All Theaters</span>
+    <span class="pill inactive" id="f-amc"        onclick="setFilter('amc')">AMC</span>
+    <span class="pill inactive" id="f-kendall"    onclick="setFilter('kendall')">Kendall</span>
+    <span class="pill inactive" id="f-somerville" onclick="setFilter('somerville')">Somerville</span>
+    <span class="pill inactive" id="f-capitol"    onclick="setFilter('capitol')">Capitol</span>
+    <span class="pill inactive" id="f-coolidge"   onclick="setFilter('coolidge')">Coolidge</span>
+    <span class="pill inactive" id="f-brattle"    onclick="setFilter('brattle')">Brattle</span>
+    <span class="pill inactive" id="f-hfa"        onclick="setFilter('hfa')">HFA</span>
+  </div>
+</div>
+
+<div id="root" class="max-w-xl mx-auto px-4 pt-4 pb-10"></div>
+
+<script>
+const CLASSICAL_KEY='Classical Music (Boston)';
+const DANCE_KEYS=['Boston Ballet','Dance & Ballet (Boston)'];
+const MOVIE_PILLS={all:'',amc:'AMC Boston Common 19',kendall:'Kendall Square Cinema',
+  somerville:'Somerville Theatre',capitol:'Capitol Theatre',coolidge:'Coolidge Corner Theatre',
+  brattle:'Brattle Theatre',hfa:'Harvard Film Archive'};
+const ALL_TABS=['classical','dance','movies'];
+let DATA={},META={},currentTab='classical',movieFilter='all';
+
+function todayISO(){
+  // Use Eastern time for "today"
+  return new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});
+}
+let selectedDate=todayISO();
+const dp=document.getElementById('date-picker');
+dp.value=selectedDate;
+
+function changeDate(iso){
+  selectedDate=iso;
+  dp.value=iso;
+  reload();
+}
+function jumpDate(offset){
+  if(offset===0){changeDate(todayISO());return}
+  const d=new Date(selectedDate+'T12:00:00');
+  d.setDate(d.getDate()+offset);
+  changeDate(d.toISOString().slice(0,10));
+}
+
+function setTab(tab){
+  currentTab=tab;
+  ALL_TABS.forEach(t=>{
+    document.getElementById('tab-'+t).className='tab '+(t===tab?'active':'inactive');
+  });
+  document.getElementById('movie-filters').style.display=tab==='movies'?'flex':'none';
+  render();
+}
+
+function setFilter(key){
+  movieFilter=key;
+  Object.keys(MOVIE_PILLS).forEach(k=>{
+    document.getElementById('f-'+k).className='pill '+(k===key?'active':'inactive');
+  });
+  render();
+}
+
+const LOADING=`<div class="flex flex-col items-center py-24 gap-4">
+  <div class="spinner"></div>
+  <p class="text-slate-400 text-sm">Loading data&hellip;</p>
+</div>`;
+
+function showFreshness(){
+  const el=document.getElementById('freshness');
+  if(!META.scraped_at){el.textContent='';return}
+  const scraped=new Date(META.scraped_at);
+  const mins=Math.round((Date.now()-scraped)/60000);
+  if(mins<2) el.textContent='Data just refreshed';
+  else if(mins<60) el.textContent=`Updated ${mins} min ago`;
+  else if(mins<1440) el.textContent=`Updated ${Math.round(mins/60)}h ago`;
+  else el.textContent=`Updated ${Math.round(mins/1440)}d ago`;
+  el.className=mins>120?'freshness stale':'freshness';
+}
+
+async function reload(){
+  document.getElementById('root').innerHTML=LOADING;
+  try{
+    const r=await fetch('data/'+selectedDate+'.json');
+    if(!r.ok) throw new Error('No data for this date yet');
+    const json=await r.json();
+    DATA=json.data||json;
+    META=json.meta||{};
+    showFreshness();
+    render();
+  }catch(e){
+    document.getElementById('root').innerHTML=
+      `<p class="text-slate-500 text-center py-16">No data available for this date.<br>
+       <small class="text-slate-600 mt-2 block">Data is refreshed hourly from home base.</small></p>`;
+    document.getElementById('freshness').textContent='';
+  }
+}
+
+function renderCard(theater, movies, cardType){
+  const valid=movies.filter(m=>m.title&&!m.error);
+  const err=movies.find(m=>m.error);
+  const hdrClass=cardType==='dance'?'card-hdr-dance':cardType==='music'?'card-hdr-music':'card-hdr';
+  const icon=cardType==='dance'?'\u{1FA70}':cardType==='music'?'\u{1F3B5}':'\u{1F39E}';
+  let html=`<div class="card">
+    <div class="${hdrClass}">
+      <div class="flex items-start justify-between">
+        <div>
+          <h2 class="font-bold text-white text-base leading-snug">${esc(theater)}</h2>
+          <p class="text-slate-400 text-xs mt-0.5">${esc(movies[0]?.address||'')}</p>
+        </div>
+        <span class="text-slate-500 text-xs mt-0.5 shrink-0 ml-2">${valid.length} event${valid.length!==1?'s':''}</span>
+      </div>
+    </div>`;
+  if(err&&!valid.length){
+    const link=err.url?`<a href="${esc(err.url)}" target="_blank" rel="noopener" class="text-amber-400 underline text-xs ml-1">Open \u2192</a>`:'';
+    html+=`<div class="px-4 py-3 text-amber-400 text-sm leading-relaxed">${esc(err.error)}${link}</div>`;
+  }else if(!valid.length){
+    html+=`<div class="px-4 py-3 text-slate-500 text-sm italic">Nothing scheduled.</div>`;
+  }else{
+    for(const m of valid){
+      const id='x'+Math.random().toString(36).slice(2);
+      const longSyn=m.synopsis&&m.synopsis.length>130;
+      const shortSyn=longSyn?m.synopsis.slice(0,130)+'\u2026':m.synopsis;
+      html+=`<div class="movie-row">
+        ${m.poster?`<img class="poster" src="${esc(m.poster)}" loading="lazy" onerror="this.style.display='none'" alt="">`:
+          `<div class="poster flex items-center justify-center text-2xl">${icon}</div>`}
+        <div class="flex-1 min-w-0">
+          <h3 class="font-semibold text-white leading-snug">${esc(m.title)}</h3>
+          <div class="mt-0.5 flex flex-wrap gap-0.5">
+            ${m.rating?`<span class="badge">${esc(m.rating)}</span>`:''}
+            ${m.runtime?`<span class="badge">${esc(m.runtime)}</span>`:''}
+          </div>
+          ${m.synopsis?`<p class="text-slate-400 text-sm mt-1.5 leading-relaxed">
+            <span id="${id}s">${esc(shortSyn)}</span>
+            <span id="${id}f" style="display:none">${esc(m.synopsis)}</span>
+            ${longSyn?`<span class="more-btn" onclick="expand('${id}',this)">more</span>`:''}
+          </p>`:''}
+          ${m.showtimes?.length
+            ?`<div class="mt-2">${m.showtimes.map(t=>`<span class="chip">${esc(t)}</span>`).join('')}</div>`
+            :`<p class="text-slate-600 text-xs mt-2 italic">No times listed</p>`}
+          ${m.url?`<a href="${esc(m.url)}" target="_blank" rel="noopener" class="text-amber-400 text-xs mt-2 inline-block hover:underline">Tickets / Details \u2192</a>`:''}
+        </div>
+      </div>`;
+    }
+  }
+  html+='</div>';
+  return html;
+}
+
+function render(){
+  let html='';
+  if(currentTab==='classical'){
+    const cm=DATA[CLASSICAL_KEY];
+    if(cm) html+=renderCard(CLASSICAL_KEY,cm,'music');
+    else html='<p class="text-slate-500 text-center py-16">No classical music data.</p>';
+  }else if(currentTab==='dance'){
+    for(const key of DANCE_KEYS){
+      const d=DATA[key];
+      if(d) html+=renderCard(key,d,'dance');
+    }
+    if(!html) html='<p class="text-slate-500 text-center py-16">No dance data.</p>';
+  }else{
+    for(const [theater,movies] of Object.entries(DATA)){
+      if(theater===CLASSICAL_KEY||DANCE_KEYS.includes(theater)) continue;
+      if(movieFilter!=='all'&&MOVIE_PILLS[movieFilter]!==theater) continue;
+      html+=renderCard(theater,movies,'movie');
+    }
+  }
+  document.getElementById('root').innerHTML=html||'<p class="text-slate-500 text-center py-16">No results.</p>';
+}
+
+function expand(id,btn){
+  document.getElementById(id+'s').style.display='none';
+  document.getElementById(id+'f').style.display='inline';
+  btn.style.display='none';
+}
+function esc(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+reload();
+</script>
+</body>
+</html>
