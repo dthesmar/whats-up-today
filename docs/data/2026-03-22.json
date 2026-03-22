@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T11:20:46.606989",
+  "scraped_at": "2026-03-22T12:51:11.712721",
   "date": "2026-03-22"
  },
  "data": {
@@ -54,7 +54,6 @@
      "2:00 PM",
      "6:00 PM",
      "9:45 PM",
-     "11:30 AM",
      "3:20 PM",
      "7:00 PM",
      "12:30 PM",
@@ -91,7 +90,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:00 PM",
      "4:30 PM"
     ],
@@ -106,7 +104,6 @@
     "title": "Tow (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM",
@@ -123,8 +120,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
-     "12:00 PM",
      "2:00 PM",
      "3:30 PM",
      "7:00 PM",
@@ -157,9 +152,7 @@
    {
     "title": "Slanted (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:00 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/slanted-2026-244436/movie-overview",
@@ -184,7 +177,6 @@
     "title": "Undertone (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "2:15 PM",
      "4:00 PM",
      "6:45 PM",
@@ -261,7 +253,6 @@
     "title": "GOAT (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "5:15 PM",
      "1:30 PM",
      "8:00 PM"
@@ -346,7 +337,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "1:30 PM",
      "2:10 PM",
      "2:50 PM",
@@ -412,7 +402,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:25 PM",
      "2:00 PM",
      "4:35 PM",
      "7:10 PM"
@@ -566,36 +555,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "2:20 pm",
-     "4:45 pm",
-     "7:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "GOAT",
-    "synopsis": "",
-    "showtimes": [
-     "12:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/goat/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/01/unnamed-file-8-600x1067.jpg"
-   },
-   {
     "title": "Reminders of Him",
     "synopsis": "",
     "showtimes": [
@@ -609,6 +568,23 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "2:20 pm",
+     "4:45 pm",
+     "7:00 pm",
+     "12:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "Sir\u00e2t",
@@ -713,19 +689,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/FN_104%20copy.jpg"
    },
    {
-    "title": "Mirrors No. 3",
-    "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mirrors-no-3",
-    "rating": "",
-    "runtime": "1hr 26mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
-   },
-   {
     "title": "The Lord of the Rings Trilogy",
     "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
     "showtimes": [
@@ -737,6 +700,19 @@
     "rating": "",
     "runtime": "12hrs 45mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
+   },
+   {
+    "title": "Mirrors No. 3",
+    "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mirrors-no-3",
+    "rating": "",
+    "runtime": "1hr 26mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
    },
    {
     "title": "Undertone (2026)",
@@ -944,8 +920,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
-     "12:00 PM",
      "2:30 PM",
      "3:30 PM",
      "6:00 PM",
@@ -964,7 +938,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:00 PM",
      "4:30 PM",
      "7:00 PM",
@@ -981,7 +954,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "1:50 PM",
      "4:00 PM"
     ],
@@ -996,7 +968,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM",
      "4:00 PM",
      "9:00 PM",
@@ -1040,7 +1011,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -1070,7 +1040,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:20 PM",
      "3:40 PM",
      "6:30 PM",
@@ -1087,7 +1056,6 @@
     "title": "Peaky Blinders: The Immortal Man (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:00 PM",
      "4:30 PM",
      "7:00 PM",
@@ -1104,7 +1072,6 @@
     "title": "GOAT (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "4:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
