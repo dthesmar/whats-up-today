@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T17:37:38.373392",
+  "scraped_at": "2026-03-22T18:37:48.780928",
   "date": "2026-03-22"
  },
  "data": {
@@ -47,7 +47,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:45 PM",
      "7:00 PM",
      "8:30 PM",
@@ -200,7 +199,6 @@
     "title": "Scream 7 (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -213,9 +211,7 @@
    {
     "title": "Crime 101 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/crime-101-2026-243135/movie-overview",
@@ -227,7 +223,6 @@
     "title": "GOAT (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -275,9 +270,7 @@
    {
     "title": "One Battle After Another (2025)",
     "synopsis": "",
-    "showtimes": [
-     "5:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/one-battle-after-another-2025-241516/movie-overview",
@@ -304,8 +297,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
-     "6:05 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -630,19 +621,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/FN_104%20copy.jpg"
    },
    {
-    "title": "Mirrors No. 3",
-    "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mirrors-no-3",
-    "rating": "",
-    "runtime": "1hr 26mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
-   },
-   {
     "title": "The Lord of the Rings Trilogy",
     "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
     "showtimes": [
@@ -654,6 +632,19 @@
     "rating": "",
     "runtime": "12hrs 45mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
+   },
+   {
+    "title": "Mirrors No. 3",
+    "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mirrors-no-3",
+    "rating": "",
+    "runtime": "1hr 26mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
    },
    {
     "title": "Undertone (2026)",
@@ -861,7 +852,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "6:45 PM",
      "9:30 PM",
      "10:00 PM"
@@ -916,9 +906,7 @@
    {
     "title": "Ustaad Bhagat Singh (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:10 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/ustaad-bhagat-singh-2026-244706/movie-overview",
@@ -929,9 +917,7 @@
    {
     "title": "Wardriver (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/wardriver-2026-244791/movie-overview",
