@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T15:13:32.631527",
+  "scraped_at": "2026-03-22T16:37:30.518971",
   "date": "2026-03-22"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Food Truck: Stolen Love... and Moo Deng (2025)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:00 PM",
      "9:45 PM"
     ],
@@ -36,9 +35,7 @@
    {
     "title": "Rad 40th Anniversary",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/rad-40th-anniversary-244284/movie-overview",
@@ -52,11 +49,9 @@
     "showtimes": [
      "6:00 PM",
      "9:45 PM",
-     "3:20 PM",
      "7:00 PM",
      "4:30 PM",
      "8:30 PM",
-     "4:00 PM",
      "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -71,7 +66,6 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -114,7 +108,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "7:00 PM",
      "8:00 PM",
      "9:00 PM"
@@ -130,7 +123,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -169,7 +161,6 @@
     "title": "Undertone (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:30 PM",
      "10:30 PM"
@@ -214,7 +205,6 @@
     "title": "Scream 7 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:00 PM",
      "9:00 PM"
     ],
@@ -320,7 +310,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "4:50 PM",
      "5:30 PM",
      "6:05 PM",
@@ -365,7 +354,6 @@
     "title": "Undertone (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:55 PM",
      "5:05 PM",
      "7:20 PM"
     ],
@@ -406,9 +394,7 @@
    {
     "title": "Oscar Nominated Animated Shorts",
     "synopsis": "",
-    "showtimes": [
-     "4:10 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/oscar-nominated-animated-shorts-96705/movie-overview",
@@ -433,7 +419,6 @@
     "title": "Undertone",
     "synopsis": "",
     "showtimes": [
-     "3:20 pm",
      "5:30 pm",
      "7:45 pm"
     ],
@@ -448,7 +433,6 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -528,20 +512,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Reminders of Him",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -585,6 +555,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-9-600x889.jpg"
+   },
+   {
+    "title": "Reminders of Him",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "The President\u2019s Cake",
@@ -660,19 +643,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/FN_104%20copy.jpg"
    },
    {
-    "title": "The Lord of the Rings Trilogy",
-    "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/LOTR",
-    "rating": "",
-    "runtime": "12hrs 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
-   },
-   {
     "title": "Mirrors No. 3",
     "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
     "showtimes": [
@@ -684,6 +654,19 @@
     "rating": "",
     "runtime": "1hr 26mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
+   },
+   {
+    "title": "The Lord of the Rings Trilogy",
+    "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/LOTR",
+    "rating": "",
+    "runtime": "12hrs 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
    },
    {
     "title": "Undertone (2026)",
@@ -891,7 +874,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:00 PM",
      "6:45 PM",
      "9:30 PM",
@@ -922,9 +904,7 @@
    {
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-pout-pout-fish-2026-243069/movie-overview",
@@ -936,7 +916,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "9:00 PM",
      "9:05 PM",
      "9:20 PM"
@@ -978,7 +957,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -1006,7 +984,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:40 PM",
      "6:30 PM",
      "9:15 PM"
     ],
