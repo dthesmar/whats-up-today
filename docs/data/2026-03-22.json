@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T13:51:27.449756",
+  "scraped_at": "2026-03-22T15:13:32.631527",
   "date": "2026-03-22"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Food Truck: Stolen Love... and Moo Deng (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:40 PM",
      "4:15 PM",
      "7:00 PM",
      "9:45 PM"
@@ -51,7 +50,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "6:00 PM",
      "9:45 PM",
      "3:20 PM",
@@ -88,7 +86,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -104,8 +101,7 @@
     "showtimes": [
      "5:00 PM",
      "7:45 PM",
-     "10:30 PM",
-     "2:15 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -118,7 +114,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "3:30 PM",
      "7:00 PM",
      "8:00 PM",
@@ -174,7 +169,6 @@
     "title": "Undertone (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "4:00 PM",
      "6:45 PM",
      "9:30 PM",
@@ -261,9 +255,7 @@
    {
     "title": "Wuthering Heights (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/wuthering-heights-2026-243497/movie-overview",
@@ -287,9 +279,7 @@
    {
     "title": "Hamnet (2025)",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hamnet-2025-240608/movie-overview",
@@ -330,8 +320,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:10 PM",
-     "2:50 PM",
      "3:50 PM",
      "4:50 PM",
      "5:30 PM",
@@ -349,7 +337,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:40 PM",
      "4:20 PM",
      "7:00 PM"
     ],
@@ -364,7 +351,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:30 PM",
      "7:15 PM"
     ],
@@ -394,7 +380,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:35 PM",
      "7:10 PM"
     ],
@@ -543,13 +528,27 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Reminders of Him",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
+   },
+   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "2:20 pm",
      "4:45 pm",
      "7:00 pm",
      "12:00 pm",
+     "2:20 pm",
      "7:10 pm"
     ],
     "theater": "Capitol Theatre",
@@ -563,7 +562,6 @@
     "title": "Sir\u00e2t",
     "synopsis": "",
     "showtimes": [
-     "2:40 pm",
      "5:15 pm",
      "7:45 pm",
      "7:00 pm"
@@ -574,20 +572,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/Sirat-Final-Poster-27x40-1-600x869.jpg"
-   },
-   {
-    "title": "Reminders of Him",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "One Battle After Another",
@@ -907,7 +891,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "3:30 PM",
      "6:00 PM",
      "6:45 PM",
@@ -925,7 +908,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM",
      "7:00 PM",
      "9:30 PM"
@@ -941,7 +923,6 @@
     "title": "The Pout-Pout Fish (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -955,7 +936,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:00 PM",
      "9:00 PM",
      "9:05 PM",
@@ -1041,7 +1021,6 @@
     "title": "Peaky Blinders: The Immortal Man (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM",
      "7:00 PM",
      "9:30 PM"
