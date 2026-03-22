@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T12:51:11.712721",
+  "scraped_at": "2026-03-22T13:51:27.449756",
   "date": "2026-03-22"
  },
  "data": {
@@ -56,7 +56,6 @@
      "9:45 PM",
      "3:20 PM",
      "7:00 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM",
      "4:00 PM",
@@ -74,7 +73,6 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "12:30 PM",
      "3:30 PM",
      "6:30 PM",
      "9:30 PM"
@@ -137,7 +135,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -195,7 +192,6 @@
     "synopsis": "",
     "showtimes": [
      "7:45 PM",
-     "12:30 PM",
      "5:00 PM",
      "10:30 PM"
     ],
@@ -224,7 +220,6 @@
     "title": "Scream 7 (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -254,7 +249,6 @@
     "synopsis": "",
     "showtimes": [
      "5:15 PM",
-     "1:30 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -307,7 +301,6 @@
     "title": "One Battle After Another (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -337,7 +330,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "2:10 PM",
      "2:50 PM",
      "3:50 PM",
@@ -442,9 +434,7 @@
    {
     "title": "Oscar Nominated Live Action Shorts",
     "synopsis": "",
-    "showtimes": [
-     "1:10 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/oscar-nominated-live-action-shorts-114488/movie-overview",
@@ -455,25 +445,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:15 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "Undertone",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
      "3:20 pm",
      "5:30 pm",
      "7:45 pm"
@@ -484,6 +458,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-6-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "Wicked Queer: Women\u2019s Shorts \u2013 All The Ways We Love",
@@ -555,21 +543,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Reminders of Him",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -601,6 +574,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/Sirat-Final-Poster-27x40-1-600x869.jpg"
+   },
+   {
+    "title": "Reminders of Him",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/reminders-of-him/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-5-600x950.jpg"
    },
    {
     "title": "One Battle After Another",
@@ -1011,7 +998,6 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM"
@@ -1040,7 +1026,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:20 PM",
      "3:40 PM",
      "6:30 PM",
      "9:15 PM"
