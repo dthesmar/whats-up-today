@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-03-22T20:24:18.755916",
+  "scraped_at": "2026-03-22T21:35:13.541850",
   "date": "2026-03-22"
  },
  "data": {
@@ -46,8 +46,7 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:45 PM",
-     "8:30 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -97,9 +96,7 @@
    {
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
@@ -185,9 +182,7 @@
    {
     "title": "Scream 7 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/scream-7-2026-243198/movie-overview",
@@ -231,9 +226,7 @@
    {
     "title": "Avatar: Fire and Ash (2025)",
     "synopsis": "",
-    "showtimes": [
-     "8:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/avatar-fire-and-ash-2025-241479/movie-overview",
@@ -266,9 +259,7 @@
    {
     "title": "Sinners (2025)",
     "synopsis": "",
-    "showtimes": [
-     "8:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/sinners-2025-237956/movie-overview",
@@ -527,19 +518,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/FN_104%20copy.jpg"
    },
    {
-    "title": "The Lord of the Rings Trilogy",
-    "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/LOTR",
-    "rating": "",
-    "runtime": "12hrs 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
-   },
-   {
     "title": "Mirrors No. 3",
     "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
     "showtimes": [
@@ -551,6 +529,19 @@
     "rating": "",
     "runtime": "1hr 26mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
+   },
+   {
+    "title": "The Lord of the Rings Trilogy",
+    "synopsis": "Peter Jackson brings J.R.R Tolkien's Lord of the Rings from page to screen in this epic, Academy-Award winning trilogy.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/LOTR",
+    "rating": "",
+    "runtime": "12hrs 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Lord%20of%20the%20Rings%20-%20Website.png"
    },
    {
     "title": "Undertone (2026)",
@@ -796,8 +787,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM",
-     "9:05 PM",
      "9:20 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -832,9 +821,7 @@
    {
     "title": "Reminders of Him (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/reminders-of-him-2026-243076/movie-overview",
@@ -856,9 +843,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -893,9 +878,7 @@
    {
     "title": "Wuthering Heights (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/wuthering-heights-2026-243497/movie-overview",
