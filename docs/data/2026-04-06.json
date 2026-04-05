@@ -1,0 +1,783 @@
+{
+ "meta": {
+  "scraped_at": "2026-04-04T22:17:19.013556",
+  "date": "2026-04-06"
+ },
+ "data": {
+  "AMC Boston Common 19": [
+   {
+    "error": "AMC Boston Common 19: no movies found on Fandango.",
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-04-06"
+   }
+  ],
+  "Kendall Square Cinema": [
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:25 PM",
+     "6:15 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:35 PM",
+     "4:35 PM",
+     "5:00 PM",
+     "6:10 PM",
+     "7:10 PM",
+     "7:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "The AI Doc: Or How I Became an Apocaloptimist (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-ai-doc-or-how-i-became-an-apocaloptimist-2026-244550/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 44 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244550/THE_AI_DOC_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "4:45 PM",
+     "6:00 PM",
+     "7:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+   }
+  ],
+  "Somerville Theatre": [
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:10 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
+    "title": "The Drama in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "A Magnificent Life",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/a-magnificent-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-22-600x889.jpg"
+   },
+   {
+    "title": "Watching Mr. Pearson",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/watching-mr-pearson/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-10-600x889.jpg"
+   }
+  ],
+  "Capitol Theatre": [
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:10 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
+   },
+   {
+    "title": "Marc by Sofia",
+    "synopsis": "",
+    "showtimes": [
+     "5:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/marc-by-sofia/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-12-600x889.jpg"
+   },
+   {
+    "title": "Disasterpiece Theatre",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
+   }
+  ],
+  "Coolidge Corner Theatre": [
+   {
+    "title": "Project Hail Mary in 70mm",
+    "synopsis": "An unlikely friendship. An impossible mission.",
+    "showtimes": [
+     "3:30pm",
+     "7:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/project-hail-mary-70mm",
+    "rating": "",
+    "runtime": "2hrs 36mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_30245_R2_rgb.jpg"
+   },
+   {
+    "title": "Sir\u00e2t (2025)",
+    "synopsis": "A father, accompanied by his son, goes looking for his missing daughter in North Africa.",
+    "showtimes": [
+     "3:45pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/sirat-2025",
+    "rating": "",
+    "runtime": "1hr 55mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1761323231-sirat_still_01_courtesyofneon-1.jpeg"
+   },
+   {
+    "title": "Days and Nights in the Forest (4K Restoration)",
+    "synopsis": "New 4K restoration of Satyajit Ray\u2019s folkloric romance.",
+    "showtimes": [
+     "4:00pm",
+     "6:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/days-and-nights-forest-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 55mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DaysAndNightsInForest_image_06.jpg"
+   },
+   {
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "synopsis": "A hand-made, eye-opening documentary about the most powerful technology humanity has ever created... and what\u2019s at stake if we get it wrong.",
+    "showtimes": [
+     "4:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/ai-doc-or-how-i-became-apocaloptimist",
+    "rating": "",
+    "runtime": "1hr 43mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/AI_FP_00001.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "showtimes": [
+     "4:30pm",
+     "6:30pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/drama",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "An actress (Amanda Peet) falls for the anxious law school dropout (Matthew Shear) babysitting her kids in this smart, New York-set romantic comedy.",
+    "showtimes": [
+     "4:45pm",
+     "7:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/fantasy-life",
+    "rating": "",
+    "runtime": "1hr 31mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
+   },
+   {
+    "title": "Open Endings",
+    "synopsis": "Part of the 2026 Wicked Queer Film Festival!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/open-endings",
+    "rating": "",
+    "runtime": "1hr 50mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Still%20OE_7.jpg"
+   },
+   {
+    "title": "La Strada",
+    "synopsis": "Federico Fellini's poetic fable of love and cruelty, the first-ever Academy Award-winner for Best Foreign Language Film.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/la-strada",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/La%20Strada%201%20website.jpg"
+   },
+   {
+    "title": "Mirrors No. 3",
+    "synopsis": "The new film from acclaimed director Christian Petzold (Phoenix, Transit).",
+    "showtimes": [
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mirrors-no-3",
+    "rating": "",
+    "runtime": "1hr 26mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MIROIRS%20NO.%203%2C%20Still%2001_Paula%20Beer_Foto%20Christian%20Schulz%2C%20%28c%29%20Schramm%20Film%20%28small%29.jpg"
+   },
+   {
+    "title": "Mr. Nobody Against Putin",
+    "synopsis": "Winner, Best Documentary Feature at the 2026 Academy Awards.",
+    "showtimes": [
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mr-nobody-against-putin",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PictureOfTheFilm_PavelTalankin_credit_Frantis%CC%8Cek%20Svatos%CC%8C%20_LOW.jpg"
+   }
+  ],
+  "Brattle Theatre": [
+   {
+    "title": "Blood Lines",
+    "synopsis": "Director: Gail Maurice Run Time: 89 min. Format: DCP Release Year: 2025 Language: English and Michif",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blood-lines/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12120214/8KXk2UFU0gTltS4Y118zkX9YUgN-scaled.jpg"
+   },
+   {
+    "title": "Bouchra",
+    "synopsis": "Director: Meriem Bennani, Orian Barki Run Time: 83 min. Format: DCP Release Year: 2025 Language: English, French, Arabic",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/bouchra/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12120830/69ac8cd933cee4bc2eded69a_BOUCHRA_4K_color-graded-Stereo-Mix.00_22_11_22.Still042_2LIZARDS-1-p-1600.jpg"
+   },
+   {
+    "title": "Body Blow",
+    "synopsis": "Director: Dean Francis Run Time: 99 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/body-blow/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12121104/69ae144ab4843c5a1d1a496e_BODY-BLOW_1.136.1_1-p-1080.jpg"
+   },
+   {
+    "title": "Donnie Darko",
+    "synopsis": "Director: Richard Kelly Run Time: 113 min. Format: DCP Release Year: 2001",
+    "showtimes": [
+     "9:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/donnie-darko/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/21120635/donnie-darko-edit.jpg"
+   }
+  ],
+  "Harvard Film Archive": [
+   {
+    "title": "The Shining",
+    "synopsis": "Early in The Shining, Jack Torrance (Jack Nicholson), with a rictus grin on his face, refers to his wife Wendy (Shelley Duvall) as a \u201cghost story and horror film addict.\u201d He might as well be alluding to the appetite of the film\u2019s audience and priming them for a movie that both plays into and subverts expectations of th\u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Harvard Film Archive",
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/the-shining-2026-04",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6949afee10cb0.jpg?1766436851"
+   }
+  ],
+  "Apple Cinemas Cambridge": [
+   {
+    "title": "Raakaasaa (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/raakaasaa-2026-244770/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244770/Rakasa-27x40.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "5:20 PM",
+     "7:40 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "Biker (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:20 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/biker-2026-245100/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "4 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245100/biker2026.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "6:15 PM",
+     "8:30 PM",
+     "3:00 PM",
+     "3:15 PM",
+     "4:30 PM",
+     "5:15 PM",
+     "5:30 PM",
+     "6:45 PM",
+     "7:30 PM",
+     "7:45 PM",
+     "9:15 PM",
+     "9:45 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "They Will Kill You (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "5:15 PM",
+     "7:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/they-will-kill-you-2026-244051/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 34 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244051/theywillkillyou-posterart.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "6:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Ready or Not 2: Here I Come (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "7:30 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
+   },
+   {
+    "title": "Dhurandhar: The Revenge (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "8:25 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "6:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+   }
+  ],
+  "Majestic 7 at Arsenal Yards": [
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "12:40PM",
+     "2:15PM",
+     "4:10PM",
+     "5:45PM",
+     "7:45PM",
+     "9:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM",
+     "1:30PM",
+     "4:00PM",
+     "6:30PM",
+     "9:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "11:30AM",
+     "2:00PM",
+     "4:30PM",
+     "7:00PM",
+     "9:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "11:35AM",
+     "2:10PM",
+     "4:40PM",
+     "7:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/hoppers",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:00PM",
+     "12:45PM",
+     "2:20PM",
+     "3:15PM",
+     "4:45PM",
+     "5:45PM",
+     "7:15PM",
+     "8:15PM",
+     "9:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Ready Or Not: Here I Come",
+    "synopsis": "",
+    "showtimes": [
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/ready-or-not-here-i-come",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "Classical Music (Boston)": [
+   {
+    "title": "New England Conservatory \u2013 First Monday at Jordan Hall",
+    "synopsis": "Bach (transcr. Kurt\u00e1g for piano four hands) Das alte Jahr vergangen ist, BWV 614 Duette in G-dur, BWV 804 Gottes Zeit ist die allerbeste Zeit, BWV 106 Kurt\u00e1g: Signs, Games, Messages for string trio Enescu: Impressions d\u2019enfance Stravinsky: Rite of Spring (arr. for two pianos)Donald Weilerstein, violin; Vivian Hornik We\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Jordan Hall, in Boston",
+    "url": "https://necmusic.edu/events/first-monday-at-jordan-hall-bach-kurtg-enescu-and-bartk/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "The Beehive": [
+   {
+    "title": "MONDAY NIGHT HOEDOWN",
+    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "Scullers Jazz Club": [
+   {
+    "error": "No Scullers events today.",
+    "theater": "Scullers Jazz Club",
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
+   }
+  ],
+  "Regattabar": [
+   {
+    "error": "No Regattabar events today.",
+    "theater": "Regattabar",
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+   }
+  ],
+  "Wally's Cafe Jazz Club": [
+   {
+    "title": "Blues Night \u2014 Monday",
+    "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
+    "showtimes": [
+     "7:00 PM (Jam)",
+     "10:00 PM (Sets)"
+    ],
+    "theater": "Wally's Cafe Jazz Club",
+    "address": "427 Massachusetts Ave, Boston, MA",
+    "url": "https://wallyscafe.com/live-music-schedule/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "Boston Ballet": [
+   {
+    "error": "No Boston Ballet performances today.",
+    "theater": "Boston Ballet",
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
+   }
+  ],
+  "Dance & Ballet (Boston)": [
+   {
+    "error": "No dance events found for today.",
+    "theater": "Dance & Ballet (Boston)",
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
+   }
+  ]
+ }
+}
