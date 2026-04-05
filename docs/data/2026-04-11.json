@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-05T11:12:17.744776",
+  "scraped_at": "2026-04-05T16:47:26.319028",
   "date": "2026-04-11"
  },
  "data": {
@@ -232,10 +232,19 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "No Somerville Theatre screenings found for today.",
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:15 pm"
+    ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com"
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -261,19 +270,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Davey%20the%20Clown%20new%20site.jpg"
    },
    {
-    "title": "Latinx \u2014 The Body Knows",
-    "synopsis": "Seven Latin American short films share a pulse, part of the 2026 Wicked Queer Film Festival!",
-    "showtimes": [
-     "1:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/latinx-body-knows",
-    "rating": "",
-    "runtime": "1hr 18mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Luz%20DiablaSTILL%2001.png"
-   },
-   {
     "title": "Silsila",
     "synopsis": "Silsila, a landmark of Bollywood cinema, was monumental in its day for its portrayal of transgressive love.",
     "showtimes": [
@@ -285,6 +281,19 @@
     "rating": "",
     "runtime": "3hrs 2mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/silsilia%201.jpeg"
+   },
+   {
+    "title": "Latinx \u2014 The Body Knows",
+    "synopsis": "Seven Latin American short films share a pulse, part of the 2026 Wicked Queer Film Festival!",
+    "showtimes": [
+     "1:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/latinx-body-knows",
+    "rating": "",
+    "runtime": "1hr 18mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Luz%20DiablaSTILL%2001.png"
    },
    {
     "title": "Really Happy Someday",
@@ -300,19 +309,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/really%20happy%20someday.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Return of the Killer Tomatoes!",
     "synopsis": "The killer tomatoes are back! But this time around, they're going to have to contend with late '80s George Clooney and his wicked mullet...",
     "showtimes": [
@@ -324,6 +320,19 @@
     "rating": "",
     "runtime": "1hr 38mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/R-OF-THE-KILLER-TOMATOES-0023.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -579,9 +588,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
