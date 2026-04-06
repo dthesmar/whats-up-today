@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T10:38:03.008858",
+  "scraped_at": "2026-04-06T11:39:39.845874",
   "date": "2026-04-09"
  },
  "data": {
@@ -737,17 +737,29 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM",
+     "4:30PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "11:45AM",
-     "12:50PM",
-     "2:15PM",
-     "3:15PM",
-     "4:45PM",
-     "5:45PM",
-     "7:15PM"
+     "1:15PM",
+     "3:30PM",
+     "4:00PM",
+     "6:00PM",
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -760,11 +772,9 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "10:35AM",
-     "11:30AM",
-     "2:15PM",
+     "1:25PM",
      "3:00PM",
-     "5:50PM",
+     "5:45PM",
      "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -775,49 +785,44 @@
     "poster": ""
    },
    {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM",
-     "1:30PM",
-     "4:00PM",
-     "6:30PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "11:30AM",
-     "2:00PM",
-     "4:30PM",
-     "7:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "11:35AM",
-     "2:10PM",
-     "4:40PM",
-     "7:10PM"
+     "1:35PM",
+     "4:15PM",
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/hoppers",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Reminders Of Him",
+    "synopsis": "",
+    "showtimes": [
+     "1:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/reminders-of-him",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "1:45PM",
+     "4:30PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
