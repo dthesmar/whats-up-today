@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T18:16:58.041900",
+  "scraped_at": "2026-04-06T19:25:10.117218",
   "date": "2026-04-13"
  },
  "data": {
@@ -76,9 +76,10 @@
     "title": "Hamlet (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
-     "10:15 PM"
+     "7:15 PM",
+     "10:15 PM",
+     "1:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -119,10 +120,10 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "1:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -135,10 +136,10 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:20 PM",
      "7:15 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "1:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -151,23 +152,23 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "4:15 PM",
      "7:00 PM",
      "9:45 PM",
-     "1:00 PM",
-     "3:45 PM",
+     "1:30 PM",
+     "4:15 PM",
      "6:30 PM",
      "9:15 PM",
-     "2:30 PM",
+     "1:00 PM",
+     "3:45 PM",
      "5:15 PM",
      "8:00 PM",
-     "3:00 PM",
+     "2:30 PM",
      "6:00 PM",
      "8:45 PM",
-     "2:00 PM",
+     "3:00 PM",
      "4:45 PM",
      "10:15 PM",
+     "2:00 PM",
      "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -181,10 +182,10 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:30 PM",
      "6:30 PM",
-     "9:45 PM"
+     "9:45 PM",
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -203,19 +204,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "A Magnificent Life",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/a-magnificent-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-22-600x889.jpg"
-   },
    {
     "title": "The Drama in 35mm",
     "synopsis": "",
@@ -258,35 +246,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:10 pm",
-     "4:20 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -328,6 +287,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
