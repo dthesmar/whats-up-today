@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T13:42:28.960957",
+  "scraped_at": "2026-04-06T14:44:04.760554",
   "date": "2026-04-06"
  },
  "data": {
@@ -51,7 +51,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "3:00 PM",
      "4:00 PM",
      "6:00 PM",
@@ -71,20 +70,17 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:30 PM",
      "7:15 PM",
      "10:00 PM",
      "3:30 PM",
      "6:15 PM",
      "9:00 PM",
-     "2:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM",
      "4:00 PM",
      "5:30 PM",
-     "2:00 PM",
      "2:45 PM",
      "5:15 PM",
      "8:15 PM"
@@ -114,7 +110,6 @@
     "title": "Forbidden Fruits (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -152,7 +147,6 @@
     "title": "They Will Kill You (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:30 PM",
      "7:15 PM",
      "10:00 PM"
@@ -188,7 +182,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:45 PM",
      "7:45 PM",
      "10:30 PM"
@@ -204,7 +197,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -242,7 +234,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "7:00 PM",
      "4:15 PM",
      "9:45 PM"
@@ -435,7 +426,8 @@
     "synopsis": "",
     "showtimes": [
      "4:00 pm",
-     "7:10 pm"
+     "7:10 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -463,7 +455,8 @@
     "synopsis": "",
     "showtimes": [
      "5:10 pm",
-     "7:30 pm"
+     "7:30 pm",
+     "5:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -613,19 +606,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "La Strada",
-    "synopsis": "Federico Fellini's poetic fable of love and cruelty, the first-ever Academy Award-winner for Best Foreign Language Film.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/la-strada",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/La%20Strada%201%20website.jpg"
-   },
-   {
     "title": "Open Endings",
     "synopsis": "Part of the 2026 Wicked Queer Film Festival!",
     "showtimes": [
@@ -637,6 +617,19 @@
     "rating": "",
     "runtime": "1hr 50mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Still%20OE_7.jpg"
+   },
+   {
+    "title": "La Strada",
+    "synopsis": "Federico Fellini's poetic fable of love and cruelty, the first-ever Academy Award-winner for Best Foreign Language Film.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/la-strada",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/La%20Strada%201%20website.jpg"
    },
    {
     "title": "Mirrors No. 3",
