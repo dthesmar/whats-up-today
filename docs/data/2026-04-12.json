@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T09:23:02.024775",
+  "scraped_at": "2026-04-06T10:38:42.830112",
   "date": "2026-04-12"
  },
  "data": {
@@ -377,9 +377,17 @@
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Damnation",
+    "synopsis": "Tarr made a dramatic stylistic and critical breakthrough with this brooding and visually striking study of desolation and betrayal set in small-town Hungary, tracing the cruel love triangle that emerges between a taciturn loner, a nightclub singer and her smuggler husband. The first of five features written with noveli\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/damnation-2026-04",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/69654f7537cea.jpg?1768924770"
    }
   ],
   "Apple Cinemas Cambridge": [
