@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T15:45:39.810812",
+  "scraped_at": "2026-04-06T16:47:19.349115",
   "date": "2026-04-06"
  },
  "data": {
@@ -36,7 +36,6 @@
     "title": "A Great Awakening (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "7:20 PM",
      "10:30 PM"
     ],
@@ -51,8 +50,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
-     "6:00 PM",
      "7:00 PM",
      "7:30 PM",
      "9:00 PM",
@@ -72,13 +69,11 @@
      "4:30 PM",
      "7:15 PM",
      "10:00 PM",
-     "3:30 PM",
      "6:15 PM",
      "9:00 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM",
-     "4:00 PM",
      "5:30 PM",
      "5:15 PM",
      "8:15 PM"
@@ -158,7 +153,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "5:00 PM",
      "6:30 PM",
      "8:00 PM",
@@ -230,7 +224,6 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "4:15 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -285,7 +278,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "6:15 PM",
      "7:15 PM"
     ],
@@ -300,7 +292,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:35 PM",
      "4:35 PM",
      "5:00 PM",
      "6:10 PM",
@@ -317,9 +308,7 @@
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:50 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/the-ai-doc-or-how-i-became-an-apocaloptimist-2026-244550/movie-overview",
@@ -331,7 +320,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "4:45 PM",
      "6:00 PM",
      "7:00 PM"
@@ -347,7 +335,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -360,24 +347,22 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
+    "title": "A Magnificent Life",
     "synopsis": "",
     "showtimes": [
-     "4:10 pm",
-     "7:20 pm"
+     "6:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "url": "https://www.somervilletheatre.com/production/a-magnificent-life/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-22-600x889.jpg"
    },
    {
     "title": "The Drama in 35mm",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -388,18 +373,17 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
    },
    {
-    "title": "A Magnificent Life",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "6:45 pm"
+     "7:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/a-magnificent-life/",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-22-600x889.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "Watching Mr. Pearson",
@@ -416,36 +400,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:10 pm",
-     "4:20 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
    {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
@@ -488,6 +442,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-12-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm",
+     "4:20 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -733,7 +716,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:15 PM",
      "8:30 PM",
      "4:30 PM",
@@ -785,7 +767,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "7:30 PM",
      "10:00 PM"
     ],
@@ -813,7 +794,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:00 PM",
      "9:30 PM"
     ],
