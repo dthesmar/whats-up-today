@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-04-07T11:49:50.376240",
-  "date": "2026-04-13"
+  "scraped_at": "2026-04-07T12:06:45.067983",
+  "date": "2026-04-14"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,10 +9,10 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "5:45 PM",
-     "7:30 PM",
-     "10:00 PM"
+     "1:30 PM",
+     "4:15 PM",
+     "7:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -25,7 +25,8 @@
     "title": "Golden Boy",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM"
+     "5:00 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -35,36 +36,24 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
-    "title": "AMC Screen Unseen: April 13",
+    "title": "Jerry Maguire 30th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
      "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-screen-unseen-april-13-244874/movie-overview",
+    "url": "https://www.fandango.com/jerry-maguire-30th-anniversary-2026-244997/movie-overview",
     "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244874/MOP-POSTER_SCREEN%20UNSEEN__R-RATED_400x600.jpg"
-   },
-   {
-    "title": "The Royal Ballet: Giselle (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-royal-ballet-giselle-2026-242760/movie-overview",
-    "rating": "Not Rated",
     "runtime": "2 hr 18 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242760/Giselle_Layouts_1000%20x%201480_Ticketing%20Thumbnail_v04.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
     "title": "Beast (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:30 PM",
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -77,6 +66,7 @@
     "title": "Faces of Death (2026)",
     "synopsis": "",
     "showtimes": [
+     "2:15 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -137,8 +127,8 @@
     "showtimes": [
      "1:30 PM",
      "4:30 PM",
-     "7:30 PM",
-     "10:30 PM"
+     "10:00 PM",
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -165,11 +155,11 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "2:45 PM",
-     "4:20 PM",
+     "1:15 PM",
+     "3:00 PM",
+     "4:15 PM",
      "7:15 PM",
-     "10:00 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -192,13 +182,13 @@
      "2:30 PM",
      "5:15 PM",
      "8:00 PM",
-     "3:00 PM",
+     "3:15 PM",
      "6:00 PM",
      "8:45 PM",
      "2:00 PM",
      "4:45 PM",
-     "10:15 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -225,7 +215,8 @@
     "title": "They Will Kill You (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM"
+     "1:45 PM",
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -238,7 +229,7 @@
     "title": "Palestine '36 (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
+     "1:00 PM",
      "7:15 PM",
      "10:30 PM"
     ],
@@ -253,12 +244,11 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:45 PM",
+     "9:30 PM",
      "1:00 PM",
-     "2:30 PM",
-     "4:30 PM",
-     "6:30 PM",
-     "8:15 PM"
+     "3:00 PM",
+     "4:00 PM",
+     "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -271,8 +261,7 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "4:30 PM"
+     "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -285,8 +274,7 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
-     "8:30 PM"
+     "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -299,7 +287,7 @@
     "title": "Reminders of Him (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM"
+     "5:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -312,11 +300,10 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "7:30 PM",
      "2:15 PM",
      "4:30 PM",
-     "10:15 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -342,10 +329,18 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Stuart Little",
+    "synopsis": "",
+    "showtimes": [
+     "4:25 PM",
+     "7:00 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-04-13"
+    "url": "https://www.fandango.com/stuart-little-66/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/66/stuat_little.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -376,6 +371,32 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
+    "title": "Hundreds of Beavers",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/hundreds-of-beavers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/Beavers-600x890.webp"
+   },
+   {
+    "title": "Member Screening",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/member-screening/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/MembersOnly-Square-600-x-900-px.jpg"
+   },
+   {
     "title": "Watching Mr. Pearson",
     "synopsis": "",
     "showtimes": [
@@ -394,6 +415,8 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
+     "4:00 pm",
+     "7:10 pm",
      "4:20 pm",
      "7:15 pm"
     ],
@@ -422,6 +445,8 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
+     "5:10 pm",
+     "7:30 pm",
      "5:00 pm",
      "6:45 pm"
     ],
@@ -447,9 +472,23 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    },
    {
+    "title": "Marc by Sofia",
+    "synopsis": "",
+    "showtimes": [
+     "5:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/marc-by-sofia/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-12-600x889.jpg"
+   },
+   {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
+     "7:45 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -458,34 +497,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
-   },
-   {
-    "title": "Disasterpiece Theatre",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "I Have Sinned (Al Khet)",
-    "synopsis": "Post-film Q&A with NCJF Directors Sharon Pucker Rivo and Lisa Rivo.",
+    "title": "Boston Open Screen",
+    "synopsis": "Boston's one and only open mic night for filmmakers!",
     "showtimes": [
      "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-have-sinned-al-khet",
+    "url": "https://www.coolidge.org/events/open-screen",
     "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_i%20have%20sinned%202_coolidge%20square.jpg"
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
+   },
+   {
+    "title": "All I Had Was Nothingness",
+    "synopsis": "New England Premiere!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/all-i-had-was-nothingness",
+    "rating": "",
+    "runtime": "1hr 34mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -518,17 +557,10 @@
   ],
   "Harvard Film Archive": [
    {
-    "title": "Full Metal Jacket",
-    "synopsis": "After the longest hiatus of his career to that point, Kubrick followed the chilling symmetries of The Shining with the discursive confrontations of Full Metal Jacket, a Vietnam film whose darkly comedic tone embodies the grotesque cognitive dissonance of a futile military endeavor. Eschewing easy points of identificati\u2026",
-    "showtimes": [
-     "7:00 pm"
-    ],
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/full-metal-jacket-2026-04",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6949b281536a3.jpg?1766437510"
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -536,7 +568,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-13"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-14"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -634,14 +666,53 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Music Monday \u2013 Aryaloka String Quartet",
-    "synopsis": "Arvo P\u00e4rt: Summa Caroline Shaw: Entr\u2019acte Philip Glass: String Quartet No. 3 (\u201cMishima\u201d) , movements II, IV, VI Ravel: String Quartet in F Major, movements I, II",
+    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
+    "synopsis": "Aaron Larget-Caplan, guitar",
     "showtimes": [
-     "2:00 pm"
+     "12:15 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Scandinavian Cultural Center, 206 Waltham St., in Newton",
-    "url": "https://www.facebook.com/musicmondaysconcerts",
+    "address": "Kings Chapel, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Orchestra \u2013 Explorer Series",
+    "synopsis": "Bill Barclay, Host Earl Lee, Conductor All-BEETHOVEN program Egmont Overture Symphony No. 5",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Symphony Hall Boston, in Boston",
+    "url": "https://secure.bso.org/syos/performance/27729",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Conservatory (SeuH) \u2013 Piano Master Series",
+    "synopsis": "Terrence WilsonRep TBAFREE",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Seully Hall, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tufts University \u2013 Tufts Early Music Ensemble:",
+    "synopsis": "Music from the time of King Henry VIII and his daughter, Elizabeth I, for Renaissance consortChris Rua, recorders Students of the Early Music Ensemble: violas da gamba, recorders, harpsichord, lute, cittern, harp, chamber organ, and voicesFREE",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Granoff Music Center, 20 Talbot Avenue, in Medford",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -649,17 +720,10 @@
   ],
   "The Beehive": [
    {
-    "title": "MONDAY NIGHT HOEDOWN",
-    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
-    "showtimes": [
-     "7:30 pm"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -680,7 +744,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Blues Night \u2014 Monday",
+    "title": "New Music Night \u2014 Tuesday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
