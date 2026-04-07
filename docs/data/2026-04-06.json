@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T21:08:10.925351",
+  "scraped_at": "2026-04-06T23:15:49.292609",
   "date": "2026-04-06"
  },
  "data": {
@@ -19,9 +19,7 @@
    {
     "title": "The Killer - Hong Kong Cinema Classics",
     "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-killer-hong-kong-cinema-classics-243680/movie-overview",
@@ -32,9 +30,7 @@
    {
     "title": "A Great Awakening (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/a-great-awakening-2026-243964/movie-overview",
@@ -45,10 +41,7 @@
    {
     "title": "The Drama (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM",
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
@@ -59,11 +52,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM",
-     "9:00 PM",
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -85,9 +74,7 @@
    {
     "title": "Forbidden Fruits (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/forbidden-fruits-2026-244046/movie-overview",
@@ -120,9 +107,7 @@
    {
     "title": "They Will Kill You (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/they-will-kill-you-2026-244051/movie-overview",
@@ -133,10 +118,7 @@
    {
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:45 PM",
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
@@ -147,9 +129,7 @@
    {
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
@@ -171,9 +151,7 @@
    {
     "title": "Reminders of Him (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/reminders-of-him-2026-243076/movie-overview",
@@ -195,9 +173,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -208,9 +184,7 @@
    {
     "title": "Scream 7 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/scream-7-2026-243198/movie-overview",
@@ -510,19 +484,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "La Strada",
-    "synopsis": "Federico Fellini's poetic fable of love and cruelty, the first-ever Academy Award-winner for Best Foreign Language Film.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/la-strada",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/La%20Strada%201%20website.jpg"
-   },
-   {
     "title": "Open Endings",
     "synopsis": "Part of the 2026 Wicked Queer Film Festival!",
     "showtimes": [
@@ -534,6 +495,19 @@
     "rating": "",
     "runtime": "1hr 50mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Still%20OE_7.jpg"
+   },
+   {
+    "title": "La Strada",
+    "synopsis": "Federico Fellini's poetic fable of love and cruelty, the first-ever Academy Award-winner for Best Foreign Language Film.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/la-strada",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/La%20Strada%201%20website.jpg"
    },
    {
     "title": "Mirrors No. 3",
@@ -609,9 +583,7 @@
    {
     "title": "The Drama (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
@@ -622,9 +594,7 @@
    {
     "title": "Vaazha II: Biopic of a Billion Bros (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/vaazha-ii-biopic-of-a-billion-bros-2026-245142/movie-overview",
@@ -635,11 +605,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM",
-     "9:45 PM",
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -661,9 +627,7 @@
    {
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
@@ -674,9 +638,7 @@
    {
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
@@ -698,9 +660,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",

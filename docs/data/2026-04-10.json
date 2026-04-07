@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-06T21:08:58.754342",
+  "scraped_at": "2026-04-06T23:16:51.292651",
   "date": "2026-04-10"
  },
  "data": {
@@ -545,21 +545,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "You, Me & Tuscany (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "2:30 PM",
-     "5:00 PM",
-     "7:30 PM",
-     "10:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 44 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/ymat_presale.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-10"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
