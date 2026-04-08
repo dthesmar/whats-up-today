@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-08T09:44:22.073565",
+  "scraped_at": "2026-04-08T18:13:09.256978",
   "date": "2026-04-14"
  },
  "data": {
@@ -119,7 +119,7 @@
     "url": "https://www.fandango.com/newborn-2026-245065/movie-overview",
     "rating": "R",
     "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245065/newborn-posterart.jpg"
    },
    {
     "title": "You, Me & Tuscany (2026)",
@@ -586,17 +586,18 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/DaysAndNightsInForest_image_06.jpg"
    },
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
+    "title": "Project Hail Mary in 70mm",
+    "synopsis": "An unlikely friendship. An impossible mission.",
     "showtimes": [
-     "4:00pm"
+     "4:00pm",
+     "7:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
+    "url": "https://www.coolidge.org/films/project-hail-mary-70mm",
     "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
+    "runtime": "2hrs 36mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_30245_R2_rgb.jpg"
    },
    {
     "title": "Hamlet (2025)",
@@ -667,19 +668,6 @@
     "rating": "",
     "runtime": "1hr 34mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
-   },
-   {
-    "title": "Project Hail Mary in 70mm",
-    "synopsis": "An unlikely friendship. An impossible mission.",
-    "showtimes": [
-     "7:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-70mm",
-    "rating": "",
-    "runtime": "2hrs 36mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_30245_R2_rgb.jpg"
    }
   ],
   "Brattle Theatre": [

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-08T09:43:32.452822",
+  "scraped_at": "2026-04-08T17:54:36.591802",
   "date": "2026-04-12"
  },
  "data": {
@@ -142,7 +142,7 @@
     "url": "https://www.fandango.com/newborn-2026-245065/movie-overview",
     "rating": "R",
     "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245065/newborn-posterart.jpg"
    },
    {
     "title": "You, Me & Tuscany (2026)",
@@ -824,6 +824,56 @@
   ],
   "Apple Cinemas Cambridge": [
    {
+    "title": "Faces of Death (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "12:45 PM",
+     "3:00 PM",
+     "5:15 PM",
+     "7:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/faces-of-death-2026-244726/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244726/Faces-of-Death-27x40-PayoffPoster_full.jpg"
+   },
+   {
+    "title": "Hunting Matthew Nichols (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "12:30 PM",
+     "2:45 PM",
+     "5:00 PM",
+     "7:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/hunting-matthew-nichols-2026-243766/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 29 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243766/Hunting-Matthew-Nichols-24x36-Lead-WebHQ.jpg"
+   },
+   {
+    "title": "LIK: Love Insurance Kompany (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/lik-love-insurance-kompany-2026-243636/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243636/lik-loveinsurancekompany-posterart.jpg"
+   },
+   {
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
@@ -840,6 +890,20 @@
     "rating": "PG13",
     "runtime": "1 hr 44 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
+   },
+   {
+    "title": "Dacoit: A Love Story (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:05 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/dacoit-a-love-story-2026-243815/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243815/Dacoit-Hindi.jpg"
    },
    {
     "title": "The Drama (2026)",
