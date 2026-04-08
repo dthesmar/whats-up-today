@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-07T23:11:44.787881",
+  "scraped_at": "2026-04-08T09:44:22.073565",
   "date": "2026-04-14"
  },
  "data": {
@@ -339,7 +339,7 @@
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/stuart-little-66/movie-overview",
     "rating": "PG",
-    "runtime": "1 hr 32 min",
+    "runtime": "1 hr 50 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/66/stuat_little.jpg"
    },
    {
@@ -643,19 +643,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "All I Had Was Nothingness",
-    "synopsis": "New England Premiere!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/all-i-had-was-nothingness",
-    "rating": "",
-    "runtime": "1hr 34mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
-   },
-   {
     "title": "Boston Open Screen",
     "synopsis": "Boston's one and only open mic night for filmmakers!",
     "showtimes": [
@@ -667,6 +654,19 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
+   },
+   {
+    "title": "All I Had Was Nothingness",
+    "synopsis": "New England Premiere!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/all-i-had-was-nothingness",
+    "rating": "",
+    "runtime": "1hr 34mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
    },
    {
     "title": "Project Hail Mary in 70mm",
@@ -684,30 +684,30 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Dreamers",
-    "synopsis": "Director: Joy Gharoro-Akpojotor Run Time: 79 min. Format: DCP Release Year: 2025",
+    "title": "Harvard Book Store Presents Caro Claire Burke",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dreamers/",
+    "url": "https://brattlefilm.org/special_events/caro-claire-burke/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12135043/s8p8UkTQHchFJsZ0aiciZNbtRQ3-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04104058/image2.jpeg"
    },
    {
-    "title": "Uchronia",
-    "synopsis": "Director: Fil Ieropoulos Run Time: 97 min. Format: DCP Release Year: 2026 Language: French, English",
+    "title": "The Little Sister",
+    "synopsis": "Director: Hafsia Herzi Run Time: 107 min. Format: DCP Release Year: 2025 Language: French, Arabic",
     "showtimes": [
-     "8:00 pm"
+     "8:15 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/uchronia/",
+    "url": "https://brattlefilm.org/movies/the-little-sister-2025/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12140450/Uchronia-Still-Arthur-Rimbaud-and-Louise-Michel-Kristof-and-Flomaria-Papadaki.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12141539/vzIKxaav4Q5KBDDfYpphMzRQEOG-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
