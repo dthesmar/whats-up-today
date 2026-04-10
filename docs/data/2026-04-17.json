@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-10T08:44:45.969621",
+  "scraped_at": "2026-04-10T18:03:27.151615",
   "date": "2026-04-17"
  },
  "data": {
@@ -149,7 +149,6 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm",
      "6:20 pm",
      "9:30 pm"
     ],
@@ -164,7 +163,6 @@
     "title": "The Drama in 35mm",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:00 pm",
      "9:20 pm"
     ],
@@ -221,7 +219,6 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -235,7 +232,6 @@
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
      "7:20 pm"
     ],
     "theater": "Capitol Theatre",
@@ -244,20 +240,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "Rear Window",
@@ -271,6 +253,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-3-600x903.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "Fantasy Life",
@@ -390,12 +385,62 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "You, Me & Tuscany",
+    "synopsis": "",
+    "showtimes": [
+     "1:30PM",
+     "4:00PM",
+     "6:30PM",
+     "9:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "1:35PM",
+     "4:05PM",
+     "6:35PM",
+     "9:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:45PM",
+     "3:40PM",
+     "5:20PM",
+     "7:00PM",
+     "8:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "1:00PM",
-     "4:30PM",
-     "7:00PM"
+     "1:55PM",
+     "4:35PM",
+     "7:10PM",
+     "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -408,10 +453,12 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "1:15PM",
-     "3:30PM",
-     "4:00PM",
-     "6:15PM"
+     "2:15PM",
+     "3:00PM",
+     "4:45PM",
+     "5:30PM",
+     "7:15PM",
+     "8:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -421,73 +468,14 @@
     "poster": ""
    },
    {
-    "title": "Project Hail Mary",
+    "title": "Hunting Matthew Nichols",
     "synopsis": "",
     "showtimes": [
-     "1:25PM",
-     "3:00PM",
-     "5:45PM",
-     "6:35PM"
+     "9:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "1:35PM",
-     "4:15PM",
-     "6:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/hoppers",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Reminders Of Him",
-    "synopsis": "",
-    "showtimes": [
-     "1:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/reminders-of-him",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "1:45PM",
-     "4:30PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "You, Me & Tuscany",
-    "synopsis": "",
-    "showtimes": [
-     "6:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
+    "url": "https://arsenalyards.cwtheaters.com/movie/hunting-matthew-nichols",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -638,7 +626,7 @@
     "title": "STEVE DAVIS AND THE WE SEE ALL STARS w/Ralph Moore, Lewis Nash, Eddie Henderson and More",
     "synopsis": "",
     "showtimes": [
-     "Shows at 7 & 9pm"
+     "One Show at 7pm"
     ],
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
