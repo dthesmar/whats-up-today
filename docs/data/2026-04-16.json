@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-09T10:04:24.051062",
+  "scraped_at": "2026-04-09T21:10:32.877924",
   "date": "2026-04-16"
  },
  "data": {
@@ -283,19 +283,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Drama in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -309,17 +296,17 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
-    "title": "Lady Parts with panel discussion",
+    "title": "The Drama in 35mm",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/lady-parts/",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/01/unnamed-file-1-600x889.png"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
    },
    {
     "title": "I Live Here Now in 35mm",
@@ -367,8 +354,6 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:10 pm",
      "4:20 pm",
      "7:15 pm"
     ],
@@ -397,8 +382,6 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "5:10 pm",
-     "7:30 pm",
      "5:00 pm",
      "6:45 pm"
     ],
@@ -413,7 +396,6 @@
     "title": "Fantasy Life",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm",
      "7:40 pm"
     ],
     "theater": "Capitol Theatre",
@@ -422,32 +404,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
-    "title": "Marc by Sofia",
-    "synopsis": "",
-    "showtimes": [
-     "5:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/marc-by-sofia/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-12-600x889.jpg"
-   },
-   {
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -639,6 +595,19 @@
     "theater": "Classical Music (Boston)",
     "address": "Plympton-Shattuck Theater, 255 St. Botolph Street, in Boston",
     "url": "https://necmusic.edu/events/nec-opera-le-nozze-di-figaro-night-1/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tufts University \u2013 New Music Ensemble \u2013 Plurima",
+    "synopsis": "Tufts New Music EnsembleWorks by John McDonaldFREE",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Granoff Music Center, 20 Talbot Avenue, in Medford",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""

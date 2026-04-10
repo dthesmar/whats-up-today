@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-09T09:25:54.711692",
+  "scraped_at": "2026-04-09T21:10:00.012292",
   "date": "2026-04-11"
  },
  "data": {
@@ -470,6 +470,21 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "6:20 pm",
+     "9:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
     "title": "The Drama in 35mm",
     "synopsis": "",
     "showtimes": [
@@ -484,21 +499,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "6:20 pm",
-     "9:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -740,19 +740,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/DaysAndNightsInForest_image_06.jpg"
    },
    {
-    "title": "Return of the Killer Tomatoes!",
-    "synopsis": "The killer tomatoes are back! But this time around, they're going to have to contend with late '80s George Clooney and his wicked mullet...",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/return-killer-tomatoes",
-    "rating": "",
-    "runtime": "1hr 38mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/R-OF-THE-KILLER-TOMATOES-0023.jpg"
-   },
-   {
     "title": "The Room",
     "synopsis": "Oh, hi Mark.",
     "showtimes": [
@@ -764,6 +751,19 @@
     "rating": "",
     "runtime": "1hr 30mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
+   },
+   {
+    "title": "Return of the Killer Tomatoes!",
+    "synopsis": "The killer tomatoes are back! But this time around, they're going to have to contend with late '80s George Clooney and his wicked mullet...",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/return-killer-tomatoes",
+    "rating": "",
+    "runtime": "1hr 38mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/R-OF-THE-KILLER-TOMATOES-0023.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -870,7 +870,7 @@
     "url": "https://www.fandango.com/lik-love-insurance-kompany-2026-243636/movie-overview",
     "rating": "Not Rated",
     "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243636/lik-loveinsurancekompany-posterart.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243636/LIK-27X40.jpg"
    },
    {
     "title": "You, Me & Tuscany (2026)",
