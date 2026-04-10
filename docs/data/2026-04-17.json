@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-10T02:51:43.152070",
+  "scraped_at": "2026-04-10T04:54:14.400027",
   "date": "2026-04-17"
  },
  "data": {
@@ -316,10 +316,43 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "synopsis": "Director: Michael Pressman Run Time: 88 min. Format: 35mm Film Release Year: 1991",
+    "showtimes": [
+     "3:30 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02121317/iIdmQwDP3rOS1XMZKMPFCPkA1Do-scaled.jpg"
+   },
+   {
+    "title": "The Mysterious Gaze of the Flamingo",
+    "synopsis": "Director: Diego C\u00e9spedes Run Time: 108 min. Release Year: 2025 Language: Spanish with English subtitles",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-mysterious-gaze-of-the-flamingo/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12142733/kAwN3UWRUWauNK1l4oh7TfdOsJ7-scaled.jpg"
+   },
+   {
+    "title": "Blowie",
+    "synopsis": "Director: altSHIFT Run Time: 75 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blowie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12143522/Blowie-3-Large.jpeg"
    }
   ],
   "Harvard Film Archive": [
