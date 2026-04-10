@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-09T23:15:44.185661",
+  "scraped_at": "2026-04-10T01:16:10.732731",
   "date": "2026-04-11"
  },
  "data": {
@@ -768,30 +768,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Kings Come Get Your Flowers",
-    "synopsis": "Run Time: 101 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/wq-mens-shorts/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/03/13111915/69ae280dfc1955067601f252_Orthinomanyc.png"
-   },
-   {
-    "title": "Son of Sara",
-    "synopsis": "Director: Houston Bone Run Time: 85 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/son-of-sara/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12142443/son_of_sara_graded_still_02124817_rec709_20241212_1.1.1.jpeg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
