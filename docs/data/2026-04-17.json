@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-11T00:16:00.567944",
+  "scraped_at": "2026-04-11T08:51:11.841499",
   "date": "2026-04-17"
  },
  "data": {
@@ -218,10 +218,57 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Singin' in the Rain",
+    "synopsis": "Mon, Apr 13 @ 6:00 pm: Craft-Along!",
+    "showtimes": [
+     "12:00 pm",
+     "6:00 pm CRAFTING"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/singin-in-the-rain/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/27125645/6qOyw4yfzbzTp5YsCX26C28Do0S-scaled.jpg"
+   },
+   {
+    "title": "Drunken Noodles",
+    "synopsis": "Director: Lucio Castro Run Time: 81 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "2:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/drunken-noodles/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12143809/h32RN3kiI6tq9V5GeEJo58Sd26i.jpg"
+   },
+   {
+    "title": "Unruly & Unfiltered",
+    "synopsis": "Run Time: 106 min.",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/wq-comedy-shorts/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/03/13113543/69add6e81f2155928c93ece4_SRM-Still-2-1_1-p-2000.jpg"
+   },
+   {
+    "title": "The Divine Tragedy",
+    "synopsis": "Director: Sergio Tovar Velarde Run Time: 101 min. Format: DCP Release Year: 2026 Language: Spanish with English subtitles",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-divine-tragedy/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12144118/3KlraKXHRvj7n88rh077IK7Sh6f.jpg"
    }
   ],
   "Harvard Film Archive": [
