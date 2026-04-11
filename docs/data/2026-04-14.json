@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-10T23:14:16.573639",
+  "scraped_at": "2026-04-11T00:15:23.336517",
   "date": "2026-04-14"
  },
  "data": {
@@ -644,19 +644,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "Boston Open Screen",
-    "synopsis": "Boston's one and only open mic night for filmmakers!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/open-screen",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
-   },
-   {
     "title": "All I Had Was Nothingness",
     "synopsis": "New England Premiere!",
     "showtimes": [
@@ -668,47 +655,27 @@
     "rating": "",
     "runtime": "1hr 34mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
+   },
+   {
+    "title": "Boston Open Screen",
+    "synopsis": "Boston's one and only open mic night for filmmakers!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/events/open-screen",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
-    "synopsis": "Director: Michael Pressman Run Time: 88 min. Format: 35mm Film Release Year: 1991",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02121317/iIdmQwDP3rOS1XMZKMPFCPkA1Do-scaled.jpg"
-   },
-   {
-    "title": "The Mysterious Gaze of the Flamingo",
-    "synopsis": "Director: Diego C\u00e9spedes Run Time: 108 min. Release Year: 2025 Language: Spanish with English subtitles",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-mysterious-gaze-of-the-flamingo/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12142733/kAwN3UWRUWauNK1l4oh7TfdOsJ7-scaled.jpg"
-   },
-   {
-    "title": "Blowie",
-    "synopsis": "Director: altSHIFT Run Time: 75 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/blowie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12143522/Blowie-3-Large.jpeg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

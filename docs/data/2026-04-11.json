@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-10T23:13:57.579413",
+  "scraped_at": "2026-04-11T00:15:04.418776",
   "date": "2026-04-11"
  },
  "data": {
@@ -66,9 +66,9 @@
     "title": "Faces of Death (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "7:45 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "11:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -125,11 +125,11 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "11:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -157,13 +157,12 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "12:30 PM",
      "1:30 PM",
      "3:45 PM",
-     "5:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "11:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -179,11 +178,11 @@
      "1:00 PM",
      "3:45 PM",
      "6:30 PM",
-     "11:00 AM",
      "1:45 PM",
      "4:30 PM",
      "7:15 PM",
      "10:00 PM",
+     "11:00 AM",
      "12:00 PM",
      "2:45 PM",
      "5:30 PM",
@@ -688,19 +687,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EXIT8_Still1_Yamato%20Ko%CC%82chi_Courtesy%20of%20NEON.jpg"
    },
    {
-    "title": "Latinx \u2014 The Body Knows",
-    "synopsis": "Seven Latin American short films share a pulse, part of the 2026 Wicked Queer Film Festival!",
-    "showtimes": [
-     "1:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/latinx-body-knows",
-    "rating": "",
-    "runtime": "1hr 18mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Luz%20DiablaSTILL%2001.png"
-   },
-   {
     "title": "Silsila",
     "synopsis": "Silsila, a landmark of Bollywood cinema, was monumental in its day for its portrayal of transgressive love.",
     "showtimes": [
@@ -712,6 +698,19 @@
     "rating": "",
     "runtime": "3hrs 2mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/silsilia%201.jpeg"
+   },
+   {
+    "title": "Latinx \u2014 The Body Knows",
+    "synopsis": "Seven Latin American short films share a pulse, part of the 2026 Wicked Queer Film Festival!",
+    "showtimes": [
+     "1:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/latinx-body-knows",
+    "rating": "",
+    "runtime": "1hr 18mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Luz%20DiablaSTILL%2001.png"
    },
    {
     "title": "Really Happy Someday",
@@ -741,19 +740,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/DaysAndNightsInForest_image_06.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Return of the Killer Tomatoes!",
     "synopsis": "The killer tomatoes are back! But this time around, they're going to have to contend with late '80s George Clooney and his wicked mullet...",
     "showtimes": [
@@ -765,47 +751,27 @@
     "rating": "",
     "runtime": "1hr 38mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/R-OF-THE-KILLER-TOMATOES-0023.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
-    "synopsis": "Director: Michael Pressman Run Time: 88 min. Format: 35mm Film Release Year: 1991",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02121317/iIdmQwDP3rOS1XMZKMPFCPkA1Do-scaled.jpg"
-   },
-   {
-    "title": "The Mysterious Gaze of the Flamingo",
-    "synopsis": "Director: Diego C\u00e9spedes Run Time: 108 min. Release Year: 2025 Language: Spanish with English subtitles",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-mysterious-gaze-of-the-flamingo/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12142733/kAwN3UWRUWauNK1l4oh7TfdOsJ7-scaled.jpg"
-   },
-   {
-    "title": "Blowie",
-    "synopsis": "Director: altSHIFT Run Time: 75 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/blowie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/12143522/Blowie-3-Large.jpeg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
