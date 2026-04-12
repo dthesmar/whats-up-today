@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-12T10:55:48.686702",
+  "scraped_at": "2026-04-12T17:11:11.650257",
   "date": "2026-04-19"
  },
  "data": {
@@ -180,48 +180,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Drama in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
-   {
-    "title": "Wicked Queer: Women\u2019s Shorts \u2013 All The Ways We Love",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/wicked-queer-womens-shorts-all-the-ways-we-love/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/WomensShorts-600x317.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "6:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "Wicked Queer: LAKEVIEW",
     "synopsis": "",
     "showtimes": [
@@ -233,6 +191,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/lakeviewmovie-1-600x925.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
+    "title": "The Drama in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
    },
    {
     "title": "Watching Mr. Pearson",
@@ -278,28 +262,9 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "2:15 pm",
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "12:30 pm",
-     "2:45 pm",
-     "5:00 pm",
      "6:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -313,8 +278,6 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -323,6 +286,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -508,33 +484,15 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "1:35PM",
-     "4:05PM",
-     "6:35PM",
-     "9:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "10:50AM",
-     "12:20PM",
+     "10:45AM",
+     "11:50AM",
      "2:10PM",
-     "3:40PM",
+     "3:15PM",
      "5:30PM",
-     "7:00PM",
-     "8:50PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -550,8 +508,7 @@
      "10:55AM",
      "1:30PM",
      "4:00PM",
-     "6:30PM",
-     "9:00PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -561,14 +518,17 @@
     "poster": ""
    },
    {
-    "title": "The Super Mario Galaxy Movie - Sensory Friendly Screening",
+    "title": "CWX The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "11:00AM"
+     "11:00AM",
+     "1:35PM",
+     "4:05PM",
+     "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie---sensory-friendly-screening",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -580,8 +540,7 @@
      "11:30AM",
      "2:05PM",
      "4:40PM",
-     "7:10PM",
-     "9:35PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -594,13 +553,12 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "11:50AM",
+     "11:45AM",
+     "12:30PM",
      "2:20PM",
-     "2:55PM",
+     "3:05PM",
      "4:50PM",
-     "5:25PM",
-     "7:15PM",
-     "8:00PM"
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -613,7 +571,7 @@
     "title": "Hunting Matthew Nichols",
     "synopsis": "",
     "showtimes": [
-     "9:40PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
