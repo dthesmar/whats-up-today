@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-13T18:13:53.600114",
+  "scraped_at": "2026-04-13T19:15:13.389421",
   "date": "2026-04-13"
  },
  "data": {
@@ -169,10 +169,8 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "6:30 PM",
      "9:15 PM",
      "8:00 PM",
-     "6:00 PM",
      "8:45 PM",
      "10:15 PM",
      "7:30 PM"
@@ -227,7 +225,6 @@
     "synopsis": "",
     "showtimes": [
      "9:45 PM",
-     "6:30 PM",
      "8:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -304,9 +301,7 @@
    {
     "title": "Hamlet (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:50 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/hamlet-2026-244098/movie-overview",
@@ -318,7 +313,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -332,7 +326,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:10 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -346,7 +339,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -359,9 +351,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -371,22 +361,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "The Drama in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm",
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
    {
     "title": "Project Hail Mary",
     "synopsis": "",
@@ -404,6 +378,21 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
+    "title": "The Drama in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
     "title": "Watching Mr. Pearson",
     "synopsis": "",
     "showtimes": [
@@ -419,29 +408,12 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm",
-     "12:20 pm",
-     "2:40 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm",
      "12:45 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -496,6 +468,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:20 pm",
+     "2:40 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -744,7 +732,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:00 PM",
      "7:30 PM",
      "7:45 PM",
@@ -761,7 +748,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -788,7 +774,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
