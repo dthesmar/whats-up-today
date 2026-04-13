@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-13T10:58:50.569105",
+  "scraped_at": "2026-04-13T18:14:13.076425",
   "date": "2026-04-16"
  },
  "data": {
@@ -192,6 +192,19 @@
   ],
   "Kendall Square Cinema": [
    {
+    "title": "Normal (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:55 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
+   },
+   {
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
@@ -209,8 +222,7 @@
     "title": "Hamlet (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
-     "6:50 PM"
+     "4:10 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -416,11 +428,30 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "6:45 pm",
+     "12:20 pm",
+     "2:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
      "4:20 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "12:45 pm",
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -434,7 +465,11 @@
     "synopsis": "",
     "showtimes": [
      "4:45 pm",
-     "7:20 pm"
+     "7:20 pm",
+     "12:30 pm",
+     "3:10 pm",
+     "5:30 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -444,24 +479,26 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
-     "6:45 pm"
+     "2:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
    },
    {
     "title": "Fantasy Life",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm"
+     "7:40 pm",
+     "12:15 pm",
+     "4:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",

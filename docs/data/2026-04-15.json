@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-13T10:58:31.976340",
+  "scraped_at": "2026-04-13T18:14:06.407106",
   "date": "2026-04-15"
  },
  "data": {
@@ -512,11 +512,30 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "6:45 pm",
+     "12:20 pm",
+     "2:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
      "4:20 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "12:45 pm",
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -530,7 +549,11 @@
     "synopsis": "",
     "showtimes": [
      "4:45 pm",
-     "7:20 pm"
+     "7:20 pm",
+     "12:30 pm",
+     "3:10 pm",
+     "5:30 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -540,38 +563,12 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "Fantasy Life",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "7:30 pm",
+     "2:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -579,6 +576,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:40 pm",
+     "12:15 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -670,19 +683,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "History of the World: Part I",
-    "synopsis": "IN MEL WE TRVST",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/history-world-part-i",
-    "rating": "",
-    "runtime": "1hr 32mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/History_of_the_World_200%20copy.jpg"
-   },
-   {
     "title": "We Met at Grossinger\u2019s",
     "synopsis": "Post-film Q&A with Professor Hasia R. Diner, author of a dozen books.",
     "showtimes": [
@@ -694,6 +694,19 @@
     "rating": "",
     "runtime": "1hr 44mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_we%20met%20at%20grossingers_coolidge%20square.jpg"
+   },
+   {
+    "title": "History of the World: Part I",
+    "synopsis": "IN MEL WE TRVST",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/history-world-part-i",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/History_of_the_World_200%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
