@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-13T19:16:18.645045",
+  "scraped_at": "2026-04-13T20:34:34.708178",
   "date": "2026-04-18"
  },
  "data": {
@@ -9,10 +9,8 @@
     "title": "A Little Something Extra (2024)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "4:00 PM",
-     "6:45 PM",
-     "9:30 PM"
+     "11:45 AM",
+     "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -20,6 +18,37 @@
     "rating": "R",
     "runtime": "1 hr 39 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245128/A_Little_Something_Extra.jpg"
+   },
+   {
+    "title": "Busboys (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "2:45 PM",
+     "7:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/busboys-2026-244794/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244794/busboys-POSTER_FINAL_DIGITAL.jpg"
+   },
+   {
+    "title": "Exit 8 (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM",
+     "6:20 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
+    "rating": "PG-13",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
    },
    {
     "title": "Stranger Things: Tales From '85 Theatrical Preview (2026)",
@@ -39,7 +68,7 @@
     "title": "Bridesmaids: 15th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:10 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -53,6 +82,9 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
+     "7:00 PM",
+     "10:15 PM",
+     "11:00 AM",
      "3:00 PM",
      "6:15 PM",
      "9:30 PM"
@@ -85,7 +117,11 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM"
+     "12:30 PM",
+     "3:15 PM",
+     "5:30 PM",
+     "8:00 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -98,7 +134,10 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM"
+     "12:00 PM",
+     "2:45 PM",
+     "6:00 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -121,13 +160,38 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244828/IMAX_Exclusive_Artwork_2DIE4.jpg"
    },
    {
+    "title": "Bhooth Bangla (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
+   },
+   {
+    "title": "Faces of Death (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 PM",
+     "8:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/faces-of-death-2026-244726/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244726/Faces-of-Death-27x40-PayoffPoster_full.jpg"
+   },
+   {
     "title": "Hamlet (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "4:30 PM",
-     "7:30 PM",
-     "10:30 PM"
+     "1:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -140,8 +204,11 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
+     "11:00 AM",
+     "1:45 PM",
      "4:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -149,6 +216,137 @@
     "rating": "PG13",
     "runtime": "1 hr 44 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
+   },
+   {
+    "title": "Dacoit: A Love Story (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/dacoit-a-love-story-2026-243815/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243815/Dacoit-Hindi.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "2:30 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "8:45 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM",
+     "4:20 PM",
+     "11:30 AM",
+     "2:30 PM",
+     "5:15 PM",
+     "8:00 PM",
+     "10:30 PM",
+     "6:30 PM",
+     "12:30 PM",
+     "3:00 PM",
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Palestine '36 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "5:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/palestine-36-2026-242871/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 55 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242871/Palestine36_OneSheet_Digital.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "7:00 PM",
+     "11:15 AM",
+     "2:30 PM",
+     "6:00 PM",
+     "8:00 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Ready or Not 2: Here I Come (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
+   },
+   {
+    "title": "Dhurandhar: The Revenge (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "8:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "5:30 PM",
+     "2:45 PM",
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
    },
    {
     "title": "A Beautiful Planet IMAX",
@@ -221,22 +419,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:30 pm",
-     "7:00 pm",
-     "9:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "The Drama in 35mm",
     "synopsis": "",
     "showtimes": [
@@ -251,6 +433,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "5:30 pm",
+     "7:00 pm",
+     "9:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -270,6 +468,21 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -286,34 +499,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "Fantasy Life",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -328,6 +513,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
