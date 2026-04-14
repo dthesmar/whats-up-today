@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-14T13:40:22.800836",
+  "scraped_at": "2026-04-14T17:38:04.858462",
   "date": "2026-04-20"
  },
  "data": {
@@ -24,7 +24,7 @@
     "synopsis": "",
     "showtimes": [
      "12:15 PM",
-     "5:15 PM"
+     "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -40,7 +40,7 @@
      "1:15 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -78,7 +78,7 @@
     "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
     "rating": "R",
     "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/themummy_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
     "title": "Lorne (2026)",
@@ -100,8 +100,8 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "3:30 PM",
+     "12:00 PM",
+     "3:00 PM",
      "8:00 PM",
      "10:30 PM"
     ],
@@ -187,7 +187,7 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
+     "12:15 PM",
      "4:00 PM",
      "6:45 PM",
      "9:45 PM"
@@ -203,7 +203,7 @@
     "title": "Dacoit: A Love Story (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
+     "2:30 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -217,7 +217,7 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
+     "12:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -271,7 +271,7 @@
      "12:00 PM",
      "1:00 PM",
      "2:00 PM",
-     "3:30 PM",
+     "3:15 PM",
      "6:00 PM",
      "9:45 PM"
     ],
@@ -416,6 +416,22 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:20 pm",
+     "2:40 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -447,20 +463,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
-     "12:20 pm",
-     "2:40 pm",
-     "5:00 pm",
-     "7:30 pm"
+     "2:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
    },
    {
     "title": "Fantasy Life",
@@ -475,20 +489,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
