@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-14T17:37:03.918991",
+  "scraped_at": "2026-04-14T18:59:13.668905",
   "date": "2026-04-14"
  },
  "data": {
@@ -160,10 +160,8 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "6:30 PM",
      "9:15 PM",
      "8:00 PM",
-     "6:00 PM",
      "8:45 PM",
      "7:30 PM",
      "10:15 PM"
@@ -321,7 +319,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -348,7 +345,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -443,23 +439,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm",
-     "12:20 pm",
-     "2:40 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -519,6 +498,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:20 pm",
+     "2:40 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -664,7 +659,6 @@
     "title": "Faces of Death (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:30 PM",
      "9:45 PM"
     ],
@@ -679,7 +673,6 @@
     "title": "Hunting Matthew Nichols (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "7:45 PM",
      "10:00 PM"
     ],
@@ -707,7 +700,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:20 PM",
      "7:40 PM",
      "10:00 PM"
     ],
@@ -735,7 +727,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:20 PM",
      "7:40 PM",
      "10:00 PM"
     ],
@@ -750,10 +741,7 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:00 PM",
-     "5:15 PM",
-     "5:30 PM",
      "7:30 PM",
      "7:45 PM",
      "10:00 PM"
@@ -769,7 +757,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -796,7 +783,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
