@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-14T20:26:36.304345",
+  "scraped_at": "2026-04-14T21:53:15.863661",
   "date": "2026-04-14"
  },
  "data": {
@@ -148,8 +148,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:15 PM",
-     "8:45 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -199,9 +197,7 @@
    {
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
@@ -245,9 +241,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -555,19 +549,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
    },
    {
-    "title": "All I Had Was Nothingness",
-    "synopsis": "New England Premiere!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/all-i-had-was-nothingness",
-    "rating": "",
-    "runtime": "1hr 34mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
-   },
-   {
     "title": "Boston Open Screen",
     "synopsis": "Boston's one and only open mic night for filmmakers!",
     "showtimes": [
@@ -579,6 +560,19 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
+   },
+   {
+    "title": "All I Had Was Nothingness",
+    "synopsis": "New England Premiere!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/all-i-had-was-nothingness",
+    "rating": "",
+    "runtime": "1hr 34mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NCJF_all%20i%20had%20was%20nothingness%201_coolidge%20square.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -635,9 +629,7 @@
    {
     "title": "LIK: Love Insurance Kompany (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/lik-love-insurance-kompany-2026-243636/movie-overview",
@@ -688,7 +680,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -701,9 +692,7 @@
    {
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
@@ -714,9 +703,7 @@
    {
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:25 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
