@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-16T07:33:44.338533",
+  "scraped_at": "2026-04-16T11:53:37.534941",
   "date": "2026-04-23"
  },
  "data": {
@@ -654,8 +654,7 @@
     "synopsis": "",
     "showtimes": [
      "1:05PM",
-     "3:35PM",
-     "6:00PM"
+     "4:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -727,6 +726,19 @@
     "poster": ""
    },
    {
+    "title": "Lee Cronin's The Mummy",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/lee-cronins-the-mummy",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Hunting Matthew Nichols",
     "synopsis": "",
     "showtimes": [
@@ -757,10 +769,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Chris Stovol Brown Band",
+    "synopsis": "Chris Stovall Brown is a killer blues musician with enough \"mojo\" to rock blues gods all the way to Texas and back. A legendary guitarist with a crack band...this man crushes!",
+    "showtimes": [
+     "9:00 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
