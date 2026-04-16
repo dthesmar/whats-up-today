@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-15T20:50:41.846612",
+  "scraped_at": "2026-04-16T07:32:36.274322",
   "date": "2026-04-17"
  },
  "data": {
@@ -815,17 +815,34 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Closed for Private Event",
-    "synopsis": "Run Time: 90 min.",
+    "title": "My Father's Shadow",
+    "synopsis": "Director: Akinola Davies Jr. Run Time: 93 min. Format: DCP Release Year: 2025",
     "showtimes": [
-     "6:00 pm"
+     "4:30 pm",
+     "6:00 pm",
+     "7:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/closed-for-private-event/",
+    "url": "https://brattlefilm.org/movies/my-fathers-shadow/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/15171415/Brattle-background-1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
+   },
+   {
+    "title": "Sound of Falling",
+    "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
+    "showtimes": [
+     "7:00 pm",
+     "2:30 pm",
+     "4:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sound-of-falling/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29132736/oz5DLjcI66iDpOdKU7QG9JrGARe-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
