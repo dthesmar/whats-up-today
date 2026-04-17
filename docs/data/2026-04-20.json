@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-16T21:51:36.426333",
+  "scraped_at": "2026-04-17T09:53:15.838093",
   "date": "2026-04-20"
  },
  "data": {
@@ -94,7 +94,7 @@
     "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
     "rating": "R",
     "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_Official_Poster.jpg"
    },
    {
     "title": "Normal (2026)",
@@ -751,10 +751,22 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "FernGully: The Last Rainforest",
+    "synopsis": "Director: Bill Kroyer Run Time: 76 min. Format: 35mm Film Release Year: 1992",
+    "showtimes": [
+     "3:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/ferngully-the-last-rainforest/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02123830/2GBUz0Z4YyKi2ojHylPIT6yBBl1.jpg"
+   },
+   {
     "title": "My Father's Shadow",
     "synopsis": "Director: Akinola Davies Jr. Run Time: 93 min. Format: DCP Release Year: 2025",
     "showtimes": [
-     "4:30 pm",
      "6:00 pm",
      "7:00 pm"
     ],
@@ -766,19 +778,17 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
    },
    {
-    "title": "Sound of Falling",
-    "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
+    "title": "Born Innocent: The Redd Kross Story",
+    "synopsis": "Director: Andrew Reich Run Time: 84 min. Format: DCP Release Year: 2024",
     "showtimes": [
-     "7:00 pm",
-     "2:30 pm",
-     "4:00 pm"
+     "8:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/sound-of-falling/",
+    "url": "https://brattlefilm.org/movies/born-innocent-the-redd-kross-story/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29132736/oz5DLjcI66iDpOdKU7QG9JrGARe-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04134641/hDkdbGaYBzEM7eIgkSManyT1cFR.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1002,15 +1012,15 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "CWX The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "1:05PM",
-     "4:05PM"
+     "1:00PM",
+     "3:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1019,11 +1029,10 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "1:15PM",
-     "2:30PM",
-     "3:15PM",
-     "5:30PM",
-     "6:35PM"
+     "1:20PM",
+     "3:50PM",
+     "7:30PM",
+     "9:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1037,8 +1046,9 @@
     "synopsis": "",
     "showtimes": [
      "1:30PM",
-     "4:00PM",
-     "6:30PM"
+     "4:05PM",
+     "6:30PM",
+     "9:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1048,40 +1058,12 @@
     "poster": ""
    },
    {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "2:05PM",
-     "4:40PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:15PM",
-     "4:45PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Lee Cronin's The Mummy",
     "synopsis": "",
     "showtimes": [
-     "7:00PM"
+     "1:40PM",
+     "4:50PM",
+     "8:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1091,14 +1073,72 @@
     "poster": ""
    },
    {
-    "title": "Hunting Matthew Nichols",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "7:05PM"
+     "1:50PM",
+     "4:25PM",
+     "7:05PM",
+     "9:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/hunting-matthew-nichols",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "2:05PM",
+     "4:30PM",
+     "7:10PM",
+     "9:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Bridesmaids: 15th Anniversary",
+    "synopsis": "",
+    "showtimes": [
+     "6:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Lee Cronin's The Mummy",
+    "synopsis": "",
+    "showtimes": [
+     "9:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-lee-cronins-the-mummy",
     "rating": "",
     "runtime": "",
     "poster": ""
