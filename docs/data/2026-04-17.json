@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-16T11:45:35.705177",
+  "scraped_at": "2026-04-16T21:48:06.936197",
   "date": "2026-04-17"
  },
  "data": {
@@ -206,6 +206,7 @@
     "synopsis": "",
     "showtimes": [
      "12:30 PM",
+     "1:30 PM",
      "4:15 PM",
      "7:00 PM",
      "9:30 PM",
@@ -338,9 +339,7 @@
     "title": "Mile End Kicks (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:55 PM",
-     "6:40 PM",
-     "9:25 PM"
+     "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -638,19 +637,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
-    "title": "Fantasy Life",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
@@ -676,6 +662,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    },
    {
     "title": "The Breakfast Club",
@@ -1295,10 +1294,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Jeff Galindo Trio -Early Jazz Set",
+    "synopsis": "Jeff Galido is a powerfully creative, musician. His muscular trombone sounds. free expression create a surprising dynamic performances lighting up the stage.",
+    "showtimes": [
+     "6:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [

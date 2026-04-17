@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-16T11:48:38.241089",
+  "scraped_at": "2026-04-16T21:48:36.056990",
   "date": "2026-04-19"
  },
  "data": {
@@ -953,7 +953,7 @@
     "showtimes": [
      "10:00 AM",
      "12:20 PM",
-     "2:45 PM",
+     "3:00 PM",
      "5:15 PM",
      "7:40 PM",
      "10:00 PM"
@@ -1259,6 +1259,19 @@
     "theater": "Classical Music (Boston)",
     "address": "Swampscott High School Auditorium, in Swampscott",
     "url": "https://www.nspo.org/pinboard.php",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tufts University \u2013 Tufts Chamber Orchestra",
+    "synopsis": "Ralph Vaughan Williams: The Lark Ascending, plus works by Ibert and Mozart.FREE",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Granoff Music Center, 20 Talbot Avenue, in Medford",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-16T11:53:37.534941",
+  "scraped_at": "2026-04-16T21:52:43.799688",
   "date": "2026-04-23"
  },
  "data": {
@@ -205,45 +205,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
-    "title": "I Live Here Now in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-live-here-now-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-13-600x867.jpg"
-   },
-   {
     "title": "Shorts Gloucester: Documentary",
     "synopsis": "",
     "showtimes": [
@@ -341,10 +302,9 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:20 pm",
-     "7:15 pm",
      "12:45 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -357,8 +317,6 @@
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "7:20 pm",
      "12:30 pm",
      "3:10 pm",
      "5:30 pm",
@@ -375,10 +333,9 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
-     "6:45 pm",
      "12:20 pm",
      "2:40 pm",
+     "5:00 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -387,21 +344,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "Fantasy Life",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "12:15 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -432,6 +374,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Fantasy Life",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
