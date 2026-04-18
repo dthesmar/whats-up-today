@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-17T23:58:16.498897",
+  "scraped_at": "2026-04-18T10:26:28.107581",
   "date": "2026-04-19"
  },
  "data": {
@@ -787,17 +787,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "FernGully: The Last Rainforest",
-    "synopsis": "Director: Bill Kroyer Run Time: 76 min. Format: 35mm Film Release Year: 1992",
+    "title": "Up",
+    "synopsis": "Director: Pete Docter Run Time: 96 min. Format: DCP Release Year: 2009",
     "showtimes": [
-     "3:30 pm 35mm"
+     "12:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/ferngully-the-last-rainforest/",
+    "url": "https://brattlefilm.org/movies/up/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02123830/2GBUz0Z4YyKi2ojHylPIT6yBBl1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133336/hGGC9gKo7CFE3fW07RA587e5kol-scaled.jpg"
+   },
+   {
+    "title": "Sound of Falling",
+    "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
+    "showtimes": [
+     "2:30 pm",
+     "4:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sound-of-falling/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29132736/oz5DLjcI66iDpOdKU7QG9JrGARe-scaled.jpg"
    },
    {
     "title": "My Father's Shadow",
@@ -814,17 +828,17 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
    },
    {
-    "title": "Born Innocent: The Redd Kross Story",
-    "synopsis": "Director: Andrew Reich Run Time: 84 min. Format: DCP Release Year: 2024",
+    "title": "Pavements",
+    "synopsis": "Director: Alex Ross Perry Run Time: 128 min. Format: DCP Release Year: 2025",
     "showtimes": [
      "8:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/born-innocent-the-redd-kross-story/",
+    "url": "https://brattlefilm.org/movies/pavements/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04134641/hDkdbGaYBzEM7eIgkSManyT1cFR.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/04/09172107/still_pavements_001.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1069,6 +1083,7 @@
     "title": "CWX The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
+     "10:30AM",
      "1:00PM",
      "3:30PM"
     ],
@@ -1080,25 +1095,10 @@
     "poster": ""
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:20PM",
-     "3:50PM",
-     "7:30PM",
-     "9:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "You, Me & Tuscany",
     "synopsis": "",
     "showtimes": [
+     "10:55AM",
      "1:30PM",
      "4:05PM",
      "6:30PM",
@@ -1112,9 +1112,27 @@
     "poster": ""
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM",
+     "2:15PM",
+     "4:40PM",
+     "7:05PM",
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Lee Cronin's The Mummy",
     "synopsis": "",
     "showtimes": [
+     "11:05AM",
      "1:40PM",
      "4:50PM",
      "8:05PM"
@@ -1127,33 +1145,49 @@
     "poster": ""
    },
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "1:50PM",
-     "4:25PM",
-     "7:05PM",
-     "9:30PM"
+     "11:30AM",
+     "2:05PM",
+     "4:30PM",
+     "7:10PM",
+     "9:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "The Drama",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "2:05PM",
-     "4:30PM",
-     "7:10PM",
-     "9:45PM"
+     "11:45AM",
+     "12:25PM",
+     "3:50PM",
+     "7:15PM",
+     "9:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Bridesmaids: 15th Anniversary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1167,19 +1201,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Bridesmaids: 15th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "6:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
     "rating": "",
     "runtime": "",
     "poster": ""
