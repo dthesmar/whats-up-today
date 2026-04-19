@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T16:58:20.965881",
+  "scraped_at": "2026-04-19T18:00:21.093769",
   "date": "2026-04-22"
  },
  "data": {
@@ -516,38 +516,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:20 pm",
-     "2:40 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "3:00 pm",
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
@@ -577,6 +545,22 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:20 pm",
+     "2:40 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -591,6 +575,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "12:40 pm",
+     "3:00 pm",
+     "5:20 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
     "title": "Fantasy Life",
