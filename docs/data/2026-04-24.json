@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-18T21:21:44.239203",
+  "scraped_at": "2026-04-19T14:55:29.605445",
   "date": "2026-04-24"
  },
  "data": {
@@ -346,10 +346,22 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133336/hGGC9gKo7CFE3fW07RA587e5kol-scaled.jpg"
    },
    {
+    "title": "RPM Presents \"For All Audiences\": Films by Josh Weissbach",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/rpm-presents-for-all-audiences-films-by-josh-weissbach/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/08102233/06_601_02.png"
+   },
+   {
     "title": "Sound of Falling",
     "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
     "showtimes": [
-     "2:30 pm",
      "4:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -363,7 +375,6 @@
     "title": "My Father's Shadow",
     "synopsis": "Director: Akinola Davies Jr. Run Time: 93 min. Format: DCP Release Year: 2025",
     "showtimes": [
-     "6:00 pm",
      "7:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -372,19 +383,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
-   },
-   {
-    "title": "Pavements",
-    "synopsis": "Director: Alex Ross Perry Run Time: 128 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/pavements/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/04/09172107/still_pavements_001.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -435,16 +433,17 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX The Super Mario Galaxy Movie",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "1:00PM",
-     "3:30PM"
+     "10:45AM",
+     "12:25PM",
+     "2:25PM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -456,12 +455,26 @@
      "10:55AM",
      "1:30PM",
      "4:05PM",
-     "6:30PM",
-     "9:40PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM",
+     "1:30PM",
+     "4:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -472,9 +485,8 @@
     "showtimes": [
      "11:00AM",
      "2:15PM",
-     "4:40PM",
-     "7:05PM",
-     "9:30PM"
+     "4:45PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -490,7 +502,7 @@
      "11:05AM",
      "1:40PM",
      "4:50PM",
-     "8:05PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -506,8 +518,7 @@
      "11:30AM",
      "2:05PM",
      "4:30PM",
-     "7:10PM",
-     "9:50PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -517,28 +528,10 @@
     "poster": ""
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "11:45AM",
-     "12:25PM",
-     "3:50PM",
-     "7:15PM",
-     "9:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Bridesmaids: 15th Anniversary",
     "synopsis": "",
     "showtimes": [
-     "4:00PM",
-     "7:00PM"
+     "4:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -551,24 +544,11 @@
     "title": "CWX Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "6:00PM"
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Lee Cronin's The Mummy",
-    "synopsis": "",
-    "showtimes": [
-     "9:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-lee-cronins-the-mummy",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -682,7 +662,7 @@
     "title": "Dee Dee Bridgewater + Bill Charlap",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM"
+     "7:30 PM (Sold Out)"
     ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
