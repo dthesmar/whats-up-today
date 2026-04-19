@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T14:54:23.452161",
+  "scraped_at": "2026-04-19T15:56:12.478656",
   "date": "2026-04-19"
  },
  "data": {
@@ -65,7 +65,6 @@
      "10:30 PM",
      "7:00 PM",
      "10:15 PM",
-     "3:00 PM",
      "6:15 PM",
      "9:30 PM"
     ],
@@ -110,7 +109,6 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:00 PM",
      "9:45 PM"
     ],
@@ -152,7 +150,6 @@
     "title": "Faces of Death (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -227,7 +224,6 @@
      "8:00 PM",
      "10:30 PM",
      "6:15 PM",
-     "3:30 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -256,7 +252,6 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "3:00 PM",
      "4:30 PM",
      "5:30 PM",
      "8:00 PM",
@@ -297,7 +292,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "4:30 PM",
      "6:45 PM",
      "9:15 PM"
@@ -390,7 +384,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:25 PM",
      "4:25 PM",
      "6:15 PM",
      "7:15 PM"
@@ -420,7 +413,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "3:45 PM",
      "6:00 PM",
      "7:00 PM"
@@ -517,21 +509,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -558,6 +535,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -851,7 +842,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "7:45 PM",
      "10:00 PM"
     ],
@@ -892,7 +882,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:15 PM",
      "7:40 PM",
      "10:00 PM"
@@ -908,7 +897,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "5:15 PM",
      "7:40 PM",
      "10:00 PM"
@@ -970,7 +958,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
