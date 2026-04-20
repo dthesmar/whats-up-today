@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T10:58:51.534300",
+  "scraped_at": "2026-04-20T13:20:50.517934",
   "date": "2026-04-25"
  },
  "data": {
@@ -231,43 +231,9 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
-    "showtimes": [
-     "7:15pm"
-    ],
+    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
-   {
-    "title": "Aliens (Director\u2019s Cut)",
-    "synopsis": "40th anniversary screening!",
-    "showtimes": [
-     "11:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/aliens-directors-cut",
-    "rating": "",
-    "runtime": "2hrs 34mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Aliens%20new%20site.jpg"
-   },
-   {
-    "title": "The Day of the Triffids",
-    "synopsis": "Free screening!",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/day-triffids",
-    "rating": "",
-    "runtime": "1hr 33mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Day_Triffids_1962_6%20copy.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
@@ -568,17 +534,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "title": "SUEDE",
-    "synopsis": "",
-    "showtimes": [
-     "One Show at 7pm"
-    ],
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/event/suede-scullers-jazz-club-tickets/14078174?pl=scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/1/2026-01-13T17-34-02_Suede%20Promo%20Photo%202025-StandardPoster.jpg"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
