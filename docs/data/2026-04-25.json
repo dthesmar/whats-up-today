@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T13:20:50.517934",
+  "scraped_at": "2026-04-20T15:54:06.184053",
   "date": "2026-04-25"
  },
  "data": {
@@ -72,7 +72,6 @@
      "4:15 PM",
      "7:30 PM",
      "10:30 PM",
-     "12:00 PM",
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
@@ -206,6 +205,123 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Shorts Arlington: Narrative",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-arlington-narrative/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Shorts Dartmouth: Narrative",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-dartmouth-narrative/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "The Last Critic",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-last-critic/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/last-critic-600x897.jpg"
+   },
+   {
+    "title": "Shorts Mass Ave: Documentary",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-mass-ave-documentary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Nuns vs. Vatican",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/nuns-vs-vatican/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/nuns-vs-vatican-600x889.jpg"
+   },
+   {
+    "title": "Your Attention Please",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/your-attention-please/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/your-attention-please-600x900.jpg"
+   },
+   {
+    "title": "Ali Eats America",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/ali-eats-america/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/ali-eats-america.jpg"
+   },
+   {
+    "title": "Remake",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/remake/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/remake-600x900.jpg"
+   },
+   {
+    "title": "The Great Experiment",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-great-experiment/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/great-experiment-600x900.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -231,9 +347,43 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Mother Mary",
+    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "showtimes": [
+     "7:15pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mother-mary",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
+   },
+   {
+    "title": "Aliens (Director\u2019s Cut)",
+    "synopsis": "40th anniversary screening!",
+    "showtimes": [
+     "11:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/aliens-directors-cut",
+    "rating": "",
+    "runtime": "2hrs 34mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Aliens%20new%20site.jpg"
+   },
+   {
+    "title": "The Day of the Triffids",
+    "synopsis": "Free screening!",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/day-triffids",
+    "rating": "",
+    "runtime": "1hr 33mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Day_Triffids_1962_6%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -534,9 +684,17 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "title": "SUEDE",
+    "synopsis": "",
+    "showtimes": [
+     "One Show at 7pm"
+    ],
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://www.ticketweb.com/event/suede-scullers-jazz-club-tickets/14078174?pl=scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/1/2026-01-13T17-34-02_Suede%20Promo%20Photo%202025-StandardPoster.jpg"
    }
   ],
   "Regattabar": [

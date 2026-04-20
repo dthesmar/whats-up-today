@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T12:26:44.203524",
+  "scraped_at": "2026-04-20T15:53:34.322262",
   "date": "2026-04-20"
  },
  "data": {
@@ -23,7 +23,6 @@
     "title": "Busboys (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -37,7 +36,6 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:30 PM",
      "7:30 PM",
      "9:45 PM"
@@ -69,8 +67,6 @@
      "10:15 PM",
      "6:00 PM",
      "9:30 PM",
-     "12:00 PM",
-     "3:15 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -84,7 +80,6 @@
     "title": "Lorne (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:30 PM",
      "7:15 PM",
      "10:15 PM"
@@ -100,8 +95,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
      "8:00 PM",
      "10:30 PM"
     ],
@@ -116,7 +109,6 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "4:45 PM",
      "6:00 PM",
      "10:00 PM"
@@ -145,7 +137,6 @@
     "title": "Bhooth Bangla (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "5:45 PM",
      "9:30 PM"
     ],
@@ -160,7 +151,6 @@
     "title": "Faces of Death (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -188,7 +178,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "4:00 PM",
      "6:45 PM",
      "9:45 PM"
@@ -204,7 +193,6 @@
     "title": "Dacoit: A Love Story (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -218,7 +206,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -234,13 +221,9 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:00 PM",
-     "1:45 PM",
      "6:15 PM",
      "9:00 PM"
     ],
@@ -255,7 +238,6 @@
     "title": "Palestine '36 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -269,10 +251,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "1:00 PM",
-     "2:00 PM",
-     "3:15 PM",
      "6:00 PM",
      "9:45 PM"
     ],
@@ -287,7 +265,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:30 PM",
      "10:00 PM"
     ],
@@ -302,7 +279,6 @@
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "8:40 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -316,9 +292,7 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "6:00 PM",
-     "3:15 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -344,9 +318,7 @@
    {
     "title": "Ferris Bueller's Day Off (1986)",
     "synopsis": "",
-    "showtimes": [
-     "1:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/ferris-buellers-day-off-1986-28124/movie-overview",
@@ -415,7 +387,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:25 PM",
      "4:25 PM",
      "7:15 PM"
     ],
@@ -430,7 +401,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:20 PM",
      "4:35 PM",
      "7:10 PM"
     ],
@@ -476,7 +446,6 @@
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "5:00 pm",
      "7:30 pm"
     ],
@@ -516,10 +485,23 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
     "title": "Fantasy Life",
     "synopsis": "",
     "showtimes": [
-     "12:15 pm",
      "4:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -533,8 +515,6 @@
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "12:20 pm",
-     "2:40 pm",
      "5:00 pm",
      "7:30 pm"
     ],
@@ -546,27 +526,9 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "3:10 pm",
-     "5:30 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "12:40 pm",
-     "3:00 pm",
      "5:20 pm",
      "7:45 pm"
     ],
@@ -578,25 +540,23 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
-    "title": "Project Hail Mary",
+    "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:15 pm"
+     "5:30 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -836,9 +796,7 @@
    {
     "title": "The India Experience: Season 1",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-india-experience-season-1-245119/movie-overview",
@@ -850,7 +808,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "9:10 PM",
@@ -867,8 +824,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "3:15 PM",
      "7:45 PM",
      "10:00 PM"
     ],
@@ -909,8 +864,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:20 PM",
-     "3:00 PM",
      "5:15 PM",
      "7:40 PM",
      "10:00 PM"
@@ -926,8 +879,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:20 PM",
-     "2:45 PM",
      "5:15 PM",
      "7:40 PM",
      "10:00 PM"
@@ -943,8 +894,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
-     "2:30 PM",
      "4:45 PM",
      "5:30 PM",
      "7:00 PM",
@@ -962,8 +911,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "2:30 PM",
      "4:15 PM",
      "6:00 PM",
      "9:30 PM"
@@ -992,8 +939,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "3:30 PM",
      "6:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
