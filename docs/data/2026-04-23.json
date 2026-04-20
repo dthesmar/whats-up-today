@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T20:20:13.889159",
+  "scraped_at": "2026-04-20T09:57:26.425372",
   "date": "2026-04-23"
  },
  "data": {
@@ -97,7 +97,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
     "rating": "PG13",
-    "runtime": "",
+    "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
    },
    {
@@ -228,7 +228,7 @@
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
     "rating": "PG13",
-    "runtime": "",
+    "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
    },
    {
@@ -367,6 +367,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
+    "title": "Make Me Famous",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/POSTER-1080x1572-Orange-2-600x873.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -607,56 +620,59 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Up",
-    "synopsis": "Director: Pete Docter Run Time: 96 min. Format: DCP Release Year: 2009",
+    "title": "The Muppet Movie",
+    "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
     "showtimes": [
-     "12:00 pm"
+     "12:00 pm 35mm",
+     "4:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/up/",
+    "url": "https://brattlefilm.org/movies/the-muppet-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133336/hGGC9gKo7CFE3fW07RA587e5kol-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/04125248/9mbXZSLINbwNQateHLGRhtaZzZB.jpg"
    },
    {
-    "title": "RPM Presents \"For All Audiences\": Films by Josh Weissbach",
-    "synopsis": "Run Time: 90 min.",
+    "title": "The Dark Crystal",
+    "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
     "showtimes": [
-     "2:00 pm"
+     "2:15 pm 35mm",
+     "6:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/rpm-presents-for-all-audiences-films-by-josh-weissbach/",
+    "url": "https://brattlefilm.org/movies/the-dark-crystal/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/08102233/06_601_02.png"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/02131827/dark-crystal-11.jpg"
    },
    {
-    "title": "Sound of Falling",
-    "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
+    "title": "Labyrinth",
+    "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
     "showtimes": [
-     "4:00 pm"
+     "4:30 pm",
+     "8:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/sound-of-falling/",
+    "url": "https://brattlefilm.org/movies/labyrinth/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29132736/oz5DLjcI66iDpOdKU7QG9JrGARe-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
    },
    {
-    "title": "My Father's Shadow",
-    "synopsis": "Director: Akinola Davies Jr. Run Time: 93 min. Format: DCP Release Year: 2025",
+    "title": "Galaxy Quest",
+    "synopsis": "Director: Dean Parisot Run Time: 102 min. Format: 4K DCP Release Year: 1999",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/my-fathers-shadow/",
+    "url": "https://brattlefilm.org/movies/galaxy-quest/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133649/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -669,10 +685,33 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "title": "The India Experience: Season 1",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-23"
+    "url": "https://www.fandango.com/the-india-experience-season-1-245119/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -681,8 +720,9 @@
     "synopsis": "",
     "showtimes": [
      "10:45AM",
-     "12:25PM",
+     "11:45AM",
      "2:25PM",
+     "3:30PM",
      "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -699,7 +739,7 @@
      "10:55AM",
      "1:30PM",
      "4:05PM",
-     "6:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -772,19 +812,6 @@
     "poster": ""
    },
    {
-    "title": "Bridesmaids: 15th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "CWX Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -830,9 +857,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [

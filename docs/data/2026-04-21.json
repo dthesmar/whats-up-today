@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T20:03:12.976056",
+  "scraped_at": "2026-04-20T09:57:13.885497",
   "date": "2026-04-21"
  },
  "data": {
@@ -709,56 +709,59 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Up",
-    "synopsis": "Director: Pete Docter Run Time: 96 min. Format: DCP Release Year: 2009",
+    "title": "The Muppet Movie",
+    "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
     "showtimes": [
-     "12:00 pm"
+     "12:00 pm 35mm",
+     "4:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/up/",
+    "url": "https://brattlefilm.org/movies/the-muppet-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133336/hGGC9gKo7CFE3fW07RA587e5kol-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/04125248/9mbXZSLINbwNQateHLGRhtaZzZB.jpg"
    },
    {
-    "title": "RPM Presents \"For All Audiences\": Films by Josh Weissbach",
-    "synopsis": "Run Time: 90 min.",
+    "title": "The Dark Crystal",
+    "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
     "showtimes": [
-     "2:00 pm"
+     "2:15 pm 35mm",
+     "6:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/rpm-presents-for-all-audiences-films-by-josh-weissbach/",
+    "url": "https://brattlefilm.org/movies/the-dark-crystal/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/08102233/06_601_02.png"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/02131827/dark-crystal-11.jpg"
    },
    {
-    "title": "Sound of Falling",
-    "synopsis": "Director: Mascha Schilinski Run Time: 149 min. Format: DCP Release Year: 2025 Language: German with English subtitles",
+    "title": "Labyrinth",
+    "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
     "showtimes": [
-     "4:00 pm"
+     "4:30 pm",
+     "8:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/sound-of-falling/",
+    "url": "https://brattlefilm.org/movies/labyrinth/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29132736/oz5DLjcI66iDpOdKU7QG9JrGARe-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
    },
    {
-    "title": "My Father's Shadow",
-    "synopsis": "Director: Akinola Davies Jr. Run Time: 93 min. Format: DCP Release Year: 2025",
+    "title": "Galaxy Quest",
+    "synopsis": "Director: Dean Parisot Run Time: 102 min. Format: 4K DCP Release Year: 1999",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/my-fathers-shadow/",
+    "url": "https://brattlefilm.org/movies/galaxy-quest/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/29140035/4eo6xojA8OPoGlN72PfNwHf8f7i-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133649/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -983,8 +986,9 @@
     "synopsis": "",
     "showtimes": [
      "10:45AM",
-     "12:25PM",
+     "11:45AM",
      "2:25PM",
+     "3:30PM",
      "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1001,7 +1005,7 @@
      "10:55AM",
      "1:30PM",
      "4:05PM",
-     "6:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1069,19 +1073,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Bridesmaids: 15th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
     "rating": "",
     "runtime": "",
     "poster": ""
