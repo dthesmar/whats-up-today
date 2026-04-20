@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T19:02:10.679983",
+  "scraped_at": "2026-04-19T20:20:13.889159",
   "date": "2026-04-23"
  },
  "data": {
@@ -367,36 +367,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Make Me Famous",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/POSTER-1080x1572-Orange-2-600x873.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
+    "title": "Fantasy Life",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:15 pm"
+     "12:15 pm",
+     "4:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
    },
    {
     "title": "The Super Mario Galaxy Movie",
@@ -447,18 +433,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
-    "title": "Fantasy Life",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "12:15 pm",
-     "4:45 pm"
+     "12:45 pm",
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The AI Doc: Or How I Became an Apocaloptimist",
@@ -682,33 +669,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "The India Experience: Season 1",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-india-experience-season-1-245119/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-23"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -866,10 +830,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [

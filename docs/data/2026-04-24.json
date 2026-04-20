@@ -1,171 +1,23 @@
 {
  "meta": {
-  "scraped_at": "2026-04-19T19:02:21.079623",
+  "scraped_at": "2026-04-19T21:10:02.129885",
   "date": "2026-04-24"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Whisper of the Heart",
-    "synopsis": "",
-    "showtimes": [
-     "10:20 PM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-04-24\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/whisper-of-the-heart-99357/movie-overview",
-    "rating": "G",
-    "runtime": "1 hr 51 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/99357/Whisper_Of_The_Heart.jpg"
-   },
-   {
-    "title": "Desert Warrior (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/desert-warrior-2026-244879/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 54 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244879/desert_warrior_presale.jpg"
-   },
-   {
-    "title": "Fuze (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 PM",
-     "7:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/fuze-2026-244807/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244807/FUZ_KEY_PayOff_1Sht_2025x3000_089_F3.jpg"
-   },
-   {
-    "title": "I Swear (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "4:15 PM",
-     "7:15 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/i-swear-2026-243876/movie-overview",
-    "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243876/iswear-1080x1600.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "4:00 PM",
-     "7:15 PM",
-     "10:30 PM",
-     "12:00 PM",
-     "3:00 PM",
-     "6:15 PM",
-     "9:30 PM",
-     "2:00 PM",
-     "5:15 PM",
-     "8:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
-   },
-   {
-    "title": "Lee Cronin's The Mummy (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "4:00 PM",
-     "7:15 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 PM",
-     "3:15 PM",
-     "7:30 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "11:30 AM",
-     "3:45 PM",
-     "6:15 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "2:15 PM",
-     "6:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-04-24"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:55 PM",
-     "6:45 PM",
-     "9:35 PM"
-    ],
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-04-24"
    }
   ],
   "Somerville Theatre": [
@@ -260,34 +112,14 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Make Me Famous",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/POSTER-1080x1572-Orange-2-600x873.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breakfast Club",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breakfast-club/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-2-600x910.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -388,7 +220,7 @@
   "Harvard Film Archive": [
    {
     "title": "Damnation",
-    "synopsis": "Tarr made a dramatic stylistic and critical breakthrough with this brooding and visually striking study of desolation and betrayal set in small-town Hungary, tracing the cruel love triangle that emerges between a taciturn loner, a nightclub singer and her smuggler husband. The first of five features written with noveli\u2026",
+    "synopsis": "Tarr / Krasznahorkai",
     "showtimes": [
      "7:00 pm"
     ],
@@ -401,7 +233,7 @@
    },
    {
     "title": "Assassination",
-    "synopsis": "\u201cA man should live any way he wants,\u201d comments samurai Kiyokawa (the charismatic Tanba Tetsuro); \u201cwhat else is there?\u201d Assassination resembles Pale Flower: both films map out a strange and fascinating transitional territory between traditional genre cinema and a more critical, free-wheeling mode. The storytelling of As\u2026",
+    "synopsis": "Sixties Shinoda",
     "showtimes": [
      "9:15 pm"
     ],
@@ -415,20 +247,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-24\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-24"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -651,38 +473,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "title": "Dee Dee Bridgewater + Bill Charlap",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM (Sold Out)"
-    ],
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/85/11/04_Listings.jpg?v=7"
-   },
-   {
-    "title": "Dee Dee Bridgewater + Bill Charlap",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/85/11/04_Listings.jpg?v=7"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -711,10 +511,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
