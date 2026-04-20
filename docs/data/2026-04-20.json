@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T18:01:38.999595",
+  "scraped_at": "2026-04-20T19:03:53.899138",
   "date": "2026-04-20"
  },
  "data": {
@@ -61,7 +61,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "6:00 PM",
      "9:30 PM",
      "8:00 PM"
     ],
@@ -104,7 +103,6 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -129,7 +127,6 @@
     "title": "Bhooth Bangla (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:45 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -211,7 +208,6 @@
     "showtimes": [
      "7:15 PM",
      "10:00 PM",
-     "6:15 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -238,7 +234,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -252,7 +247,6 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -279,7 +273,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -331,9 +324,7 @@
    {
     "title": "Mile End Kicks (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:40 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/mile-end-kicks-2026-245018/movie-overview",
@@ -397,7 +388,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -422,19 +412,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Watching Mr. Pearson",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/watching-mr-pearson/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-10-600x889.jpg"
-   },
    {
     "title": "The Drama",
     "synopsis": "",
@@ -463,19 +440,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
-   },
    {
     "title": "Project Hail Mary",
     "synopsis": "",
@@ -872,7 +836,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -896,9 +859,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",

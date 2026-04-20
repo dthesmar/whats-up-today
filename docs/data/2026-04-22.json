@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T18:02:12.256231",
+  "scraped_at": "2026-04-20T19:04:23.498413",
   "date": "2026-04-22"
  },
  "data": {
@@ -143,8 +143,7 @@
      "12:00 PM",
      "3:30 PM",
      "5:30 PM",
-     "7:45 PM",
-     "10:15 PM"
+     "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -529,20 +528,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -607,6 +592,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
    },
    {
     "title": "Fantasy Life",
