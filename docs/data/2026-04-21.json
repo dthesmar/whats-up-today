@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T20:06:25.635207",
+  "scraped_at": "2026-04-21T02:29:21.612546",
   "date": "2026-04-21"
  },
  "data": {
@@ -715,7 +715,6 @@
     "title": "The Muppet Movie",
     "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
     "showtimes": [
-     "12:00 pm 35mm",
      "4:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -729,7 +728,6 @@
     "title": "The Dark Crystal",
     "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
     "showtimes": [
-     "2:15 pm 35mm",
      "6:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -743,7 +741,6 @@
     "title": "Labyrinth",
     "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
     "showtimes": [
-     "4:30 pm",
      "8:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -752,19 +749,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
-   },
-   {
-    "title": "Galaxy Quest",
-    "synopsis": "Director: Dean Parisot Run Time: 102 min. Format: 4K DCP Release Year: 1999",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/galaxy-quest/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133649/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
    }
   ],
   "Harvard Film Archive": [

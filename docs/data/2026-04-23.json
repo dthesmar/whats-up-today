@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T20:06:59.191261",
+  "scraped_at": "2026-04-21T02:29:47.908564",
   "date": "2026-04-23"
  },
  "data": {
@@ -23,8 +23,8 @@
     "synopsis": "",
     "showtimes": [
      "12:30 PM",
-     "9:30 PM",
-     "6:45 PM"
+     "6:45 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -32,6 +32,19 @@
     "rating": "PG-13",
     "runtime": "1 hr 35 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
+   },
+   {
+    "title": "Two Prosecutors (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244534/Two%20Prosecutors.jpg"
    },
    {
     "title": "Whisper of the Heart",
@@ -135,6 +148,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
    },
    {
+    "title": "Fight Club 4K Remaster (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 19 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245067/fightclub_presale.jpg"
+   },
+   {
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
@@ -168,7 +194,8 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM"
+     "12:15 PM",
+     "3:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -246,7 +273,7 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
+     "12:00 PM",
      "3:30 PM",
      "7:30 PM",
      "10:15 PM"
@@ -262,11 +289,11 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM",
+     "9:00 PM",
+     "12:00 PM",
      "4:00 PM",
      "6:00 PM",
-     "9:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -336,9 +363,7 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "12:30 PM",
-     "2:45 PM",
      "3:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -368,7 +393,9 @@
     "synopsis": "",
     "showtimes": [
      "4:00 PM",
-     "7:00 PM"
+     "4:30 PM",
+     "7:00 PM",
+     "7:30 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -376,6 +403,20 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 PM",
+     "7:20 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
    },
    {
     "title": "The Christophers (2026)",
@@ -409,8 +450,9 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
-     "7:10 PM"
+     "3:20 PM",
+     "4:05 PM",
+     "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -424,6 +466,7 @@
     "synopsis": "",
     "showtimes": [
      "3:45 PM",
+     "6:05 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -432,6 +475,20 @@
     "rating": "PG13",
     "runtime": "2 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:10 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -785,7 +842,6 @@
     "title": "The Muppet Movie",
     "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
     "showtimes": [
-     "12:00 pm 35mm",
      "4:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -799,7 +855,6 @@
     "title": "The Dark Crystal",
     "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
     "showtimes": [
-     "2:15 pm 35mm",
      "6:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -813,7 +868,6 @@
     "title": "Labyrinth",
     "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
     "showtimes": [
-     "4:30 pm",
      "8:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -822,19 +876,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
-   },
-   {
-    "title": "Galaxy Quest",
-    "synopsis": "Director: Dean Parisot Run Time: 102 min. Format: 4K DCP Release Year: 1999",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/galaxy-quest/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133649/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -874,6 +915,40 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+   },
+   {
+    "title": "Lee Cronin's The Mummy (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
+     "7:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [

@@ -1,14 +1,44 @@
 {
  "meta": {
-  "scraped_at": "2026-04-20T20:07:16.480658",
+  "scraped_at": "2026-04-21T02:30:01.360812",
   "date": "2026-04-24"
  },
  "data": {
   "AMC Boston Common 19": [
    {
+    "title": "Exit 8 (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "5:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
+    "rating": "PG-13",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
+   },
+   {
+    "title": "Two Prosecutors (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244534/Two%20Prosecutors.jpg"
+   },
+   {
     "title": "Whisper of the Heart",
     "synopsis": "",
     "showtimes": [
+     "1:00 PM",
      "10:20 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -24,8 +54,7 @@
     "showtimes": [
      "1:00 PM",
      "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -76,9 +105,15 @@
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
-     "2:00 PM",
+     "1:30 PM",
+     "4:45 PM",
+     "8:00 PM",
+     "11:30 AM",
      "5:15 PM",
-     "8:30 PM"
+     "8:30 PM",
+     "2:00 PM",
+     "3:30 PM",
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -86,6 +121,35 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/michael_presalebanner.jpg"
+   },
+   {
+    "title": "Over Your Dead Body (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/over-your-dead-body-2026-244782/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
+   },
+   {
+    "title": "Fight Club 4K Remaster (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 19 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245067/fightclub_presale.jpg"
    },
    {
     "title": "Lee Cronin's The Mummy (2026)",
@@ -104,10 +168,41 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
+    "title": "Lorne (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_Official_Poster.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:15 PM",
+     "6:00 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM"
+     "11:30 AM",
+     "5:30 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -117,11 +212,52 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
    },
    {
+    "title": "The Christophers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
+   },
+   {
+    "title": "Bhooth Bangla (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
+   },
+   {
+    "title": "You, Me & Tuscany (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "6:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 44 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
+   },
+   {
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
      "12:15 PM",
      "3:15 PM",
+     "5:30 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -136,7 +272,9 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
+     "2:15 PM",
+     "11:30 AM",
+     "12:45 PM",
      "3:45 PM",
      "6:15 PM",
      "10:30 PM"
@@ -154,7 +292,9 @@
     "showtimes": [
      "12:00 PM",
      "2:15 PM",
+     "4:00 PM",
      "6:30 PM",
+     "8:30 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -163,6 +303,33 @@
     "rating": "PG13",
     "runtime": "2 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Ready or Not 2: Here I Come (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
+   },
+   {
+    "title": "Hoppers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:45 AM",
+     "4:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -411,7 +578,6 @@
     "title": "The Muppet Movie",
     "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
     "showtimes": [
-     "12:00 pm 35mm",
      "4:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -425,7 +591,6 @@
     "title": "The Dark Crystal",
     "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
     "showtimes": [
-     "2:15 pm 35mm",
      "6:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -439,7 +604,6 @@
     "title": "Labyrinth",
     "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
     "showtimes": [
-     "4:30 pm",
      "8:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -448,19 +612,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
-   },
-   {
-    "title": "Galaxy Quest",
-    "synopsis": "Director: Dean Parisot Run Time: 102 min. Format: 4K DCP Release Year: 1999",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/galaxy-quest/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04133649/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg"
    }
   ],
   "Harvard Film Archive": [
