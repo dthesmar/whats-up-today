@@ -1,881 +1,73 @@
 {
  "meta": {
-  "scraped_at": "2026-04-21T22:04:39.713256",
+  "scraped_at": "2026-04-22T09:53:17.377727",
   "date": "2026-04-23"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Busboys (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 PM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-kJc7Dz --remote-debugging-pipe --no-startup-window\n  - <launched> pid=25710\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/busboys-2026-244794/movie-overview",
-    "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244794/busboys-POSTER_FINAL_DIGITAL.jpg"
-   },
-   {
-    "title": "Exit 8 (2025)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "6:45 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
-    "rating": "PG-13",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
-   },
-   {
-    "title": "Two Prosecutors (2025)",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 58 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244534/Two%20Prosecutors.jpg"
-   },
-   {
-    "title": "Whisper of the Heart",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/whisper-of-the-heart-99357/movie-overview",
-    "rating": "G",
-    "runtime": "1 hr 51 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/99357/Whisper_Of_The_Heart.jpg"
-   },
-   {
-    "title": "Desert Warrior (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/desert-warrior-2026-244879/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 54 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244879/desert_warrior_presale.jpg"
-   },
-   {
-    "title": "Fuze (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 PM",
-     "7:45 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/fuze-2026-244807/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244807/FUZ_KEY_PayOff_1Sht_2025x3000_089_F3.jpg"
-   },
-   {
-    "title": "I Swear (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/i-swear-2026-243876/movie-overview",
-    "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243876/iswear-1080x1600.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "4:00 PM",
-     "7:15 PM",
-     "10:30 PM",
-     "12:00 PM",
-     "3:00 PM",
-     "6:15 PM",
-     "9:30 PM",
-     "1:30 PM",
-     "4:45 PM",
-     "8:00 PM",
-     "2:00 PM",
-     "5:15 PM",
-     "8:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Over Your Dead Body (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/over-your-dead-body-2026-244782/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
-   },
-   {
-    "title": "Fight Club 4K Remaster (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 19 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245067/FightClub_Payoff_1Sht_27x40_M01.jpg"
-   },
-   {
-    "title": "Lee Cronin's The Mummy (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:30 PM",
-     "7:00 PM",
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
-   },
-   {
-    "title": "Lorne (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "3:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_Official_Poster.jpg"
-   },
-   {
-    "title": "Normal (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 PM",
-     "3:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 31 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
-   },
-   {
-    "title": "The Christophers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 40 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
-   },
-   {
-    "title": "Bhooth Bangla (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 53 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
-   },
-   {
-    "title": "Hamlet (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/hamlet-2026-244098/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 54 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244098/HMLT_Vertical_Alt_2000x3000_sRGB_72dpi_V1_Type_HR.jpg"
-   },
-   {
-    "title": "You, Me & Tuscany (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 44 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
-   },
-   {
-    "title": "Dacoit: A Love Story (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/dacoit-a-love-story-2026-243815/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243815/Dacoit-Hindi.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:30 PM",
-     "7:30 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "9:00 PM",
-     "12:00 PM",
-     "4:00 PM",
-     "6:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
-   },
-   {
-    "title": "Palestine '36 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/palestine-36-2026-242871/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 55 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242871/Palestine36_OneSheet_Digital.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "1:00 PM",
-     "2:45 PM",
-     "6:30 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
-   },
-   {
-    "title": "Ready or Not 2: Here I Come (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
-   },
-   {
-    "title": "Dhurandhar: The Revenge (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "8:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "3 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg"
-   },
-   {
-    "title": "Hoppers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "3:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
-   },
-   {
-    "title": "Ferris Bueller's Day Off (1986)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/ferris-buellers-day-off-1986-28124/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 43 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/28124/ferris.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-04-23"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM",
-     "4:30 PM",
-     "7:00 PM",
-     "7:30 PM"
-    ],
+    "error": "Kendall Square Cinema (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-BLKXxk --remote-debugging-pipe --no-startup-window\n  - <launched> pid=25711\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Mother Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 PM",
-     "7:20 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
-   },
-   {
-    "title": "The Christophers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 PM",
-     "6:50 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 40 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:25 PM",
-     "7:15 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:20 PM",
-     "4:05 PM",
-     "6:40 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM",
-     "6:05 PM",
-     "7:05 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
-   },
-   {
-    "title": "Hoppers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:10 PM",
-     "6:50 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-04-23"
    }
   ],
   "Somerville Theatre": [
    {
-    "title": "Shorts Gloucester: Documentary",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-gloucester-documentary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "Shorts Berkeley: Narrative",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-berkeley-narrative/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "First They Came For My College",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/first-they-came-for-my-college/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/first-they-came-for-my-college-600x795.jpg"
-   },
-   {
-    "title": "The Last Yztari",
-    "synopsis": "",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-last-yztari/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/last-yztari-600x1088.jpg"
-   },
-   {
-    "title": "Shorts Exeter: Narrative",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-exeter-narrative/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
-   },
-   {
-    "title": "Make Me Famous",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/POSTER-1080x1572-Orange-2-600x873.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Fantasy Life",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 pm",
-     "4:45 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fantasy-life/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-14-600x875.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:20 pm",
-     "2:40 pm",
-     "5:00 pm",
-     "7:30 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "3:10 pm",
-     "5:30 pm",
-     "7:40 pm",
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "3:00 pm",
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "The AI Doc: Or How I Became an Apocaloptimist",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-ai-doc-or-how-i-became-an-apocaloptimist/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-11-600x889.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "12:00pm",
-     "3:45pm",
-     "7:45pm"
-    ],
+    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
-    "title": "Exit 8",
-    "synopsis": "Based on the global hit eponymous video game created by KOTAKE CREATE.",
-    "showtimes": [
-     "1:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/exit-8",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EXIT8_Still1_Yamato%20Ko%CC%82chi_Courtesy%20of%20NEON.jpg"
-   },
-   {
-    "title": "The Stranger (2025)",
-    "synopsis": "Fran\u00e7ois Ozon\u2019s new take on Albert Camus\u2019s classic novel of existentialist ennui.",
-    "showtimes": [
-     "1:30pm",
-     "3:30pm",
-     "9:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stranger-2025",
-    "rating": "",
-    "runtime": "2hrs 2mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The-Stranger_Still-3_72dpi.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
-    "showtimes": [
-     "1:45pm",
-     "4:15pm",
-     "6:30pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/drama",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
-   },
-   {
-    "title": "The Christophers",
-    "synopsis": "The new film from Steven Soderbergh, starring Ian McKellen and Michaela Coel.",
-    "showtimes": [
-     "2:00pm",
-     "5:00pm",
-     "7:15pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/christophers",
-    "rating": "",
-    "runtime": "1hr 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/the%2Bchristophers.jpeg"
-   },
-   {
-    "title": "Fantasy Life",
-    "synopsis": "An actress (Amanda Peet) falls for the anxious law school dropout (Matthew Shear) babysitting her kids in this smart, New York-set romantic comedy.",
-    "showtimes": [
-     "2:15pm",
-     "7:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/fantasy-life",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/fantasy_life_poster_still.jpeg"
-   },
-   {
-    "title": "Hamlet (2025)",
-    "synopsis": "Shakespeare\u2019s most enduring tragedy is reimagined in a bold, modern adaptation set within London\u2019s elite South Asian community.",
-    "showtimes": [
-     "4:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/hamlet-2025",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hamlet_R3_still_UHD_0280505.jpg"
-   },
-   {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
-    "showtimes": [
-     "6:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
-   {
-    "title": "All My Sons (2026)",
-    "synopsis": "Bryan Cranston and Marianne Jean-Baptiste feature in the acclaimed new production of Arthur Miller\u2019s classic play, from visionary director Ivo Van Hove.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/all-my-sons-2026",
-    "rating": "",
-    "runtime": "3hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/NTL%202026%20All%20My%20Sons%20Production%20Photography%20%28credit%20Jan%20Versweyveld%29%208.jpg"
-   },
-   {
-    "title": "Island of Lost Souls and The Leopard Man Double Feature",
-    "synopsis": "Both in 35mm, presented by the Salem Horror Fest!",
-    "showtimes": [
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/island-lost-souls-and-leopard-man-double-feature",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/island%20of%20lost%20sould%20leopard%20man%20doubvle%20feature.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "The Muppet Movie",
-    "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
+    "title": "Harvard Book Store Presents Maria Semple",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "4:00 pm 35mm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-muppet-movie/",
+    "url": "https://brattlefilm.org/special_events/maria-semple/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/04125248/9mbXZSLINbwNQateHLGRhtaZzZB.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04105903/image-1.jpeg"
    },
    {
-    "title": "The Dark Crystal",
-    "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
+    "title": "The Right Stuff",
+    "synopsis": "Director: Philip Kaufman Run Time: 193 min. Format: 35mm Film Release Year: 1983",
     "showtimes": [
-     "6:15 pm 35mm"
+     "8:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-dark-crystal/",
+    "url": "https://brattlefilm.org/movies/the-right-stuff/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/02131827/dark-crystal-11.jpg"
-   },
-   {
-    "title": "Labyrinth",
-    "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/labyrinth/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04140021/jPdRlbRBHGl2POLLk6Oylbav7ac-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -888,221 +80,35 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "The India Experience: Season 1",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-Y3542e --remote-debugging-pipe --no-startup-window\n  - <launched> pid=25712\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-india-experience-season-1-245119/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
-   {
-    "title": "I Swear (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/i-swear-2026-243876/movie-overview",
-    "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243876/iswear-1080x1600.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "4:00 PM",
-     "6:00 PM",
-     "7:00 PM",
-     "9:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Lee Cronin's The Mummy (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
-   },
-   {
-    "title": "Mother Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 PM",
-     "7:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
-   },
-   {
-    "title": "Normal (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 31 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
-   },
-   {
-    "title": "Bhooth Bangla (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:15 AM",
-     "9:50 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 53 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
-   },
-   {
-    "title": "You, Me & Tuscany (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:20 PM",
-     "2:45 PM",
-     "7:40 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 44 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:20 AM",
-     "12:45 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "11:00 AM",
-     "1:30 PM",
-     "10:00 AM",
-     "12:15 PM",
-     "2:30 PM",
-     "4:45 PM",
-     "5:30 PM",
-     "7:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "11:00 AM",
-     "1:30 PM",
-     "2:30 PM",
-     "6:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
-   },
-   {
-    "title": "Dhurandhar: The Revenge (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "3 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244687/dhurandhartherevenge-4-x-5-Red-Rain-MG-Poster.jpg"
-   },
-   {
-    "title": "Hoppers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "3:00 PM",
-     "5:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-04-23"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "1:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "10:40AM",
-     "11:20AM",
+     "10:45AM",
+     "11:45AM",
      "2:25PM",
-     "3:00PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1128,44 +134,13 @@
     "poster": ""
    },
    {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM",
-     "1:30PM",
-     "4:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM",
-     "2:15PM",
-     "4:40PM",
-     "6:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Lee Cronin's The Mummy",
     "synopsis": "",
     "showtimes": [
      "11:05AM",
-     "1:40PM",
-     "4:50PM",
-     "7:00PM"
+     "12:00PM",
+     "3:25PM",
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1191,14 +166,18 @@
     "poster": ""
    },
    {
-    "title": "Bridesmaids: 15th Anniversary",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "6:30PM"
+     "2:15PM",
+     "3:45PM",
+     "4:45PM",
+     "6:30PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1207,11 +186,24 @@
     "title": "CWX Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "6:50PM"
+     "3:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Michael Early Access",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael-early-access",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1262,25 +254,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-IhjpFr --remote-debugging-pipe --no-startup-window\n  - <launched> pid=25717\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "title": "Billy Hart Quartet featuring Ethan Iverson, Ben Street and Nicole Glover",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-CH8LVn --remote-debugging-pipe --no-startup-window\n  - <launched> pid=25720\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/37/95/13_Listings.jpg?v=4"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [

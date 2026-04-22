@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-21T22:05:48.503850",
+  "scraped_at": "2026-04-22T10:37:07.261802",
   "date": "2026-04-28"
  },
  "data": {
@@ -611,43 +611,30 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Muppet Movie",
-    "synopsis": "Director: James Frawley Run Time: 95 min. Format: 35mm Film Release Year: 1979",
+    "title": "Harvard Book Store Presents Maria Semple",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "4:00 pm 35mm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-muppet-movie/",
+    "url": "https://brattlefilm.org/special_events/maria-semple/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/04125248/9mbXZSLINbwNQateHLGRhtaZzZB.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04105903/image-1.jpeg"
    },
    {
-    "title": "The Dark Crystal",
-    "synopsis": "Director: Frank Oz, Jim Henson Run Time: 93 min. Format: 35mm Film Release Year: 1982",
+    "title": "The Right Stuff",
+    "synopsis": "Director: Philip Kaufman Run Time: 193 min. Format: 35mm Film Release Year: 1983",
     "showtimes": [
-     "6:15 pm 35mm"
+     "8:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-dark-crystal/",
+    "url": "https://brattlefilm.org/movies/the-right-stuff/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/08/02131827/dark-crystal-11.jpg"
-   },
-   {
-    "title": "Labyrinth",
-    "synopsis": "Director: Jim Henson Run Time: 102 min. Format: 4K DCP Release Year: 1986",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/labyrinth/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/21103241/labyrinth-22-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04140021/jPdRlbRBHGl2POLLk6Oylbav7ac-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -668,13 +655,27 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "CWX The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "1:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "10:40AM",
-     "11:20AM",
+     "10:45AM",
+     "11:45AM",
      "2:25PM",
-     "3:00PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -700,44 +701,13 @@
     "poster": ""
    },
    {
-    "title": "CWX The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM",
-     "1:30PM",
-     "4:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM",
-     "2:15PM",
-     "4:40PM",
-     "6:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Lee Cronin's The Mummy",
     "synopsis": "",
     "showtimes": [
      "11:05AM",
-     "1:40PM",
-     "4:50PM",
-     "7:00PM"
+     "12:00PM",
+     "3:25PM",
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -763,14 +733,18 @@
     "poster": ""
    },
    {
-    "title": "Bridesmaids: 15th Anniversary",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "6:30PM"
+     "2:15PM",
+     "3:45PM",
+     "4:45PM",
+     "6:30PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/bridesmaids-15th-anniversary",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -779,11 +753,24 @@
     "title": "CWX Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "6:50PM"
+     "3:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Michael Early Access",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael-early-access",
     "rating": "",
     "runtime": "",
     "poster": ""
