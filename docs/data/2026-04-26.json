@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-22T23:30:31.719652",
+  "scraped_at": "2026-04-23T01:51:43.850848",
   "date": "2026-04-26"
  },
  "data": {
@@ -704,19 +704,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Last Spy",
-    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/last-spy",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
-   },
-   {
     "title": "I Swear",
     "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
     "showtimes": [
@@ -730,6 +717,19 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
+   },
+   {
+    "title": "The Last Spy",
+    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/last-spy",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
    },
    {
     "title": "The Drama",
@@ -879,30 +879,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Maria Semple",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/maria-semple/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04105903/image-1.jpeg"
-   },
-   {
-    "title": "The Right Stuff",
-    "synopsis": "Director: Philip Kaufman Run Time: 193 min. Format: 35mm Film Release Year: 1983",
-    "showtimes": [
-     "8:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-right-stuff/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04140021/jPdRlbRBHGl2POLLk6Oylbav7ac-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

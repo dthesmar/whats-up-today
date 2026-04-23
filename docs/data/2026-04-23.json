@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-22T23:30:12.890291",
+  "scraped_at": "2026-04-23T01:51:00.815111",
   "date": "2026-04-23"
  },
  "data": {
@@ -852,30 +852,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Maria Semple",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/maria-semple/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04105903/image-1.jpeg"
-   },
-   {
-    "title": "The Right Stuff",
-    "synopsis": "Director: Philip Kaufman Run Time: 193 min. Format: 35mm Film Release Year: 1983",
-    "showtimes": [
-     "8:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-right-stuff/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04140021/jPdRlbRBHGl2POLLk6Oylbav7ac-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
