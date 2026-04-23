@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-23T05:27:16.048943",
+  "scraped_at": "2026-04-23T09:28:23.231592",
   "date": "2026-04-28"
  },
  "data": {
@@ -589,20 +589,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "4:15pm",
-     "7:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
     "title": "Everyone Is Lying to You for Money",
     "synopsis": "Like subprime, but dumber.",
     "showtimes": [
@@ -617,19 +603,18 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "title": "Project Hail Mary (Digital)",
+    "synopsis": "An exhilarating space adventure set in the near future.",
     "showtimes": [
-     "4:30pm",
-     "7:30pm",
-     "9:45pm"
+     "4:15pm",
+     "7:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
+    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
     "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
+    "runtime": "2hrs 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
    },
    {
     "title": "The Drama",
@@ -645,6 +630,21 @@
     "rating": "",
     "runtime": "1hr 46mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+   },
+   {
+    "title": "Mother Mary",
+    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "showtimes": [
+     "4:30pm",
+     "7:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mother-mary",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
    },
    {
     "title": "I Swear",
@@ -780,7 +780,7 @@
      "10:45AM",
      "11:45AM",
      "2:25PM",
-     "6:00PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -844,7 +844,6 @@
      "2:15PM",
      "3:45PM",
      "4:45PM",
-     "6:30PM",
      "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -868,14 +867,27 @@
     "poster": ""
    },
    {
-    "title": "CWX Michael Early Access",
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael-early-access",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
