@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-23T02:55:54.645394",
+  "scraped_at": "2026-04-23T05:27:52.572310",
   "date": "2026-04-29"
  },
  "data": {
@@ -687,10 +687,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Aanikoobijigan [ancestor/great-grandparent/great-grandchild]",
+    "synopsis": "Director: Adam Khalil, Zack Khalil Run Time: 85 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "6:45 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/aanikoobijigan-ancestor-great-grandparent-great-grandchild/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09151705/xGUQao2AhSGk1zB8OAwSa97IBIc-scaled.jpg"
+   },
+   {
+    "title": "Maddie's Secret",
+    "synopsis": "Director: John Early Run Time: 98 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "9:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/maddies-secret/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09121517/kwBX4d1MsVl5h3GkQCXJAQ4r0O4-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
