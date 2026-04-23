@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-22T21:25:57.151432",
+  "scraped_at": "2026-04-22T22:27:48.330432",
   "date": "2026-04-28"
  },
  "data": {
@@ -424,6 +424,45 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Shorts Dartmouth: Narrative",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-dartmouth-narrative/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Shorts Animated",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-animated/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "The Six Billion Dollar Man",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-six-billion-dollar-man/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/six-billion-dollar-man-600x889.jpg"
+   },
+   {
     "title": "Crushing Wheelchairs",
     "synopsis": "",
     "showtimes": [
@@ -511,20 +550,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
-   {
     "title": "Project Hail Mary (Digital)",
     "synopsis": "An exhilarating space adventure set in the near future.",
     "showtimes": [
@@ -539,19 +564,18 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
    },
    {
-    "title": "The Drama",
-    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "title": "Everyone Is Lying to You for Money",
+    "synopsis": "Like subprime, but dumber.",
     "showtimes": [
-     "4:30pm",
-     "7:00pm",
-     "9:55pm"
+     "4:15pm",
+     "9:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/drama",
+    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
     "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
     "title": "Mother Mary",
@@ -567,6 +591,21 @@
     "rating": "",
     "runtime": "1hr 52mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "showtimes": [
+     "4:30pm",
+     "7:00pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/drama",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
    },
    {
     "title": "I Swear",
