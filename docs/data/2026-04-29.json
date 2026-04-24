@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T10:32:30.705483",
+  "scraped_at": "2026-04-24T11:34:24.703177",
   "date": "2026-04-29"
  },
  "data": {
@@ -9,8 +9,8 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
-     "1:45 PM"
+     "1:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -103,10 +103,10 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "10:15 PM",
      "1:15 PM",
-     "4:15 PM"
+     "4:15 PM",
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -119,16 +119,16 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "2:00 PM",
+     "5:15 PM",
      "1:00 PM",
      "4:00 PM",
+     "3:00 PM",
      "6:15 PM",
      "9:30 PM",
-     "3:00 PM",
-     "4:30 PM",
-     "7:15 PM",
      "1:15 PM",
+     "7:15 PM",
+     "4:30 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -142,9 +142,9 @@
     "title": "Over Your Dead Body (2026)",
     "synopsis": "",
     "showtimes": [
+     "2:15 PM",
      "7:45 PM",
-     "10:30 PM",
-     "2:15 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -185,10 +185,10 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:20 PM",
-     "9:30 PM",
      "1:00 PM",
-     "4:10 PM"
+     "4:10 PM",
+     "7:20 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -201,8 +201,8 @@
     "title": "Lorne (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
-     "1:30 PM"
+     "1:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -215,10 +215,10 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "10:30 PM",
      "1:00 PM",
-     "4:15 PM"
+     "4:15 PM",
+     "7:15 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -231,9 +231,9 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "1:45 PM",
-     "3:45 PM"
+     "3:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -272,8 +272,8 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
-     "4:15 PM"
+     "4:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -286,10 +286,10 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "10:00 PM",
      "1:00 PM",
-     "3:45 PM"
+     "3:45 PM",
+     "7:30 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -302,12 +302,12 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "2:00 PM",
+     "4:45 PM",
+     "1:00 PM",
      "5:45 PM",
      "7:15 PM",
-     "9:15 PM",
-     "1:00 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -320,11 +320,11 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:15 PM",
+     "4:00 PM",
      "6:30 PM",
      "8:30 PM",
-     "9:45 PM",
-     "1:15 PM",
-     "4:00 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -337,8 +337,8 @@
     "title": "Ready or Not 2: Here I Come (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM",
-     "1:45 PM"
+     "1:45 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -601,21 +601,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
-    "showtimes": [
-     "4:30pm",
-     "7:30pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
     "showtimes": [
@@ -629,6 +614,21 @@
     "rating": "",
     "runtime": "1hr 46mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+   },
+   {
+    "title": "Mother Mary",
+    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "showtimes": [
+     "4:30pm",
+     "7:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mother-mary",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
    },
    {
     "title": "I Swear",
