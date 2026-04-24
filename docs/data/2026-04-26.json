@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T16:43:24.538822",
+  "scraped_at": "2026-04-24T17:45:20.739853",
   "date": "2026-04-26"
  },
  "data": {
@@ -630,49 +630,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -688,6 +645,34 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -700,6 +685,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -989,6 +989,19 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Madhuvidhu (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/madhuvidhu-2026-245251/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245251/Madhuvidhu-27x40-posterart2.jpg"
    },
    {
     "title": "Lee Cronin's The Mummy (2026)",

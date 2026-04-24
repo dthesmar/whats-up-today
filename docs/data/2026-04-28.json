@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T16:43:54.934583",
+  "scraped_at": "2026-04-24T17:45:54.281458",
   "date": "2026-04-28"
  },
  "data": {
@@ -517,6 +517,20 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -529,20 +543,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "The Drama",
@@ -559,20 +559,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -585,23 +571,23 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
-   {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "4:15pm",
-     "7:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
    {
     "title": "Everyone Is Lying to You for Money",
     "synopsis": "Like subprime, but dumber.",
@@ -615,6 +601,20 @@
     "rating": "",
     "runtime": "1hr 30mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
+   },
+   {
+    "title": "Project Hail Mary (Digital)",
+    "synopsis": "An exhilarating space adventure set in the near future.",
+    "showtimes": [
+     "4:15pm",
+     "7:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
+    "rating": "",
+    "runtime": "2hrs 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
    },
    {
     "title": "Mother Mary",

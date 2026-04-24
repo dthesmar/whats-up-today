@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T16:42:55.742788",
+  "scraped_at": "2026-04-24T17:44:50.914896",
   "date": "2026-04-24"
  },
  "data": {
@@ -22,7 +22,6 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -61,7 +60,6 @@
     "title": "Fuze (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -93,9 +91,7 @@
      "10:30 PM",
      "6:15 PM",
      "9:30 PM",
-     "4:45 PM",
      "8:00 PM",
-     "5:15 PM",
      "8:30 PM",
      "9:00 PM"
     ],
@@ -296,9 +292,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -328,9 +322,7 @@
    {
     "title": "Eagles of the Republic (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:25 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/eagles-of-the-republic-2026-243656/movie-overview",
@@ -400,9 +392,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:40 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -412,32 +402,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Shorts Arlington: Narrative",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-arlington-narrative/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "Shorts Fairfield: Documentary",
-    "synopsis": "",
-    "showtimes": [
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-fairfield-documentary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
    {
     "title": "Leaving Angola",
     "synopsis": "",
@@ -520,47 +484,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -585,6 +508,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-2-600x910.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -862,6 +811,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
    },
    {
+    "title": "Madhuvidhu (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/madhuvidhu-2026-245251/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245251/Madhuvidhu-27x40-posterart2.jpg"
+   },
+   {
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
@@ -879,7 +841,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -933,9 +894,7 @@
    {
     "title": "The Drama (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
@@ -985,9 +944,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:20 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
