@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T17:44:50.914896",
+  "scraped_at": "2026-04-24T18:46:55.440102",
   "date": "2026-04-24"
  },
  "data": {
@@ -89,7 +89,6 @@
     "showtimes": [
      "7:15 PM",
      "10:30 PM",
-     "6:15 PM",
      "9:30 PM",
      "8:00 PM",
      "8:30 PM",
@@ -120,7 +119,6 @@
     "title": "Fight Club 4K Remaster (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -172,7 +170,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -186,7 +183,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -235,7 +231,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -250,7 +245,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -306,7 +300,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:45 PM",
      "6:45 PM",
      "7:45 PM",
      "8:35 PM",
@@ -362,7 +355,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:15 PM",
      "7:15 PM",
      "8:45 PM",
      "9:45 PM"
@@ -378,7 +370,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM",
      "9:15 PM"
     ],
@@ -403,19 +394,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Leaving Angola",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/leaving-angola/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/leaving-angola-600x900.jpg"
-   },
-   {
     "title": "Tuner",
     "synopsis": "",
     "showtimes": [
@@ -427,6 +405,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/tuner-600x889.jpg"
+   },
+   {
+    "title": "Leaving Angola",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/leaving-angola/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/leaving-angola-600x900.jpg"
    },
    {
     "title": "Seized",
@@ -798,7 +789,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM",
      "9:00 PM",
      "10:00 PM"

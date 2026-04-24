@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T17:46:41.240902",
+  "scraped_at": "2026-04-24T18:48:38.290320",
   "date": "2026-05-01"
  },
  "data": {
@@ -88,12 +88,14 @@
      "4:00 PM",
      "7:00 PM",
      "10:00 PM",
+     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM",
      "2:00 PM",
      "5:00 PM",
-     "8:00 PM"
+     "8:00 PM",
+     "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -117,6 +119,19 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Erupcja (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/erupcja-2026-242137/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 11 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242137/erupcja-WIP-Poster.jpg"
    },
    {
     "title": "Everything Everywhere All at Once (2022)",
@@ -153,19 +168,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Leaving Angola",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/leaving-angola/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/leaving-angola-600x900.jpg"
-   },
-   {
     "title": "Tuner",
     "synopsis": "",
     "showtimes": [
@@ -177,6 +179,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/tuner-600x889.jpg"
+   },
+   {
+    "title": "Leaving Angola",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/leaving-angola/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/leaving-angola-600x900.jpg"
    },
    {
     "title": "Seized",

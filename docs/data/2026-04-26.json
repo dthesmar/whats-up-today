@@ -1,10 +1,24 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T17:45:20.739853",
+  "scraped_at": "2026-04-24T18:47:24.712480",
   "date": "2026-04-26"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "American Youngboy (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "8:15 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/american-youngboy-2026-244984/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
    {
     "title": "Exit 8 (2025)",
     "synopsis": "",
@@ -109,7 +123,6 @@
      "9:00 PM",
      "12:45 PM",
      "5:15 PM",
-     "8:30 PM",
      "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
