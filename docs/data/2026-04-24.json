@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T13:37:19.730420",
+  "scraped_at": "2026-04-24T14:39:16.877321",
   "date": "2026-04-24"
  },
  "data": {
@@ -86,12 +86,10 @@
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
-     "1:30 PM",
      "4:45 PM",
      "8:00 PM",
      "5:15 PM",
      "8:30 PM",
-     "2:00 PM",
      "3:30 PM",
      "9:00 PM"
     ],
@@ -106,7 +104,6 @@
     "title": "Over Your Dead Body (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -260,7 +257,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "3:45 PM",
      "6:15 PM",
      "10:30 PM"
@@ -276,7 +272,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "4:00 PM",
      "6:30 PM",
      "8:30 PM",
@@ -535,35 +530,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "2:15 pm",
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -605,6 +571,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "The Breakfast Club",
@@ -901,7 +894,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:10 PM",
      "7:00 PM",
      "10:00 PM"
@@ -917,7 +909,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:30 PM",
      "7:00 PM",
      "9:30 PM"
@@ -987,7 +978,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:15 PM",
      "6:30 PM",
      "9:00 PM"
@@ -1017,9 +1007,7 @@
    {
     "title": "Dhurandhar: The Revenge (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/dhurandhar-the-revenge-2026-244687/movie-overview",
