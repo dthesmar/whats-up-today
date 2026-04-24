@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T15:42:01.084682",
+  "scraped_at": "2026-04-24T16:43:54.934583",
   "date": "2026-04-28"
  },
  "data": {
@@ -517,34 +517,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -585,23 +557,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
-   {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
    {
     "title": "Project Hail Mary (Digital)",
     "synopsis": "An exhilarating space adventure set in the near future.",
@@ -615,6 +601,20 @@
     "rating": "",
     "runtime": "2hrs 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
+   },
+   {
+    "title": "Everyone Is Lying to You for Money",
+    "synopsis": "Like subprime, but dumber.",
+    "showtimes": [
+     "4:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
     "title": "Mother Mary",

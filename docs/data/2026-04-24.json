@@ -1,10 +1,23 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T15:41:04.737714",
+  "scraped_at": "2026-04-24T16:42:55.742788",
   "date": "2026-04-24"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "American Youngboy (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/american-youngboy-2026-244984/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
    {
     "title": "Exit 8 (2025)",
     "synopsis": "",
@@ -35,7 +48,6 @@
     "title": "Desert Warrior (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -63,7 +75,6 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -78,7 +89,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:30 PM",
      "6:15 PM",
@@ -87,7 +97,6 @@
      "8:00 PM",
      "5:15 PM",
      "8:30 PM",
-     "3:30 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -142,7 +151,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:30 PM"
     ],
@@ -246,7 +254,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:15 PM",
      "10:30 PM"
     ],
@@ -261,11 +268,10 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
+     "7:45 PM",
      "8:30 PM",
-     "9:00 PM",
-     "7:45 PM"
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -306,7 +312,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:55 PM",
      "5:45 PM",
      "6:45 PM",
      "7:45 PM",
@@ -337,7 +342,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:40 PM",
      "9:25 PM"
     ],
@@ -352,7 +356,6 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "7:05 PM",
      "9:40 PM"
     ],
@@ -367,7 +370,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:25 PM",
      "6:15 PM",
      "7:15 PM",
      "8:45 PM",
@@ -384,7 +386,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:00 PM",
      "7:00 PM",
      "9:15 PM"
@@ -519,33 +520,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -585,6 +559,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Breakfast Club",
@@ -848,7 +835,6 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -863,7 +849,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:00 PM",
      "7:00 PM",
      "9:00 PM",
@@ -880,7 +865,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -963,7 +947,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -978,7 +961,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:45 PM",
      "10:00 PM"
     ],
