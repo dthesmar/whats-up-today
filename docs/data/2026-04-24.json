@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T14:39:16.877321",
+  "scraped_at": "2026-04-24T15:41:04.737714",
   "date": "2026-04-24"
  },
  "data": {
@@ -23,9 +23,7 @@
    {
     "title": "Two Prosecutors (2025)",
     "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
@@ -83,7 +81,6 @@
      "4:00 PM",
      "7:15 PM",
      "10:30 PM",
-     "3:00 PM",
      "6:15 PM",
      "9:30 PM",
      "4:45 PM",
@@ -159,9 +156,7 @@
    {
     "title": "Lorne (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
@@ -173,7 +168,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:00 PM",
      "9:45 PM"
     ],
@@ -201,9 +195,7 @@
    {
     "title": "The Christophers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
@@ -214,9 +206,7 @@
    {
     "title": "Bhooth Bangla (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
@@ -241,7 +231,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "5:30 PM",
      "7:30 PM",
      "10:15 PM"
@@ -275,7 +264,8 @@
      "4:00 PM",
      "6:30 PM",
      "8:30 PM",
-     "9:00 PM"
+     "9:00 PM",
+     "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -410,7 +400,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:20 PM",
      "4:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -530,35 +519,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -598,6 +558,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
     "title": "The Breakfast Club",
@@ -876,7 +863,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "4:00 PM",
      "6:00 PM",
      "7:00 PM",
@@ -951,7 +937,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:55 PM",
      "7:40 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1019,7 +1004,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:50 PM",
      "5:20 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
