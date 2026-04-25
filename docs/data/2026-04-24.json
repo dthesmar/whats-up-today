@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-24T20:03:17.560805",
+  "scraped_at": "2026-04-24T21:04:24.824432",
   "date": "2026-04-24"
  },
  "data": {
@@ -56,9 +56,7 @@
    {
     "title": "Fuze (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/fuze-2026-244807/movie-overview",
@@ -85,8 +83,6 @@
     "showtimes": [
      "10:30 PM",
      "9:30 PM",
-     "8:00 PM",
-     "8:30 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -100,7 +96,6 @@
     "title": "Over Your Dead Body (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -176,9 +171,7 @@
    {
     "title": "Normal (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
@@ -249,8 +242,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
-     "8:30 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -290,8 +281,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
-     "8:35 PM",
      "9:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -378,19 +367,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Seized",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/seized/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/seized-600x900.jpg"
-   },
    {
     "title": "All My Friends",
     "synopsis": "",
@@ -752,7 +728,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
