@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T01:53:44.114263",
+  "scraped_at": "2026-04-26T12:21:18.411794",
   "date": "2026-04-26"
  },
  "data": {
@@ -92,7 +92,6 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:15 PM",
      "6:30 PM",
      "9:45 PM"
@@ -112,14 +111,12 @@
      "4:00 PM",
      "7:15 PM",
      "10:30 PM",
-     "11:45 AM",
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
      "1:30 PM",
      "4:45 PM",
      "8:00 PM",
-     "11:00 AM",
      "9:00 PM",
      "12:45 PM",
      "5:15 PM",
@@ -208,7 +205,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "2:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -224,7 +220,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "4:00 PM",
      "10:30 PM"
     ],
@@ -278,7 +273,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "2:15 PM",
      "4:45 PM",
      "7:00 PM",
@@ -297,7 +291,6 @@
     "showtimes": [
      "1:30 PM",
      "7:45 PM",
-     "11:00 AM",
      "12:30 PM",
      "3:15 PM",
      "5:15 PM",
@@ -315,7 +308,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "2:00 PM",
      "4:30 PM",
      "6:00 PM",
@@ -346,8 +338,7 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "11:30 AM"
+     "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -495,32 +486,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Shorts Kenmore: Documentary",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-kenmore-documentary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "Shorts Hereford: Documentary",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-hereford-documentary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
    {
     "title": "Shorts Gloucester: Documentary",
     "synopsis": "",
@@ -717,19 +682,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Last Spy",
-    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/last-spy",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
-   },
-   {
     "title": "I Swear",
     "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
     "showtimes": [
@@ -743,6 +695,19 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
+   },
+   {
+    "title": "The Last Spy",
+    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/last-spy",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
    },
    {
     "title": "The Drama",
@@ -892,10 +857,56 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Marblehead Morning: 50 Years in Harmony",
+    "synopsis": "Director: Tim Jackson Run Time: 90 min. Format: DCP",
+    "showtimes": [
+     "12:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/marblehead-morning-50-years-in-harmony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09152253/DaringandStahlOrsonWellesCambridge.jpeg"
+   },
+   {
+    "title": "Animated Shorts",
+    "synopsis": "Run Time: 97 min.",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/animated-shorts-iffb/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09142625/images-1-e1775759211488.jpeg"
+   },
+   {
+    "title": "Mata Hari",
+    "synopsis": "Director: James A. Smith, Joe Beshenkovsky Run Time: 93 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "5:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mata-hari/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09133842/images1.jpeg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "Director: Sophy Romvari Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09151912/t62n8FPCo4kJZYnsxkcLojgThJF-1-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -923,9 +934,7 @@
    {
     "title": "Ginny Wedss Sunny 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:00 AM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/ginny-wedss-sunny-2-2026-245253/movie-overview",
@@ -937,7 +946,6 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:45 PM",
      "6:30 PM",
      "9:30 PM"
@@ -953,8 +961,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:00 PM",
      "1:00 PM",
      "3:00 PM",
      "4:00 PM",
@@ -987,7 +993,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "1:15 PM",
      "4:10 PM",
      "7:00 PM",
@@ -1004,7 +1009,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "1:45 PM",
      "4:30 PM",
      "7:00 PM",
@@ -1062,7 +1066,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:30 PM",
      "5:15 PM",
      "10:00 PM"
@@ -1078,7 +1081,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "2:00 PM",
      "4:15 PM",
      "6:30 PM",
@@ -1095,7 +1097,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "12:15 PM",
      "3:30 PM",
      "6:45 PM",
@@ -1125,7 +1126,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:25 PM",
      "2:50 PM",
      "5:20 PM"
@@ -1149,8 +1149,7 @@
      "1:40PM",
      "3:20PM",
      "4:15PM",
-     "6:45PM",
-     "9:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1163,8 +1162,7 @@
     "title": "You, Me & Tuscany",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "9:35PM"
+     "10:30AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1180,8 +1178,7 @@
      "10:35AM",
      "12:50PM",
      "3:40PM",
-     "6:35PM",
-     "9:10PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1191,17 +1188,17 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "11:00AM",
      "2:00PM",
      "5:00PM",
-     "8:00PM"
+     "7:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1211,10 +1208,9 @@
     "synopsis": "",
     "showtimes": [
      "11:15AM",
-     "2:45PM",
+     "3:15PM",
      "5:40PM",
-     "6:15PM",
-     "9:00PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1224,17 +1220,16 @@
     "poster": ""
    },
    {
-    "title": "CWX Michael",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:35PM",
-     "4:00PM",
-     "7:00PM",
-     "9:50PM"
+     "1:00PM",
+     "3:50PM",
+     "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1245,8 +1240,7 @@
     "showtimes": [
      "2:05PM",
      "4:35PM",
-     "7:10PM",
-     "9:40PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",

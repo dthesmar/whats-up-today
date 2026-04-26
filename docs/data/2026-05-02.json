@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T02:27:00.212451",
+  "scraped_at": "2026-04-26T12:22:41.898863",
   "date": "2026-05-02"
  },
  "data": {
@@ -198,6 +198,47 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show w/ Teseracte Players",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-rocky-horror-picture-show-w-teseracte-players/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/RHPS-Somerville-Theatre-5-16-copy-600x831.jpg"
+   },
+   {
+    "title": "Trees Lounge in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/trees-lounge-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/treesLounge-poster.jpg"
+   },
+   {
     "title": "Road House (1989) in 35mm",
     "synopsis": "",
     "showtimes": [
@@ -283,10 +324,56 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Marblehead Morning: 50 Years in Harmony",
+    "synopsis": "Director: Tim Jackson Run Time: 90 min. Format: DCP",
+    "showtimes": [
+     "12:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/marblehead-morning-50-years-in-harmony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09152253/DaringandStahlOrsonWellesCambridge.jpeg"
+   },
+   {
+    "title": "Animated Shorts",
+    "synopsis": "Run Time: 97 min.",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/animated-shorts-iffb/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09142625/images-1-e1775759211488.jpeg"
+   },
+   {
+    "title": "Mata Hari",
+    "synopsis": "Director: James A. Smith, Joe Beshenkovsky Run Time: 93 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "5:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mata-hari/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09133842/images1.jpeg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "Director: Sophy Romvari Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09151912/t62n8FPCo4kJZYnsxkcLojgThJF-1-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -343,8 +430,7 @@
      "1:40PM",
      "3:20PM",
      "4:15PM",
-     "6:45PM",
-     "9:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -357,8 +443,7 @@
     "title": "You, Me & Tuscany",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "9:35PM"
+     "10:30AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -374,8 +459,7 @@
      "10:35AM",
      "12:50PM",
      "3:40PM",
-     "6:35PM",
-     "9:10PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -385,17 +469,17 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "11:00AM",
      "2:00PM",
      "5:00PM",
-     "8:00PM"
+     "7:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -405,10 +489,9 @@
     "synopsis": "",
     "showtimes": [
      "11:15AM",
-     "2:45PM",
+     "3:15PM",
      "5:40PM",
-     "6:15PM",
-     "9:00PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -418,17 +501,16 @@
     "poster": ""
    },
    {
-    "title": "CWX Michael",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:35PM",
-     "4:00PM",
-     "7:00PM",
-     "9:50PM"
+     "1:00PM",
+     "3:50PM",
+     "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -439,8 +521,7 @@
     "showtimes": [
      "2:05PM",
      "4:35PM",
-     "7:10PM",
-     "9:40PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -460,6 +541,19 @@
     "theater": "Classical Music (Boston)",
     "address": "First Church Cambridge, 11 Garden St, in Cambridge",
     "url": "https://ci.ovationtix.com/36126/production/1235375?performanceId=11620000",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Saugus Public Library \u2013 Chamber Music",
+    "synopsis": "Classico Trio, an Honors piano trio from the New England Conservatory. Ines Issel Bursynska, violin; Angela Sun, cello Wooyoung Cho, pianoHaydn: Piano Trio No. 39 in G Major \u201cGypsy\u201d Schubert: Piano Trio No. 2 in E flat MajorFREE",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Community Room, 295 Central Street,, in Saugus",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""

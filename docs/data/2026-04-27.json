@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T01:53:55.057277",
+  "scraped_at": "2026-04-26T12:21:37.165442",
   "date": "2026-04-27"
  },
  "data": {
@@ -437,19 +437,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Shorts Hereford: Documentary",
-    "synopsis": "",
-    "showtimes": [
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-hereford-documentary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
     "title": "Shorts Fairfield: Documentary",
     "synopsis": "",
     "showtimes": [
@@ -458,6 +445,19 @@
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
     "url": "https://www.somervilletheatre.com/production/shorts-fairfield-documentary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Shorts Hereford: Documentary",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-hereford-documentary/",
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
@@ -728,10 +728,56 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Marblehead Morning: 50 Years in Harmony",
+    "synopsis": "Director: Tim Jackson Run Time: 90 min. Format: DCP",
+    "showtimes": [
+     "12:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/marblehead-morning-50-years-in-harmony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09152253/DaringandStahlOrsonWellesCambridge.jpeg"
+   },
+   {
+    "title": "Animated Shorts",
+    "synopsis": "Run Time: 97 min.",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/animated-shorts-iffb/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09142625/images-1-e1775759211488.jpeg"
+   },
+   {
+    "title": "Mata Hari",
+    "synopsis": "Director: James A. Smith, Joe Beshenkovsky Run Time: 93 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "5:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mata-hari/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09133842/images1.jpeg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "Director: Sophy Romvari Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09151912/t62n8FPCo4kJZYnsxkcLojgThJF-1-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -961,8 +1007,7 @@
      "1:40PM",
      "3:20PM",
      "4:15PM",
-     "6:45PM",
-     "9:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -975,8 +1020,7 @@
     "title": "You, Me & Tuscany",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "9:35PM"
+     "10:30AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -992,8 +1036,7 @@
      "10:35AM",
      "12:50PM",
      "3:40PM",
-     "6:35PM",
-     "9:10PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1003,17 +1046,17 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "11:00AM",
      "2:00PM",
      "5:00PM",
-     "8:00PM"
+     "7:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1023,10 +1066,9 @@
     "synopsis": "",
     "showtimes": [
      "11:15AM",
-     "2:45PM",
+     "3:15PM",
      "5:40PM",
-     "6:15PM",
-     "9:00PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1036,17 +1078,16 @@
     "poster": ""
    },
    {
-    "title": "CWX Michael",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:35PM",
-     "4:00PM",
-     "7:00PM",
-     "9:50PM"
+     "1:00PM",
+     "3:50PM",
+     "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1057,8 +1098,7 @@
     "showtimes": [
      "2:05PM",
      "4:35PM",
-     "7:10PM",
-     "9:40PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
