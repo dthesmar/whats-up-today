@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-25T15:33:15.945756",
+  "scraped_at": "2026-04-26T01:53:44.114263",
   "date": "2026-04-26"
  },
  "data": {
@@ -643,6 +643,20 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -688,20 +702,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
@@ -717,6 +717,19 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "The Last Spy",
+    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/last-spy",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
+   },
+   {
     "title": "I Swear",
     "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
     "showtimes": [
@@ -730,19 +743,6 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
-   },
-   {
-    "title": "The Last Spy",
-    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/last-spy",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
    },
    {
     "title": "The Drama",
@@ -892,56 +892,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "As I Am",
-    "synopsis": "Run Time: 122 min. Format: DCP",
-    "showtimes": [
-     "12:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/as-i-am/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09130648/images.jpeg"
-   },
-   {
-    "title": "Rose of Nevada",
-    "synopsis": "Director: Mark Jenkin Run Time: 114 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/rose-of-nevada/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09130857/sEBA5lnaf4zi2r3wjLju3rxZ3wr.jpg"
-   },
-   {
-    "title": "School for Defectors",
-    "synopsis": "Director: Jeremy Workman Run Time: 93 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "5:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/school-for-defectors/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09131059/hoBV7Vd542KyXvONig6KtGK0R5-scaled.jpg"
-   },
-   {
-    "title": "Carolina Caroline",
-    "synopsis": "Director: Adam Rehmeier Run Time: 105 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/carolina-caroline/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09131600/112sW296vEx3d71C8fzOqoFIomN-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
