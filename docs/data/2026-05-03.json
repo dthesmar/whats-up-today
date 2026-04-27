@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T01:59:09.007304",
+  "scraped_at": "2026-04-27T04:51:38.362274",
   "date": "2026-05-03"
  },
  "data": {
@@ -45,7 +45,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/animal-farm-2026-243709/movie-overview",
     "rating": "PG",
-    "runtime": "1 hr 12 min",
+    "runtime": "1 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243709/animal_farm_presale.jpg"
    },
    {
@@ -128,8 +128,8 @@
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG-13",
-    "runtime": "",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
    },
    {
@@ -228,8 +228,8 @@
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG-13",
-    "runtime": "",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
    },
    {
@@ -329,10 +329,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Adam's Apple",
+    "synopsis": "Director: Amy K. Jenkins Run Time: 97 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "5:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/adams-apple/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134205/kavfcWa67qmJAHUI9LPtrC96dyJ.jpg"
+   },
+   {
+    "title": "Filipi\u00f1ana",
+    "synopsis": "Director: Rafael Manuel Run Time: 100 min. Format: DCP Release Year: 2026 Language: Tagalog",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/filipinana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134320/7lgpPrmD2XYABOw8Cu3kyUn4usR-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -358,8 +378,21 @@
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/animal-farm-2026-243709/movie-overview",
     "rating": "PG",
-    "runtime": "1 hr 12 min",
+    "runtime": "1 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243709/animal_farm_presale.jpg"
+   },
+   {
+    "title": "Patriot (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/patriot-2026-245442/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245442/patriot_poster.jpg"
    },
    {
     "title": "The Devil Wears Prada 2 (2026)",
@@ -373,8 +406,8 @@
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG-13",
-    "runtime": "",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
    },
    {
