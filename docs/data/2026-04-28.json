@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T23:38:44.115387",
+  "scraped_at": "2026-04-27T00:39:35.809217",
   "date": "2026-04-28"
  },
  "data": {
@@ -589,20 +589,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "4:15pm",
-     "7:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
     "title": "Everyone Is Lying to You for Money",
     "synopsis": "Like subprime, but dumber.",
     "showtimes": [
@@ -615,6 +601,20 @@
     "rating": "",
     "runtime": "1hr 30mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
+   },
+   {
+    "title": "Project Hail Mary (Digital)",
+    "synopsis": "An exhilarating space adventure set in the near future.",
+    "showtimes": [
+     "4:15pm",
+     "7:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
+    "rating": "",
+    "runtime": "2hrs 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
    },
    {
     "title": "Mother Mary",
@@ -716,56 +716,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Marblehead Morning: 50 Years in Harmony",
-    "synopsis": "Director: Tim Jackson Run Time: 90 min. Format: DCP",
-    "showtimes": [
-     "12:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/marblehead-morning-50-years-in-harmony/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09152253/DaringandStahlOrsonWellesCambridge.jpeg"
-   },
-   {
-    "title": "Animated Shorts",
-    "synopsis": "Run Time: 97 min.",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/animated-shorts-iffb/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09142625/images-1-e1775759211488.jpeg"
-   },
-   {
-    "title": "Mata Hari",
-    "synopsis": "Director: James A. Smith, Joe Beshenkovsky Run Time: 93 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "5:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mata-hari/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09133842/images1.jpeg"
-   },
-   {
-    "title": "Blue Heron",
-    "synopsis": "Director: Sophy Romvari Run Time: 90 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/blue-heron/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09151912/t62n8FPCo4kJZYnsxkcLojgThJF-1-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
