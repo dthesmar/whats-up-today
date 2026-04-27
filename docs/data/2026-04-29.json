@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T07:17:06.154418",
+  "scraped_at": "2026-04-27T13:17:37.927557",
   "date": "2026-04-29"
  },
  "data": {
@@ -23,8 +23,7 @@
     "title": "Two Prosecutors (2025)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "10:30 PM"
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -124,6 +123,7 @@
      "8:30 PM",
      "1:00 PM",
      "4:00 PM",
+     "10:00 PM",
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
@@ -158,7 +158,8 @@
     "title": "Fight Club 4K Remaster (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM"
+     "3:45 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -186,10 +187,10 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:10 PM",
      "7:20 PM",
-     "9:30 PM"
+     "9:30 PM",
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -216,10 +217,10 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:15 PM",
      "7:15 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -339,7 +340,7 @@
     "synopsis": "",
     "showtimes": [
      "1:45 PM",
-     "10:00 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -501,6 +502,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    }
   ],
   "Capitol Theatre": [

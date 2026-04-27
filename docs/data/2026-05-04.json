@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T07:49:35.072943",
+  "scraped_at": "2026-04-27T13:18:33.420269",
   "date": "2026-05-04"
  },
  "data": {
@@ -241,6 +241,20 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
    },
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
     "title": "The Chaplain & The Doctor",
     "synopsis": "",
     "showtimes": [
@@ -341,57 +355,9 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Howl\u2019s Moving Castle",
-    "synopsis": "From the Studio Ghibli and director Hayao Miyazaki, comes the Oscar-nominated fantasy adventure for the whole family.",
-    "showtimes": [
-     "4:00pm",
-     "9:30pm"
-    ],
+    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/howls-moving-castle",
-    "rating": "",
-    "runtime": "1hr 59mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/GHI_HowlsMovingCastle_Select5.jpg"
-   },
-   {
-    "title": "Seminar: Shadow of a Doubt",
-    "synopsis": "Pre-film seminar by Vernon Shetley!",
-    "showtimes": [
-     "6:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/seminar-shadow-doubt",
-    "rating": "",
-    "runtime": "30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hitch_SD_cast_42%20copy.jpg"
-   },
-   {
-    "title": "Shadow of a Doubt (1943)",
-    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
-   },
-   {
-    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
-    "synopsis": "New 4K Digital Restoration!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 43mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [

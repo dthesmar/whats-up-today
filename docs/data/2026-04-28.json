@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T07:16:54.784288",
+  "scraped_at": "2026-04-27T13:17:30.673613",
   "date": "2026-04-28"
  },
  "data": {
@@ -10,6 +10,7 @@
     "synopsis": "",
     "showtimes": [
      "2:15 PM",
+     "6:45 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -23,8 +24,7 @@
     "title": "Two Prosecutors (2025)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "10:30 PM"
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -121,7 +121,8 @@
     "title": "Fight Club 4K Remaster (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM"
+     "6:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -221,6 +222,7 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -253,6 +255,7 @@
      "2:00 PM",
      "3:30 PM",
      "1:00 PM",
+     "4:00 PM",
      "4:45 PM",
      "7:00 PM",
      "10:00 PM"
@@ -500,6 +503,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/their-town-600x900.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
     "title": "Crushing Wheelchairs",
