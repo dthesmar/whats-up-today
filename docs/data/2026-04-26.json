@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T22:37:37.627696",
+  "scraped_at": "2026-04-26T23:38:31.335993",
   "date": "2026-04-26"
  },
  "data": {
@@ -8,9 +8,7 @@
    {
     "title": "American Youngboy (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/american-youngboy-2026-244984/movie-overview",
@@ -87,9 +85,7 @@
    {
     "title": "Michael (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
@@ -166,9 +162,7 @@
    {
     "title": "Normal (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
@@ -179,9 +173,7 @@
    {
     "title": "The Christophers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
@@ -225,9 +217,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -410,6 +400,19 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "The Last Spy",
+    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/last-spy",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
+   },
+   {
     "title": "I Swear",
     "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
     "showtimes": [
@@ -423,19 +426,6 @@
     "rating": "",
     "runtime": "2hrs",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
-   },
-   {
-    "title": "The Last Spy",
-    "synopsis": "Co-presented by the Goethe-Institut Boston and The National Center for Jewish Film\u2019s Annual Film Festival.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/last-spy",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Last%20Spy_The_Peter%20Sichel_Leslie_Prial_1945.png"
    },
    {
     "title": "The Drama",

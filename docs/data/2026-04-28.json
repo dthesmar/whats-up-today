@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-26T22:37:50.380673",
+  "scraped_at": "2026-04-26T23:38:44.115387",
   "date": "2026-04-28"
  },
  "data": {
@@ -589,20 +589,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
-   {
     "title": "Project Hail Mary (Digital)",
     "synopsis": "An exhilarating space adventure set in the near future.",
     "showtimes": [
@@ -615,6 +601,20 @@
     "rating": "",
     "runtime": "2hrs 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
+   },
+   {
+    "title": "Everyone Is Lying to You for Money",
+    "synopsis": "Like subprime, but dumber.",
+    "showtimes": [
+     "4:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
     "title": "Mother Mary",
