@@ -1,10 +1,36 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T13:17:44.921928",
+  "scraped_at": "2026-04-27T20:58:27.579937",
   "date": "2026-04-30"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "Exit 8 (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
+    "rating": "PG-13",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
+   },
+   {
+    "title": "Two Prosecutors (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244534/Two%20Prosecutors.jpg"
+   },
    {
     "title": "Animal Farm (2026)",
     "synopsis": "",
@@ -88,10 +114,13 @@
      "7:30 PM",
      "10:30 PM",
      "2:00 PM",
+     "4:30 PM",
      "5:00 PM",
      "6:00 PM",
+     "7:00 PM",
      "8:00 PM",
-     "9:15 PM"
+     "9:15 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -115,6 +144,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245312/oneokrock.jpg"
    },
    {
+    "title": "Desert Warrior (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/desert-warrior-2026-244879/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244879/Desert_Warrior_Onesheet_FINAL-FOR-WEB.jpg"
+   },
+   {
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
@@ -132,6 +174,9 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
+     "3:00 PM",
+     "6:15 PM",
+     "9:30 PM",
      "1:00 PM",
      "4:00 PM",
      "7:15 PM",
@@ -143,6 +188,33 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Over Your Dead Body (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/over-your-dead-body-2026-244782/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
+   },
+   {
+    "title": "Whisper of the Heart 4K (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/whisper-of-the-heart-4k-2026-244728/movie-overview",
+    "rating": "G",
+    "runtime": "1 hr 51 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244728/IMAX_Exclusive_Artwork_Whisper_of_the_Heart_4K_IMAX.jpg"
    },
    {
     "title": "Erupcja (2026)",
@@ -158,6 +230,159 @@
     "rating": "Not Rated",
     "runtime": "1 hr 11 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242137/erupcja-WIP-Poster.jpg"
+   },
+   {
+    "title": "Lee Cronin's The Mummy (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/lee-cronins-the-mummy-2026-244052/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
+   },
+   {
+    "title": "Lorne (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_Official_Poster.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "5:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
+    "title": "Normal (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
+   },
+   {
+    "title": "The Christophers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
+   },
+   {
+    "title": "Bhooth Bangla (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
+   },
+   {
+    "title": "You, Me & Tuscany (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 44 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244276/youmeandtuscany-posterart.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "4:15 PM",
+     "7:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "9:15 PM",
+     "1:00 PM",
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "4:30 PM",
+     "6:45 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "Ready or Not 2: Here I Come (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -373,8 +598,7 @@
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "7:00 pm"
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
