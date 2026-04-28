@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T16:54:36.007620",
+  "scraped_at": "2026-04-28T19:27:21.750451",
   "date": "2026-05-03"
  },
  "data": {
@@ -407,8 +407,10 @@
     "showtimes": [
      "1:35 PM",
      "3:15 PM",
+     "3:45 PM",
      "4:15 PM",
      "6:00 PM",
+     "6:30 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -430,6 +432,78 @@
     "rating": "Not Rated",
     "runtime": "1 hr 21 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244857/John&Yoko-OS-27x40-English.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "3:55 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:05 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
+    "title": "The Christophers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "6:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "4:40 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "3:30 PM",
+     "7:05 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -464,19 +538,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -490,20 +564,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "Project Hail Mary",
@@ -521,19 +581,33 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
-    "title": "Michael",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    }
   ],
   "Coolidge Corner Theatre": [

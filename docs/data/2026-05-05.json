@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T16:55:25.924639",
+  "scraped_at": "2026-04-28T19:28:15.486417",
   "date": "2026-05-05"
  },
  "data": {
@@ -23,7 +23,6 @@
     "title": "Animal Farm (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "3:45 PM",
      "6:30 PM"
     ],
@@ -312,7 +311,7 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM"
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -354,7 +353,9 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
+     "3:15 PM",
      "4:15 PM",
+     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -363,48 +364,77 @@
     "rating": "PG13",
     "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:55 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
+    "title": "The Christophers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "7:05 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Shorts Animated",
-    "synopsis": "",
-    "showtimes": [
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-animated/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "Shorts Dartmouth: Narrative",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shorts-dartmouth-narrative/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
-   },
-   {
-    "title": "The Six Billion Dollar Man",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-six-billion-dollar-man/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/six-billion-dollar-man-600x889.jpg"
-   },
    {
     "title": "Shorts Clarendon: Narrative",
     "synopsis": "",
@@ -474,6 +504,48 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm",
+     "5:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -488,25 +560,11 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm",
-     "4:15 pm"
+     "4:15 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -514,34 +572,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm",
-     "4:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T16:55:00.776383",
+  "scraped_at": "2026-04-28T19:27:48.286974",
   "date": "2026-05-04"
  },
  "data": {
@@ -353,7 +353,10 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
+     "3:15 PM",
      "4:15 PM",
+     "6:00 PM",
+     "6:30 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -362,6 +365,75 @@
     "rating": "PG13",
     "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:55 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
+    "title": "The Christophers (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:05 PM",
+     "6:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "6:35 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -395,18 +467,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
-     "7:10 pm"
+     "4:45 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -423,20 +495,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -451,18 +509,32 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
-    "title": "Michael",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -591,19 +663,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Shadow of a Doubt (1943)",
-    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
-   },
-   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -615,6 +674,19 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Shadow of a Doubt (1943)",
+    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
    },
    {
     "title": "Mother Mary",
