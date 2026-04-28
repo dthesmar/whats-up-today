@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T00:32:55.532546",
+  "scraped_at": "2026-04-28T06:12:11.503223",
   "date": "2026-05-04"
  },
  "data": {
@@ -507,19 +507,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hitch_SD_cast_42%20copy.jpg"
    },
    {
-    "title": "Shadow of a Doubt (1943)",
-    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
-   },
-   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -531,14 +518,47 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Shadow of a Doubt (1943)",
+    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "One in a Million",
+    "synopsis": "Director: Itab Azzam, Jack Macinnes Run Time: 102 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "5:30 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/one-in-a-million/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140436/cr3Pk2bWdQQBpfvQD2xV4sL0I7p-scaled.jpg"
+   },
+   {
+    "title": "Late Fame",
+    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/late-fame/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
    }
   ],
   "Harvard Film Archive": [

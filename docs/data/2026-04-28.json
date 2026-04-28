@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T00:31:50.516718",
+  "scraped_at": "2026-04-28T06:07:18.816072",
   "date": "2026-04-28"
  },
  "data": {
@@ -606,20 +606,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "4:15pm",
-     "7:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
     "title": "Everyone Is Lying to You for Money",
     "synopsis": "Like subprime, but dumber.",
     "showtimes": [
@@ -632,6 +618,20 @@
     "rating": "",
     "runtime": "1hr 30mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
+   },
+   {
+    "title": "Project Hail Mary (Digital)",
+    "synopsis": "An exhilarating space adventure set in the near future.",
+    "showtimes": [
+     "4:15pm",
+     "7:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
+    "rating": "",
+    "runtime": "2hrs 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
    },
    {
     "title": "Mother Mary",
@@ -733,10 +733,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "One in a Million",
+    "synopsis": "Director: Itab Azzam, Jack Macinnes Run Time: 102 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "5:30 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/one-in-a-million/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140436/cr3Pk2bWdQQBpfvQD2xV4sL0I7p-scaled.jpg"
+   },
+   {
+    "title": "Late Fame",
+    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/late-fame/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1092,18 +1112,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [

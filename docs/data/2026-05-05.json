@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T00:33:21.809886",
+  "scraped_at": "2026-04-28T06:12:36.676208",
   "date": "2026-05-05"
  },
  "data": {
@@ -575,10 +575,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "One in a Million",
+    "synopsis": "Director: Itab Azzam, Jack Macinnes Run Time: 102 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "5:30 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/one-in-a-million/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140436/cr3Pk2bWdQQBpfvQD2xV4sL0I7p-scaled.jpg"
+   },
+   {
+    "title": "Late Fame",
+    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/late-fame/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
    }
   ],
   "Harvard Film Archive": [
