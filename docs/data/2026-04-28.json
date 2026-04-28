@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T21:59:53.018705",
+  "scraped_at": "2026-04-28T00:31:50.516718",
   "date": "2026-04-28"
  },
  "data": {
@@ -606,20 +606,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
-   {
     "title": "Project Hail Mary (Digital)",
     "synopsis": "An exhilarating space adventure set in the near future.",
     "showtimes": [
@@ -632,6 +618,20 @@
     "rating": "",
     "runtime": "2hrs 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
+   },
+   {
+    "title": "Everyone Is Lying to You for Money",
+    "synopsis": "Like subprime, but dumber.",
+    "showtimes": [
+     "4:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
     "title": "Mother Mary",
@@ -733,30 +733,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Adam's Apple",
-    "synopsis": "Director: Amy K. Jenkins Run Time: 97 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "5:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/adams-apple/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134205/kavfcWa67qmJAHUI9LPtrC96dyJ.jpg"
-   },
-   {
-    "title": "Filipi\u00f1ana",
-    "synopsis": "Director: Rafael Manuel Run Time: 100 min. Format: DCP Release Year: 2026 Language: Tagalog",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/filipinana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134320/7lgpPrmD2XYABOw8Cu3kyUn4usR-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

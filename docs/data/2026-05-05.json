@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T00:32:04.946233",
-  "date": "2026-04-30"
+  "scraped_at": "2026-04-28T00:33:21.809886",
+  "date": "2026-05-05"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,8 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM"
+     "1:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -19,26 +20,12 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
    },
    {
-    "title": "Two Prosecutors (2025)",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/two-prosecutors-2025-244534/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 58 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244534/Two%20Prosecutors.jpg"
-   },
-   {
     "title": "Animal Farm (2026)",
     "synopsis": "",
     "showtimes": [
      "1:00 PM",
      "3:45 PM",
-     "6:30 PM",
-     "9:15 PM"
+     "6:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -51,7 +38,7 @@
     "title": "Deep Water (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
+     "1:45 PM",
      "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -65,6 +52,8 @@
     "title": "Hokum (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:30 PM",
+     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -79,7 +68,8 @@
     "title": "RZA\u2019s One Spoon of Chocolate (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:15 PM"
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -92,9 +82,9 @@
     "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
-     "10:15 PM",
-     "7:15 PM"
+     "2:00 PM",
+     "7:30 PM",
+     "4:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -107,20 +97,20 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
-     "6:30 PM",
-     "9:45 PM",
+     "1:00 PM",
      "4:00 PM",
-     "7:30 PM",
-     "10:30 PM",
-     "2:00 PM",
-     "4:30 PM",
-     "5:00 PM",
-     "6:00 PM",
      "7:00 PM",
+     "10:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM",
+     "2:00 PM",
+     "2:30 PM",
+     "5:30 PM",
      "8:00 PM",
-     "9:15 PM",
-     "10:00 PM"
+     "8:30 PM",
+     "10:30 PM",
+     "5:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -130,24 +120,10 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
    },
    {
-    "title": "ONE OK ROCK Detox Japan Tour 2025 At Nissan Stadium In Cinemas",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 PM",
-     "8:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/one-ok-rock-detox-japan-tour-2025-at-nissan-stadium-in-cinemas-245312/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 58 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245312/oneokrock.jpg"
-   },
-   {
     "title": "Desert Warrior (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -160,8 +136,7 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "4:15 PM"
+     "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -179,8 +154,11 @@
      "9:30 PM",
      "1:00 PM",
      "4:00 PM",
-     "7:15 PM",
-     "10:30 PM"
+     "8:00 PM",
+     "10:30 PM",
+     "2:15 PM",
+     "4:45 PM",
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -193,7 +171,7 @@
     "title": "Over Your Dead Body (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM"
+     "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -203,11 +181,24 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
    },
    {
+    "title": "Fight Club 4K Remaster (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 19 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245067/FightClub_Payoff_1Sht_27x40_M01.jpg"
+   },
+   {
     "title": "Whisper of the Heart 4K (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "10:15 PM"
+     "1:00 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -220,9 +211,8 @@
     "title": "Erupcja (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
-     "8:00 PM",
-     "10:15 PM"
+     "1:00 PM",
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -235,7 +225,7 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM"
+     "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -245,24 +235,10 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244052/THEMUM_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
-    "title": "Lorne (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lorne-2026-244776/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244776/LORNE_Official_Poster.jpg"
-   },
-   {
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
-     "5:15 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -272,49 +248,10 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
    },
    {
-    "title": "Normal (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/normal-2026-244049/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 31 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244049/NORMAL_MAGNOLIA_KA_R12_98_FIN05_MECH_small.jpg"
-   },
-   {
-    "title": "The Christophers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 40 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
-   },
-   {
-    "title": "Bhooth Bangla (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/bhooth-bangla-2026-244978/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 53 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244978/bhoothbangla-1080x1600-Px.jpg"
-   },
-   {
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM"
+     "3:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -328,9 +265,8 @@
     "synopsis": "",
     "showtimes": [
      "1:15 PM",
-     "4:15 PM",
-     "7:30 PM",
-     "10:30 PM"
+     "5:00 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -343,10 +279,10 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
-     "9:15 PM",
-     "1:00 PM",
-     "6:30 PM"
+     "1:15 PM",
+     "7:45 PM",
+     "4:10 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -360,9 +296,10 @@
     "synopsis": "",
     "showtimes": [
      "2:15 PM",
-     "4:30 PM",
+     "4:00 PM",
      "6:45 PM",
-     "9:30 PM"
+     "8:00 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -372,30 +309,53 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    },
    {
-    "title": "Ready or Not 2: Here I Come (2026)",
+    "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM"
+     "2:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/ready-or-not-2-here-i-come-2026-243672/movie-overview",
+    "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241416/HPR_Payoff_Life_1s_v50_Mech5.jpg"
+   },
+   {
+    "title": "Everything Everywhere All at Once (2022)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/everything-everywhere-all-at-once-2022-226636/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243672/RON2_OnlinePoster_XFB_Payoff-US_1334x2000_FIN.jpg"
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/226636/EEAAO_JJ_Full_4x5.jpg"
    }
   ],
   "Kendall Square Cinema": [
+   {
+    "title": "They Live (1988)",
+    "synopsis": "",
+    "showtimes": [
+     "4:25 PM",
+     "7:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/they-live-1988-41321/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
    {
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
      "4:15 PM",
-     "4:45 PM",
-     "6:00 PM",
-     "6:30 PM",
-     "7:00 PM",
-     "7:30 PM"
+     "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -403,77 +363,87 @@
     "rating": "PG13",
     "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:25 PM",
-     "7:15 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Mother Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
-   },
-   {
-    "title": "The Christophers (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:55 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-christophers-2026-245007/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 40 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245007/thechristophers-posterart.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:25 PM",
-     "6:50 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM",
-     "7:10 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Somerville Theatre": [
+   {
+    "title": "Shorts Animated",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-animated/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Shorts Dartmouth: Narrative",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-dartmouth-narrative/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "The Six Billion Dollar Man",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-six-billion-dollar-man/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/six-billion-dollar-man-600x889.jpg"
+   },
+   {
+    "title": "Shorts Clarendon: Narrative",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/shorts-clarendon-narrative/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/IFFBoston2026-web-poster-600x900-1.jpg"
+   },
+   {
+    "title": "Everybody To Kenmure Street",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/everybody-to-kenmure-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/everybody-to-kenmure-street-600x900.jpg"
+   },
+   {
+    "title": "Their Town",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/their-town/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/their-town-600x900.jpg"
+   },
    {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
@@ -489,95 +459,17 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
-    "title": "Cocktail in 35mm",
+    "title": "Crushing Wheelchairs",
     "synopsis": "",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/cocktail-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/crushing-wheelchairs/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-2-600x883.jpg"
-   },
-   {
-    "title": "Make Me Famous",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-3-600x900.jpg"
-   },
-   {
-    "title": "Barfly in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/barfly-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-5-600x871.jpg"
-   },
-   {
-    "title": "Trees Lounge in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/trees-lounge-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/treesLounge-poster.jpg"
-   },
-   {
-    "title": "Road House (1989) in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/road-house-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2023/08/RoadHouse-600x900.jpg"
-   },
-   {
-    "title": "From Dusk Till Dawn",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/from-dusk-till-dawn/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/From_dusk_till_dawn_poster-1.jpg"
-   },
-   {
-    "title": "Shaun of the Dead",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shaun-of-the-dead/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/Shaun-of-the-dead.webp"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/Crushing-Wheelchairs-Primary-Poster-600x800.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -599,7 +491,8 @@
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm"
+     "4:15 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -653,159 +546,31 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "title": "Princess Mononoke (4K Restoration)",
+    "synopsis": "4K restoration directly overseen by Studio Ghibli\u2019s own Atsushi Okui!",
     "showtimes": [
-     "1:00pm",
-     "3:30pm",
-     "6:30pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
-   {
-    "title": "The Stranger (2025)",
-    "synopsis": "Fran\u00e7ois Ozon\u2019s new take on Albert Camus\u2019s classic novel of existentialist ennui.",
-    "showtimes": [
-     "1:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stranger-2025",
-    "rating": "",
-    "runtime": "2hrs 2mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The-Stranger_Still-3_72dpi.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
-    "showtimes": [
-     "1:45pm",
-     "4:30pm",
-     "7:30pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/drama",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
-   },
-   {
-    "title": "I Swear",
-    "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
-    "showtimes": [
-     "1:55pm",
-     "4:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-swear",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
-   },
-   {
-    "title": "The Christophers",
-    "synopsis": "The new film from Steven Soderbergh, starring Ian McKellen and Michaela Coel.",
-    "showtimes": [
-     "2:30pm",
-     "4:50pm",
-     "7:10pm",
+     "4:00pm",
      "9:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/christophers",
+    "url": "https://www.coolidge.org/films/princess-mononoke-4k-restoration",
     "rating": "",
-    "runtime": "1hr 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/the%2Bchristophers.jpeg"
+    "runtime": "2hrs 14mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/GHI_Mononoke_Select4.jpg"
    },
    {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
+    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
+    "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
-     "3:00pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
+    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
     "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
-    "showtimes": [
-     "6:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
-   },
-   {
-    "title": "Panorama: Steal This Story, Please! with Amy Goodman",
-    "synopsis": "With journalist Amy Goodman (Democracy Now!) and Academy Award\u2013nominated director Tia Lessin in person.",
-    "showtimes": [
-     "7:00pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/panorama-steal-story-please-amy-goodman",
-    "rating": "",
-    "runtime": "1hr 41mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/StealThisStoryPlease.jpg"
-   },
-   {
-    "title": "The Wedding Singer",
-    "synopsis": "Adam Sandler stars as the ultimate master of ceremonies who guarantees all a good time.",
-    "showtimes": [
-     "7:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/wedding-singer",
-    "rating": "",
-    "runtime": "1hr 37mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/movWeddingSinger466%20copy.jpg"
-   },
-   {
-    "title": "Exit 8",
-    "synopsis": "Based on the global hit eponymous video game created by KOTAKE CREATE.",
-    "showtimes": [
-     "10:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/exit-8",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EXIT8_Still1_Yamato%20Ko%CC%82chi_Courtesy%20of%20NEON.jpg"
+    "runtime": "1hr 43mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -826,46 +591,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Jetlee (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/jetlee-2026-245492/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 15 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245492/JETLEE-27x40.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/TDWP2_presale_new.jpg"
-   },
-   {
-    "title": "Kara (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/kara-2026-245554/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 39 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245554/kara2026.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-05"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -982,40 +711,40 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Orchestra \u2013 Dima Slobodeniouk, conductor",
-    "synopsis": "Andrea Carroll, soprano Zoie Reams, mezzo-soprano Andrew Haji, tenor Morris Robinson, bass Tanglewood Festival Chorus John ADAMS Harmonium BEETHOVEN Symphony No. 9",
+    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
+    "synopsis": "Duo Maresienne$5. suggested",
     "showtimes": [
-     "7:30 pm"
+     "12:05 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Symphony Hall Boston, in Boston",
-    "url": "https://secure.bso.org/syos/performance/27266",
+    "address": "Kings Chapel, in Boston",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Multiverse Concert Series (V) \u2013 Semiosis String Quartet",
-    "synopsis": "Phillips Auditorium, 60 Garden St, Cambridge Music by Spencer Bambrick and Michal Nissimoff.",
+    "title": "Musician of Old Post Road (SEH) \u2013 Ben Franklin\u2019s Musical Curiosity",
+    "synopsis": "soir\u00e9es of composer Anne Brillon de Jouy. Enjoy an alluring bouquet of songs and instrumental works by Francis Hopkinson, John Antes, James Oswald, C.F. Abel, Brillon de Jouy, and Franklin himself! With soprano Emily Siar.",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "variou9s, in Boston Area",
-    "url": "https://events.humanitix.com/quantumconcert/tickets",
+    "address": "Shirley-Eustis House,, in Roxburt",
+    "url": "http://www.oldpostroad.org/buy-tickets",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Radius Ensemble (TCH) \u2013 Facets",
-    "synopsis": "KEERIL MAKAN \u2013 Madrigal for solo violin (2024) GABRIELA ORTIZ \u2013 Puzzle-Tocas for wind quintet (2000) SHAWN OKPEBHOLO \u2013 Wunlit for solo horn (2020) ROBERT SCHUMANN \u2013 Piano Quartet, Op. 47 (1842)",
+    "title": "Arlekin Players Theater \u2013 Beethoven: a play",
+    "synopsis": "Performed in Russian with English surtitles, this play in 17 scenes explores Beethoven\u2019s life. With live music featuring \u201cbits and pieces\u201dof Beethoven and original music composed and performed by Sarah Infini Takagi. e English titles.",
     "showtimes": [
-     "8:00 pm"
+     "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Thomas Tull Concert Hall at MIT, in Cambridge",
-    "url": "https://radiusensemble.org/products/facets",
+    "address": "368 Hillside Ave., in Needham Heights",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1023,17 +752,10 @@
   ],
   "The Beehive": [
    {
-    "title": "Yaeko Miranda Elmaleh-World Early Music Set",
-    "synopsis": "Join us with Violinist Yaeko Miranda Elmaleh for an unique early music set. Ms Emaleh creates cultural fusions on stage with music inspired from US to the Middle East .She has performed at TD Garden alongside Stevie Wonder, Hines convention with Bernadette Peters and the off Broadway musical \"Shlemiel the First\" in NY.\u2026",
-    "showtimes": [
-     "6:30 pm"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -1054,7 +776,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
+    "title": "New Music Night \u2014 Tuesday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",

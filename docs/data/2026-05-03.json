@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T22:00:31.363791",
+  "scraped_at": "2026-04-28T00:32:29.319266",
   "date": "2026-05-03"
  },
  "data": {
@@ -199,13 +199,13 @@
     "synopsis": "",
     "showtimes": [
      "12:15 PM",
+     "7:15 PM",
+     "10:30 PM",
      "10:15 AM",
      "1:00 PM",
      "5:00 PM",
-     "7:15 PM",
      "8:15 PM",
      "9:30 PM",
-     "10:30 PM",
      "2:00 PM",
      "3:00 PM",
      "4:15 PM"
@@ -581,30 +581,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Adam's Apple",
-    "synopsis": "Director: Amy K. Jenkins Run Time: 97 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "5:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/adams-apple/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134205/kavfcWa67qmJAHUI9LPtrC96dyJ.jpg"
-   },
-   {
-    "title": "Filipi\u00f1ana",
-    "synopsis": "Director: Rafael Manuel Run Time: 100 min. Format: DCP Release Year: 2026 Language: Tagalog",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/filipinana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134320/7lgpPrmD2XYABOw8Cu3kyUn4usR-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
@@ -623,8 +603,7 @@
      "12:00 PM",
      "2:30 PM",
      "5:00 PM",
-     "7:30 PM",
-     "10:00 PM"
+     "7:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",

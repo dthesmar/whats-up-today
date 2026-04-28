@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-27T22:00:00.393342",
+  "scraped_at": "2026-04-28T00:31:57.999555",
   "date": "2026-04-29"
  },
  "data": {
@@ -620,21 +620,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
    },
    {
-    "title": "The Drama",
-    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
-    "showtimes": [
-     "4:30pm",
-     "7:00pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/drama",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
-   },
-   {
     "title": "Mother Mary",
     "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
     "showtimes": [
@@ -648,6 +633,21 @@
     "rating": "",
     "runtime": "1hr 52mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "showtimes": [
+     "4:30pm",
+     "7:00pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/drama",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
    },
    {
     "title": "I Swear",
@@ -706,30 +706,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Adam's Apple",
-    "synopsis": "Director: Amy K. Jenkins Run Time: 97 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "5:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/adams-apple/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134205/kavfcWa67qmJAHUI9LPtrC96dyJ.jpg"
-   },
-   {
-    "title": "Filipi\u00f1ana",
-    "synopsis": "Director: Rafael Manuel Run Time: 100 min. Format: DCP Release Year: 2026 Language: Tagalog",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/filipinana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09134320/7lgpPrmD2XYABOw8Cu3kyUn4usR-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
