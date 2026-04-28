@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T06:07:18.816072",
+  "scraped_at": "2026-04-28T14:07:08.033341",
   "date": "2026-04-28"
  },
  "data": {
@@ -64,7 +64,6 @@
     "title": "I Swear (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -80,14 +79,12 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:15 PM",
      "10:30 PM",
      "3:00 PM",
      "6:15 PM",
      "9:30 PM",
-     "1:30 PM",
      "4:45 PM",
      "8:00 PM",
      "2:00 PM",
@@ -106,7 +103,6 @@
     "title": "Over Your Dead Body (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -135,7 +131,6 @@
     "title": "Whisper of the Heart 4K (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -149,7 +144,6 @@
     "title": "Lee Cronin's The Mummy (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:00 PM",
      "7:15 PM",
      "9:45 PM"
@@ -165,7 +159,6 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "5:00 PM",
      "7:15 PM",
      "10:15 PM"
@@ -181,7 +174,6 @@
     "title": "Normal (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -222,7 +214,6 @@
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -236,7 +227,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:30 PM",
      "10:00 PM"
@@ -254,7 +244,6 @@
     "showtimes": [
      "2:00 PM",
      "3:30 PM",
-     "1:00 PM",
      "4:00 PM",
      "4:45 PM",
      "7:00 PM",
@@ -271,7 +260,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "2:30 PM",
      "4:00 PM",
      "6:15 PM",
@@ -302,7 +290,6 @@
     "title": "Hoppers (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -970,14 +957,71 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "CWX Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM",
+     "4:00PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Lee Cronin's The Mummy",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "3:55PM",
+     "6:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/lee-cronins-the-mummy",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "3:45PM",
+     "5:20PM",
+     "6:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "1:15PM",
+     "2:50PM",
+     "7:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "11:30AM",
-     "12:55PM",
      "1:40PM",
-     "3:20PM",
      "4:15PM",
      "6:45PM"
     ],
@@ -989,73 +1033,11 @@
     "poster": ""
    },
    {
-    "title": "You, Me & Tuscany",
-    "synopsis": "",
-    "showtimes": [
-     "10:30AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Lee Cronin's The Mummy",
-    "synopsis": "",
-    "showtimes": [
-     "10:35AM",
-     "12:50PM",
-     "3:40PM",
-     "6:35PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/lee-cronins-the-mummy",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Michael",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "1:30PM",
-     "4:30PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "11:15AM",
-     "2:45PM",
-     "5:40PM",
-     "6:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:30PM",
-     "3:30PM",
-     "6:30PM"
+     "2:30PM",
+     "5:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1065,16 +1047,14 @@
     "poster": ""
    },
    {
-    "title": "The Drama",
+    "title": "You, Me & Tuscany",
     "synopsis": "",
     "showtimes": [
-     "2:05PM",
-     "4:35PM",
-     "7:10PM"
+     "4:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1112,16 +1092,18 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
