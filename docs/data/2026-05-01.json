@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-28T19:27:05.724715",
+  "scraped_at": "2026-04-28T23:40:01.482031",
   "date": "2026-05-01"
  },
  "data": {
@@ -514,34 +514,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -582,24 +554,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
-   {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
-    "showtimes": [
-     "1:00pm",
-     "6:30pm",
-     "9:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
    {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
@@ -614,6 +599,21 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Mother Mary",
+    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
+    "showtimes": [
+     "1:00pm",
+     "6:30pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mother-mary",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
    },
    {
     "title": "Steal This Story, Please!",
@@ -835,6 +835,32 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245577/dhabkaaro-1080x1600.jpg"
    },
    {
+    "title": "Gaaya Padda Simham (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/gaaya-padda-simham-2026-245487/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245487/GPS-Poster-27x40.jpg"
+   },
+   {
+    "title": "Jetlee (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/jetlee-2026-245492/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245492/JETLEE-27x40.jpg"
+   },
+   {
     "title": "Patriot (2026)",
     "synopsis": "",
     "showtimes": [
@@ -866,14 +892,12 @@
     "synopsis": "",
     "showtimes": [
      "11:00 AM",
-     "11:30 AM",
      "12:00 PM",
      "12:30 PM",
      "1:45 PM",
      "3:00 PM",
      "3:30 PM",
      "4:30 PM",
-     "5:45 PM",
      "6:30 PM",
      "7:15 PM",
      "9:30 PM",
@@ -1215,17 +1239,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "title": "VOCALIST JUDY WEXLER",
-    "synopsis": "",
-    "showtimes": [
-     "One Show at 7pm"
-    ],
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/event/vocalist-judy-wexler-scullers-jazz-club-tickets/14128894?pl=scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/1/2026-01-31T15-32-44_Judy%20Wexler%202026-StandardPoster.jpg"
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
