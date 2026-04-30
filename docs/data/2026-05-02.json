@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T03:33:48.200877",
+  "scraped_at": "2026-04-30T09:07:49.145845",
   "date": "2026-05-02"
  },
  "data": {
@@ -1130,7 +1130,6 @@
     "showtimes": [
      "1:05PM",
      "3:45PM",
-     "5:20PM",
      "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1145,7 +1144,7 @@
     "synopsis": "",
     "showtimes": [
      "1:15PM",
-     "2:50PM",
+     "3:35PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1171,15 +1170,16 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "2:30PM",
-     "5:30PM"
+     "2:00PM",
+     "4:45PM",
+     "7:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1193,6 +1193,19 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""

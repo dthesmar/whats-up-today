@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T03:51:49.338393",
+  "scraped_at": "2026-04-30T09:08:03.195428",
   "date": "2026-05-04"
  },
  "data": {
@@ -715,19 +715,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
-    "synopsis": "New 4K Digital Restoration!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 43mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
-   },
-   {
     "title": "Shadow of a Doubt (1943)",
     "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
     "showtimes": [
@@ -739,6 +726,19 @@
     "rating": "",
     "runtime": "1hr 48mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
+   },
+   {
+    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
+    "synopsis": "New 4K Digital Restoration!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 43mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
    },
    {
     "title": "Mother Mary",
@@ -1023,7 +1023,6 @@
     "showtimes": [
      "1:05PM",
      "3:45PM",
-     "5:20PM",
      "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1038,7 +1037,7 @@
     "synopsis": "",
     "showtimes": [
      "1:15PM",
-     "2:50PM",
+     "3:35PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1064,15 +1063,16 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "2:30PM",
-     "5:30PM"
+     "2:00PM",
+     "4:45PM",
+     "7:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1086,6 +1086,19 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
