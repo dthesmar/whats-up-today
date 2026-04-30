@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-29T19:40:28.296606",
+  "scraped_at": "2026-04-30T03:51:36.953885",
   "date": "2026-05-03"
  },
  "data": {
@@ -583,34 +583,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -640,6 +612,21 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -653,6 +640,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -807,37 +807,38 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Tom Perrotta",
-    "synopsis": "Run Time: 90 min.",
+    "title": "Elements of Cinema: Santa Sangre",
+    "synopsis": "Today, Apr 30 @ 6:00 pm: Free screening!",
     "showtimes": [
-     "6:00 pm"
+     "6:00 pm FREE"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-tom-perrotta/",
+    "url": "https://brattlefilm.org/movies/elements-of-cinema-santa-sangre/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04111154/image-2.jpeg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02125317/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg"
    },
    {
-    "title": "The House with Laughing Windows",
-    "synopsis": "Director: Pupi Avati Run Time: 110 min. Format: DCP Release Year: 1976 Language: Italian",
+    "title": "A Lizard in a Woman's Skin",
+    "synopsis": "Director: Lucio Fulci Run Time: 104 min. Format: DCP Release Year: 1971 Language: Italian w/English Subtitles",
     "showtimes": [
-     "8:00 pm"
+     "9:15 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-house-with-laughing-windows/",
+    "url": "https://brattlefilm.org/movies/a-lizard-in-a-womans-skin/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02124829/hN8BEjmyqsPdwSPsdDWenoid1as.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02130113/FoxWPSJjxlUyylZgN35qkWvpTz.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
