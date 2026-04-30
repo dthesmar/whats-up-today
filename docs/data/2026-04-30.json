@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T09:07:34.767507",
+  "scraped_at": "2026-04-30T11:18:27.557506",
   "date": "2026-04-30"
  },
  "data": {
@@ -685,159 +685,9 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Mother Mary",
-    "synopsis": "Modern pop star meets gothic melodrama in David Lowery\u2019s phantasmagoric tale of two women bound across time and space by their personal and artistic histories.",
-    "showtimes": [
-     "1:00pm",
-     "3:30pm",
-     "6:30pm",
-     "9:45pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mother-mary",
-    "rating": "",
-    "runtime": "1hr 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MM_1.jpg"
-   },
-   {
-    "title": "The Stranger (2025)",
-    "synopsis": "Fran\u00e7ois Ozon\u2019s new take on Albert Camus\u2019s classic novel of existentialist ennui.",
-    "showtimes": [
-     "1:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stranger-2025",
-    "rating": "",
-    "runtime": "2hrs 2mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The-Stranger_Still-3_72dpi.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
-    "showtimes": [
-     "1:45pm",
-     "4:30pm",
-     "7:30pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/drama",
-    "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
-   },
-   {
-    "title": "I Swear",
-    "synopsis": "Based on the life story of Tourette's Syndrome campaigner John Davidson, MBE.",
-    "showtimes": [
-     "1:55pm",
-     "4:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-swear",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4_1.jpg"
-   },
-   {
-    "title": "The Christophers",
-    "synopsis": "The new film from Steven Soderbergh, starring Ian McKellen and Michaela Coel.",
-    "showtimes": [
-     "2:30pm",
-     "4:50pm",
-     "7:10pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/christophers",
-    "rating": "",
-    "runtime": "1hr 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/the%2Bchristophers.jpeg"
-   },
-   {
-    "title": "Project Hail Mary (Digital)",
-    "synopsis": "An exhilarating space adventure set in the near future.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/project-hail-mary-digital",
-    "rating": "",
-    "runtime": "2hrs 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/PHM_48854_R_rgb.jpg"
-   },
-   {
-    "title": "Everyone Is Lying to You for Money",
-    "synopsis": "Like subprime, but dumber.",
-    "showtimes": [
-     "4:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/everyone-lying-you-money",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EILTYFM-5.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
-    "showtimes": [
-     "6:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
-   },
-   {
-    "title": "Panorama: Steal This Story, Please! with Amy Goodman",
-    "synopsis": "With journalist Amy Goodman (Democracy Now!) and Academy Award\u2013nominated director Tia Lessin in person.",
-    "showtimes": [
-     "7:00pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/panorama-steal-story-please-amy-goodman",
-    "rating": "",
-    "runtime": "1hr 41mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/StealThisStoryPlease.jpg"
-   },
-   {
-    "title": "The Wedding Singer",
-    "synopsis": "Adam Sandler stars as the ultimate master of ceremonies who guarantees all a good time.",
-    "showtimes": [
-     "7:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/wedding-singer",
-    "rating": "",
-    "runtime": "1hr 37mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/movWeddingSinger466%20copy.jpg"
-   },
-   {
-    "title": "Exit 8",
-    "synopsis": "Based on the global hit eponymous video game created by KOTAKE CREATE.",
-    "showtimes": [
-     "10:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/exit-8",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EXIT8_Still1_Yamato%20Ko%CC%82chi_Courtesy%20of%20NEON.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
