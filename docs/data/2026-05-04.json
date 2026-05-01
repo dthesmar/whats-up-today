@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-01T06:40:07.781740",
+  "scraped_at": "2026-05-01T07:41:27.109982",
   "date": "2026-05-04"
  },
  "data": {
@@ -713,19 +713,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Shadow of a Doubt (1943)",
-    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
-   },
-   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -737,6 +724,19 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Shadow of a Doubt (1943)",
+    "synopsis": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/shadow-doubt-1943",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Shadow_Doubt_scene_678%20copy.jpg"
    },
    {
     "title": "Mother Mary",
@@ -1003,31 +1003,69 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Michael",
+    "title": "CWX The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "1:00PM",
-     "4:00PM",
-     "7:00PM"
+     "12:30PM",
+     "3:15PM",
+     "6:00PM",
+     "9:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Lee Cronin's The Mummy",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "1:05PM",
-     "3:55PM",
-     "6:50PM"
+     "1:00PM",
+     "1:55PM",
+     "4:20PM",
+     "6:45PM",
+     "9:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/lee-cronins-the-mummy",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:20PM",
+     "2:55PM",
+     "4:10PM",
+     "5:45PM",
+     "7:00PM",
+     "8:35PM",
+     "9:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:45PM",
+     "4:30PM",
+     "7:15PM",
+     "9:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1036,9 +1074,10 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "1:05PM",
-     "3:45PM",
-     "6:55PM"
+     "2:45PM",
+     "3:30PM",
+     "6:15PM",
+     "9:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1051,69 +1090,12 @@
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "1:15PM",
-     "3:35PM",
-     "7:10PM"
+     "7:05PM",
+     "9:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "1:40PM",
-     "4:15PM",
-     "6:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "2:00PM",
-     "4:45PM",
-     "7:30PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "You, Me & Tuscany",
-    "synopsis": "",
-    "showtimes": [
-     "4:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/you-me-tuscany",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
