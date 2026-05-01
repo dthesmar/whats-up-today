@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T23:29:24.835652",
+  "scraped_at": "2026-05-01T00:31:30.137124",
   "date": "2026-05-02"
  },
  "data": {
@@ -198,10 +198,7 @@
    {
     "title": "Fight Club 4K Remaster (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:15 PM",
-     "10:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
@@ -833,30 +830,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Elements of Cinema: Santa Sangre",
-    "synopsis": "Today, Apr 30 @ 6:00 pm: Free screening!",
-    "showtimes": [
-     "6:00 pm FREE"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/elements-of-cinema-santa-sangre/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02125317/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg"
-   },
-   {
-    "title": "A Lizard in a Woman's Skin",
-    "synopsis": "Director: Lucio Fulci Run Time: 104 min. Format: DCP Release Year: 1971 Language: Italian w/English Subtitles",
-    "showtimes": [
-     "9:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/a-lizard-in-a-womans-skin/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02130113/FoxWPSJjxlUyylZgN35qkWvpTz.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

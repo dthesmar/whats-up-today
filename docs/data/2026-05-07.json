@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T23:29:57.373146",
+  "scraped_at": "2026-05-01T00:32:09.021978",
   "date": "2026-05-07"
  },
  "data": {
@@ -736,30 +736,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Elements of Cinema: Santa Sangre",
-    "synopsis": "Today, Apr 30 @ 6:00 pm: Free screening!",
-    "showtimes": [
-     "6:00 pm FREE"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/elements-of-cinema-santa-sangre/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02125317/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg"
-   },
-   {
-    "title": "A Lizard in a Woman's Skin",
-    "synopsis": "Director: Lucio Fulci Run Time: 104 min. Format: DCP Release Year: 1971 Language: Italian w/English Subtitles",
-    "showtimes": [
-     "9:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/a-lizard-in-a-womans-skin/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/02130113/FoxWPSJjxlUyylZgN35qkWvpTz.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
