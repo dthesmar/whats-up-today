@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-01T09:47:24.614553",
+  "scraped_at": "2026-05-01T17:33:23.130313",
   "date": "2026-05-08"
  },
  "data": {
@@ -110,10 +110,34 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:35 PM",
+     "7:05 PM",
+     "9:35 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-08"
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/sheepdetective_presale.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM",
+     "7:00 PM",
+     "9:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -121,7 +145,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -130,19 +153,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -173,24 +183,9 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -201,24 +196,9 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:10 pm"
     ],
     "theater": "Capitol Theatre",
@@ -229,10 +209,35 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
      "7:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -523,6 +528,19 @@
     ],
     "theater": "Classical Music (Boston)",
     "address": "St. Peter\u2019s Episcopal Church, 838 Massachusetts, in Cambridge",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Concord TriCon Church \u2013 Tanya Bartevyan, pianist",
+    "synopsis": "J.S. Bach \u2014 English Suite in d minor, selections Florence Price\u2013 Piano Sonata Franz Schubert\u2013 Sonata in C Minor D. 958$20 or what you can",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "54 Walden St., in Concord",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",

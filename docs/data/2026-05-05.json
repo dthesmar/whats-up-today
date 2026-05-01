@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-01T09:46:44.113554",
+  "scraped_at": "2026-05-01T17:32:47.077120",
   "date": "2026-05-05"
  },
  "data": {
@@ -9,7 +9,7 @@
     "title": "Exit 8 (2025)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
+     "1:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -106,6 +106,7 @@
      "6:00 PM",
      "9:00 PM",
      "2:30 PM",
+     "4:30 PM",
      "5:30 PM",
      "8:00 PM",
      "8:30 PM",
@@ -155,7 +156,7 @@
      "1:00 PM",
      "4:00 PM",
      "8:00 PM",
-     "10:30 PM",
+     "10:20 PM",
      "2:00 PM",
      "4:45 PM",
      "7:15 PM"
@@ -179,17 +180,6 @@
     "rating": "R",
     "runtime": "1 hr 45 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244782/OYDB_AW_MM_LAUREL_web.jpg"
-   },
-   {
-    "title": "Fight Club 4K Remaster (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/fight-club-4k-remaster-2026-245067/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 19 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245067/FightClub_Payoff_1Sht_27x40_M01.jpg"
    },
    {
     "title": "Whisper of the Heart 4K (2026)",
@@ -460,19 +450,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
@@ -484,6 +461,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "Crushing Wheelchairs",
@@ -501,20 +491,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -529,20 +505,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
    },
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -555,6 +517,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "The Drama",
