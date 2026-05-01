@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-04-30T11:37:25.491298",
+  "scraped_at": "2026-04-30T22:28:17.903395",
   "date": "2026-05-03"
  },
  "data": {
@@ -389,17 +389,17 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Landmark Secret Movie",
+    "title": "Mystery Movie - Family Edition",
     "synopsis": "",
     "showtimes": [
      "2:00 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-secret-movie-239632/movie-overview",
-    "rating": "R",
+    "url": "https://www.fandango.com/mystery-movie-family-edition-245615/movie-overview",
+    "rating": "PG",
     "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239632/landmarksecretmovie.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
     "title": "The Devil Wears Prada 2 (2026)",
@@ -470,8 +470,7 @@
     "title": "The Christophers (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
-     "6:45 PM"
+     "4:30 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -526,20 +525,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:20 pm",
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -553,6 +538,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:20 pm",
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Drama",
