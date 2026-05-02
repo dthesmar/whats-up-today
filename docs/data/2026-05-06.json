@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-01T22:20:00.967883",
+  "scraped_at": "2026-05-02T10:52:21.678069",
   "date": "2026-05-06"
  },
  "data": {
@@ -735,7 +735,6 @@
     "title": "Harlan County U.S.A.",
     "synopsis": "Director: Barbara Kopple Run Time: 105 min. Format: 4K DCP Release Year: 1977",
     "showtimes": [
-     "4:00 pm",
      "12:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -749,7 +748,6 @@
     "title": "American Dream",
     "synopsis": "Director: Barbara Kopple Run Time: 98 min. Format: 4K DCP Release Year: 1990",
     "showtimes": [
-     "6:15 pm",
      "2:15 pm"
     ],
     "theater": "Brattle Theatre",
@@ -760,10 +758,37 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/10162200/31114id_056_0002_31114id_149_w1600.jpg"
    },
    {
+    "title": "Kaili Blues",
+    "synopsis": "Director: Bi Gan Run Time: 113 min. Format: DCP Release Year: 2016 Language: Chinese w/ English subtitles",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kaili-blues/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110402/b08ydxzpqR4WDSgnkLBSp4hfB3v-scaled.jpg"
+   },
+   {
+    "title": "Long Day's Journey Into Night",
+    "synopsis": "Director: Bi Gan Run Time: 138 min. Format: DCP Release Year: 2018 Language: Chinese with English subtitles",
+    "showtimes": [
+     "7:00 pm",
+     "4:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/long-days-journey-into-night/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110510/zJDaoc3HIHIgIOiY60NxqZUdXcp-scaled.jpg"
+   },
+   {
     "title": "Chungking Express",
     "synopsis": "Director: Wong Kar-wai Run Time: 103 min. Release Year: 1994",
     "showtimes": [
-     "8:30 pm Sold Out",
      "10:00 pm",
      "5:30 pm"
     ],
@@ -974,42 +999,11 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30PM",
-     "3:15PM",
-     "6:00PM",
-     "9:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "1:00PM",
-     "1:55PM",
-     "4:20PM",
-     "6:45PM",
-     "9:30PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
+     "10:30AM",
+     "12:00PM",
      "1:20PM",
      "2:55PM",
      "4:10PM",
@@ -1026,9 +1020,29 @@
     "poster": ""
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "11:30AM",
+     "1:00PM",
+     "1:55PM",
+     "4:20PM",
+     "6:45PM",
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "11:00AM",
      "1:45PM",
      "4:30PM",
      "7:15PM",
@@ -1045,6 +1059,7 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
+     "11:20AM",
      "2:45PM",
      "3:30PM",
      "6:15PM",
@@ -1053,6 +1068,22 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30PM",
+     "3:15PM",
+     "6:00PM",
+     "9:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""

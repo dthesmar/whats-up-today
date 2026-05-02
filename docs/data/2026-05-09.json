@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-05-02T10:52:43.411527",
-  "date": "2026-05-08"
+  "scraped_at": "2026-05-02T11:00:56.637113",
+  "date": "2026-05-09"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,6 +9,8 @@
     "title": "Blue Heron",
     "synopsis": "",
     "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
      "3:00 PM",
      "5:30 PM",
      "8:00 PM",
@@ -25,11 +27,12 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
+     "10:30 AM",
+     "1:30 PM",
      "7:30 PM",
-     "10:15 PM",
-     "1:00 PM",
-     "4:45 PM"
+     "10:20 PM",
+     "12:30 PM",
+     "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -42,14 +45,17 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:00 AM",
      "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "10:00 PM",
      "10:30 PM",
+     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM",
+     "11:00 AM",
      "2:00 PM",
      "4:30 PM",
      "5:00 PM",
@@ -79,10 +85,23 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/sheepdetective_presale.jpg"
    },
    {
+    "title": "Iron Maiden: Burning Ambition (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/iron-maiden-burning-ambition-2026-244739/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244739/Iron-Maiden-OS-27x40.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
+     "3:45 PM",
      "1:00 PM",
      "7:00 PM",
      "10:00 PM"
@@ -106,6 +125,19 @@
     "rating": "PG13",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/211315/CZYRA_REV_TSR_VERT_DOM_2764x4096_master.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -113,6 +145,7 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:55 PM",
      "4:35 PM",
      "7:05 PM",
      "9:35 PM"
@@ -128,6 +161,7 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:35 PM",
      "4:15 PM",
      "7:00 PM",
      "9:40 PM"
@@ -142,53 +176,148 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Make Me Famous",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "1:20 pm",
+     "4:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-3-600x900.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show w/ Teseracte Players",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-rocky-horror-picture-show-w-teseracte-players/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/RHPS-Somerville-Theatre-5-16-copy-600x831.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "No Capitol Theatre screenings found for today.",
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "7:00 pm"
+    ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com"
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Darkman",
-    "synopsis": "In the darkest hour, there is a light that shines on every human being... but ONE!",
+    "title": "Army of Darkness",
+    "synopsis": "In an age of darkness. At a time of evil. When the world needed a hero. What it got was him.",
     "showtimes": [
      "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/darkman",
+    "url": "https://www.coolidge.org/films/army-darkness",
     "rating": "",
-    "runtime": "1hr 36mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Darkman_1990_04%20copy.jpg"
-   },
-   {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
+    "runtime": "1hr 21mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Army%20of%20Darkness%201%20website.jpeg"
    }
   ],
   "Brattle Theatre": [
@@ -263,30 +392,30 @@
   ],
   "Harvard Film Archive": [
    {
-    "title": "Fruit of Paradise",
-    "synopsis": "V\u011bra Chytilov\u00e1\u2019s second most famous work is perhaps her aesthetically wildest. Shot on the heels of Daisies (1966), Fruit of Paradise retells the origin myth of Adam, Eve and Satan amidst the opulent spring foliage of a prehistoric spa. Exploiting Eastmancolor to its limits, Chytilov\u00e1 and director of photography Jarosl\u2026",
+    "title": "Funeral Parade of Roses / Land of Silence and Darkness",
+    "synopsis": "There will be a 15-minute intermission between films. Land of Silence and Darkness will begin around 4pm.",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Harvard Film Archive",
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/funeral-parade-of-roses-land-of-silence-and-darkness-2026-05",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb/695bf7d37c106.jpg?1767635439"
+   },
+   {
+    "title": "Valerie and Her Week of Wonders",
+    "synopsis": "Written by Ester Krumbachov\u00e1 on the basis of V\u00edt\u011bzslav Nezval\u2019s 1935 gothic novel, Valerie and Her Week of Wonders sees post-\u201868 Czech cinema move firmly into surrealism, spiritualism and the occult. Jire\u0161\u2014whose 1969\u2019s The Joke encountered the iron fist of censorship\u2014was somehow allowed to direct after Barrandov Studio\u2026",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/fruit-of-paradise-2026-05",
+    "url": "https://harvardfilmarchive.org/calendar/valerie-and-her-week-of-wonders-2026-05",
     "rating": "",
     "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/696555c799adb.jpg?1768925835"
-   },
-   {
-    "title": "Squandered Sunday",
-    "synopsis": "An unjustly forgotten treasure of the Czech New Wave, Squandered Sunday was shot in 1969 (only months after Warsaw Pact tanks invaded Prague) and did not see the light of day until the end of communism. FAMU graduate Drahom\u00edra Vihanov\u00e1 chronicles a day in the life of depressed alcoholic army officer Ernest, whose exist\u2026",
-    "showtimes": [
-     "9:00 pm"
-    ],
-    "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/squandered-sunday-2026-05",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/69655625a24e7.jpg?1768926054"
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/69655689dffd8.jpg?1768926207"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -415,27 +544,79 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Wilkinson Young Singers\u2019 Fund \u2013 Live Final Competition",
-    "synopsis": "Seully Hall, Boston ConservatoryUp to eight finalists, aged 20-30; performance order by random draw. All finalists will perform two pieces from a repertoire of three submitted songs. Winners will be announced live at the end.FREE",
+    "title": "Milton Community Concerts \u2013 Celebrating Asian Composers and Performers",
+    "synopsis": "7 Asian classically-trained musicians performing a wide variety of music written by Asian composers, as well as showpieces by Western composers. Donations accepted at the concert will support the Asian Community Fund at the Boston Foundation.",
     "showtimes": [
-     "7:00 pm"
+     "2:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Various, in Boston Area",
+    "address": "First Parish of Milton, 535 Canton Avenue, in Milton",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Pao Center for the Arts \u2013 When Poetry Sings \u2013 Voices from the Far East",
-    "synopsis": "When Poetry Sings seeks to illuminate the intersection of traditions through art songs. The program will feature a selection of works set to Chinese poetry, performed in English, German, French, and Chinese, with music by Aaron Copland, Claude Debussy, Charles Griffes, Huang Tzu, and his disciples.Music Director/Pianis\u2026",
+    "title": "Milton Community Concerts \u2013 Celebrating Asian Composers and Performers",
+    "synopsis": "7 Asian classically-trained musicians performing a wide variety of music written by Asian composers, as well as showpieces by Western composers. Donations accepted at the concert will support the Asian Community Fund at the Boston Foundation.",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "First Parish of Milton, 535 Canton Avenue, in Milton",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sarasa Chamber Music Ensemble (FMH) \u2013 All in the Family",
+    "synopsis": "Works by Wilhelm Friedemann, Johann Bernhard, Anna Magdalena, Carl Philipp Emmanuel & Johann Sebastian Bach.With Daniel Bates, oboe; Christina Day Martinson, Rebecca Nelson, Danilo Bonino, violins; Anna Griffis, violas; Jennifer Morsches, Timothy Merton, cellos; John McKean, harpsichord",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "99 Albany St., in Boston",
-    "url": "https://www.paoartscenter.org/events/2026/poetrysings",
+    "address": "Friends Meeting House, in Cambridge",
+    "url": "https://www.simpletix.com/e/all-in-the-family-tickets-220014",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Winsor Music \u2013 Lineage",
+    "synopsis": "Mozart Musikalisches W\u00fcrfelspiel Erik Satie from Sports et divertissements Kate Soper Life\u2019s Work Gy\u00f6rgy Kurt\u00e1g from J\u00e1t\u00e9kok Nicole Liz\u00e9e Simon Interlude for Milton Bradley Mozart Kegelstatt TrioPerformers: Gabriela D\u00edaz violin/viola; Rane Moore clarinet Heng-Jin Park piano; Kate Soper soprano",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. Paul\u2019s Church 15 St. Paul Street, Brookline, in Brookline",
+    "url": "https://www.eventbrite.com/e/games-tickets-1448086849749?aff=oddtdtcreator",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "A Far Cry \u2013 THE STRANGERS\u2019 CASE",
+    "synopsis": "Mary Kouyoumdjian | Tagh [Diary] of an Immigrant George Frideric Handel | Set of Arias for Tenor Anton\u00edn Dvo\u0159\u00e1k | Nocturne in B major, Op. 40 Karim Al-Zand | The Strangers\u2019 Case for Tenor and String Orchestra",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Jordan Hall, in Boston",
+    "url": "https://afarcryorchestra.my.salesforce-sites.com/ticket/#/instances/a0FQU000004Nauv2AC",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Chamber Symphony (GEC) \u2013 Avlana Eisenberg, conductor",
+    "synopsis": "BRAHMS | Hungarian Dance No. 1 REINECKE | Flute Concerto (Seth Morris, flute) SIBELIUS | Valse Triste MENDELSSOHN | Symphony No. 4 (\u201cItalian\u201d)",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Grace Episcopal Church, 76 Eldredge St.,, in Newton",
+    "url": "http://www.bostonchambersymphony.org/upcoming-concerts",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -454,66 +635,66 @@
     "poster": ""
    },
    {
-    "title": "Newton Baroque (GI) \u2013 Music from 17th Century South Germany",
+    "title": "Apollo Ensemble \u2013 Elias Miller, conductor",
+    "synopsis": "Ethan CHAVES: World Premiere Max BRUCH: Violin Concerto No. 1 Robert SCHUMANN: Symphony No. 1 (\u201cSpring\u201d)",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. John\u2019s Church, 1 Roanoke Avenue, in Jamaica Plain",
+    "url": "https://apolloensembleofboston.com/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Newton Baroque (AH) \u2013 Music from 17th Century South Germany",
     "synopsis": "Bertali, Schmelzer, Biber, CapricornusSusanna Ogata \u2013 violin, Laura Jeppesen \u2013 viola da gamba, Andrus Madsen \u2013 harpsichord",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Goethe-Institut, 170 Beacon St, in Boston",
-    "url": "https://www.zeffy.com/ticketing/music-from-17th-century-south-germany-bertali-schmelzer-biber-capricornus",
+    "address": "Nathaniel Allen House, 35 Webster Street, in Newton",
+    "url": "https://www.zeffy.com/ticketing/music-from-17th-century-south-germany-bertali-schmelzer-biber-capricornus-2",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Tactus Ensemble (SP) \u2013 Concert for the City",
-    "synopsis": "Sulpitia Cesis: Stabat Mater Victoria: O Vos omnes Lasso: Adoramus te Christe I Lasso: In te speravi Palestrina: Terra Tremuit Lasso: Missa Jager Venatorum \u2013 Octavi Toni Aleotti: Beatus Laurentius Lasso: Justi Tulerunt Lasso: Super flumina babylonis Lasso: Du fond de mon pens\u00e9e Lasso: Susanne un jour Lasso: La nuict fr\u2026",
+    "title": "Musica Sacra \u2013 Music for this May Evening:",
+    "synopsis": "works depicting the natural wonders of the season and also with heartfelt pleas to consider our commonalities from such diverse voices as a 19th century Moravian preacher and a 20th century So",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "St. Peter\u2019s Episcopal Church, 838 Massachusetts, in Cambridge",
-    "url": "https://classical-scene.com/calendar/",
+    "address": "First Church, Cambridge, MA, in Cambridge",
+    "url": "https://musicasacra.org/music-for-this-may-evening-choral-music-for-the-season-and-the-times.html",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Concord TriCon Church \u2013 Tanya Bartevyan, pianist",
-    "synopsis": "J.S. Bach \u2014 English Suite in d minor, selections Florence Price\u2013 Piano Sonata Franz Schubert\u2013 Sonata in C Minor D. 958$20 or what you can",
+    "title": "Bay Colony Brass (SC) \u2013 Tanya Bartevyan, pianist",
+    "synopsis": "Traditional (arr. Marlatt): Siyahamba MARKS: Music for Brass and Timpani UBER: Liturgy for Brass HAZELL: Three Brass Cats COOMAN: Suncatchers: Pageant in Four Scenes for Two Horns and Brass Ensemble REED: Othello: A Symphonic Portrait in Five ScenesFREE",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "54 Walden St., in Concord",
+    "address": "Second Church in Newton, 60 Highland Street,, in West Newton",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Longwood Symphony Orchestra \u2013 Mahler 1",
-    "synopsis": "otaro Nakano, Music Director featuring Cambridge Common VoicesHeather Hyo Eun Ahn: LSO Commission Cambridge Common Voices: Guest Performance Gustav Mahler: Symphony No.1, in D major \u201cTitan\u201d",
+    "title": "Cambridge Chamber Singers (EC) \u2013 The American Patchwork:",
+    "synopsis": "Billings, William, Chester Morgan, Justin Amanda Belcher, Supply The Power of Musick Lowry, Robert. How Can I keep from Singing/ Buck, Dudley Hymn to Music Parker, Horatio. Urbs Syon Unica Parker, Arr. Alice Keep Your Hand On That Plow Ives, Charles E. They are There! Barber, Samuel Agnus Dei Allan, Lewis Strange Fruit\u2026",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Longwood Symphony Orchestra \u2013 Mendelssohn\u2019s Joyful Blue Skies",
-    "synopsis": "Heather Hyo Eun Ahn: LSO Commission *World Premiere* Cambridge Common Voices: Guest Performance Mahler: Symphony No.1, in D major \u201cTitan\u201d",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://longwoodsymphony.org/concerts/may8-2026-68p8n",
+    "address": "Emmanuel Church, 15 Newbury Street, in Boston",
+    "url": "https://ticketpeak.com/go/cambridgechambersingers/events/We",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -521,30 +702,30 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Naya Trio-Early Music",
+    "synopsis": "Nathan Sabanayagam is a multidimensional and deep presence in the reggae/fusion world. He is a drummer, composer, band leader, and most importantly a producer to too many of the great musicians coming from the Kingston Jamaica. Nathan is at the center and always brings creative veteran players. This will be exciting",
+    "showtimes": [
+     "6:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
    {
-    "title": "ERIC DARIUS",
-    "synopsis": "",
-    "showtimes": [
-     "Shows at 7 and 9pm"
-    ],
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/search?q=eric+darius+scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/3/2026-03-12T19-04-00_ERIC%20DARIUS%20COLORFUL-StandardPoster.jpg"
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "title": "Mike Stern Band Featuring: Dennis Chambers, Gary Grainger, Bob Franceschini, Leni Stern",
+    "title": "Gabrielle Cavassa",
     "synopsis": "",
     "showtimes": [
      "7:00 PM"
@@ -554,25 +735,12 @@
     "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
     "rating": "",
     "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/39/54/63_Listings.jpg?v=5"
-   },
-   {
-    "title": "Mike Stern Band Featuring: Dennis Chambers, Gary Grainger, Bob Franceschini, Leni Stern",
-    "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
-    "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/39/54/63_Listings.jpg?v=5"
+    "poster": "https://i.ticketweb.com//i/00/12/74/72/84_Listings.jpg?v=6"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "Jazz Night \u2014 Saturday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
@@ -588,7 +756,7 @@
   ],
   "Boston Ballet": [
    {
-    "title": "Spring Experience 2026: May 8 at 7:30 PM",
+    "title": "Spring Experience 2026: May 9 at 7:30 PM",
     "synopsis": "The 2026 Spring Experience is made up of three contrasting works that showcase the versatility of Boston Ballet dancers and the varied styles of contemporary ballet storytelling.",
     "showtimes": [
      "7:30 PM"
