@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-02T16:10:11.057556",
+  "scraped_at": "2026-05-02T17:11:18.225469",
   "date": "2026-05-02"
  },
  "data": {
@@ -51,7 +51,6 @@
     "title": "Hokum (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -66,7 +65,6 @@
     "title": "RZA\u2019s One Spoon of Chocolate (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -80,8 +78,7 @@
     "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "4:45 PM"
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -94,12 +91,10 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM",
      "6:00 PM",
      "9:00 PM",
-     "4:30 PM",
      "5:30 PM",
      "6:30 PM",
      "8:00 PM",
@@ -141,7 +136,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:30 PM",
      "6:00 PM",
@@ -224,9 +218,7 @@
    {
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
@@ -252,7 +244,6 @@
     "synopsis": "",
     "showtimes": [
      "7:30 PM",
-     "4:15 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -291,9 +282,7 @@
    {
     "title": "Everything Everywhere All at Once (2022)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/everything-everywhere-all-at-once-2022-226636/movie-overview",
@@ -331,8 +320,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
-     "4:45 PM",
      "5:15 PM",
      "5:45 PM",
      "6:00 PM",
@@ -355,7 +342,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:55 PM",
      "6:50 PM",
      "9:35 PM"
     ],
@@ -394,7 +380,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:15 PM",
      "9:45 PM"
     ],
@@ -436,7 +421,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -501,34 +485,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
     "title": "Hoppers",
     "synopsis": "",
     "showtimes": [
@@ -540,6 +496,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "Project Hail Mary",
@@ -566,6 +535,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -853,9 +835,7 @@
    {
     "title": "Casa Grande (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/casa-grande-2026-245490/movie-overview",
@@ -929,7 +909,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "6:30 PM",
      "7:15 PM",
      "9:30 PM",
@@ -959,7 +938,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:10 PM",
      "6:45 PM",
      "9:00 PM",
@@ -989,7 +967,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "6:50 PM",
      "9:15 PM"
     ],
