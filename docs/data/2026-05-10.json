@@ -1,101 +1,612 @@
 {
  "meta": {
-  "scraped_at": "2026-05-03T18:34:37.895680",
+  "scraped_at": "2026-05-03T19:37:20.096665",
   "date": "2026-05-10"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-10\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-10\", waiting until \"domcontentloaded\"\n",
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "3:00 PM",
+     "5:30 PM",
+     "8:00 PM",
+     "10:30 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-10"
+    "url": "https://www.fandango.com/blue-heron-244955/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
+   {
+    "title": "Fried Green Tomatoes 35th Anniversary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fried-green-tomatoes-35th-anniversary-244287/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244287/1000x1480_FGT_Exhibitor%20Poster.jpg"
+   },
+   {
+    "title": "Labyrinth (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/labyrinth-2026-245082/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 55 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245082/LABY_Poster1_Web.jpg"
+   },
+   {
+    "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "1:45 PM",
+     "7:30 PM",
+     "10:20 PM",
+     "12:00 PM",
+     "4:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/billie-eilish-hit-me-hard-and-soft-the-tour-2026-244882/movie-overview",
+    "rating": "PG13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244882/billieeilish_presale.jpg"
+   },
+   {
+    "title": "Mortal Kombat II (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM",
+     "10:30 PM",
+     "12:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM",
+     "11:00 AM",
+     "2:00 PM",
+     "4:30 PM",
+     "5:00 PM",
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 56 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/MK2_presale.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "4:30 PM",
+     "7:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/sheepdetective_presale.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "1:00 PM",
+     "7:00 PM",
+     "10:00 PM",
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Crazy Rich Asians",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/crazy-rich-asians-211315/movie-overview",
+    "rating": "PG13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/211315/CZYRA_REV_TSR_VERT_DOM_2764x4096_master.jpg"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-10\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-10\", waiting until \"domcontentloaded\"\n",
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:55 PM",
+     "4:35 PM",
+     "7:05 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-10"
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/sheepdetective_presale.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:35 PM",
+     "4:15 PM",
+     "7:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107921e50>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "The Airwaves Belonged to the People: WBCN and The American Revolution",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-airwaves-belonged-to-the-people-wbcn-and-the-american-revolution/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-16-600x889.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107921d10>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-05-10 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107921590>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Double Feature: Singin\u2019 in the Rain & Sullivan\u2019s Travels",
+    "synopsis": "Celebrate the magic and mayhem of moviemaking in this Mother\u2019s Day double feature!",
+    "showtimes": [
+     "2:00pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/events/double-feature-singin-rain-sullivans-travels",
+    "rating": "",
+    "runtime": "3hrs 13mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/singin%20in%20the%20rain%20sullivans%20travels%20double%20feature.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107920e10>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Let the Bullets Fly",
+    "synopsis": "Director: Jiang Wen Run Time: 132 min. Format: DCP Release Year: 2010 Language: Chinese",
+    "showtimes": [
+     "2:30 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/let-the-bullets-fly/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/08171704/k1ziDzX0u8HgrAYshMb082nvtrF.jpg"
+   },
+   {
+    "title": "Chungking Express",
+    "synopsis": "Director: Wong Kar-wai Run Time: 103 min. Release Year: 1994",
+    "showtimes": [
+     "5:30 pm Sold Out"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/chungking-express/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/11/24110718/chungking-express-10.jpeg"
+   },
+   {
+    "title": "Resurrection",
+    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "showtimes": [
+     "8:00 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/resurrection/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1079216d0>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Red Balloon / Little Fugitive",
+    "synopsis": "The Harvard Film Archive celebrates its acquisition of a new 35mm print of a pioneering work of American neo-realism, Morris Engel and Ruth Orkin\u2019s Little Fugitive, a beautifully affirming yet frank portrait of boyhood that deserves to be better known. The film is paired with another gorgeous HFA print of a classic pos\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/2026-05",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb/696552b09f478.jpg?1768922784"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-10\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-10\", waiting until \"domcontentloaded\"\n",
+    "title": "Mortal Kombat II (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-10"
+    "url": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 56 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/MK2_presale.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107921950>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "12:00PM",
+     "1:20PM",
+     "2:55PM",
+     "4:10PM",
+     "5:45PM",
+     "7:00PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "11:30AM",
+     "1:00PM",
+     "1:55PM",
+     "4:20PM",
+     "6:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM",
+     "1:45PM",
+     "4:30PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "2:45PM",
+     "3:30PM",
+     "6:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30PM",
+     "3:15PM",
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107922990>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Emmanuel Music \u2013 Bach Cantata Series",
+    "synopsis": "Herr Gott, Dich loben alle wir, BWV 130",
+    "showtimes": [
+     "10:00 am"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Emmanuel Church of Boston, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Isabella Stewart Gardner Museum \u2013 Isata Kanneh-Mason, piano",
+    "synopsis": "Beethoven: Piano Sonata No. 14 \u201cMoonlight\u201d Piano Sonata No. 21 \u201cWaldstein\u201d (Ravel: Gaspard de la nuit (1908) Dobrinka Tabakova: Halo (1999), Nocturne (2008)",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Isabella Stewart Gardner Museum, The Fenway, in Boston",
+    "url": "https://tnew.gardnermuseum.org/36554/36568",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "New England Conservatory \u2013 Journey from Longing to Belonging",
+    "synopsis": "Soprano Dani Jingdan ZhangFrench m\u00e9lodies by Duparc, Poulenc, and Liszt, American art songs by Barber and Rorem, and new arrangements of contemporary Chinese art songs (some of which will be American premieres)FREE but ticket required",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Jordan Hall, in Boston",
+    "url": "https://necmusic.edu/events/institute-for-concert-artists-recital-jingdan-dani-zhang-soprano/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Arlekin Players Theater \u2013 Beethoven: a play",
+    "synopsis": "Performed in Russian with English surtitles, this play in 17 scenes explores Beethoven\u2019s life. With live music featuring \u201cbits and pieces\u201dof Beethoven and original music composed and performed by Sarah Infini Takagi. e English titles.",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "368 Hillside Ave., in Needham Heights",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "New England Conservatory (PST) \u2013 Jingdan Dani Zhang, soprano",
+    "synopsis": "Journey from Longing to BelongingFrench m\u00e9lodies by Duparc, Poulenc, and Liszt, American art songs by Barber and Rorem, and new arrangements of contemporary Chinese art songs (some of which will be American premieres) form tonight\u2019s program.FREE but ticket required",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Plympton-Shattuck Theater, 255 St. Botolph Street, in Boston",
+    "url": "https://necmusic.edu/events/institute-for-concert-artists-recital-jingdan-dani-zhang-soprano/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Cape Ann Symphony \u2013 Rossini, Grieg and Tchaikovsky",
+    "synopsis": "Rossini Barber of Seville Grieg Piano Concerto, Frederick Moyer, piano Tchaikovsky Symphony No. 4",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Manchester-Essex High School, 36 Lincoln Street, in Manchestr-by-the-Sea",
+    "url": "https://capeannsymphony.org/concerts/2026c4",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Wellesley Choral Society \u2013 Spring Concert: Songs of a Century,",
+    "synopsis": "British and American 20th century choral music. Works for chorus and piano by composers including Randall Thompson, Aaron Copland, Samuel Barber, George Shearing, and Leonard Bernstein.",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. Andrew\u2019s Episcopal Church, 79 Denton Road, in Wellesley",
+    "url": "https://www.zeffy.com/en-US/ticketing/songs-of-a-century",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Cape Ann Symphony \u2013 Kevin Lyczak, organist",
+    "synopsis": "Rossini: Barber of Seville Grieg: Piano Concerto, Frederick Moyer, piano Tchaikovsky: Symphony No. 4",
+    "showtimes": [
+     "2:05 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Manchester-Essex High School, 36 Lincoln Street, in Manchestr-by-the-Sea",
+    "url": "https://capeannsymphony.org/concerts/2026c4",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Chamber Music Society (S) \u2013 Chamber Music",
+    "synopsis": "MOZART Clarinet Quintet in A major, K. 581 ( Alyssa WANG String Octet (2025 BCMS commission) SCHUMANN Piano Quintet in E-flat major, Op. 44",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Sanders Theater, Harvard, in Cambridge",
+    "url": "https://bostonchambermusic.my.salesforce-sites.com/ticket/#/instances/a0FVX000008OLRh2AO",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Cambridge Chamber Singers (V) \u2013 The American Patchwork:",
+    "synopsis": "Medford Public Library, 111 High Street, MedfordBillings, William, Chester Morgan, Justin Amanda Belcher, Supply The Power of Musick Lowry, Robert. How Can I keep from Singing/ Buck, Dudley Hymn to Music Parker, Horatio. Urbs Syon Unica Parker, Arr. Alice Keep Your Hand On That Plow Ives, Charles E. They are There! Bar\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in Boston Area",
+    "url": "https://ticketpeak.com/go/cambridgechambersingers/events/We",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sarasa Chamber Music Ensemble \u2013 All in the Family",
+    "synopsis": "Works by Wilhelm Friedemann, Johann Bernhard, Anna Magdalena, Carl Philipp Emmanuel & Johann Sebastian Bach.With Daniel Bates, oboe; Christina Day Martinson, Rebecca Nelson, Danilo Bonino, violins; Anna Griffis, violas; Jennifer Morsches, Timothy Merton, cellos; John McKean, harpsichord",
+    "showtimes": [
+     "3:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Follen Community Church, 755 Massachusetts Ave, in Lexington",
+    "url": "https://www.simpletix.com/e/all-in-the-family-tickets-220014",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "West End Museum \u2013 Peridot String Quartet",
+    "synopsis": "Contrapunctus X from the Art of the Fugue for String Quartet (BWV 1080 No. 10) Hovhaness String Quartet No. 1 Opus 8 Jean Sibelius \u2013 Finlandia Opus 26From Komitas \u201cArmenian Folk Miniatures\u201d -Festive Song -She\u2019d Slender like a Plane-Tree -Little Partridge -Stalk Along! -Echmiadzin Dance",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "The Hub on Causeway, 52 Causeway, in Boston",
+    "url": "https://www.eventbrite.com/e/the-body-revealed-the-spirit-unbound-tickets-1986078817206?aff=oddtdtcreator",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1778385600000&endms=1778472000000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107922350>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Mother's day Music!!!",
+    "synopsis": "We have music all day long at Beehive today. The wonderful Lizje Sarria sings first with her dynamic trio. She brings her Colombian roots to urban jazz. Hold on for we LOVE Michelle Willson. Michelle is a veteran singer who has deveoped her voice and style the most honest way...touring and on bandstands. Michelle bring\u2026",
+    "showtimes": [
+     "9:30 am"
+    ],
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -116,16 +627,30 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107922990>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Spring Experience 2026: May 10 at 1:30 PM",
+    "synopsis": "The 2026 Spring Experience is made up of three contrasting works that showcase the versatility of Boston Ballet dancers and the varied styles of contemporary ballet storytelling.",
+    "showtimes": [
+     "1:30 PM"
+    ],
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "539 Washington Street, Boston, MA",
+    "url": "https://cart.bostonballet.org/overview/40567",
+    "rating": "",
+    "runtime": "",
+    "poster": [
+     "https://bostonballet.widen.net/content/ilviv7zbcd/jpeg/FY26SpringExperience_Dances_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369",
+     "https://bostonballet.widen.net/content/wofwhzpdp4/jpeg/FY26SpringExperience_MediaGallery1_1150x647.jpg?crop=false&position=c&q=80&u=e1ahl7",
+     "https://bostonballet.widen.net/content/l613hrn5fl/jpeg/FY26SpringExperience_AFTER_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369",
+     "https://bostonballet.widen.net/content/vsjtf2zl2n/jpeg/FY26SpringExperience_Herman_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369"
+    ]
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1079211d0>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No dance events found for today.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com"
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
    }
   ]
  }
