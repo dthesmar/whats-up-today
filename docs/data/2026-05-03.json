@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-02T22:06:40.458943",
+  "scraped_at": "2026-05-03T10:28:26.950105",
   "date": "2026-05-03"
  },
  "data": {
@@ -36,7 +36,7 @@
     "title": "F1\u00ae on Apple TV Live in IMAX: Miami Race (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM"
+     "12:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -65,7 +65,6 @@
     "title": "Deep Water (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "1:45 PM",
      "3:15 PM",
      "5:00 PM",
@@ -100,7 +99,6 @@
     "title": "RZA\u2019s One Spoon of Chocolate (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -131,7 +129,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "1:00 PM",
      "4:00 PM",
      "7:00 PM",
@@ -203,7 +200,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "7:15 PM",
      "10:30 PM",
      "10:15 AM",
@@ -237,7 +233,6 @@
     "title": "Whisper of the Heart 4K (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:45 PM",
      "10:30 PM"
     ],
@@ -252,7 +247,6 @@
     "title": "Erupcja (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -514,6 +508,20 @@
    }
   ],
   "Somerville Theatre": [
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:20 pm",
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
    {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
@@ -782,64 +790,22 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harlan County U.S.A.",
-    "synopsis": "Director: Barbara Kopple Run Time: 105 min. Format: 4K DCP Release Year: 1977",
+    "title": "Let the Bullets Fly",
+    "synopsis": "Director: Jiang Wen Run Time: 132 min. Format: DCP Release Year: 2010 Language: Chinese",
     "showtimes": [
-     "12:00 pm"
+     "2:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/harlan-county-u-s-a/",
+    "url": "https://brattlefilm.org/movies/let-the-bullets-fly/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/06151113/pVspyFNl8uE8jAoY3C973XkjTgB.jpg"
-   },
-   {
-    "title": "American Dream",
-    "synopsis": "Director: Barbara Kopple Run Time: 98 min. Format: 4K DCP Release Year: 1990",
-    "showtimes": [
-     "2:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/american-dream/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/10162200/31114id_056_0002_31114id_149_w1600.jpg"
-   },
-   {
-    "title": "Kaili Blues",
-    "synopsis": "Director: Bi Gan Run Time: 113 min. Format: DCP Release Year: 2016 Language: Chinese w/ English subtitles",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/kaili-blues/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110402/b08ydxzpqR4WDSgnkLBSp4hfB3v-scaled.jpg"
-   },
-   {
-    "title": "Long Day's Journey Into Night",
-    "synopsis": "Director: Bi Gan Run Time: 138 min. Format: DCP Release Year: 2018 Language: Chinese with English subtitles",
-    "showtimes": [
-     "7:00 pm",
-     "4:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/long-days-journey-into-night/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110510/zJDaoc3HIHIgIOiY60NxqZUdXcp-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/08171704/k1ziDzX0u8HgrAYshMb082nvtrF.jpg"
    },
    {
     "title": "Chungking Express",
     "synopsis": "Director: Wong Kar-wai Run Time: 103 min. Release Year: 1994",
     "showtimes": [
-     "10:00 pm",
      "5:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -848,6 +814,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/11/24110718/chungking-express-10.jpeg"
+   },
+   {
+    "title": "Resurrection",
+    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "showtimes": [
+     "8:00 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/resurrection/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -859,19 +840,6 @@
    }
   ],
   "Apple Cinemas Cambridge": [
-   {
-    "title": "Ek Din (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/ek-din-2026-245308/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245308/ek_din.jpg"
-   },
    {
     "title": "Animal Farm (2026)",
     "synopsis": "",
@@ -915,19 +883,6 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245577/dhabkaaro-1080x1600.jpg"
    },
    {
-    "title": "Gaaya Padda Simham (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/gaaya-padda-simham-2026-245487/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 10 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245487/GPS-Poster-27x40.jpg"
-   },
-   {
     "title": "Jetlee (2026)",
     "synopsis": "",
     "showtimes": [
@@ -944,6 +899,7 @@
     "title": "Patriot (2026)",
     "synopsis": "",
     "showtimes": [
+     "6:30 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1028,7 +984,7 @@
     "title": "Mother Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:30 PM"
+     "10:05 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1042,6 +998,7 @@
     "synopsis": "",
     "showtimes": [
      "11:00 AM",
+     "12:00 PM",
      "1:30 PM",
      "4:30 PM",
      "6:50 PM",
@@ -1096,9 +1053,7 @@
      "2:55PM",
      "4:10PM",
      "5:45PM",
-     "7:00PM",
-     "8:35PM",
-     "9:50PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1116,8 +1071,7 @@
      "1:00PM",
      "1:55PM",
      "4:20PM",
-     "6:45PM",
-     "9:30PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1133,8 +1087,7 @@
      "11:00AM",
      "1:45PM",
      "4:30PM",
-     "7:15PM",
-     "9:35PM"
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1150,8 +1103,7 @@
      "11:20AM",
      "2:45PM",
      "3:30PM",
-     "6:15PM",
-     "9:10PM"
+     "6:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1166,8 +1118,7 @@
     "showtimes": [
      "12:30PM",
      "3:15PM",
-     "6:00PM",
-     "9:00PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1180,8 +1131,7 @@
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "7:05PM",
-     "9:55PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
