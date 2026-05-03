@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-03T14:16:29.029341",
+  "scraped_at": "2026-05-03T15:17:28.682644",
   "date": "2026-05-03"
  },
  "data": {
@@ -21,9 +21,7 @@
    {
     "title": "AMC Screen Unseen: May 3",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-screen-unseen-may-3-235986/movie-overview",
@@ -104,7 +102,6 @@
     "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "7:30 PM",
      "4:45 PM",
      "10:30 PM"
@@ -126,8 +123,6 @@
      "3:00 PM",
      "6:00 PM",
      "9:00 PM",
-     "2:00 PM",
-     "2:30 PM",
      "3:30 PM",
      "4:30 PM",
      "5:00 PM",
@@ -349,9 +344,7 @@
    {
     "title": "Mystery Movie - Family Edition",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/mystery-movie-family-edition-245615/movie-overview",
@@ -435,7 +428,6 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:40 PM",
      "7:10 PM"
     ],
@@ -529,21 +521,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -570,6 +547,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "Hoppers",
@@ -766,7 +757,7 @@
     "title": "Chungking Express",
     "synopsis": "Director: Wong Kar-wai Run Time: 103 min. Release Year: 1994",
     "showtimes": [
-     "5:30 pm"
+     "5:30 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
@@ -804,7 +795,6 @@
     "title": "Animal Farm (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:00 PM",
      "7:30 PM"
     ],
@@ -831,9 +821,7 @@
    {
     "title": "Dhabkaaro (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/dhabkaaro-2026-245577/movie-overview",
@@ -964,7 +952,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "6:00 PM",
      "9:50 PM"
     ],
