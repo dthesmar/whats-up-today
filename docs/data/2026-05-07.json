@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-04T14:38:55.607536",
+  "scraped_at": "2026-05-04T17:01:17.614568",
   "date": "2026-05-07"
  },
  "data": {
@@ -435,19 +435,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
@@ -460,6 +447,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "Cocktail in 35mm",
@@ -555,18 +555,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
+    "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
+     "5:20 pm",
+     "7:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
    },
    {
     "title": "Hoppers",
@@ -580,20 +580,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
     "title": "The Super Mario Galaxy Movie",
@@ -610,18 +596,32 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
-    "title": "The Drama",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
-     "7:45 pm"
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -740,6 +740,19 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
+    "title": "Tommy (4K Restoration)",
+    "synopsis": "Your senses will never be the same.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
+   },
+   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -752,19 +765,6 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
-   },
-   {
-    "title": "Tommy (4K Restoration)",
-    "synopsis": "Your senses will never be the same.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
