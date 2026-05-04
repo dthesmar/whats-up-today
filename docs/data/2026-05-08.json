@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-04T13:36:28.265184",
+  "scraped_at": "2026-05-04T14:39:02.768720",
   "date": "2026-05-08"
  },
  "data": {
@@ -37,6 +37,19 @@
     "rating": "PG13",
     "runtime": "1 hr 54 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244882/billieeilish_presale.jpg"
+   },
+   {
+    "title": "Cold War 1994 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/cold-war-1994-2026-245580/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245580/coldwar1994-Mainposter.jpg"
    },
    {
     "title": "Mortal Kombat II (2026)",
@@ -142,37 +155,149 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6fd90>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "8:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "Make Me Famous",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-3-600x900.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6e490>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-05-08 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6da90>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Darkman",
+    "synopsis": "In the darkest hour, there is a light that shines on every human being... but ONE!",
+    "showtimes": [
+     "11:59pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/darkman",
+    "rating": "",
+    "runtime": "1hr 36mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Darkman_1990_04%20copy.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6e210>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Long Day's Journey Into Night",
+    "synopsis": "Director: Bi Gan Run Time: 138 min. Format: DCP Release Year: 2018 Language: Chinese with English subtitles",
+    "showtimes": [
+     "4:30 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/long-days-journey-into-night/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110510/zJDaoc3HIHIgIOiY60NxqZUdXcp-scaled.jpg"
+   },
+   {
+    "title": "Kaili Blues",
+    "synopsis": "Director: Bi Gan Run Time: 113 min. Format: DCP Release Year: 2016 Language: Chinese w/ English subtitles",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kaili-blues/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110402/b08ydxzpqR4WDSgnkLBSp4hfB3v-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6de50>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Fruit of Paradise",
+    "synopsis": "V\u011bra Chytilov\u00e1\u2019s second most famous work is perhaps her aesthetically wildest. Shot on the heels of Daisies (1966), Fruit of Paradise retells the origin myth of Adam, Eve and Satan amidst the opulent spring foliage of a prehistoric spa. Exploiting Eastmancolor to its limits, Chytilov\u00e1 and director of photography Jarosl\u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/fruit-of-paradise-2026-05",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/696555c799adb.jpg?1768925835"
+   },
+   {
+    "title": "Squandered Sunday",
+    "synopsis": "An unjustly forgotten treasure of the Czech New Wave, Squandered Sunday was shot in 1969 (only months after Warsaw Pact tanks invaded Prague) and did not see the light of day until the end of communism. FAMU graduate Drahom\u00edra Vihanov\u00e1 chronicles a day in the life of depressed alcoholic army officer Ernest, whose exist\u2026",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Harvard Film Archive",
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/squandered-sunday-2026-05",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/69655625a24e7.jpg?1768926054"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -212,23 +337,209 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6e5d0>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM",
+     "4:15PM",
+     "6:45PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "3:15PM",
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:10PM",
+     "4:40PM",
+     "6:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:20PM",
+     "3:20PM",
+     "4:10PM",
+     "6:15PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "1:25PM",
+     "3:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-drama",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:45PM",
+     "4:30PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6f250>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Wilkinson Young Singers\u2019 Fund \u2013 Live Final Competition",
+    "synopsis": "Seully Hall, Boston ConservatoryUp to eight finalists, aged 20-30; performance order by random draw. All finalists will perform two pieces from a repertoire of three submitted songs. Winners will be announced live at the end.FREE",
+    "showtimes": [
+     "7:00 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Various, in Boston Area",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Pao Center for the Arts \u2013 When Poetry Sings \u2013 Voices from the Far East",
+    "synopsis": "When Poetry Sings seeks to illuminate the intersection of traditions through art songs. The program will feature a selection of works set to Chinese poetry, performed in English, German, French, and Chinese, with music by Aaron Copland, Claude Debussy, Charles Griffes, Huang Tzu, and his disciples.Music Director/Pianis\u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "99 Albany St., in Boston",
+    "url": "https://www.paoartscenter.org/events/2026/poetrysings",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Arlekin Players Theater \u2013 Beethoven: a play",
+    "synopsis": "Performed in Russian with English surtitles, this play in 17 scenes explores Beethoven\u2019s life. With live music featuring \u201cbits and pieces\u201dof Beethoven and original music composed and performed by Sarah Infini Takagi. e English titles.",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "368 Hillside Ave., in Needham Heights",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Newton Baroque (GI) \u2013 Music from 17th Century South Germany",
+    "synopsis": "Bertali, Schmelzer, Biber, CapricornusSusanna Ogata \u2013 violin, Laura Jeppesen \u2013 viola da gamba, Andrus Madsen \u2013 harpsichord",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Goethe-Institut, 170 Beacon St, in Boston",
+    "url": "https://www.zeffy.com/ticketing/music-from-17th-century-south-germany-bertali-schmelzer-biber-capricornus",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tactus Ensemble (SP) \u2013 Concert for the City",
+    "synopsis": "Sulpitia Cesis: Stabat Mater Victoria: O Vos omnes Lasso: Adoramus te Christe I Lasso: In te speravi Palestrina: Terra Tremuit Lasso: Missa Jager Venatorum \u2013 Octavi Toni Aleotti: Beatus Laurentius Lasso: Justi Tulerunt Lasso: Super flumina babylonis Lasso: Du fond de mon pens\u00e9e Lasso: Susanne un jour Lasso: La nuict fr\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. Peter\u2019s Episcopal Church, 838 Massachusetts, in Cambridge",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Concord TriCon Church \u2013 Tanya Bartevyan, pianist",
+    "synopsis": "J.S. Bach \u2014 English Suite in d minor, selections Florence Price\u2013 Piano Sonata Franz Schubert\u2013 Sonata in C Minor D. 958$20 or what you can",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "54 Walden St., in Concord",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Longwood Symphony Orchestra \u2013 Mahler 1",
+    "synopsis": "otaro Nakano, Music Director featuring Cambridge Common VoicesHeather Hyo Eun Ahn: LSO Commission Cambridge Common Voices: Guest Performance Gustav Mahler: Symphony No.1, in D major \u201cTitan\u201d",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Jordan Hall, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Longwood Symphony Orchestra \u2013 Mendelssohn\u2019s Joyful Blue Skies",
+    "synopsis": "Heather Hyo Eun Ahn: LSO Commission *World Premiere* Cambridge Common Voices: Guest Performance Mahler: Symphony No.1, in D major \u201cTitan\u201d",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Jordan Hall, in Boston",
+    "url": "https://longwoodsymphony.org/concerts/may8-2026-68p8n",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1778212800000&endms=1778299200000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6f250>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -292,16 +603,30 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6f4d0>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Spring Experience 2026: May 8 at 7:30 PM",
+    "synopsis": "The 2026 Spring Experience is made up of three contrasting works that showcase the versatility of Boston Ballet dancers and the varied styles of contemporary ballet storytelling.",
+    "showtimes": [
+     "7:30 PM"
+    ],
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/performances/spring-experience-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": [
+     "https://bostonballet.widen.net/content/ilviv7zbcd/jpeg/FY26SpringExperience_Dances_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369",
+     "https://bostonballet.widen.net/content/wofwhzpdp4/jpeg/FY26SpringExperience_MediaGallery1_1150x647.jpg?crop=false&position=c&q=80&u=e1ahl7",
+     "https://bostonballet.widen.net/content/l613hrn5fl/jpeg/FY26SpringExperience_AFTER_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369",
+     "https://bostonballet.widen.net/content/vsjtf2zl2n/jpeg/FY26SpringExperience_Herman_655x369.jpg?crop=false&position=c&q=80&color=ffffffff&u=nreqi7&w=655&h=369"
+    ]
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109b6f610>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No dance events found for today.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com"
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
    }
   ]
  }
