@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T18:48:01.892084",
+  "scraped_at": "2026-05-05T19:51:26.112634",
   "date": "2026-05-12"
  },
  "data": {
@@ -442,34 +442,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm",
-     "5:20 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Crushing Wheelchairs",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/crushing-wheelchairs/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/Crushing-Wheelchairs-Primary-Poster-600x800.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
@@ -482,6 +454,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-23-600x937.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
     "title": "Project Hail Mary",
@@ -499,33 +485,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "7:10 pm",
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -542,8 +501,8 @@
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
+     "4:45 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -553,17 +512,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
    },
    {
-    "title": "The Drama",
+    "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "7:45 pm"
+     "5:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -695,19 +654,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Mark-Borchardt-and-Mike-Schank-in-emAmerican-Movieem.jpg"
    },
    {
-    "title": "Boston Open Screen",
-    "synopsis": "Boston's one and only open mic night for filmmakers!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/open-screen",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
-   },
-   {
     "title": "American Movie",
     "synopsis": "The documentary sensation of 1999.",
     "showtimes": [
@@ -719,6 +665,19 @@
     "rating": "",
     "runtime": "1hr 47mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/American_Movie_99_d%20copy.jpg"
+   },
+   {
+    "title": "Boston Open Screen",
+    "synopsis": "Boston's one and only open mic night for filmmakers!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/events/open-screen",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Open%20Screen%20website%202.png"
    },
    {
     "title": "Project Hail Mary (Digital)",
