@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T15:18:26.603734",
+  "scraped_at": "2026-05-05T16:42:13.032838",
   "date": "2026-05-05"
  },
  "data": {
@@ -22,7 +22,6 @@
     "title": "Animal Farm (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -94,10 +93,8 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM",
-     "3:00 PM",
      "6:00 PM",
      "9:00 PM",
      "4:30 PM",
@@ -142,10 +139,8 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:15 PM",
      "9:30 PM",
-     "4:00 PM",
      "8:00 PM",
      "10:20 PM",
      "4:45 PM",
@@ -235,9 +230,7 @@
    {
     "title": "You, Me & Tuscany (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/you-me-and-tuscany-2026-244276/movie-overview",
@@ -263,7 +256,6 @@
     "synopsis": "",
     "showtimes": [
      "7:45 PM",
-     "4:10 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -277,7 +269,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "8:00 PM",
      "9:45 PM"
@@ -303,9 +294,7 @@
    {
     "title": "Everything Everywhere All at Once (2022)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/everything-everywhere-all-at-once-2022-226636/movie-overview",
@@ -333,8 +322,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
-     "4:15 PM",
      "6:00 PM",
      "7:00 PM"
     ],
@@ -349,7 +336,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:55 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -362,9 +348,7 @@
    {
     "title": "Mother Mary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
@@ -403,7 +387,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -415,22 +398,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:15 pm",
-     "5:20 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
    {
     "title": "Project Hail Mary",
     "synopsis": "",
@@ -444,6 +411,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm",
+     "5:20 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
    },
    {
     "title": "Crushing Wheelchairs",
@@ -474,34 +456,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
-    "title": "Hoppers",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
-   },
    {
     "title": "Michael",
     "synopsis": "",
@@ -543,6 +497,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-600x937.jpg"
+   },
+   {
+    "title": "Hoppers",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/hoppers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-1-600x890.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -742,7 +722,6 @@
     "title": "Animal Farm (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:15 PM",
      "7:30 PM"
     ],
@@ -756,9 +735,7 @@
    {
     "title": "Casa Grande (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/casa-grande-2026-245490/movie-overview",
@@ -810,8 +787,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
-     "3:30 PM",
      "4:30 PM",
      "6:15 PM",
      "7:15 PM",
@@ -842,8 +817,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
-     "4:00 PM",
      "6:00 PM",
      "6:45 PM",
      "9:00 PM",
@@ -873,7 +846,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:15 PM",
      "9:00 PM"
     ],
@@ -888,7 +860,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:10 PM",
      "9:50 PM"
     ],
@@ -902,9 +873,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",

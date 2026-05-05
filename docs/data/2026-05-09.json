@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T15:18:54.137732",
+  "scraped_at": "2026-05-05T16:42:42.508936",
   "date": "2026-05-09"
  },
  "data": {
@@ -400,6 +400,21 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -414,21 +429,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -462,19 +462,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -501,6 +488,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -720,6 +720,19 @@
   ],
   "Apple Cinemas Cambridge": [
    {
+    "title": "Paral Ko Aago (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/paral-ko-aago-2026-245687/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
+   {
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
@@ -735,6 +748,19 @@
     "rating": "PG13",
     "runtime": "1 hr 54 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244882/billieeilish_presale.jpg"
+   },
+   {
+    "title": "Daadi Ki Shaadi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/daadi-ki-shaadi-2026-245628/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245628/Daadi%20Ki%20Shaadi.jpg"
    },
    {
     "title": "Mortal Kombat II (2026)",
@@ -768,6 +794,19 @@
     "rating": "PG",
     "runtime": "1 hr 49 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "Krishnavataram (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/krishnavataram-2026-245461/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245461/30x40_Devastation-Poster_Krishnavataram.jpg"
    },
    {
     "title": "Animal Farm (2026)",
