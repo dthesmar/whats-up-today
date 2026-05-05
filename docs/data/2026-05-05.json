@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-04T23:16:49.681958",
+  "scraped_at": "2026-05-05T02:20:05.311251",
   "date": "2026-05-05"
  },
  "data": {
@@ -722,30 +722,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Long Day's Journey Into Night",
-    "synopsis": "Director: Bi Gan Run Time: 138 min. Format: DCP Release Year: 2018 Language: Chinese with English subtitles",
-    "showtimes": [
-     "4:30 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/long-days-journey-into-night/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110510/zJDaoc3HIHIgIOiY60NxqZUdXcp-scaled.jpg"
-   },
-   {
-    "title": "Kaili Blues",
-    "synopsis": "Director: Bi Gan Run Time: 113 min. Format: DCP Release Year: 2016 Language: Chinese w/ English subtitles",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/kaili-blues/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/07110402/b08ydxzpqR4WDSgnkLBSp4hfB3v-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
