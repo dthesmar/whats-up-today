@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T02:20:11.962276",
+  "scraped_at": "2026-05-05T07:11:39.263989",
   "date": "2026-05-06"
  },
  "data": {
@@ -764,10 +764,18 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Resurrection",
+    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/resurrection/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [

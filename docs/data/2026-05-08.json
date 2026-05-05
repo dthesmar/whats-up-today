@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T02:20:25.226460",
+  "scraped_at": "2026-05-05T07:26:52.570645",
   "date": "2026-05-08"
  },
  "data": {
@@ -65,7 +65,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/cold-war-1994-2026-245580/movie-overview",
     "rating": "Not Rated",
-    "runtime": "",
+    "runtime": "1 hr 57 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245580/coldwar1994-Mainposter.jpg"
    },
    {
@@ -550,10 +550,18 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Resurrection",
+    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/resurrection/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
