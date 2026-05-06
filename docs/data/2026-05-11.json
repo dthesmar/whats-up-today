@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T22:55:46.416183",
+  "scraped_at": "2026-05-06T05:30:42.830536",
   "date": "2026-05-11"
  },
  "data": {
@@ -744,18 +744,30 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Resurrection",
-    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "title": "GRRL HAUS CINEMA \u2013 Best of Shorts Pt. 1",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
+     "7:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/resurrection/",
+    "url": "https://brattlefilm.org/special_events/grrl-haus-cinema-best-of-shorts-pt-1/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/18144536/GH_2026_Anadromous_Still1.jpg"
+   },
+   {
+    "title": "GRRL HAUS CINEMA \u2013 Best of Shorts Pt. 2",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/grrl-haus-cinema-best-of-shorts-pt-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/18145110/GH_Under_The_Whether_Still_7.jpg"
    }
   ],
   "Harvard Film Archive": [

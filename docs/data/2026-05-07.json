@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T22:54:59.915865",
+  "scraped_at": "2026-05-06T05:29:54.691953",
   "date": "2026-05-07"
  },
  "data": {
@@ -863,6 +863,19 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
+    "title": "Tommy (4K Restoration)",
+    "synopsis": "Your senses will never be the same.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
+   },
+   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -875,35 +888,34 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
-   },
-   {
-    "title": "Tommy (4K Restoration)",
-    "synopsis": "Your senses will never be the same.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Resurrection",
-    "synopsis": "Director: Bi Gan Run Time: 160 min. Format: DCP Release Year: 2025 Language: Chinese with English subtitles",
+    "title": "GRRL HAUS CINEMA \u2013 Best of Shorts Pt. 1",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
+     "7:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/resurrection/",
+    "url": "https://brattlefilm.org/special_events/grrl-haus-cinema-best-of-shorts-pt-1/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/21120229/2JcKTEP0L6EXk88ITGVGU4uo7hm-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/18144536/GH_2026_Anadromous_Still1.jpg"
+   },
+   {
+    "title": "GRRL HAUS CINEMA \u2013 Best of Shorts Pt. 2",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/grrl-haus-cinema-best-of-shorts-pt-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/18145110/GH_Under_The_Whether_Still_7.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1278,10 +1290,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
