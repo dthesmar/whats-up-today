@@ -1,23 +1,10 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T21:53:25.019229",
+  "scraped_at": "2026-05-05T22:54:59.915865",
   "date": "2026-05-07"
  },
  "data": {
   "AMC Boston Common 19": [
-   {
-    "title": "Exit 8 (2025)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
-    "rating": "PG-13",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
-   },
    {
     "title": "Blue Heron",
     "synopsis": "",
@@ -32,6 +19,19 @@
     "rating": "Not Rated",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244955/blueheron.jpg"
+   },
+   {
+    "title": "Exit 8 (2025)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/exit-8-2025-244929/movie-overview",
+    "rating": "PG-13",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244929/exit8.jpg"
    },
    {
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",

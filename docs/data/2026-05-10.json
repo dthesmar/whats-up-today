@@ -1,23 +1,10 @@
 {
  "meta": {
-  "scraped_at": "2026-05-05T21:53:45.317923",
+  "scraped_at": "2026-05-05T22:55:21.449478",
   "date": "2026-05-10"
  },
  "data": {
   "AMC Boston Common 19": [
-   {
-    "title": "Fried Green Tomatoes 35th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/fried-green-tomatoes-35th-anniversary-244287/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 10 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244287/1000x1480_FGT_Exhibitor%20Poster.jpg"
-   },
    {
     "title": "Blue Heron",
     "synopsis": "",
@@ -35,6 +22,19 @@
     "rating": "Not Rated",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244955/blueheron.jpg"
+   },
+   {
+    "title": "Fried Green Tomatoes 35th Anniversary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fried-green-tomatoes-35th-anniversary-244287/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244287/1000x1480_FGT_Exhibitor%20Poster.jpg"
    },
    {
     "title": "Labyrinth (2026)",
