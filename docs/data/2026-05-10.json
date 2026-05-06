@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-06T14:41:23.983501",
+  "scraped_at": "2026-05-06T16:00:52.012260",
   "date": "2026-05-10"
  },
  "data": {
@@ -530,20 +530,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -572,6 +558,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -1171,6 +1171,19 @@
     "theater": "Classical Music (Boston)",
     "address": "St. Andrew\u2019s Episcopal Church, 79 Denton Road, in Wellesley",
     "url": "https://www.zeffy.com/en-US/ticketing/songs-of-a-century",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Creative Classical Concerts \u2013 She Will Be Heard",
+    "synopsis": "Jordan Bowman, soprano Marcy Merrill, pianoLiebestod from Tristan und Isolde by Richard Wagner -Nocturne by Joseph Marx -Gretchen am Spinnrade by Franz Schubert -Hexenlied by Felix Mendelssohn -Femmes de L\u00e9gende by Mel Bonis -Try Me, Good King by Libby Larsen -Scene ed Aria Finale from Anna Bolena byDonizettiFREE",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. John\u2019s Church, 95 Deerfield Ave.,, in Westwood",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
