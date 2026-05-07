@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T02:33:18.527278",
+  "scraped_at": "2026-05-07T03:34:29.149837",
   "date": "2026-05-07"
  },
  "data": {
@@ -750,6 +750,19 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
+    "title": "Tommy (4K Restoration)",
+    "synopsis": "Your senses will never be the same.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
+   },
+   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -762,27 +775,35 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
-   },
-   {
-    "title": "Tommy (4K Restoration)",
-    "synopsis": "Your senses will never be the same.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Elizabeth Strout",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/elizabeth-strout/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04112145/image3.jpeg"
+   },
+   {
+    "title": "Everything Everywhere All at Once",
+    "synopsis": "Director: Daniel Kwan, Daniel Scheinert Run Time: 140 min. Format: DCP Release Year: 2022",
+    "showtimes": [
+     "8:00 pm",
+     "5:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/everything-everywhere-all-at-once/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/20110420/ss0Os3uWJfQAENILHZUdX8Tt1OC-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
