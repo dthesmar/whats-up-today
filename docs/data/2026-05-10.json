@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-06T16:00:52.012260",
+  "scraped_at": "2026-05-06T22:32:07.295939",
   "date": "2026-05-10"
  },
  "data": {
@@ -382,6 +382,7 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:55 PM",
      "1:55 PM",
      "4:35 PM",
      "7:05 PM"
@@ -400,11 +401,14 @@
      "1:35 PM",
      "2:15 PM",
      "3:15 PM",
+     "3:45 PM",
      "4:15 PM",
+     "4:45 PM",
      "5:00 PM",
      "6:00 PM",
      "6:30 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -467,6 +471,19 @@
     "rating": "PG13",
     "runtime": "2 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
+   },
+   {
+    "title": "The Treasure of the Sierra Madre (1948)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-treasure-of-the-sierra-madre-1948-79694/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 4 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    }
   ],
   "Somerville Theatre": [
@@ -485,19 +502,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-12-600x890.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/03/unnamed-file-17-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -530,19 +534,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
+     "1:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/04/unnamed-file-1-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Super Mario Galaxy Movie",
@@ -558,20 +561,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/MOG_Payoff_1Sheet_1080x1350_2-600x750.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/03/unnamed-file-15-600x889.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
