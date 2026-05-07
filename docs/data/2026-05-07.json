@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T04:35:38.779464",
+  "scraped_at": "2026-05-07T05:36:43.540041",
   "date": "2026-05-07"
  },
  "data": {
@@ -501,6 +501,22 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm",
+     "5:20 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -525,6 +541,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-4.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm",
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Make Me Famous",
@@ -563,7 +593,7 @@
     "url": "https://www.somervilletheatre.com/production/trees-lounge-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/treesLounge-poster.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-9.jpg"
    },
    {
     "title": "Road House (1989) in 35mm",
@@ -576,7 +606,7 @@
     "url": "https://www.somervilletheatre.com/production/road-house-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2023/08/RoadHouse-600x900.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "From Dusk Till Dawn",
@@ -602,10 +632,24 @@
     "url": "https://www.somervilletheatre.com/production/shaun-of-the-dead/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/Shaun-of-the-dead.webp"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
    {
     "title": "Hoppers",
     "synopsis": "",
@@ -632,6 +676,75 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "5:20 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Steal This Story, Please!",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/steal-this-story-please/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-1-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -750,19 +863,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Tommy (4K Restoration)",
-    "synopsis": "Your senses will never be the same.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
-   },
-   {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
     "synopsis": "New 4K Digital Restoration!",
     "showtimes": [
@@ -775,6 +875,19 @@
     "rating": "",
     "runtime": "1hr 43mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Tommy (4K Restoration)",
+    "synopsis": "Your senses will never be the same.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tommy-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Tommy_1975_12%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
