@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T21:35:54.122131",
+  "scraped_at": "2026-05-08T03:48:04.533675",
   "date": "2026-05-11"
  },
  "data": {
@@ -745,31 +745,45 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Elizabeth Strout",
-    "synopsis": "Run Time: 90 min.",
+    "title": "Little Women",
+    "synopsis": "Director: Gillian Armstrong Run Time: 119 min. Format: 35mm Film Release Year: 1994",
     "showtimes": [
-     "6:00 pm Sold Out"
+     "3:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/elizabeth-strout/",
+    "url": "https://brattlefilm.org/movies/little-women-1994/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04112145/image3.jpeg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/10/28134606/lmMVUuu2hHX6qrpcusiuSGU8HaC.jpg"
    },
    {
-    "title": "Everything Everywhere All at Once",
-    "synopsis": "Director: Daniel Kwan, Daniel Scheinert Run Time: 140 min. Format: DCP Release Year: 2022",
+    "title": "Mermaids",
+    "synopsis": "Director: Richard Benjamin Run Time: 110 min. Format: 35mm Film Release Year: 1990",
     "showtimes": [
-     "8:00 pm",
-     "5:30 pm"
+     "6:00 pm 35mm",
+     "2:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/everything-everywhere-all-at-once/",
+    "url": "https://brattlefilm.org/movies/mermaids/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/20110420/ss0Os3uWJfQAENILHZUdX8Tt1OC-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20103809/d4p6VPoN70CnTV74jbW5ltlDgsh-scaled.jpg"
+   },
+   {
+    "title": "Lady Bird",
+    "synopsis": "Director: Greta Gerwig Run Time: 94 min. Format: DCP Release Year: 2017",
+    "showtimes": [
+     "8:30 pm",
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/lady-bird/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/07/09144018/aLBrmLBvN25OmCvr488CkM9XYm7-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
