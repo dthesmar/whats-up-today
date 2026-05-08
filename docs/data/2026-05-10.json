@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T16:50:18.627978",
+  "scraped_at": "2026-05-07T21:35:47.772958",
   "date": "2026-05-10"
  },
  "data": {
@@ -214,6 +214,7 @@
      "12:00 PM",
      "1:00 PM",
      "2:00 PM",
+     "4:00 PM",
      "5:00 PM",
      "6:15 PM",
      "7:00 PM",
@@ -221,8 +222,7 @@
      "8:00 PM",
      "9:15 PM",
      "10:00 PM",
-     "10:30 PM",
-     "4:00 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -487,6 +487,19 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -518,19 +531,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
-   {
     "title": "The Airwaves Belonged to the People: WBCN and the American Revolution",
     "synopsis": "",
     "showtimes": [
@@ -546,33 +546,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "12:30 pm",
-     "2:45 pm",
-     "5:00 pm"
+     "1:30 pm",
+     "4:30 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Michael",
@@ -588,21 +574,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -621,6 +592,21 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "2:45 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
     "title": "Steal This Story, Please!",
     "synopsis": "",
     "showtimes": [
@@ -633,6 +619,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -765,7 +765,7 @@
     "title": "Harvard Book Store Presents Elizabeth Strout",
     "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "6:00 pm"
+     "6:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
@@ -1290,6 +1290,19 @@
     "theater": "Classical Music (Boston)",
     "address": "The Hub on Causeway, 52 Causeway, in Boston",
     "url": "https://www.eventbrite.com/e/the-body-revealed-the-spirit-unbound-tickets-1986078817206?aff=oddtdtcreator",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tufts University \u2013 Contemporary Classical Harmonica",
+    "synopsis": "Pieces written by composers ranging from J.S. Bach to Sergei RachmaninoffLeon Li, harmonica John McDonald, pianoFREE",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Granoff Music Center, 20 Talbot Avenue, in Medford",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""

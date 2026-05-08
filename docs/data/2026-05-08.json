@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T16:49:49.511101",
+  "scraped_at": "2026-05-07T21:35:34.454301",
   "date": "2026-05-08"
  },
  "data": {
@@ -450,6 +450,19 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -477,19 +490,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
-   {
     "title": "Make Me Famous",
     "synopsis": "",
     "showtimes": [
@@ -505,30 +505,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm"
+     "4:30 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Michael",
@@ -545,20 +533,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -573,6 +547,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
     "title": "Steal This Story, Please!",
     "synopsis": "",
     "showtimes": [
@@ -584,6 +571,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -693,19 +693,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Darkman",
     "synopsis": "In the darkest hour, there is a light that shines on every human being... but ONE!",
     "showtimes": [
@@ -717,6 +704,19 @@
     "rating": "",
     "runtime": "1hr 36mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Darkman_1990_04%20copy.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -724,7 +724,7 @@
     "title": "Harvard Book Store Presents Elizabeth Strout",
     "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "6:00 pm"
+     "6:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",

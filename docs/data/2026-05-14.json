@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-07T16:51:05.621993",
+  "scraped_at": "2026-05-07T21:36:13.423229",
   "date": "2026-05-14"
  },
  "data": {
@@ -462,7 +462,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm",
      "5:20 pm",
      "8:00 pm"
     ],
@@ -474,23 +473,9 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "Cocktail in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/cocktail-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-4.jpg"
-   },
-   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm",
      "5:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -581,61 +566,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -648,6 +578,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -664,6 +608,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
     "title": "Steal This Story, Please!",
     "synopsis": "",
     "showtimes": [
@@ -675,6 +632,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -802,7 +772,7 @@
     "title": "Harvard Book Store Presents Elizabeth Strout",
     "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "6:00 pm"
+     "6:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
