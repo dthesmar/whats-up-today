@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-08T17:59:37.766560",
+  "scraped_at": "2026-05-08T23:38:34.572377",
   "date": "2026-05-10"
  },
  "data": {
@@ -503,6 +503,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
@@ -516,19 +529,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
    },
    {
     "title": "The Airwaves Belonged to the People: WBCN and the American Revolution",
@@ -545,6 +545,52 @@
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:20 pm",
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "2:45 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
    {
     "title": "Steal This Story, Please!",
     "synopsis": "",
@@ -574,37 +620,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "2:20 pm",
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -618,21 +633,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "2:45 pm",
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -1249,7 +1249,7 @@
     "poster": ""
    },
    {
-    "title": "Cape Ann Symphony \u2013 Kevin Lyczak, organist",
+    "title": "Cape Ann Symphony \u2013 Frederick Moyer, pianist",
     "synopsis": "Rossini: Barber of Seville Grieg: Piano Concerto, Frederick Moyer, piano Tchaikovsky: Symphony No. 4",
     "showtimes": [
      "2:05 pm"
@@ -1283,6 +1283,19 @@
     "theater": "Classical Music (Boston)",
     "address": "Various, in Boston Area",
     "url": "https://ticketpeak.com/go/cambridgechambersingers/events/We",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tufts University \u2013 Tufts Youth Philharmonic",
+    "synopsis": "Music of Sebastian Baverstam, C\u00e9cile Chaminade, Johannes Brahms$10/person; $25/family suggested",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Granoff Music Center, 20 Talbot Avenue, in Medford",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""

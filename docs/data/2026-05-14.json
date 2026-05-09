@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-08T18:00:21.713940",
+  "scraped_at": "2026-05-08T23:39:00.034560",
   "date": "2026-05-14"
  },
  "data": {
@@ -104,7 +104,7 @@
     "url": "https://www.fandango.com/the-wizard-of-the-kremlin-2026-245540/movie-overview",
     "rating": "R",
     "runtime": "2 hr 16 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245540/The_Wizard_Of_The_Kremlin_One_Sheet_Web_Res.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245540/thewizardofthekremlin-preset.jpg"
    },
    {
     "title": "Top Gun 40th Anniversary (2026)",
@@ -566,6 +566,47 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
     "title": "Steal This Story, Please!",
     "synopsis": "",
     "showtimes": [
@@ -592,34 +633,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
@@ -632,19 +645,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
