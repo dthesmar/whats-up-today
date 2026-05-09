@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-09T18:09:42.455928",
+  "scraped_at": "2026-05-09T19:10:39.953986",
   "date": "2026-05-16"
  },
  "data": {
@@ -256,19 +256,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Steal This Story, Please!",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/steal-this-story-please/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -323,19 +310,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Santo vs. Doctor Death",
-    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
-   },
-   {
     "title": "The Gift (2000)",
     "synopsis": "The only witness to the crime was not even there.",
     "showtimes": [
@@ -347,6 +321,19 @@
     "rating": "",
     "runtime": "1hr 51mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
+   },
+   {
+    "title": "Santo vs. Doctor Death",
+    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
+    "rating": "",
+    "runtime": "1hr 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
    }
   ],
   "Brattle Theatre": [
