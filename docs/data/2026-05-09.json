@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-09T03:36:09.300603",
+  "scraped_at": "2026-05-09T11:57:04.115236",
   "date": "2026-05-09"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Blue Heron",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:30 PM",
      "3:00 PM",
      "5:30 PM",
@@ -27,7 +26,6 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "1:30 PM",
      "7:30 PM",
      "10:20 PM",
@@ -60,7 +58,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "1:00 PM",
      "4:00 PM",
      "7:00 PM",
@@ -70,7 +67,6 @@
      "3:00 PM",
      "6:00 PM",
      "9:00 PM",
-     "11:00 AM",
      "2:00 PM",
      "4:30 PM",
      "5:00 PM",
@@ -87,7 +83,6 @@
     "title": "Neglected (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "4:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -101,7 +96,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "1:30 PM",
      "4:30 PM",
      "7:30 PM",
@@ -130,9 +124,7 @@
    {
     "title": "Animal Farm (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/animal-farm-2026-243709/movie-overview",
@@ -143,9 +135,7 @@
    {
     "title": "Deep Water (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/deep-water-2026-245072/movie-overview",
@@ -171,9 +161,7 @@
    {
     "title": "RZA\u2019s One Spoon of Chocolate (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/rzas-one-spoon-of-chocolate-2026-244830/movie-overview",
@@ -200,8 +188,6 @@
     "synopsis": "",
     "showtimes": [
      "3:45 PM",
-     "10:00 AM",
-     "11:00 AM",
      "12:00 PM",
      "1:00 PM",
      "2:00 PM",
@@ -246,7 +232,6 @@
     "title": "Erupcja (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -313,7 +298,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "1:20 PM",
      "7:00 PM",
      "9:45 PM"
@@ -343,9 +327,7 @@
    {
     "title": "Hoppers (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hoppers-2026-241416/movie-overview",
@@ -1057,25 +1039,10 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:20PM",
-     "4:05PM",
-     "6:45PM",
-     "9:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
+     "10:35AM",
      "1:25PM",
      "4:25PM",
      "6:20PM",
@@ -1090,9 +1057,42 @@
     "poster": ""
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "10:40AM",
+     "1:20PM",
+     "4:05PM",
+     "6:45PM",
+     "9:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "1:35PM",
+     "4:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
+     "10:55AM",
      "1:30PM",
      "3:50PM"
     ],
@@ -1104,23 +1104,10 @@
     "poster": ""
    },
    {
-    "title": "CWX The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:35PM",
-     "4:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Mortal Kombat II",
     "synopsis": "",
     "showtimes": [
+     "11:00AM",
      "1:40PM",
      "4:20PM"
     ],
@@ -1135,6 +1122,7 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
+     "11:20AM",
      "2:45PM",
      "6:15PM",
      "9:10PM"
@@ -1150,6 +1138,7 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "11:45AM",
      "3:00PM",
      "6:00PM",
      "7:30PM",
