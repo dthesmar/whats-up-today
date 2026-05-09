@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-09T17:08:02.238840",
+  "scraped_at": "2026-05-09T18:08:56.033609",
   "date": "2026-05-09"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Blue Heron",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "8:00 PM",
      "10:30 PM"
     ],
@@ -57,7 +56,6 @@
      "10:30 PM",
      "6:00 PM",
      "9:00 PM",
-     "5:00 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -129,7 +127,6 @@
     "title": "Hokum (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:45 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -168,7 +165,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "6:00 PM",
      "7:00 PM",
      "7:30 PM",
@@ -188,7 +184,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "7:15 PM",
      "8:45 PM",
      "10:30 PM"
@@ -354,7 +349,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "6:00 PM",
      "6:30 PM",
      "7:00 PM",
@@ -426,10 +420,22 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
      "8:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -443,7 +449,6 @@
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "6:00 pm",
      "8:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -452,19 +457,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
    },
    {
     "title": "The Rocky Horror Picture Show",
@@ -776,7 +768,6 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:30 PM",
      "10:00 PM"
     ],
@@ -818,7 +809,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:30 PM",
      "10:00 PM"
     ],

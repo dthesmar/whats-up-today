@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-09T17:08:46.448243",
+  "scraped_at": "2026-05-09T18:09:42.455928",
   "date": "2026-05-16"
  },
  "data": {
@@ -202,10 +202,22 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
      "8:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -219,7 +231,6 @@
     "title": "The Drama",
     "synopsis": "",
     "showtimes": [
-     "6:00 pm",
      "8:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -228,19 +239,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
    },
    {
     "title": "The Rocky Horror Picture Show",
@@ -325,19 +323,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Gift (2000)",
-    "synopsis": "The only witness to the crime was not even there.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/gift-2000",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
-   },
-   {
     "title": "Santo vs. Doctor Death",
     "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
     "showtimes": [
@@ -349,6 +334,19 @@
     "rating": "",
     "runtime": "1hr 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
+   },
+   {
+    "title": "The Gift (2000)",
+    "synopsis": "The only witness to the crime was not even there.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/gift-2000",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
