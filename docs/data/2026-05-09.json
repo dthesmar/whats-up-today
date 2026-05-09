@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-08T23:38:28.204019",
+  "scraped_at": "2026-05-09T03:36:09.300603",
   "date": "2026-05-09"
  },
  "data": {
@@ -775,23 +775,22 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Little Women",
-    "synopsis": "Director: Gillian Armstrong Run Time: 119 min. Format: 35mm Film Release Year: 1994",
+    "title": "Lady Bird",
+    "synopsis": "Director: Greta Gerwig Run Time: 94 min. Format: DCP Release Year: 2017",
     "showtimes": [
-     "3:30 pm 35mm"
+     "12:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/little-women-1994/",
+    "url": "https://brattlefilm.org/movies/lady-bird/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/10/28134606/lmMVUuu2hHX6qrpcusiuSGU8HaC.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/07/09144018/aLBrmLBvN25OmCvr488CkM9XYm7-scaled.jpg"
    },
    {
     "title": "Mermaids",
     "synopsis": "Director: Richard Benjamin Run Time: 110 min. Format: 35mm Film Release Year: 1990",
     "showtimes": [
-     "6:00 pm 35mm",
      "2:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -802,18 +801,32 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20103809/d4p6VPoN70CnTV74jbW5ltlDgsh-scaled.jpg"
    },
    {
-    "title": "Lady Bird",
-    "synopsis": "Director: Greta Gerwig Run Time: 94 min. Format: DCP Release Year: 2017",
+    "title": "Petite Maman",
+    "synopsis": "Director: C\u00e9line Sciamma Run Time: 72 min. Format: DCP Release Year: 2021 Language: French",
     "showtimes": [
-     "8:30 pm",
-     "12:00 pm"
+     "4:30 pm",
+     "8:15 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/lady-bird/",
+    "url": "https://brattlefilm.org/movies/petite-maman/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/07/09144018/aLBrmLBvN25OmCvr488CkM9XYm7-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/20110826/yuXZXuS4RCTnCYScrRWBCNz2ywB-scaled.jpg"
+   },
+   {
+    "title": "The Babadook",
+    "synopsis": "Director: Jennifer Kent Run Time: 94 min. Format: DCP Release Year: 2014",
+    "showtimes": [
+     "6:15 pm",
+     "10:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-babadook/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/20111124/BABADOOK-012.jpeg"
    }
   ],
   "Harvard Film Archive": [
