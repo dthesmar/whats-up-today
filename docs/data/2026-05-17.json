@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-05-10T00:03:32.152003",
-  "date": "2026-05-15"
+  "scraped_at": "2026-05-10T00:03:44.747053",
+  "date": "2026-05-17"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -19,13 +19,27 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/15578/CrouchingTiger.jpg"
    },
    {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
+   },
+   {
     "title": "In the Grey (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "3:30 PM",
-     "6:15 PM",
-     "9:00 PM"
+     "11:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -38,10 +52,11 @@
     "title": "Is God Is (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
+     "11:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -68,7 +83,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "12:30 PM",
      "3:30 PM",
      "6:30 PM",
@@ -85,7 +99,7 @@
     "title": "Shrek 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM"
+     "12:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -127,7 +141,7 @@
     "title": "Top Gun: Maverick Re-Release (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -155,8 +169,8 @@
     "synopsis": "",
     "showtimes": [
      "12:45 PM",
-     "4:15 PM",
-     "7:15 PM",
+     "3:20 PM",
+     "7:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -165,22 +179,6 @@
     "rating": "PG13",
     "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "3:30 PM",
-     "7:00 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -188,9 +186,9 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
+     "2:10 PM",
      "4:40 PM",
-     "7:10 PM",
-     "9:45 PM"
+     "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -202,53 +200,167 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Make Me Famous",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "12:00 pm",
+     "2:40 pm",
+     "5:20 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "12:40 pm",
+     "3:15 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Airwaves Belonged to the People: WBCN and the American Revolution",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-airwaves-belonged-to-the-people-wbcn-and-the-american-revolution/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "No Capitol Theatre screenings found for today.",
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:20 pm",
+     "4:45 pm",
+     "7:20 pm"
+    ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com"
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "2:45 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "Steal This Story, Please!",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/steal-this-story-please/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Slowburn Shoot: An Indie Wrestling Story",
-    "synopsis": "Featuring a post-screening Q&A with the filmmakers and local wrestlers!",
+    "title": "Double Feature: Ed Wood & Plan 9 from Outer Space",
+    "synopsis": "From cult chaos to cinematic infamy, follow the lovable disaster behind the camera in films that prove ambition trumps talent.",
     "showtimes": [
-     "11:30pm"
+     "2:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/slowburn-shoot-indie-wrestling-story",
+    "url": "https://www.coolidge.org/events/double-feature-ed-wood-plan-9-outer-space",
     "rating": "",
-    "runtime": "1hr 22mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/AIW_5_17_19-7895.jpg"
-   },
-   {
-    "title": "A Simple Plan (1998)",
-    "synopsis": "They've worked hard all their lives, but they still can't afford the American Dream. Stealing it is even better.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/simple-plan-1998",
-    "rating": "",
-    "runtime": "2hrs 1min",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Simple_Plan_1998_501%20copy.jpg"
+    "runtime": "3hrs 26mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ed%20wood%20plan%209%20from%20outer%20spaec%20double%20feature.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -430,53 +542,144 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "New England Philharmonic (TS) \u2013 New Music New England",
-    "synopsis": "Carlos Carrillo, TBA NEP Commission World PremiereDaniel Godfrey Piano Concerto (2025) Gloria Cheng, piano World PremiereJason Huffman Alleles (2016-17) World PremiereCurtis Hughes Symphony in 3 Movements (2005) World Premiere",
+    "title": "Isabella Stewart Gardner Museum \u2013 Renaissance String Quartet",
+    "synopsis": "Brahms: String Quartet No. 2 in A minor, Op. 51 (1874) Florence Price: String Quartet No. 1 in G major (1929) Daniel Hass: String Quartet No. 1, \u201cLove and Levity\u201d (2021)",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Isabella Stewart Gardner Museum, The Fenway, in Boston",
+    "url": "https://tnew.gardnermuseum.org/36554/36569",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Concord Orchestra (51) \u2013 The Heavenly Life",
+    "synopsis": "Zeke Fetrow, conductor; Ann Moss, soprano Gustav Mahler, Symphony No. 4",
+    "showtimes": [
+     "2:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Performing Arts Center at 51 Walden, in Concord",
+    "url": "https://www.concordorchestra.com/heavenly-life",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Coro Allegro (CC) \u2013 Psalms of Protest and Reconciliation",
+    "synopsis": "BERNSTEIN, Chichester Psalms IVES, Psalm 90 PATRICIA VAN NESS, Psalms of Luminous RescuePresentation of the 2025 Pinkham Award to BGMC\u2019s Reuben Reynolds.Jerrick Cavagnaro, organ Janet Stone, soprano",
     "showtimes": [
      "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Tsai Performance Center 685 Commonwealth Avenu, in Boston",
-    "url": "https://classical-scene.com/calendar/",
+    "address": "Church of the Covenant, 67 Newbury St., in Boston",
+    "url": "https://www.coroallegro.org/season/luminous-rescue",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Handel and Haydn Society (OSC) \u2013 BACH + TELEMANN",
-    "synopsis": "J.S. Bach: Cantata 106, Gottes Zeit ist die allerbeste Zeit J.S. Bach: Cantata 4, Christ lag in Todesbanden J.S. Bach: Brandenburg Concerto No. 6 Telemann: Cantata, Du aber Daniel gehe hin",
+    "title": "Cherry Street Music (AC) \u2013 Chamber Music",
+    "synopsis": "Allison Eldredge & Pei-Shan LeeBeethoven: Piano and Cello Sonatas 2,3,4",
     "showtimes": [
-     "7:30 pm"
+     "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Old South Church, in Boston",
-    "url": "https://handelandhaydn.org/concerts/2025-26-season/bach-and-telemann/",
+    "address": "The Allen Center, 35 Webster Street, in Newton",
+    "url": "https://newtonculturalalliance.ticketspice.com/allison-eldredge-and-pei-shan-lee",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Kendall Square Orchestra (ST) \u2013 What Endures",
-    "synopsis": "Carlos Simon: Fate Now Conquers Tchaikovsky: Violin Concerto (Adrian Anantawan, violin) Brahms: Symphony No. 4",
+    "title": "Masterworks Chorale \u2013 Brahms: Ein Deutsches Requiem",
+    "synopsis": "HOLLAND: The Nature of Lost Time (world premiere)BRAHMS: Ein deutsches Requiem, Op. 45In collaboration with Concord Chorus and Pro Arte Chamber Orchestra and featuring Carley DeFranco, soprano and Dana Whiteside, baritone",
     "showtimes": [
-     "7:30 pm"
+     "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Sanders Theater, in Cambridge",
-    "url": "https://www.kendallsquareorchestra.org/25-26-what-endures",
+    "address": "Cary Hall, Lexington, MA, in Lexington",
+    "url": "https://masterworkschorale.ticketspice.com/brahms-ein-deutsches-requiem?t=website",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Music for Viols and Friends \u2013 The King of Denmark\u2019s Health:",
-    "synopsis": "Music by Dowland, Simpson, Borchgrevinck, Grep, Orologio, and others, performed by El Dorado Ensemble (Carol Lewis, Karen Burciaga, Mai-Lan Broekman, James Perretta and Alice Mroszczyk, violas da gamba; Olav Chris Henriksen, lute and orpharion).",
+    "title": "Somerville Museum \u2013 The King of Denmark\u2019s Health:",
+    "synopsis": "Celebrating Bach. Ensemble Chaconne (Peter H. Bloom, baroque flute; Carol Lewis, viola da gamba; Olav Chris Henriksen, baroque lute) perform works by Johann Sebastian Bach, including flute sonatas, a prelude and fugue for lute, and a cello suite transcription for viola da gamba.",
     "showtimes": [
-     "8:00 pm"
+     "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "First Church Cambridge, Lindsay Chapel, 11 Garden Street, in Cambridge",
+    "address": "Somerville Museum, Central Street & Westwood, in Somerville",
     "url": "https://www.eventbrite.com/e/the-king-of-denmarks-health-renaissance-music-from-denmark-norway-tickets-1758972246339?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "FPAC Art Sapce \u2013 Harbor Harmonies \u2013 Resonances, A World of Guitar",
+    "synopsis": "Aaron Larget-Caplan, GuitarLuis Obregon : Lament (2016) Roland Dyens : Tango Ens Ska\u00ef Larget-Caplan: moving still (2022) Cage : In A Landscape Bach: Prelude Bach: Prelude-Fugue-Allegro, BWV 998 Jinhee Han: Night Echoes (2025) *Boston Larget-Caplan \u2013 Stuff at Night (2024) Agust\u00edn Barrios: Una Limosna Albeniz : Granada P\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Sleeper Street off Seaport Boulevard., in Boston",
+    "url": "https://www.eventbrite.com/e/fpac-art-space-harbor-harmonies-resonances-a-world-of-guitar-tickets-1984080594468?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Cappella Clausura (EC) \u2013 Bembo and Vivaldi",
+    "synopsis": "Antonia Bembo vs Antonio Vivaldi\u2019s Gloriaand more",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Emmanuel Church, 15 Newbury Street, in Boston",
+    "url": "https://www.clausura.org/about-3",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Chameleon Arts Ensemble \u2013 Things Seen Right-to-Left",
+    "synopsis": "Satie, Choses vues \u00e0 droite et \u00e0 gauche (sans lunettes) for violin & piano Michael Stephen Brown, The Lotos-Eaters for flute, cello, piano & percussion Vaughan Williams, Phantasy Quintet Back and Forth for clarinet & piano Ravel, Piano Trio in a minor",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "First Church in Boston, 66 Marlborough St, in Boston (FC)",
+    "url": "https://app.arts-people.com/index.php?ticketing=caeob",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Cambridge Community Chorus (K) \u2013 Vaughan Williams: A Sea Symphony",
+    "synopsis": "Soprano: Lika Miyake Baritone: Bradford Gleim Music Director: Pamela Mindell",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Kresge Auditorium, 48 Mass. Ave, in Cambridge",
+    "url": "https://cambridgechorus.org/ticket-venue-info/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "First Lutheran Church \u2013 Chamber Music",
+    "synopsis": "Brahms; Trio for Piano, Violin and Horn, Op. 40 \u2013 Jazz Standards \u2013 Various Selections of Renaissance Music for Recorder Consort Karl Henning Music for Clarinet and BassoonFREE",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "98 Waite Street, in Malden",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -484,10 +687,23 @@
   ],
   "The Beehive": [
    {
-    "title": "Early Jazz Set with Steve Kirby",
-    "synopsis": "A master musician, Steve Kirby's guitar playing is modern deep and beautiful. Low key and shimmering this trio is fascinating to watch and listen to.",
+    "title": "Live @ Brunch: Blake Newman",
+    "synopsis": "Bassist Blake Newman is one of the most versatile musicians in Boston, playing groove music to ethnic folk music. This quartet features straight ahead jazz playing..Both classic and modern. Check him out: https://blakenewman.org Facebook: https://www.facebook.com/blake.newman.52",
     "showtimes": [
-     "6:30 pm"
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -499,50 +715,23 @@
   ],
   "Scullers Jazz Club": [
    {
-    "title": "DARRYL YOKLEY QUARTET feat Zaccai Curtis, Luques Curtis, Wayne Smith, Jr.",
-    "synopsis": "",
-    "showtimes": [
-     "One Show at 7pm"
-    ],
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/event/darryl-yokley-quartet-scullers-jazz-club-tickets/14744383?pl=scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/2/2026-02-27T14-32-48_darryl%20yokley-StandardPoster.jpg"
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "title": "The Dirty Dozen Brass Band",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/74/73/64_Listings.jpg?v=3"
-   },
-   {
-    "title": "The Dirty Dozen Brass Band",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/46/11/13_Listings.jpg?v=2"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
@@ -558,10 +747,10 @@
   ],
   "Boston Ballet": [
    {
-    "title": "Spring Experience 2026: May 15 at 7:30 PM",
+    "title": "Spring Experience 2026: May 17 at 1:30 PM",
     "synopsis": "The 2026 Spring Experience is made up of three contrasting works that showcase the versatility of Boston Ballet dancers and the varied styles of contemporary ballet storytelling.",
     "showtimes": [
-     "7:30 PM"
+     "1:30 PM"
     ],
     "theater": "Boston Ballet",
     "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
