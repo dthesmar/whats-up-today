@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-11T08:42:10.591162",
+  "scraped_at": "2026-05-11T17:39:22.231618",
   "date": "2026-05-18"
  },
  "data": {
@@ -22,7 +22,8 @@
     "title": "Attack on Titan: THE LAST ATTACK (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM"
+     "7:00 PM",
+     "8:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -93,6 +94,19 @@
     "rating": "R",
     "runtime": "1 hr 48 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/obsession_presale.jpg"
+   },
+   {
+    "title": "Pati Patni Aur Woh Do (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/pati-patni-aur-woh-do-2026-245491/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 2 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245491/PatiPatniAurWohDoPoster_1080x1600.jpg"
    },
    {
     "title": "Shrek 25th Anniversary (2026)",
@@ -190,33 +204,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
     "title": "48 Hour Film Project Group A",
     "synopsis": "",
     "showtimes": [
@@ -228,6 +215,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-7-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm",
+     "5:40 pm",
+     "8:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "The Drama",
@@ -254,29 +256,105 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-8-600x889.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm",
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Taxi Driver in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/taxi-driver-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-12.jpg"
+   },
+   {
+    "title": "Escape from New York in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/escape-from-new-york-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-13.jpg"
+   },
+   {
+    "title": "The Accused in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-accused-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-21.jpg"
+   },
+   {
+    "title": "Silkwood",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/silkwood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+   },
+   {
+    "title": "Tombstone",
+    "synopsis": "",
+    "showtimes": [
+     "6:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tombstone/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
+   },
+   {
+    "title": "Maverick in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/maverick/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Steal This Story, Please!",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -287,25 +365,25 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-600x914.jpg"
    },
    {
-    "title": "Michael",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
+     "7:15 pm",
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
+     "7:20 pm",
+     "4:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -315,30 +393,32 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm"
+     "7:30 pm",
+     "4:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "Project Hail Mary",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm"
+     "7:40 pm",
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
