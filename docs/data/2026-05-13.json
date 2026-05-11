@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-10T22:27:57.628268",
+  "scraped_at": "2026-05-11T07:40:07.216736",
   "date": "2026-05-13"
  },
  "data": {
@@ -756,44 +756,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Psycho",
-    "synopsis": "Director: Alfred Hitchcock Run Time: 110 min. Format: 35mm Film Release Year: 1960",
+    "title": "Hairspray",
+    "synopsis": "Director: John Waters Run Time: 92 min. Format: DCP Release Year: 1988",
     "showtimes": [
-     "12:30 pm 35mm",
-     "3:00 pm 35mm"
+     "3:45 pm",
+     "8:15 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/psycho/",
+    "url": "https://brattlefilm.org/movies/hairspray/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/24171145/psycho-1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20110501/bH5OLuPjCg9Tat6G6VDbxGiP6FP-scaled.jpg"
    },
    {
-    "title": "Everything Everywhere All at Once",
-    "synopsis": "Director: Daniel Kwan, Daniel Scheinert Run Time: 140 min. Format: DCP Release Year: 2022",
+    "title": "Dirty Dancing",
+    "synopsis": "Director: Emile Ardolino Run Time: 100 min. Format: 35mm Film Release Year: 1987",
     "showtimes": [
-     "5:30 pm"
+     "6:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/everything-everywhere-all-at-once/",
+    "url": "https://brattlefilm.org/movies/dirty-dancing/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/11/20110420/ss0Os3uWJfQAENILHZUdX8Tt1OC-scaled.jpg"
-   },
-   {
-    "title": "Us",
-    "synopsis": "Director: Jordan Peele Run Time: 116 min. Format: DCP Release Year: 2019",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/us/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/20111430/sC0b8iPUHfZdD8kseLiHw3N8gkp-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/03162405/highres_245410734-scaled.jpeg"
    }
   ],
   "Harvard Film Archive": [
@@ -957,14 +944,27 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "Mortal Kombat II",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/mortal-kombat-ii",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "10:35AM",
-     "1:25PM",
-     "4:25PM",
-     "6:15PM",
-     "7:15PM"
+     "1:15PM",
+     "4:15PM",
+     "6:30PM",
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -977,7 +977,6 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "10:45AM",
      "1:20PM",
      "4:05PM",
      "6:45PM"
@@ -990,27 +989,11 @@
     "poster": ""
    },
    {
-    "title": "CWX The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "10:50AM",
-     "1:35PM",
-     "4:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
-     "10:55AM",
      "1:30PM",
-     "3:50PM"
+     "4:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1020,16 +1003,15 @@
     "poster": ""
    },
    {
-    "title": "Mortal Kombat II",
+    "title": "CWX The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "1:40PM",
-     "4:20PM"
+     "1:35PM",
+     "7:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/mortal-kombat-ii",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1038,9 +1020,9 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "11:20AM",
-     "2:45PM",
-     "6:30PM"
+     "1:50PM",
+     "3:45PM",
+     "6:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1053,10 +1035,8 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "11:45AM",
      "3:00PM",
-     "6:00PM",
-     "7:10PM"
+     "6:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1069,7 +1049,7 @@
     "title": "CWX Mortal Kombat II",
     "synopsis": "",
     "showtimes": [
-     "7:00PM"
+     "4:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
