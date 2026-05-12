@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-12T18:09:52.415552",
+  "scraped_at": "2026-05-12T19:44:28.107355",
   "date": "2026-05-16"
  },
  "data": {
@@ -385,26 +385,106 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 PM",
+     "4:40 PM",
+     "7:10 PM",
+     "9:45 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-16"
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:55 PM",
+     "4:35 PM",
+     "7:05 PM",
+     "9:35 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "1:35 PM",
+     "3:15 PM",
+     "4:15 PM",
+     "6:00 PM",
+     "6:30 PM",
+     "7:00 PM",
+     "8:40 PM",
+     "9:10 PM",
+     "9:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:05 PM",
+     "3:50 PM",
+     "6:35 PM",
+     "9:25 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Our Hero, Balthazar (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:55 PM",
+     "3:55 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/our-hero-balthazar-2026-244581/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244581/OHB_KeyArt_SMALL.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "5:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
    {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
@@ -433,6 +513,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
    },
    {
     "title": "Obsession",
@@ -532,19 +625,32 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "7:15 pm"
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -563,32 +669,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:30 pm"
+     "12:30 pm",
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Blue Heron",
@@ -718,19 +811,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "The Gift (2000)",
-    "synopsis": "The only witness to the crime was not even there.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/gift-2000",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
-   },
-   {
     "title": "Santo vs. Doctor Death",
     "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
     "showtimes": [
@@ -742,6 +822,19 @@
     "rating": "",
     "runtime": "1hr 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
+   },
+   {
+    "title": "The Gift (2000)",
+    "synopsis": "The only witness to the crime was not even there.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/gift-2000",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
    }
   ],
   "Brattle Theatre": [

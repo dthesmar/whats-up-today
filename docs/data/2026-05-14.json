@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-12T17:57:29.456838",
+  "scraped_at": "2026-05-12T19:44:14.412058",
   "date": "2026-05-14"
  },
  "data": {
@@ -659,32 +659,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm",
-     "4:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
      "4:45 pm",
-     "7:20 pm"
+     "7:40 pm",
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -701,19 +688,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "Michael",
+    "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
      "4:45 pm",
-     "7:40 pm",
-     "4:15 pm"
+     "7:20 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Super Mario Galaxy Movie",
@@ -727,6 +713,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm",
+     "4:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Steal This Story, Please!",
