@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-11T23:38:42.313522",
+  "scraped_at": "2026-05-12T00:40:46.452428",
   "date": "2026-05-17"
  },
  "data": {
@@ -610,31 +610,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Hairspray",
-    "synopsis": "Director: John Waters Run Time: 92 min. Format: DCP Release Year: 1988",
-    "showtimes": [
-     "3:45 pm",
-     "8:15 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/hairspray/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20110501/bH5OLuPjCg9Tat6G6VDbxGiP6FP-scaled.jpg"
-   },
-   {
-    "title": "Dirty Dancing",
-    "synopsis": "Director: Emile Ardolino Run Time: 100 min. Format: 35mm Film Release Year: 1987",
-    "showtimes": [
-     "6:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dirty-dancing/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/01/03162405/highres_245410734-scaled.jpeg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
