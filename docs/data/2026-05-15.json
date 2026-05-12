@@ -1,10 +1,23 @@
 {
  "meta": {
-  "scraped_at": "2026-05-11T17:38:12.507262",
+  "scraped_at": "2026-05-11T21:11:56.465225",
   "date": "2026-05-15"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/blue-heron-244955/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244955/blueheron.jpg"
+   },
    {
     "title": "Crouching Tiger, Hidden Dragon",
     "synopsis": "",
@@ -51,6 +64,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241834/isgodis_presale.jpg"
    },
    {
+    "title": "LifeHack (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/lifehack-2026-245292/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245292/lifehack-2025.jpg"
+   },
+   {
     "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
     "synopsis": "",
     "showtimes": [
@@ -85,7 +111,8 @@
     "title": "Pati Patni Aur Woh Do (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM"
+     "3:45 PM",
+     "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -127,7 +154,8 @@
     "title": "Top Gun 40th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM"
+     "12:00 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -140,7 +168,8 @@
     "title": "Top Gun: Maverick Re-Release (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:00 PM",
+     "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -150,9 +179,41 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245455/maverick_rerelease_presale.jpg"
    },
    {
+    "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "10:00 PM",
+     "12:15 PM",
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/billie-eilish-hit-me-hard-and-soft-the-tour-2026-244882/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244882/BE_DOM_Online_Teaser_1-Sheet_13_FIN17_REV_NOTECH.jpg"
+   },
+   {
+    "title": "Cold War 1994 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/cold-war-1994-2026-245580/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 57 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245580/coldwar1994-Mainposter.jpg"
+   },
+   {
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:15 PM",
+     "11:30 AM",
+     "1:00 PM",
      "4:00 PM",
      "7:00 PM"
     ],
@@ -164,12 +225,62 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/KOMBAT2_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:45 AM",
+     "2:30 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "Hokum (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM",
+     "8:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244804/Hokum%20-%20Final%20Poster%20-%2027x40.jpg"
+   },
+   {
+    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-2026-244871/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 44 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244871/SlimeMovie-TearsOfTheAzureSea-_TheatricalPosters_US-CA_1000x1480.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
      "12:45 PM",
-     "4:15 PM",
-     "7:15 PM",
+     "7:30 PM",
+     "11:45 AM",
+     "2:45 PM",
+     "4:00 PM",
+     "5:15 PM",
+     "6:00 PM",
+     "7:00 PM",
+     "8:15 PM",
+     "9:15 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -183,9 +294,15 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "3:30 PM",
      "7:00 PM",
+     "11:30 AM",
+     "2:45 PM",
+     "6:15 PM",
+     "9:30 PM",
+     "12:45 PM",
+     "5:20 PM",
+     "8:30 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -194,6 +311,62 @@
     "rating": "PG13",
     "runtime": "2 hr 7 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "Mother Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "2:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:30 PM",
+     "6:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -267,36 +440,23 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
    {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
@@ -326,6 +486,20 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "The Super Mario Galaxy Movie",
     "synopsis": "",
     "showtimes": [
@@ -337,6 +511,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "6:40 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
