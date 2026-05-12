@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-12T02:44:21.522481",
+  "scraped_at": "2026-05-12T06:01:14.984535",
   "date": "2026-05-12"
  },
  "data": {
@@ -738,10 +738,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Kimberl\u00e9 Williams Crenshaw",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-kimberle-williams-crenshaw/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27145900/image1.jpeg"
+   },
+   {
+    "title": "The Others",
+    "synopsis": "Director: Alejandro Amen\u00e1bar Run Time: 101 min. Format: DCP Release Year: 2001",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-others/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/11104728/others-4.jpg"
    }
   ],
   "Harvard Film Archive": [
