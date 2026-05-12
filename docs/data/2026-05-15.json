@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-11T22:13:14.960039",
+  "scraped_at": "2026-05-11T23:37:50.124816",
   "date": "2026-05-15"
  },
  "data": {
@@ -108,20 +108,6 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/obsession_presale.jpg"
    },
    {
-    "title": "Pati Patni Aur Woh Do (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM",
-     "5:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/pati-patni-aur-woh-do-2026-245491/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 2 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245491/PatiPatniAurWohDoPoster_1080x1600.jpg"
-   },
-   {
     "title": "Shrek 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
@@ -149,6 +135,20 @@
     "rating": "R",
     "runtime": "2 hr 16 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245540/thewizardofthekremlin-preset.jpg"
+   },
+   {
+    "title": "Pati Patni Aur Woh Do (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "5:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/pati-patni-aur-woh-do-2026-245491/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 2 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245491/PatiPatniAurWohDoPoster_1080x1600.jpg"
    },
    {
     "title": "Top Gun 40th Anniversary (2026)",
@@ -607,34 +607,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Watching Mr. Pearson (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/watching-mr-pearson-2026-244253/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 22 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
-   {
-    "title": "In the Grey (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:10 PM",
-     "2:30 PM",
-     "4:50 PM",
-     "7:15 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/in-the-grey-2026-244801/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244801/inthegrey_presale.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-15"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -755,19 +731,6 @@
    }
   ],
   "Classical Music (Boston)": [
-   {
-    "title": "New England Philharmonic (TS) \u2013 New Music New England",
-    "synopsis": "Carlos Carrillo, TBA NEP Commission World PremiereDaniel Godfrey Piano Concerto (2025) Gloria Cheng, piano World PremiereJason Huffman Alleles (2016-17) World PremiereCurtis Hughes Symphony in 3 Movements (2005) World Premiere",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Tsai Performance Center 685 Commonwealth Avenu, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
    {
     "title": "Handel and Haydn Society (OSC) \u2013 BACH + TELEMANN",
     "synopsis": "J.S. Bach: Cantata 106, Gottes Zeit ist die allerbeste Zeit J.S. Bach: Cantata 4, Christ lag in Todesbanden J.S. Bach: Brandenburg Concerto No. 6 Telemann: Cantata, Du aber Daniel gehe hin",
