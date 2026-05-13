@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-12T19:44:28.107355",
+  "scraped_at": "2026-05-12T20:50:16.804191",
   "date": "2026-05-16"
  },
  "data": {
@@ -486,6 +486,19 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -513,19 +526,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
    },
    {
     "title": "Obsession",
@@ -625,19 +625,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -651,6 +638,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -811,19 +811,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Santo vs. Doctor Death",
-    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
-   },
-   {
     "title": "The Gift (2000)",
     "synopsis": "The only witness to the crime was not even there.",
     "showtimes": [
@@ -835,6 +822,19 @@
     "rating": "",
     "runtime": "1hr 51mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
+   },
+   {
+    "title": "Santo vs. Doctor Death",
+    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
+    "rating": "",
+    "runtime": "1hr 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
    }
   ],
   "Brattle Theatre": [
