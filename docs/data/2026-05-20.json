@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-13T09:20:31.685917",
+  "scraped_at": "2026-05-13T19:18:06.541366",
   "date": "2026-05-20"
  },
  "data": {
@@ -163,7 +163,7 @@
     "title": "Shrek 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM"
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -295,7 +295,7 @@
     "title": "Hokum (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:45 PM",
+     "5:30 PM",
      "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -309,7 +309,6 @@
     "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -327,7 +326,7 @@
      "4:00 PM",
      "9:30 PM",
      "12:30 PM",
-     "2:15 PM",
+     "2:30 PM",
      "3:30 PM",
      "5:15 PM",
      "6:30 PM",
@@ -376,7 +375,7 @@
     "title": "The Drama (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM"
+     "12:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -519,23 +518,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
      "8:00 pm",
      "7:00 pm"
     ],
@@ -545,19 +530,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "48 Hour Film Project Group C",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/48-hour-film-project-group-c/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/04/unnamed-file-6-600x889.jpg"
    },
    {
     "title": "The Drama",
@@ -602,11 +574,25 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
+     "7:30 pm",
+     "4:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -619,7 +605,6 @@
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
      "7:40 pm",
      "4:15 pm"
     ],
@@ -631,38 +616,11 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-super-mario-galaxy-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-7.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
