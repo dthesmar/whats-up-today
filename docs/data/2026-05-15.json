@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-12T23:03:47.179488",
+  "scraped_at": "2026-05-13T09:15:17.277769",
   "date": "2026-05-15"
  },
  "data": {
@@ -35,10 +35,10 @@
     "title": "In the Grey (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM",
      "12:45 PM",
      "3:30 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -51,10 +51,10 @@
     "title": "Is God Is (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
-     "9:45 PM",
      "1:30 PM",
-     "4:15 PM"
+     "4:15 PM",
+     "7:00 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -95,10 +95,10 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "9:30 PM",
      "12:30 PM",
      "3:30 PM",
-     "6:30 PM"
+     "6:30 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -124,10 +124,10 @@
     "title": "The Wizard of the Kremlin (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "10:00 PM",
      "12:00 PM",
-     "3:45 PM"
+     "3:45 PM",
+     "7:15 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -182,10 +182,10 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM",
      "3:30 PM",
-     "7:00 PM",
-     "12:15 PM"
+     "10:00 PM",
+     "12:15 PM",
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -228,10 +228,10 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "10:15 PM",
      "11:45 AM",
-     "2:30 PM"
+     "2:30 PM",
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -244,8 +244,8 @@
     "title": "Hokum (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:45 PM",
-     "6:30 PM"
+     "6:30 PM",
+     "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -271,17 +271,17 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "12:45 PM",
-     "7:00 PM",
-     "8:15 PM",
-     "9:15 PM",
-     "10:15 PM",
+     "7:30 PM",
      "11:45 AM",
      "2:45 PM",
      "4:00 PM",
      "5:15 PM",
-     "6:00 PM"
+     "6:00 PM",
+     "7:00 PM",
+     "8:15 PM",
+     "9:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -294,16 +294,16 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "3:30 PM",
-     "9:30 PM",
+     "7:00 PM",
      "11:30 AM",
      "2:45 PM",
      "6:15 PM",
-     "8:30 PM",
-     "10:15 PM",
+     "9:30 PM",
      "12:45 PM",
-     "5:20 PM"
+     "5:20 PM",
+     "8:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -356,10 +356,10 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:30 PM",
      "12:00 PM",
      "3:30 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -755,30 +755,30 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Kimberl\u00e9 Williams Crenshaw",
+    "title": "Harvard Book Store Presents Isaac Fitzgerald",
     "synopsis": "Run Time: 90 min.",
     "showtimes": [
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-kimberle-williams-crenshaw/",
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-isaac-fitzgerald/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27145900/image1.jpeg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27150338/image-1.jpeg"
    },
    {
-    "title": "The Others",
-    "synopsis": "Director: Alejandro Amen\u00e1bar Run Time: 101 min. Format: DCP Release Year: 2001",
+    "title": "Mamma Mia!",
+    "synopsis": "Director: Phyllida Lloyd Run Time: 108 min. Format: DCP Release Year: 2008",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-others/",
+    "url": "https://brattlefilm.org/movies/mamma-mia/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/11104728/others-4.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20112021/8IGO8rF5asa7tnO0aEtx3e5R4Z5-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1204,17 +1204,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "title": "DARRYL YOKLEY QUARTET feat Zaccai Curtis, Luques Curtis, Wayne Smith, Jr.",
-    "synopsis": "",
-    "showtimes": [
-     "One Show at 7pm"
-    ],
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/event/darryl-yokley-quartet-scullers-jazz-club-tickets/14744383?pl=scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/2/2026-02-27T14-32-48_darryl%20yokley-StandardPoster.jpg"
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
