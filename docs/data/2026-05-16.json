@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-13T22:59:02.790187",
+  "scraped_at": "2026-05-14T00:00:30.345434",
   "date": "2026-05-16"
  },
  "data": {
@@ -826,19 +826,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "The Gift (2000)",
-    "synopsis": "The only witness to the crime was not even there.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/gift-2000",
-    "rating": "",
-    "runtime": "1hr 51mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
-   },
-   {
     "title": "Santo vs. Doctor Death",
     "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
     "showtimes": [
@@ -850,34 +837,27 @@
     "rating": "",
     "runtime": "1hr 35mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
+   },
+   {
+    "title": "The Gift (2000)",
+    "synopsis": "The only witness to the crime was not even there.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/gift-2000",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Isaac Fitzgerald",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-isaac-fitzgerald/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27150338/image-1.jpeg"
-   },
-   {
-    "title": "Mamma Mia!",
-    "synopsis": "Director: Phyllida Lloyd Run Time: 108 min. Format: DCP Release Year: 2008",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mamma-mia/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20112021/8IGO8rF5asa7tnO0aEtx3e5R4Z5-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
