@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-14T00:00:37.334230",
+  "scraped_at": "2026-05-14T15:07:09.733791",
   "date": "2026-05-17"
  },
  "data": {
@@ -812,10 +812,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Douglas Stuart",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-douglas-stuart/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04113110/image-11.jpeg"
+   },
+   {
+    "title": "Aliens",
+    "synopsis": "Director: James Cameron Run Time: 154 min. Format: 4K DCP Release Year: 1986",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/aliens/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/23132013/aliens-3.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1085,7 +1105,6 @@
     "showtimes": [
      "1:15PM",
      "4:15PM",
-     "6:30PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1179,9 +1198,35 @@
     "rating": "",
     "runtime": "",
     "poster": ""
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
+   {
+    "title": "New England Baroque \u2013 Vivaldi ~ Four Seasons & Other Baroque Masterpieces!",
+    "synopsis": "The Plymouth Church, Framinghamwith Guy Fishman, Ian Watson and Susanna Ogata",
+    "showtimes": [
+     "3:00 am"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in New England",
+    "url": "https://www.newenglandbaroque.org/store-1/p/new-england-baroque-concert-ticket",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
    {
     "title": "Isabella Stewart Gardner Museum \u2013 Renaissance String Quartet",
     "synopsis": "Brahms: String Quartet No. 2 in A minor, Op. 51 (1874) Florence Price: String Quartet No. 1 in G major (1929) Daniel Hass: String Quartet No. 1, \u201cLove and Levity\u201d (2021)",

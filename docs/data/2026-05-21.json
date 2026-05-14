@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-14T00:01:39.837176",
+  "scraped_at": "2026-05-14T15:10:24.332318",
   "date": "2026-05-21"
  },
  "data": {
@@ -817,10 +817,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Douglas Stuart",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-douglas-stuart/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04113110/image-11.jpeg"
+   },
+   {
+    "title": "Aliens",
+    "synopsis": "Director: James Cameron Run Time: 154 min. Format: 4K DCP Release Year: 1986",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/aliens/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/23132013/aliens-3.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -884,7 +904,6 @@
     "showtimes": [
      "1:15PM",
      "4:15PM",
-     "6:30PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -975,6 +994,19 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-mortal-kombat-ii",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
     "rating": "",
     "runtime": "",
     "poster": ""
