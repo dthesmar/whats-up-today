@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-14T18:31:52.379944",
+  "scraped_at": "2026-05-14T20:39:08.809828",
   "date": "2026-05-15"
  },
  "data": {
@@ -375,7 +375,9 @@
     "synopsis": "",
     "showtimes": [
      "4:40 PM",
+     "5:40 PM",
      "7:10 PM",
+     "8:10 PM",
      "9:45 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -406,9 +408,11 @@
     "showtimes": [
      "3:15 PM",
      "4:15 PM",
+     "4:45 PM",
      "6:00 PM",
      "6:30 PM",
      "7:00 PM",
+     "7:30 PM",
      "8:40 PM",
      "9:10 PM",
      "9:40 PM"
@@ -466,19 +470,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Make Me Famous",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -520,6 +511,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
+    "title": "Make Me Famous",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/make-me-famous/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file.jpg"
+   },
+   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
@@ -549,20 +553,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -589,6 +579,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Super Mario Galaxy Movie",
