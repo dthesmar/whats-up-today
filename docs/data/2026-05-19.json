@@ -1,685 +1,63 @@
 {
  "meta": {
-  "scraped_at": "2026-05-14T20:40:12.030376",
+  "scraped_at": "2026-05-15T10:59:39.880430",
   "date": "2026-05-19"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Blue Heron",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 PM",
-     "5:45 PM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-19\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-19\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/blue-heron-244955/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244955/blueheron.jpg"
-   },
-   {
-    "title": "Crouching Tiger, Hidden Dragon",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/crouching-tiger-hidden-dragon-15578/movie-overview",
-    "rating": "PG-13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/15578/CrouchingTiger.jpg"
-   },
-   {
-    "title": "The Secret World of Arrietty 4K (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-secret-world-of-arrietty-4k-2026-244745/movie-overview",
-    "rating": "G",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244745/IMAX_Exclusive_Artwork_The_Secret_World_of_Arrietty_4K_IMAX.jpg"
-   },
-   {
-    "title": "Attack on Titan: THE LAST ATTACK (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/attack-on-titan-the-last-attack-2026-245551/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 25 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245551/AttackOnTitan_AnimeNights_DigitalBanners_320x480.png"
-   },
-   {
-    "title": "In the Grey (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 PM",
-     "6:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/in-the-grey-2026-244801/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244801/in_the_grey_xlg.jpg"
-   },
-   {
-    "title": "Is God Is (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 PM",
-     "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/is-god-is-2026-241834/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 39 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241834/is-god-is-new.jpg"
-   },
-   {
-    "title": "LifeHack (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lifehack-2026-245292/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245292/lifehack-2025.jpg"
-   },
-   {
-    "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM",
-     "6:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe-2026-245394/movie-overview",
-    "rating": "PG-13",
-    "runtime": "1 hr 55 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245394/MSGH_Poster_R2_v7ab_FIN_wBleed_0430.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 PM",
-     "12:30 PM",
-     "3:30 PM",
-     "6:30 PM",
-     "7:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
-   },
-   {
-    "title": "Shrek 25th Anniversary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/shrek-25th-anniversary-2026-245013/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245013/402870-1_id1b_Shrk25_27x40_VIEW_1Sht_PF_RGB.jpg"
-   },
-   {
-    "title": "The Wizard of the Kremlin (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "3:45 PM",
-     "7:15 PM",
-     "10:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-wizard-of-the-kremlin-2026-245540/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 16 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245540/The_Wizard_Of_The_Kremlin_One_Sheet_Web_Res.jpg"
-   },
-   {
-    "title": "Pati Patni Aur Woh Do (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/pati-patni-aur-woh-do-2026-245491/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 2 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245491/PatiPatniAurWohDoPoster_1080x1600.jpg"
-   },
-   {
-    "title": "Top Gun 40th Anniversary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/top-gun-40th-anniversary-2026-245453/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 51 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245453/TopGun_86_Single_ONLINE_TEASER_ONE_SHEET_2025x3000_v2.jpg"
-   },
-   {
-    "title": "Top Gun: Maverick Re-Release (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM",
-     "7:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/top-gun-maverick-re-release-2026-245455/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 11 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245455/TopGun_Maverick_3_ONLINE_TEASER_ONE_SHEET_2025x3000.jpg"
-   },
-   {
-    "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM",
-     "10:30 PM",
-     "12:30 PM",
-     "7:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/billie-eilish-hit-me-hard-and-soft-the-tour-2026-244882/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 54 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244882/BE_DOM_Online_Teaser_1-Sheet_13_FIN17_REV_NOTECH.jpg"
-   },
-   {
-    "title": "Cold War 1994 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/cold-war-1994-2026-245580/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 57 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245580/coldwar1994-Mainposter.jpg"
-   },
-   {
-    "title": "Mortal Kombat II (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 PM",
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 56 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/KOMBAT2_VERT_MAIN_2764x4096_DOM.jpg"
-   },
-   {
-    "title": "The Sheep Detectives (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "7:15 PM",
-     "9:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 49 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
-   },
-   {
-    "title": "Hokum (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:45 PM",
-     "8:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244804/Hokum%20-%20Final%20Poster%20-%2027x40.jpg"
-   },
-   {
-    "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-2026-244871/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 44 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244871/SlimeMovie-TearsOfTheAzureSea-_TheatricalPosters_US-CA_1000x1480.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "7:30 PM",
-     "12:30 PM",
-     "2:15 PM",
-     "3:30 PM",
-     "5:15 PM",
-     "6:30 PM",
-     "8:15 PM",
-     "9:30 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 PM",
-     "12:45 PM",
-     "4:00 PM",
-     "7:15 PM",
-     "10:30 PM",
-     "1:15 PM",
-     "8:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Mother Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/mother-mary-2026-243494/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243494/Mother-Mary-Teaser-Poster.jpg"
-   },
-   {
-    "title": "The Drama (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 46 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
-   },
-   {
-    "title": "The Super Mario Galaxy Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 PM",
-     "4:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:30 PM",
-     "6:45 PM",
-     "10:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
-   },
-   {
-    "title": "Oosaravelli",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/oosaravelli-148795/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 25 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/148795/Oosaravelli-27x40.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-19"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Obsession (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 PM",
-     "7:10 PM"
-    ],
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-19\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-19\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
-   },
-   {
-    "title": "The Sheep Detectives (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:35 PM",
-     "7:05 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 49 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 PM",
-     "4:15 PM",
-     "6:00 PM",
-     "7:00 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
-   },
-   {
-    "title": "Michael (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:50 PM",
-     "6:35 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 7 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
-   },
-   {
-    "title": "Project Hail Mary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:25 PM",
-     "6:40 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
-   },
-   {
-    "title": "District 9",
-    "synopsis": "",
-    "showtimes": [
-     "4:25 PM",
-     "7:00 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/district-9-114038/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 51 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/114038/District-9.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-19"
    }
   ],
   "Somerville Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f020d0>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "It Needs Eyes with Q&A",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/it-needs-eyes-with-qa/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-19.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1095f56d0>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Blue Heron",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+    "address": "204 Massachusetts Ave, Arlington, MA"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "No Coolidge Corner screenings found for today.",
+    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-05-19 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1095f5bd0>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/showtimes?date=2026-05-19"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Douglas Stuart",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1096dad50>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-douglas-stuart/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/03/04113110/image-11.jpeg"
-   },
-   {
-    "title": "Aliens",
-    "synopsis": "Director: James Cameron Run Time: 154 min. Format: 4K DCP Release Year: 1986",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/aliens/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/23132013/aliens-3.jpg"
+    "address": "40 Brattle St, Cambridge, MA"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "No HFA screenings today.",
+    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f01f90>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-19\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-19\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-19"
@@ -687,177 +65,37 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Mortal Kombat II",
-    "synopsis": "",
-    "showtimes": [
-     "1:00PM",
-     "7:15PM"
-    ],
+    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f03110>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/mortal-kombat-ii",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:15PM",
-     "4:15PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:20PM",
-     "4:05PM",
-     "6:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Super Mario Galaxy Movie",
-    "synopsis": "",
-    "showtimes": [
-     "1:30PM",
-     "4:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-super-mario-galaxy-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:35PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:50PM",
-     "3:45PM",
-     "6:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "3:00PM",
-     "6:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Mortal Kombat II",
-    "synopsis": "",
-    "showtimes": [
-     "4:30PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-mortal-kombat-ii",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "7:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "485 Arsenal Way, Watertown, MA"
    }
   ],
   "Classical Music (Boston)": [
    {
-    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
-    "synopsis": "Akiko Kobayashi, violin$5 suggested",
-    "showtimes": [
-     "12:05 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f00cd0>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Classical Music (Boston)",
-    "address": "Kings Chapel, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
    {
-    "title": "Samuel Batista and the Eternals",
-    "synopsis": "Batista is a monster musician. This band mixes influences from his Panamanian roots to the edgiest new jazz being written and played today. This band will keep you moving and swooning tonight. Panamanian saxophonist Samuel Batista mixes folkloric rhythms with jazz. Graduated from Berklee Global Jazz Institute , Batista\u2026",
-    "showtimes": [
-     "8:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1779163200000&endms=1779249600000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f00b90>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "541 Tremont St, Boston, MA"
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -878,18 +116,16 @@
   ],
   "Boston Ballet": [
    {
-    "error": "No Boston Ballet performances today.",
+    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f039d0>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
-    "url": "https://www.bostonballet.org/home/tickets-performances/"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109f03890>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
