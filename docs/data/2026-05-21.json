@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-15T23:51:34.827598",
+  "scraped_at": "2026-05-16T09:56:26.935500",
   "date": "2026-05-21"
  },
  "data": {
@@ -749,24 +749,11 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Terminator",
-    "synopsis": "Director: James Cameron Run Time: 108 min. Format: 35mm Film Release Year: 1984",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-terminator-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/08204148/ffdqHMWkh1h9MABwIfbfRJhgFW6-scaled.jpg"
-   },
-   {
     "title": "Chime + Serpent's Path",
     "synopsis": "Run Time: 130 min.",
     "showtimes": [
-     "6:15 pm",
      "12:30 pm",
+     "6:15 pm",
      "4:15 pm",
      "7:00 pm"
     ],
@@ -781,7 +768,6 @@
     "title": "Cure",
     "synopsis": "Director: Kiyoshi Kurosawa Run Time: 111 min. Format: DCP Release Year: 1997 Language: Japanese with English subtitles",
     "showtimes": [
-     "9:00 pm",
      "3:15 pm"
     ],
     "theater": "Brattle Theatre",
@@ -790,6 +776,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20182541/27666id_030-scaled.jpg"
+   },
+   {
+    "title": "Spider's Eyes",
+    "synopsis": "Director: Kiyoshi Kurosawa Run Time: 83 min. Format: DCP Release Year: 1998 Language: Japanese with English subtitles",
+    "showtimes": [
+     "9:00 pm",
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/spiders-eyes/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20115451/onxKZxbB51oiZOQprNh4ogBRD9N1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -834,15 +834,16 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Michael",
+    "title": "CWX The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "10:30AM",
      "1:15PM",
-     "9:40PM"
+     "9:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -851,6 +852,7 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
+     "10:35AM",
      "1:20PM",
      "3:55PM",
      "6:35PM",
@@ -864,11 +866,27 @@
     "poster": ""
    },
    {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "1:45PM",
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
+     "10:55AM",
      "1:35PM",
-     "4:15PM",
+     "4:10PM",
      "7:00PM",
      "9:35PM"
     ],
@@ -883,10 +901,11 @@
     "title": "Mortal Kombat II",
     "synopsis": "",
     "showtimes": [
+     "11:00AM",
      "1:40PM",
      "4:20PM",
      "7:05PM",
-     "9:50PM"
+     "9:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -896,25 +915,12 @@
     "poster": ""
    },
    {
-    "title": "Shrek 25th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "1:45PM",
-     "9:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/shrek-25th-anniversary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "2:10PM",
-     "5:35PM",
+     "11:20AM",
+     "2:45PM",
+     "6:10PM",
      "9:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -928,6 +934,7 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "11:45AM",
      "3:00PM",
      "5:45PM",
      "8:40PM"
@@ -940,29 +947,29 @@
     "poster": ""
    },
    {
-    "title": "Michael",
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "4:00PM",
-     "6:50PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "CWX The Devil Wears Prada 2",
+    "title": "Shrek 25th Anniversary",
     "synopsis": "",
     "showtimes": [
-     "4:10PM",
-     "6:55PM"
+     "4:40PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
+    "url": "https://arsenalyards.cwtheaters.com/movie/shrek-25th-anniversary",
     "rating": "",
     "runtime": "",
     "poster": ""

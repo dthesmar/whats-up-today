@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-05-16T09:56:33.307358",
-  "date": "2026-05-22"
+  "scraped_at": "2026-05-16T09:56:39.801609",
+  "date": "2026-05-23"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "title": "Vanishing Point",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM"
+     "3:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -22,10 +22,11 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
+     "11:15 AM",
      "4:45 PM",
      "7:30 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -38,10 +39,11 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
+     "11:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -57,13 +59,14 @@
      "12:45 PM",
      "7:15 PM",
      "10:30 PM",
-     "11:45 AM",
-     "3:00 PM",
-     "6:15 PM",
-     "9:30 PM",
-     "2:00 PM",
-     "5:15 PM",
-     "8:30 PM",
+     "11:30 AM",
+     "2:45 PM",
+     "6:00 PM",
+     "9:15 PM",
+     "11:00 AM",
+     "2:15 PM",
+     "5:30 PM",
+     "8:45 PM",
      "4:00 PM",
      "12:00 PM",
      "3:30 PM",
@@ -92,6 +95,19 @@
     "rating": "PG13",
     "runtime": "2 hr 5 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/233115/godzillaminusone-posterart.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -99,6 +115,7 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:25 PM",
      "4:10 PM",
      "6:50 PM",
      "9:50 PM"
@@ -114,6 +131,7 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "9:30 PM"
@@ -129,6 +147,7 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:35 PM",
      "4:15 PM",
      "7:05 PM",
      "9:45 PM"
@@ -143,9 +162,80 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 pm",
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-rocky-horror-picture-show-w-teseracte-players/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-11.jpg"
+   },
+   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
+     "2:00 pm",
      "5:00 pm",
      "7:45 pm"
     ],
@@ -155,13 +245,138 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "The Silence of the Lambs in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-silence-of-the-lambs/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-33.jpg"
+   },
+   {
+    "title": "The Thing in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-thing-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-28.jpg"
+   },
+   {
+    "title": "The Hateful Eight in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-31.jpg"
+   },
+   {
+    "title": "Carnage in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-37.jpg"
    }
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:20 pm",
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
+     "1:00 pm",
      "4:15 pm",
      "7:20 pm"
     ],
@@ -175,30 +390,30 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Double Feature: Evil Dead (2013) & Evil Dead Rise",
-    "synopsis": "Sam Raimi\u2019s Evil Dead legacy continues in these two horrifying films.",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "synopsis": "In Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and pushes its boundaries further than ever before",
     "showtimes": [
-     "11:00pm"
+     "11:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/double-feature-evil-dead-2013-evil-dead-rise",
+    "url": "https://www.coolidge.org/films/doctor-strange-multiverse-madness",
     "rating": "",
-    "runtime": "3hrs 7mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Evil%20Dead%202013%20Evil%20Dead%20Rise%20Double%20Feature.jpg"
+    "runtime": "2hrs 6mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Dr%20Strange%20in%20the%20Multiverse%20of%20Madness%202.jpg"
    },
    {
-    "title": "Ready to Rumble",
-    "synopsis": "They're the wrestlers who are better than all the restlers.",
+    "title": "Body Slam",
+    "synopsis": "He's down but never out...",
     "showtimes": [
      "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/ready-rumble",
+    "url": "https://www.coolidge.org/films/body-slam",
     "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/RTR_Platt_Arquette%20copy.jpg"
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/BA_Wrestling%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -422,26 +637,13 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Henry Purcell Society (V) \u2013 Baroque to Broadway: A Cabaret for Community",
-    "synopsis": "First Parish in Lincoln, 14 Bedford Rd., LincolnCody Bowers, countertenor; Charles Blandy, tenor; Emily Siar, soprano; David Thomas matter, baritone; Susanna Ogata, violin; Andrew Sheranian, harpsichord; Sarah Freiberg, cello; J. Kathleen Castellanos, Broadway piano; featuring Aviva Dias, 17 year old Boston arts Academ\u2026",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "in various area loations",
-    "url": "https://events.ticketleap.com/tickets/purcell-society-boston/baroque-to-broadway",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Cambridge Society for Early Music (ULC) \u2013 Arrow String Quartet",
+    "title": "Cambridge Society for Early Music \u2013 Arrow String Quartet",
     "synopsis": "Giuseppe Cambini: String Quartet in F Major, T.171 Franz Xaver Richter: String Quartet in G minor, Op. 5 Mozart: String Quartet in E-flat Major, K. 428",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "University Lutheran Church, 66 Winthrop St.,, in Cambridge",
+    "address": "Weston Congregational Church, 130 Newton Street, in Weston",
     "url": "https://www.zeffy.com/ticketing/arrow-quartet-string-quartets-from-the-age-of-enlightenment",
     "rating": "",
     "runtime": "",
@@ -450,10 +652,10 @@
   ],
   "The Beehive": [
    {
-    "title": "Andrew Stern-Early Jazz",
-    "synopsis": "Get a buzz with our early set live.... Andrew Stern, a Boston-based guitarist and composer anchored in the New York Jazz scene, performs at The Beehive!",
+    "title": "Bruce Ferrara Trio-Jazz",
+    "synopsis": "Guitarist Bruce Ferrara's trio is dynamic, interactive, and electric. Mr. Ferrara's guitar style and tones owe as much to Jimi Hendrix as John Coltrane.",
     "showtimes": [
-     "6:30 pm"
+     "9:00 am"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -473,22 +675,15 @@
   ],
   "Regattabar": [
    {
-    "title": "Juan Fer Ruiz & Camila Cortina Jazz Quintet with Special guest Barbara Zamora",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/41/83/73_Listings.jpg?v=6"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "Jazz Night \u2014 Saturday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
