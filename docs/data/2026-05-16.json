@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-16T16:06:22.395619",
+  "scraped_at": "2026-05-16T17:07:17.236716",
   "date": "2026-05-16"
  },
  "data": {
@@ -21,9 +21,7 @@
    {
     "title": "Crouching Tiger, Hidden Dragon",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/crouching-tiger-hidden-dragon-15578/movie-overview",
@@ -50,7 +48,6 @@
     "title": "Is God Is (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -117,7 +114,6 @@
     "title": "The Wizard of the Kremlin (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "7:15 PM",
      "10:00 PM"
     ],
@@ -146,7 +142,6 @@
     "title": "Top Gun 40th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -171,7 +166,6 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "10:30 PM",
      "7:00 PM"
     ],
@@ -198,7 +192,6 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "4:00 PM",
      "7:00 PM",
      "9:45 PM"
     ],
@@ -253,7 +246,6 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "4:30 PM",
      "6:00 PM",
      "7:30 PM",
      "8:15 PM",
@@ -350,7 +342,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "6:10 PM",
      "7:10 PM",
      "9:45 PM"
@@ -366,7 +357,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
      "7:05 PM",
      "9:35 PM"
     ],
@@ -381,8 +371,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
-     "4:45 PM",
      "6:00 PM",
      "6:30 PM",
      "7:00 PM",
@@ -402,7 +390,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:35 PM",
      "9:25 PM"
     ],
@@ -416,9 +403,7 @@
    {
     "title": "Our Hero, Balthazar (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:55 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/our-hero-balthazar-2026-244581/movie-overview",
@@ -443,23 +428,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-2.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -473,7 +444,6 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -579,34 +549,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -618,6 +560,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Michael",
@@ -953,9 +921,7 @@
    {
     "title": "Top Gun 40th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/top-gun-40th-anniversary-2026-245453/movie-overview",
@@ -1047,9 +1013,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
