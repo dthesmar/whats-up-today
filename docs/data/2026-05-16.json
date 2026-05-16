@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-15T17:41:28.378030",
+  "scraped_at": "2026-05-15T22:49:07.439195",
   "date": "2026-05-16"
  },
  "data": {
@@ -507,6 +507,20 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
+    "title": "The Drama",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-drama/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -520,20 +534,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "The Drama",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-drama/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Project Hail Mary",
@@ -631,19 +631,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Blue Heron",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -658,6 +645,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -688,19 +690,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "Project Hail Mary",
+    "title": "Blue Heron",
     "synopsis": "",
     "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "7:15 pm"
+     "7:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -832,19 +832,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Hokum_AdamScott_01.jpeg"
    },
    {
-    "title": "Santo vs. Doctor Death",
-    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
-    "rating": "",
-    "runtime": "1hr 35mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
-   },
-   {
     "title": "The Gift (2000)",
     "synopsis": "The only witness to the crime was not even there.",
     "showtimes": [
@@ -856,6 +843,19 @@
     "rating": "",
     "runtime": "1hr 51mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Gift_500%20copy.jpg"
+   },
+   {
+    "title": "Santo vs. Doctor Death",
+    "synopsis": "Mexican Wrestler \"El Santo\" works with Interpol to stop a clever gang of art thieves in Madrid, Spain, lead by the genius Dr. Death.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/santo-vs-doctor-death",
+    "rating": "",
+    "runtime": "1hr 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/santodeath6.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -989,6 +989,7 @@
     "title": "Karuppu (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:15 PM",
      "3:00 PM",
      "10:00 PM"
     ],
@@ -1059,8 +1060,7 @@
      "12:00 PM",
      "2:30 PM",
      "5:00 PM",
-     "7:30 PM",
-     "10:00 PM"
+     "7:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1091,7 +1091,6 @@
     "synopsis": "",
     "showtimes": [
      "12:00 PM",
-     "12:45 PM",
      "3:30 PM",
      "6:30 PM",
      "9:15 PM"
