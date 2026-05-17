@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-17T15:35:54.031807",
+  "scraped_at": "2026-05-17T16:37:00.094905",
   "date": "2026-05-17"
  },
  "data": {
@@ -21,9 +21,7 @@
    {
     "title": "Crouching Tiger, Hidden Dragon",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/crouching-tiger-hidden-dragon-15578/movie-overview",
@@ -34,9 +32,7 @@
    {
     "title": "Tuner (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
@@ -90,7 +86,6 @@
     "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:45 PM",
      "10:30 PM"
     ],
@@ -106,7 +101,6 @@
     "synopsis": "",
     "showtimes": [
      "7:15 PM",
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -132,7 +126,6 @@
     "title": "The Wizard of the Kremlin (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "7:15 PM",
      "10:00 PM"
     ],
@@ -186,7 +179,6 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "10:30 PM",
      "7:15 PM"
     ],
@@ -215,7 +207,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -272,7 +263,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:20 PM",
      "5:15 PM",
      "7:00 PM",
      "8:15 PM",
@@ -289,7 +279,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "7:00 PM",
      "4:30 PM",
      "8:00 PM",
@@ -345,7 +334,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -362,7 +350,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:40 PM",
      "4:40 PM",
      "6:10 PM",
      "7:10 PM"
@@ -392,8 +379,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
-     "4:15 PM",
      "4:45 PM",
      "6:00 PM",
      "6:30 PM",
@@ -410,7 +395,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -423,9 +407,7 @@
    {
     "title": "Our Hero, Balthazar (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:55 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/our-hero-balthazar-2026-244581/movie-overview",
@@ -449,36 +431,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm",
-     "2:30 pm",
-     "5:15 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Computer Wore Tennis Shoes",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-computer-wore-tennis-shoes/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-15.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -494,6 +446,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "2:30 pm",
+     "5:15 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -567,10 +535,23 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -584,7 +565,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -593,20 +573,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Michael",
@@ -980,7 +946,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -995,7 +960,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
