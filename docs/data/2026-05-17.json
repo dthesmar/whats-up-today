@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-16T17:07:23.563291",
+  "scraped_at": "2026-05-16T23:34:15.447344",
   "date": "2026-05-17"
  },
  "data": {
@@ -495,7 +495,10 @@
     "showtimes": [
      "1:45 pm",
      "4:30 pm",
-     "7:30 pm"
+     "7:30 pm",
+     "2:30 pm",
+     "5:15 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -503,20 +506,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "Freaky Friday (1976)",
@@ -545,6 +534,38 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-15.jpg"
    },
    {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm",
+     "3:30 pm",
+     "6:15 pm",
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "6:10 pm",
+     "8:40 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
     "title": "The Fox and the Hound in 35mm",
     "synopsis": "",
     "showtimes": [
@@ -555,7 +576,7 @@
     "url": "https://www.somervilletheatre.com/production/the-fox-and-the-hound-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/07-Fox-and-Hound-600x900.jpeg"
    },
    {
     "title": "Bugsy Malone in 4K",
@@ -568,7 +589,7 @@
     "url": "https://www.somervilletheatre.com/production/bugsy-malone-in-4k/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-23.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/03-Bugsy-Malone-600x900.jpeg"
    },
    {
     "title": "Backrooms",
@@ -601,21 +622,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -630,6 +636,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -658,20 +693,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Blue Heron",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -882,19 +903,6 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
-    "title": "Aakhri Sawal (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/aakhri-sawal-2026-245632/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245632/Aakhri-Sawal-27x40.jpg"
-   },
-   {
     "title": "In the Grey (2026)",
     "synopsis": "",
     "showtimes": [
@@ -946,6 +954,7 @@
     "synopsis": "",
     "showtimes": [
      "3:00 PM",
+     "6:10 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1048,7 +1057,7 @@
      "12:45 PM",
      "3:30 PM",
      "6:30 PM",
-     "9:15 PM"
+     "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
