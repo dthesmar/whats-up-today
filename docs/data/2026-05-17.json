@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-16T23:34:15.447344",
+  "scraped_at": "2026-05-17T10:03:51.219155",
   "date": "2026-05-17"
  },
  "data": {
@@ -837,11 +837,35 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "Spider's Eyes",
+    "synopsis": "Director: Kiyoshi Kurosawa Run Time: 83 min. Format: DCP Release Year: 1998 Language: Japanese with English subtitles",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/spiders-eyes/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20115451/onxKZxbB51oiZOQprNh4ogBRD9N1.jpg"
+   },
+   {
+    "title": "RPM Presents \"America\": Films by Brian L. Frye",
+    "synopsis": "Run Time: 65 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/rpm-presents-america-films-by-brian-l-frye/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/01120442/across01.jpeg"
+   },
+   {
     "title": "Chime + Serpent's Path",
     "synopsis": "Run Time: 130 min.",
     "showtimes": [
-     "12:30 pm",
-     "6:15 pm",
      "4:15 pm",
      "7:00 pm"
     ],
@@ -851,33 +875,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20135734/chime-2.jpeg"
-   },
-   {
-    "title": "Cure",
-    "synopsis": "Director: Kiyoshi Kurosawa Run Time: 111 min. Format: DCP Release Year: 1997 Language: Japanese with English subtitles",
-    "showtimes": [
-     "3:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/cure/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/12/20182541/27666id_030-scaled.jpg"
-   },
-   {
-    "title": "Spider's Eyes",
-    "synopsis": "Director: Kiyoshi Kurosawa Run Time: 83 min. Format: DCP Release Year: 1998 Language: Japanese with English subtitles",
-    "showtimes": [
-     "9:00 pm",
-     "12:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/spiders-eyes/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/20115451/onxKZxbB51oiZOQprNh4ogBRD9N1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1120,8 +1117,7 @@
     "synopsis": "",
     "showtimes": [
      "10:30AM",
-     "1:15PM",
-     "9:45PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1137,8 +1133,7 @@
      "10:35AM",
      "1:20PM",
      "3:55PM",
-     "6:35PM",
-     "9:15PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1152,8 +1147,7 @@
     "synopsis": "",
     "showtimes": [
      "10:50AM",
-     "1:45PM",
-     "9:30PM"
+     "6:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1169,8 +1163,7 @@
      "10:55AM",
      "1:35PM",
      "4:10PM",
-     "7:00PM",
-     "9:35PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1186,8 +1179,7 @@
      "11:00AM",
      "1:40PM",
      "4:20PM",
-     "7:05PM",
-     "9:40PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1202,8 +1194,7 @@
     "showtimes": [
      "11:20AM",
      "2:45PM",
-     "6:10PM",
-     "9:00PM"
+     "6:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1218,8 +1209,7 @@
     "showtimes": [
      "11:45AM",
      "3:00PM",
-     "5:45PM",
-     "8:40PM"
+     "5:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1232,8 +1222,8 @@
     "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
-     "4:00PM",
-     "6:55PM"
+     "1:15PM",
+     "4:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1246,8 +1236,8 @@
     "title": "Shrek 25th Anniversary",
     "synopsis": "",
     "showtimes": [
-     "4:40PM",
-     "6:50PM"
+     "1:35PM",
+     "3:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
