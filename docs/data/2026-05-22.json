@@ -1,144 +1,23 @@
 {
  "meta": {
-  "scraped_at": "2026-05-18T08:53:36.925139",
+  "scraped_at": "2026-05-18T09:59:20.578397",
   "date": "2026-05-22"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Vanishing Point",
-    "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-22\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/vanishing-point-107826/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 20 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
-   {
-    "title": "I Love Boosters (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 PM",
-     "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
-   },
-   {
-    "title": "Passenger (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 PM",
-     "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 34 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/PASSENGER_PRESALE.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "7:15 PM",
-     "10:30 PM",
-     "11:45 AM",
-     "3:00 PM",
-     "6:15 PM",
-     "9:30 PM",
-     "2:00 PM",
-     "5:15 PM",
-     "8:30 PM",
-     "4:00 PM",
-     "12:00 PM",
-     "3:30 PM",
-     "6:45 PM",
-     "10:00 PM",
-     "1:15 PM",
-     "4:45 PM",
-     "8:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
-   },
-   {
-    "title": "Godzilla Minus One (2023)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/godzilla-minus-one-2023-233115/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/233115/godzillaminusone-posterart.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-05-22"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "title": "I Love Boosters (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:10 PM",
-     "6:50 PM",
-     "9:50 PM"
-    ],
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-22\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM",
-     "7:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM",
-     "7:05 PM",
-     "9:45 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-22"
    }
   ],
   "Somerville Theatre": [
@@ -282,25 +161,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "10:00 AM",
-     "1:00 PM",
-     "3:00 PM",
-     "4:00 PM",
-     "6:00 PM",
-     "7:00 PM",
-     "9:00 PM",
-     "10:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-22\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-22"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -478,25 +342,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "title": "Juan Fer Ruiz & Camila Cortina Jazz Quintet with Special guest Barbara Zamora",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/41/83/73_Listings.jpg?v=6"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [

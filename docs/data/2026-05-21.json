@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-18T08:53:23.431507",
+  "scraped_at": "2026-05-18T09:57:10.037809",
   "date": "2026-05-21"
  },
  "data": {
@@ -801,34 +801,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "6:00 PM",
-     "7:00 PM",
-     "9:00 PM",
-     "10:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
-   },
-   {
-    "title": "Drishyam 3 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244690/Drishyam3-27x40-New.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-05-21"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
