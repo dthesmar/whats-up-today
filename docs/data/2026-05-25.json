@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-18T23:16:18.857705",
+  "scraped_at": "2026-05-19T07:39:37.326553",
   "date": "2026-05-25"
  },
  "data": {
@@ -804,31 +804,30 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Persona",
-    "synopsis": "Director: Ingmar Bergman Run Time: 84 min. Format: DCP Release Year: 1966 Language: Swedish with English subtitles",
+    "title": "Harvard Book Store Presents Mike Schur & Joe Posnanski",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "6:00 pm Sold Out"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/persona/",
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-mike-schur-joe-posnanski/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/09122545/XyL91AyYJfZT31OqlX0eePhnT3wivy.jpeg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27150857/image2.jpeg"
    },
    {
-    "title": "Mulholland Drive",
-    "synopsis": "Director: David Lynch Run Time: 147 min. Format: 35mm Film Release Year: 2001",
+    "title": "Desperately Seeking Susan",
+    "synopsis": "Director: Susan Seidelman Run Time: 104 min. Format: DCP Release Year: 1985",
     "showtimes": [
-     "8:00 pm Sold Out",
-     "3:00 pm 35mm"
+     "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mulholland-drive/",
+    "url": "https://brattlefilm.org/movies/desperately-seeking-susan/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/03/16124633/mulholland-drive-1-e1647449224186.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/17162321/dHGwMWwSAqER77HBXDPpxyW2W7L.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -864,37 +863,7 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:00PM",
-     "2:55PM",
-     "6:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:10PM",
-     "4:00PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Michael",
+    "title": "CWX The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
      "1:15PM",
@@ -902,7 +871,7 @@
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -912,8 +881,8 @@
     "synopsis": "",
     "showtimes": [
      "1:20PM",
-     "4:10PM",
-     "6:45PM"
+     "3:55PM",
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -923,12 +892,26 @@
     "poster": ""
    },
    {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:30PM",
+     "6:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
      "1:35PM",
-     "4:30PM",
-     "7:10PM"
+     "4:10PM",
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -953,27 +936,42 @@
     "poster": ""
    },
    {
-    "title": "CWX The Devil Wears Prada 2",
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "2:45PM",
+     "6:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "3:00PM",
+     "5:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Michael",
     "synopsis": "",
     "showtimes": [
      "4:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -982,7 +980,7 @@
     "title": "Shrek 25th Anniversary",
     "synopsis": "",
     "showtimes": [
-     "7:00PM"
+     "4:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
