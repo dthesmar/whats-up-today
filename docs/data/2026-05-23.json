@@ -1,22 +1,37 @@
 {
  "meta": {
-  "scraped_at": "2026-05-18T19:34:57.375798",
+  "scraped_at": "2026-05-18T21:16:05.828053",
   "date": "2026-05-23"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Vanishing Point",
+    "title": "Chand Mera Dil (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM"
+     "2:15 PM",
+     "6:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/vanishing-point-107826/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 20 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+    "url": "https://www.fandango.com/chand-mera-dil-2026-245828/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245828/Chand%20Mera%20Dil.jpg"
+   },
+   {
+    "title": "Corporate Retreat (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "5:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/corporate-retreat-2026-245187/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245187/corporateretreat-posterart.jpg"
    },
    {
     "title": "I Love Boosters (2026)",
@@ -53,6 +68,20 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/PASSENGER_PRESALE.jpg"
    },
    {
+    "title": "Saccharine (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:15 AM",
+     "8:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/saccharine-2026-244921/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244921/SAC_KEYART_FIN01_v2_medium.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
@@ -73,8 +102,9 @@
      "6:45 PM",
      "10:00 PM",
      "1:15 PM",
-     "4:45 PM",
-     "8:00 PM"
+     "8:00 PM",
+     "9:00 PM",
+     "4:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -82,6 +112,239 @@
     "rating": "PG13",
     "runtime": "2 hr 12 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+   },
+   {
+    "title": "Drishyam 3 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "5:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244690/Drishyam3-27x40-New.jpg"
+   },
+   {
+    "title": "In the Grey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/in-the-grey-2026-244801/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244801/in_the_grey_xlg.jpg"
+   },
+   {
+    "title": "Is God Is (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/is-god-is-2026-241834/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241834/is-god-is-new.jpg"
+   },
+   {
+    "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe-2026-245394/movie-overview",
+    "rating": "PG-13",
+    "runtime": "1 hr 55 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245394/MSGH_Poster_R2_v7ab_FIN_wBleed_0430.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM",
+     "4:30 PM",
+     "7:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "Shrek 25th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/shrek-25th-anniversary-2026-245013/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245013/402870-1_id1b_Shrk25_27x40_VIEW_1Sht_PF_RGB.jpg"
+   },
+   {
+    "title": "The Wizard of the Kremlin (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-wizard-of-the-kremlin-2026-245540/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 16 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245540/The_Wizard_Of_The_Kremlin_One_Sheet_Web_Res.jpg"
+   },
+   {
+    "title": "Top Gun 40th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/top-gun-40th-anniversary-2026-245453/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 51 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245453/TopGun_86_Single_ONLINE_TEASER_ONE_SHEET_2025x3000_v2.jpg"
+   },
+   {
+    "title": "Mortal Kombat II (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:15 PM",
+     "5:15 PM",
+     "7:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 56 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/KOMBAT2_VERT_MAIN_2764x4096_DOM.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "3:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "Hokum (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244804/Hokum%20-%20Final%20Poster%20-%2027x40.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:00 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "3:45 PM",
+     "7:00 PM",
+     "8:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "The Drama (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243663/Damage_DOM_Online_1-Sheet_Fin21_R-Z_HR.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 PM",
+     "11:15 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "6:00 PM",
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    },
    {
     "title": "Godzilla Minus One (2023)",
@@ -276,19 +539,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -301,6 +551,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
