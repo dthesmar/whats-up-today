@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-18T21:16:12.281421",
+  "scraped_at": "2026-05-18T23:16:12.543995",
   "date": "2026-05-24"
  },
  "data": {
@@ -379,7 +379,8 @@
     "showtimes": [
      "1:25 PM",
      "4:10 PM",
-     "6:50 PM"
+     "6:50 PM",
+     "9:50 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -393,8 +394,13 @@
     "synopsis": "",
     "showtimes": [
      "1:00 PM",
+     "2:00 PM",
+     "3:00 PM",
      "4:00 PM",
-     "7:00 PM"
+     "6:00 PM",
+     "7:00 PM",
+     "8:00 PM",
+     "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -404,12 +410,47 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
    },
    {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 PM",
+     "4:40 PM",
+     "7:10 PM",
+     "9:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:55 PM",
+     "4:25 PM",
+     "6:55 PM",
+     "9:35 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
      "1:35 PM",
      "4:15 PM",
-     "7:05 PM"
+     "5:15 PM",
+     "7:05 PM",
+     "9:15 PM",
+     "9:45 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
