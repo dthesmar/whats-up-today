@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-19T07:39:14.936843",
+  "scraped_at": "2026-05-19T19:17:02.835414",
   "date": "2026-05-23"
  },
  "data": {
@@ -48,7 +48,7 @@
     "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
     "rating": "R",
     "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
    },
    {
     "title": "Passenger (2026)",
@@ -65,7 +65,7 @@
     "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
     "rating": "R",
     "runtime": "1 hr 34 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/PASSENGER_PRESALE.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/passenger.jpg"
    },
    {
     "title": "Saccharine (2026)",
@@ -111,7 +111,7 @@
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
    },
    {
     "title": "Drishyam 3 (2026)",
@@ -388,7 +388,7 @@
     "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
     "rating": "R",
     "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
@@ -408,7 +408,7 @@
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
    },
    {
     "title": "Obsession (2026)",
@@ -591,17 +591,20 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "Michael",
+    "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "12:15 pm",
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -619,20 +622,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "The Sheep Detectives",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:15 pm",
-     "2:45 pm",
-     "5:15 pm",
-     "7:45 pm"
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -651,6 +651,117 @@
    }
   ],
   "Coolidge Corner Theatre": [
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
+    "showtimes": [
+     "11:00am",
+     "1:00pm",
+     "3:45pm",
+     "6:45pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "Welcome to a new world of style.",
+    "showtimes": [
+     "11:15am",
+     "1:45pm",
+     "4:30pm",
+     "7:00pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/i-love-boosters",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "11:45am",
+     "2:15pm",
+     "4:45pm",
+     "7:30pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Silent Friend",
+    "synopsis": "A gingko tree bears witness to the lives of three generations of people, as they are quietly transformed by the mysterious power of nature.",
+    "showtimes": [
+     "12:00pm",
+     "3:00pm",
+     "6:00pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/silent-friend",
+    "rating": "",
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SILENT%20FRIEND%201.jpg"
+   },
+   {
+    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
+    "synopsis": "New 4K Digital Restoration!",
+    "showtimes": [
+     "1:30pm",
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 43mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "Award-winning director Sophy Romvari\u2019s lyrical and profound feature debut.",
+    "showtimes": [
+     "2:00pm",
+     "4:15pm",
+     "6:35pm",
+     "8:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/blue-heron",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/6.Blue%20Heron_Still-min.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "showtimes": [
+     "6:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/drama",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+   },
    {
     "title": "Doctor Strange in the Multiverse of Madness",
     "synopsis": "In Doctor Strange in the Multiverse of Madness, the MCU unlocks the Multiverse and pushes its boundaries further than ever before",
@@ -716,25 +827,186 @@
   ],
   "Apple Cinemas Cambridge": [
    {
+    "title": "Chand Mera Dil (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/chand-mera-dil-2026-245828/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245828/Chand%20Mera%20Dil.jpg"
+   },
+   {
+    "title": "Passenger (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "12:30 PM",
+     "2:45 PM",
+     "5:00 PM",
+     "7:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 34 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/passenger.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
      "12:00 PM",
      "10:00 AM",
+     "10:30 AM",
      "1:00 PM",
+     "1:30 PM",
      "3:00 PM",
      "4:00 PM",
+     "4:30 PM",
      "6:00 PM",
      "7:00 PM",
+     "7:30 PM",
      "9:00 PM",
-     "10:00 PM"
+     "9:45 PM",
+     "10:00 PM",
+     "10:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Drishyam 3 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244690/Drishyam3-27x40-New.jpg"
+   },
+   {
+    "title": "Karuppu (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/karuppu-2026-245588/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245588/Karuppu.jpg"
+   },
+   {
+    "title": "Mortal Kombat II (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "1:15 PM",
+     "4:00 PM",
+     "6:45 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 56 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241451/KOMBAT2_VERT_MAIN_2764x4096_DOM.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "3:00 PM",
+     "5:30 PM",
+     "8:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "1:15 PM",
+     "4:00 PM",
+     "6:45 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "6:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [

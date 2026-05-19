@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-19T07:39:37.326553",
+  "scraped_at": "2026-05-19T19:17:18.837333",
   "date": "2026-05-25"
  },
  "data": {
@@ -61,7 +61,7 @@
     "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
     "rating": "R",
     "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
    },
    {
     "title": "Passenger (2026)",
@@ -78,7 +78,7 @@
     "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
     "rating": "R",
     "runtime": "1 hr 34 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/PASSENGER_PRESALE.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/passenger.jpg"
    },
    {
     "title": "Saccharine (2026)",
@@ -124,7 +124,7 @@
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
    },
    {
     "title": "Drishyam 3 (2026)",
@@ -389,7 +389,7 @@
     "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
     "rating": "R",
     "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/boosters_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
@@ -407,7 +407,7 @@
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
    },
    {
     "title": "Obsession (2026)",
@@ -701,18 +701,20 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
-    "title": "Michael",
+    "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
+     "12:15 pm",
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -730,20 +732,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "The Sheep Detectives",
+    "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "12:15 pm",
-     "2:45 pm",
-     "5:15 pm",
-     "7:45 pm"
+     "4:30 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -788,6 +788,117 @@
    }
   ],
   "Coolidge Corner Theatre": [
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
+    "showtimes": [
+     "11:00am",
+     "1:00pm",
+     "3:45pm",
+     "6:45pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "Welcome to a new world of style.",
+    "showtimes": [
+     "11:15am",
+     "2:00pm",
+     "4:30pm",
+     "7:15pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/i-love-boosters",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "Award-winning director Sophy Romvari\u2019s lyrical and profound feature debut.",
+    "showtimes": [
+     "11:30am",
+     "1:45pm",
+     "4:15pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/blue-heron",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/6.Blue%20Heron_Still-min.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "11:45am",
+     "2:15pm",
+     "4:45pm",
+     "7:30pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Silent Friend",
+    "synopsis": "A gingko tree bears witness to the lives of three generations of people, as they are quietly transformed by the mysterious power of nature.",
+    "showtimes": [
+     "12:00pm",
+     "3:00pm",
+     "6:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/silent-friend",
+    "rating": "",
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SILENT%20FRIEND%201.jpg"
+   },
+   {
+    "title": "Kiki\u2019s Delivery Service (4K Restoration)",
+    "synopsis": "New 4K Digital Restoration!",
+    "showtimes": [
+     "1:30pm",
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/kikis-delivery-service-4k-restoration",
+    "rating": "",
+    "runtime": "1hr 43mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Kiki%20Delivery%20new%20site.jpg"
+   },
+   {
+    "title": "The Drama",
+    "synopsis": "The new film from Kristoffer Borgli (Dream Scenario), starring Zendaya and Robert Pattinson.",
+    "showtimes": [
+     "6:30pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/drama",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_56b3dcd429cb515de55feaecdff855a5cf8f3c51-3996x2160.jpg"
+   },
    {
     "title": "Jurassic Park",
     "synopsis": "An adventure 65 million years in the making.",
@@ -858,7 +969,7 @@
     "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
     "rating": "PG13",
     "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/Mando_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -1000,10 +1111,23 @@
   ],
   "The Beehive": [
    {
-    "title": "MONDAY NIGHT HOEDOWN",
-    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
+    "title": "Memorial Day Brunch Music- Jazz Progressive, Larry Kukers Trio",
+    "synopsis": "Mr. Kukers is a veteran of decades in the Boston jazz scene. He has earned a reputation as a passionate innovator, and virtuoso. This trio's music is a dynamic showcase of what music can be.",
     "showtimes": [
-     "7:30 pm"
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Closed for Memorial Day",
+    "synopsis": "Please enjoy your holiday!!",
+    "showtimes": [
+     "3:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
