@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-19T23:45:06.917818",
+  "scraped_at": "2026-05-20T00:46:49.625648",
   "date": "2026-05-23"
  },
  "data": {
@@ -791,30 +791,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Mike Schur & Joe Posnanski",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-mike-schur-joe-posnanski/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27150857/image2.jpeg"
-   },
-   {
-    "title": "Desperately Seeking Susan",
-    "synopsis": "Director: Susan Seidelman Run Time: 104 min. Format: DCP Release Year: 1985",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/desperately-seeking-susan/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/17162321/dHGwMWwSAqER77HBXDPpxyW2W7L.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
