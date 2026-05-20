@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T11:19:27.610243",
+  "scraped_at": "2026-05-20T12:21:01.994152",
   "date": "2026-05-24"
  },
  "data": {
@@ -23,7 +23,8 @@
     "synopsis": "",
     "showtimes": [
      "2:15 PM",
-     "5:45 PM"
+     "5:45 PM",
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -884,6 +885,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244690/Drishyam3-27x40-New.jpg"
    },
    {
+    "title": "Is God Is (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/is-god-is-2026-241834/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241834/is-god-is-new.jpg"
+   },
+   {
     "title": "Karuppu (2026)",
     "synopsis": "",
     "showtimes": [
@@ -970,7 +984,7 @@
     "synopsis": "",
     "showtimes": [
      "10:00 AM",
-     "12:30 PM"
+     "12:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -983,7 +997,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:30 PM",
      "9:30 PM"
     ],
