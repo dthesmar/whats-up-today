@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T16:26:49.585615",
+  "scraped_at": "2026-05-20T17:28:24.738879",
   "date": "2026-05-20"
  },
  "data": {
@@ -71,9 +71,7 @@
    {
     "title": "The Secret World of Arrietty 4K (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-secret-world-of-arrietty-4k-2026-244745/movie-overview",
@@ -111,7 +109,6 @@
     "title": "Is God Is (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:00 PM",
      "9:45 PM"
     ],
@@ -243,9 +240,7 @@
    {
     "title": "Cold War 1994 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/cold-war-1994-2026-245580/movie-overview",
@@ -406,7 +401,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -420,7 +414,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -434,7 +427,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "6:00 PM",
      "7:00 PM"
     ],
@@ -475,7 +467,6 @@
     "title": "Begin Again",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -542,52 +533,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:20 pm",
-     "4:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Blue Heron",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -600,6 +545,36 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Michael",
@@ -615,6 +590,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
+   },
+   {
+    "title": "Blue Heron",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/blue-heron/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
