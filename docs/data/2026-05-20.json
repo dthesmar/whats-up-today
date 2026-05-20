@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T15:25:16.736144",
+  "scraped_at": "2026-05-20T16:26:49.585615",
   "date": "2026-05-20"
  },
  "data": {
@@ -21,9 +21,7 @@
    {
     "title": "Crouching Tiger, Hidden Dragon",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/crouching-tiger-hidden-dragon-15578/movie-overview",
@@ -100,7 +98,6 @@
     "title": "In the Grey (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -142,7 +139,6 @@
     "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -156,7 +152,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "8:30 PM",
      "9:30 PM"
@@ -183,7 +178,6 @@
     "title": "The Wizard of the Kremlin (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "7:15 PM",
      "10:00 PM"
     ],
@@ -224,9 +218,7 @@
    {
     "title": "Top Gun: Maverick Re-Release (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/top-gun-maverick-re-release-2026-245455/movie-overview",
@@ -238,7 +230,6 @@
     "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "10:15 PM",
      "7:30 PM"
     ],
@@ -267,7 +258,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "4:00 PM",
      "7:00 PM",
      "9:00 PM"
     ],
@@ -323,9 +313,7 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "9:30 PM",
-     "3:30 PM",
      "5:15 PM",
      "6:30 PM",
      "8:15 PM",
@@ -343,7 +331,6 @@
     "synopsis": "",
     "showtimes": [
      "7:00 PM",
-     "3:30 PM",
      "10:00 PM",
      "8:30 PM"
     ],
@@ -379,9 +366,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -393,7 +378,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -450,7 +434,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "4:15 PM",
      "6:00 PM",
      "7:00 PM"
@@ -466,7 +449,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -480,7 +462,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:25 PM",
      "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -561,37 +542,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:40 pm",
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -636,6 +586,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/BLUE_HERON_No_Logo_Poster_Janus_27x40-2_original-600x889.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm",
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -849,7 +828,6 @@
     "title": "In the Grey (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "5:30 PM",
      "7:45 PM",
      "10:00 PM"
@@ -918,9 +896,7 @@
    {
     "title": "Top Gun: Maverick Re-Release (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/top-gun-maverick-re-release-2026-245455/movie-overview",
@@ -946,7 +922,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:15 PM",
      "9:00 PM"
     ],
@@ -961,7 +936,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:45 PM"
     ],
@@ -976,7 +950,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:30 PM",
      "9:30 PM"
     ],

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T15:26:14.952572",
+  "scraped_at": "2026-05-20T16:27:48.685757",
   "date": "2026-05-26"
  },
  "data": {
@@ -500,33 +500,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -553,6 +526,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -597,21 +597,6 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/SILENT%20FRIEND%201.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
-    "showtimes": [
-     "3:15pm",
-     "6:45pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
    },
    {
     "title": "Kiki\u2019s Delivery Service (4K Restoration)",
@@ -669,6 +654,20 @@
     "rating": "",
     "runtime": "1hr 48mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
+    "showtimes": [
+     "6:45pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
    },
    {
     "title": "The General",
