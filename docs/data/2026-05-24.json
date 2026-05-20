@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T02:50:06.078754",
+  "scraped_at": "2026-05-20T03:51:38.952719",
   "date": "2026-05-24"
  },
  "data": {
@@ -777,10 +777,31 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Annihilation",
+    "synopsis": "Director: Alex Garland Run Time: 115 min. Format: DCP Release Year: 2018",
+    "showtimes": [
+     "3:30 pm",
+     "9:15 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/annihilation/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/11132110/annihilation-2.png"
+   },
+   {
+    "title": "Solaris",
+    "synopsis": "Director: Andrei Tarkovsky Run Time: 167 min. Format: DCP Release Year: 1972 Language: Russian with English subtitles",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/solaris/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/11131953/553id_118.jpg"
    }
   ],
   "Harvard Film Archive": [
