@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T19:31:52.539834",
+  "scraped_at": "2026-05-20T21:45:08.019513",
   "date": "2026-05-23"
  },
  "data": {
@@ -380,6 +380,7 @@
     "showtimes": [
      "1:25 PM",
      "4:10 PM",
+     "4:50 PM",
      "6:50 PM",
      "9:50 PM"
     ],
@@ -401,6 +402,7 @@
      "6:00 PM",
      "7:00 PM",
      "8:00 PM",
+     "8:45 PM",
      "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -447,9 +449,12 @@
     "synopsis": "",
     "showtimes": [
      "1:35 PM",
+     "2:35 PM",
      "4:15 PM",
      "5:15 PM",
+     "6:05 PM",
      "7:05 PM",
+     "7:30 PM",
      "9:15 PM",
      "9:45 PM"
     ],
@@ -459,6 +464,19 @@
     "rating": "PG13",
     "runtime": "1 hr 59 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Under the Skin",
+    "synopsis": "",
+    "showtimes": [
+     "1:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/under-the-skin-171114/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/171114/UnderTheSkin.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -577,19 +595,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:00 pm"
+     "3:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Michael",
@@ -605,18 +622,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "Project Hail Mary",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "3:15 pm",
-     "6:45 pm"
+     "12:45 pm",
+     "4:00 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Sheep Detectives",

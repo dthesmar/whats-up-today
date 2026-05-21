@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T19:31:45.880310",
+  "scraped_at": "2026-05-20T21:45:01.440278",
   "date": "2026-05-22"
  },
  "data": {
@@ -364,6 +364,7 @@
     "synopsis": "",
     "showtimes": [
      "4:10 PM",
+     "4:50 PM",
      "6:50 PM",
      "9:50 PM"
     ],
@@ -383,6 +384,7 @@
      "6:00 PM",
      "7:00 PM",
      "8:00 PM",
+     "8:45 PM",
      "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -428,7 +430,9 @@
     "showtimes": [
      "4:15 PM",
      "5:15 PM",
+     "6:05 PM",
      "7:05 PM",
+     "7:30 PM",
      "9:15 PM",
      "9:45 PM"
     ],
@@ -500,18 +504,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
+    "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
+     "3:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Michael",
@@ -528,18 +532,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
-    "title": "Project Hail Mary",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "3:15 pm",
-     "6:45 pm"
+     "4:00 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Sheep Detectives",

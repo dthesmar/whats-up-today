@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-20T19:32:05.850940",
+  "scraped_at": "2026-05-20T21:45:21.364825",
   "date": "2026-05-25"
  },
  "data": {
@@ -398,8 +398,10 @@
      "1:00 PM",
      "2:00 PM",
      "3:00 PM",
+     "3:30 PM",
      "4:00 PM",
      "6:00 PM",
+     "6:30 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -428,6 +430,7 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:55 PM",
      "1:55 PM",
      "4:25 PM",
      "6:55 PM"
@@ -444,8 +447,10 @@
     "synopsis": "",
     "showtimes": [
      "1:35 PM",
+     "3:15 PM",
      "4:15 PM",
      "5:15 PM",
+     "6:05 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -687,20 +692,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -713,6 +704,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/michael/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
