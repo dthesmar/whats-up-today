@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T15:59:21.715739",
+  "scraped_at": "2026-05-26T17:01:37.010278",
   "date": "2026-05-26"
  },
  "data": {
@@ -36,7 +36,6 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -86,7 +85,6 @@
      "9:15 PM",
      "6:45 PM",
      "10:00 PM",
-     "4:00 PM",
      "5:15 PM",
      "8:45 PM",
      "8:15 PM"
@@ -204,7 +202,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -219,7 +216,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:45 PM",
      "9:30 PM"
     ],
@@ -261,7 +257,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "7:00 PM",
      "9:00 PM",
      "10:15 PM"
@@ -289,9 +284,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -315,9 +308,7 @@
    {
     "title": "Godzilla Minus One (2023)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/godzilla-minus-one-2023-233115/movie-overview",
@@ -331,7 +322,6 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -345,7 +335,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:00 PM",
      "7:00 PM"
     ],
@@ -360,7 +349,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -374,7 +362,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "6:55 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -388,7 +375,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -402,7 +388,6 @@
     "title": "Under the Skin",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -484,11 +469,24 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
+     "7:00 pm",
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -501,7 +499,6 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:10 pm",
      "7:15 pm",
      "4:15 pm",
      "6:40 pm"
@@ -517,8 +514,8 @@
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "7:20 pm"
+     "7:20 pm",
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -531,7 +528,6 @@
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -540,19 +536,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Pressure",
@@ -712,19 +695,6 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Alice in Wonderland",
-    "synopsis": "Today, May 26 @ 4:00 pm: Due to unforeseen circumstances, this showtime has been cancelled. We apologize for any inconvenience.",
-    "showtimes": [
-     "4:00 pm CANCELED"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/alice-in-wonderland/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27124029/tyj0QztA0PkYo6XauifWjkx7UVi.jpg"
-   },
-   {
     "title": "Elements of Cinema: Shrek",
     "synopsis": "Today, May 26 @ 6:00 pm: Free Screening",
     "showtimes": [
@@ -794,7 +764,6 @@
     "showtimes": [
      "6:30 PM",
      "9:30 PM",
-     "4:00 PM",
      "6:00 PM",
      "7:00 PM",
      "9:00 PM",
@@ -846,7 +815,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "10:00 PM"
     ],
@@ -876,7 +844,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:45 PM"
     ],

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T16:01:24.939131",
+  "scraped_at": "2026-05-26T17:03:44.688716",
   "date": "2026-06-02"
  },
  "data": {
@@ -277,11 +277,24 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
+     "7:00 pm",
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -294,7 +307,6 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:10 pm",
      "7:15 pm",
      "4:15 pm",
      "6:40 pm"
@@ -310,8 +322,8 @@
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "7:20 pm"
+     "7:20 pm",
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -324,7 +336,6 @@
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -333,19 +344,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -444,19 +442,6 @@
    }
   ],
   "Brattle Theatre": [
-   {
-    "title": "Alice in Wonderland",
-    "synopsis": "Today, May 26 @ 4:00 pm: Due to unforeseen circumstances, this showtime has been cancelled. We apologize for any inconvenience.",
-    "showtimes": [
-     "4:00 pm CANCELED"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/alice-in-wonderland/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27124029/tyj0QztA0PkYo6XauifWjkx7UVi.jpg"
-   },
    {
     "title": "Elements of Cinema: Shrek",
     "synopsis": "Today, May 26 @ 6:00 pm: Free Screening",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T15:59:34.989868",
+  "scraped_at": "2026-05-26T17:01:51.902971",
   "date": "2026-05-28"
  },
  "data": {
@@ -573,6 +573,19 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -627,19 +640,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
    },
    {
     "title": "Pressure",
@@ -817,19 +817,6 @@
    }
   ],
   "Brattle Theatre": [
-   {
-    "title": "Alice in Wonderland",
-    "synopsis": "Today, May 26 @ 4:00 pm: Due to unforeseen circumstances, this showtime has been cancelled. We apologize for any inconvenience.",
-    "showtimes": [
-     "4:00 pm CANCELED"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/alice-in-wonderland/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27124029/tyj0QztA0PkYo6XauifWjkx7UVi.jpg"
-   },
    {
     "title": "Elements of Cinema: Shrek",
     "synopsis": "Today, May 26 @ 6:00 pm: Free Screening",
