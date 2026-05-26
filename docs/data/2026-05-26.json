@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T18:03:57.011246",
+  "scraped_at": "2026-05-26T19:06:09.323985",
   "date": "2026-05-26"
  },
  "data": {
@@ -8,9 +8,7 @@
    {
     "title": "Chand Mera Dil (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/chand-mera-dil-2026-245828/movie-overview",
@@ -63,7 +61,6 @@
     "title": "Saccharine (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -79,7 +76,6 @@
     "showtimes": [
      "7:15 PM",
      "10:30 PM",
-     "6:00 PM",
      "9:15 PM",
      "6:45 PM",
      "10:00 PM",
@@ -97,7 +93,6 @@
     "title": "Drishyam 3 (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -148,7 +143,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "7:00 PM",
      "10:30 PM"
     ],
@@ -198,7 +192,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -331,7 +324,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -396,19 +388,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
     "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
@@ -465,39 +444,11 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/project-hail-mary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm",
-     "4:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
      "7:15 pm",
-     "4:15 pm",
-     "6:40 pm"
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -511,7 +462,8 @@
     "synopsis": "",
     "showtimes": [
      "7:20 pm",
-     "4:15 pm"
+     "4:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -534,6 +486,34 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
    },
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
@@ -546,20 +526,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -729,9 +695,7 @@
    {
     "title": "Chand Mera Dil (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/chand-mera-dil-2026-245828/movie-overview",
@@ -757,9 +721,7 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:30 PM",
-     "6:00 PM",
      "7:00 PM",
      "9:00 PM",
      "9:45 PM"
@@ -810,7 +772,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -838,7 +799,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
      "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -852,7 +812,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -877,7 +836,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
