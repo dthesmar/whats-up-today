@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T07:24:31.837170",
+  "scraped_at": "2026-05-26T10:48:13.032295",
   "date": "2026-05-26"
  },
  "data": {
@@ -463,7 +463,8 @@
     "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "7:10 pm"
+     "7:10 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -476,7 +477,8 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm"
+     "7:15 pm",
+     "7:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -532,7 +534,9 @@
     "synopsis": "",
     "showtimes": [
      "4:10 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "4:15 pm",
+     "6:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -581,6 +585,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "5:10 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
