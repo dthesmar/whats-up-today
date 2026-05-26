@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T13:54:52.174582",
+  "scraped_at": "2026-05-26T14:57:03.811936",
   "date": "2026-05-26"
  },
  "data": {
@@ -51,7 +51,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:00 PM",
      "7:30 PM",
      "10:15 PM"
@@ -83,14 +82,12 @@
     "showtimes": [
      "7:15 PM",
      "10:30 PM",
-     "2:30 PM",
      "6:00 PM",
      "9:15 PM",
      "3:30 PM",
      "6:45 PM",
      "10:00 PM",
      "4:00 PM",
-     "1:45 PM",
      "5:15 PM",
      "8:45 PM",
      "8:15 PM"
@@ -199,9 +196,7 @@
    {
     "title": "Top Gun 40th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/top-gun-40th-anniversary-2026-245453/movie-overview",
@@ -580,6 +575,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -866,7 +875,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:00 PM",
      "7:30 PM",
      "10:00 PM"
