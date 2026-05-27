@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T19:07:39.115275",
+  "scraped_at": "2026-05-26T20:22:40.380424",
   "date": "2026-05-31"
  },
  "data": {
@@ -315,10 +315,109 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Backrooms (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:40 PM",
+     "4:20 PM",
+     "6:00 PM",
+     "7:00 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-05-31"
+    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 51 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
+   },
+   {
+    "title": "I Love Boosters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:50 PM",
+     "3:25 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:55 PM",
+     "3:50 PM",
+     "6:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:10 PM",
+     "4:00 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 PM",
+     "4:40 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:20 PM",
+     "4:05 PM",
+     "6:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "4:15 PM",
+     "7:05 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -396,6 +495,21 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:00 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -425,21 +539,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Breadwinner",
@@ -474,19 +573,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Babystar with director Joscha Bongard",
-    "synopsis": "Director Joscha Bongard joins us in-person for a post-film discussion, co-presented by the Goethe Institut Boston.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/babystar-director-joscha-bongard",
-    "rating": "",
-    "runtime": "1hr 38mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/babystar_still_2300x1000_2.jpg"
-   },
-   {
     "title": "Backrooms",
     "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
     "showtimes": [
@@ -502,6 +588,19 @@
     "rating": "",
     "runtime": "1hr 45mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "Babystar with director Joscha Bongard",
+    "synopsis": "Director Joscha Bongard joins us in-person for a post-film discussion, co-presented by the Goethe Institut Boston.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/babystar-director-joscha-bongard",
+    "rating": "",
+    "runtime": "1hr 38mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/babystar_still_2300x1000_2.jpg"
    },
    {
     "title": "I Love Boosters",
