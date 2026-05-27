@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-26T22:56:27.552720",
+  "scraped_at": "2026-05-27T10:25:20.441945",
   "date": "2026-06-02"
  },
  "data": {
@@ -742,30 +742,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Elements of Cinema: Shrek",
-    "synopsis": "Today, May 26 @ 6:00 pm: Free Screening",
+    "title": "Baby Boy",
+    "synopsis": "Director: John Singleton Run Time: 130 min. Format: DCP Release Year: 2001",
     "showtimes": [
-     "6:00 pm FREE"
+     "3:30 pm",
+     "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/elements-of-cinema-shrek/",
+    "url": "https://brattlefilm.org/movies/baby-boy/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/15120240/40Wtp7kMG6mZ4d5T1jfrd8qrvD4-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125430/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg"
    },
    {
-    "title": "Massacre at Central High",
-    "synopsis": "Director: Ren\u00e9 Daalder Run Time: 87 min. Release Year: 1976",
+    "title": "Native Son",
+    "synopsis": "Director: Pierre Chenal Run Time: 104 min. Format: DCP Release Year: 1951",
     "showtimes": [
-     "9:00 pm 35mm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/massacre-at-central-high/",
+    "url": "https://brattlefilm.org/movies/native-son/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/18120921/massacre-at-central-high-7-synapsefilms.com_.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125550/qFvg1M5zr0Q5xIXuAHbB5iUMDPu.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -794,6 +795,22 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
    },
    {
+    "title": "Pressure (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "5:20 PM",
+     "7:40 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/pressure-2026-244744/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244744/PRESSURE_OFFICIAL_POSTER.jpg"
+   },
+   {
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
@@ -808,6 +825,32 @@
     "rating": "PG",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243767/BW_Online_1400x2100_.jpg"
+   },
+   {
+    "title": "Blast (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/blast-2026-245937/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 2 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245937/blast.jpg"
+   },
+   {
+    "title": "Kattalan (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:50 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/kattalan-2026-245954/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245954/Kattalan.jpg"
    },
    {
     "title": "Passenger (2026)",
@@ -917,28 +960,13 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:30PM",
-     "3:45PM",
-     "7:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "1:00PM",
-     "4:15PM",
-     "6:15PM",
-     "7:15PM"
+     "12:45PM",
+     "3:45PM",
+     "6:00PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -953,11 +981,26 @@
     "showtimes": [
      "1:05PM",
      "4:05PM",
-     "7:00PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "1:15PM",
+     "4:15PM",
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -983,7 +1026,7 @@
     "showtimes": [
      "1:20PM",
      "4:05PM",
-     "6:45PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -998,7 +1041,7 @@
     "showtimes": [
      "1:40PM",
      "4:40PM",
-     "7:10PM"
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1011,7 +1054,7 @@
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
-     "2:30PM"
+     "2:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
