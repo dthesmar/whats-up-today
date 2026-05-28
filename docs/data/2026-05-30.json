@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-27T23:38:42.597946",
+  "scraped_at": "2026-05-28T08:18:21.340738",
   "date": "2026-05-30"
  },
  "data": {
@@ -623,23 +623,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "11:10am",
-     "1:40pm",
-     "4:10pm",
-     "7:00pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
     "title": "Pressure (2026)",
     "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
     "showtimes": [
@@ -655,6 +638,23 @@
     "rating": "",
     "runtime": "1hr 40mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "11:10am",
+     "1:40pm",
+     "4:10pm",
+     "7:00pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
    },
    {
     "title": "I Love Boosters",
@@ -721,31 +721,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Baby Boy",
-    "synopsis": "Director: John Singleton Run Time: 130 min. Format: DCP Release Year: 2001",
+    "title": "The Lavender Hill Mob",
+    "synopsis": "Director: Charles Crichton Run Time: 78 min. Format: DCP Release Year: 1951",
     "showtimes": [
-     "3:30 pm",
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/baby-boy/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125430/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg"
-   },
-   {
-    "title": "Native Son",
-    "synopsis": "Director: Pierre Chenal Run Time: 104 min. Format: DCP Release Year: 1951",
-    "showtimes": [
+     "4:00 pm",
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/native-son/",
+    "url": "https://brattlefilm.org/movies/the-lavender-hill-mob/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125550/qFvg1M5zr0Q5xIXuAHbB5iUMDPu.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125831/vPA53RF6clLSWlpoCLgYvmygiOl.jpg"
+   },
+   {
+    "title": "Josie and the Pussycats",
+    "synopsis": "Director: Deborah Kaplan, Harry Elfont Run Time: 98 min. Format: DCP Release Year: 2001",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/josie-and-the-pussycats/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/18121144/josie-and-the-pussycats-2c.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -981,108 +981,9 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:45PM",
-     "3:45PM",
-     "6:00PM",
-     "6:50PM"
-    ],
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:05PM",
-     "4:05PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "1:15PM",
-     "4:15PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:15PM",
-     "4:10PM",
-     "6:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:20PM",
-     "4:05PM",
-     "6:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "1:40PM",
-     "4:40PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "2:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "485 Arsenal Way, Watertown, MA"
    }
   ],
   "Classical Music (Boston)": [
@@ -1128,10 +1029,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Michelle Willson-Evil Gal...Early Set",
+    "synopsis": "A soulful touring queen. Michelle's jazz/soul chops have been developed from an amazing history of shows on stages across the U.S and Europe. Michelle is a legit presence in the Boston scene.",
+    "showtimes": [
+     "6:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [

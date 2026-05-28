@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-27T23:38:35.817495",
+  "scraped_at": "2026-05-28T08:17:58.878238",
   "date": "2026-05-29"
  },
  "data": {
@@ -730,19 +730,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Drag Me to Hell",
     "synopsis": "Even nice people can go to hell.",
     "showtimes": [
@@ -754,35 +741,48 @@
     "rating": "",
     "runtime": "1hr 39mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/5639_D068_00127R%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Baby Boy",
-    "synopsis": "Director: John Singleton Run Time: 130 min. Format: DCP Release Year: 2001",
+    "title": "The Lavender Hill Mob",
+    "synopsis": "Director: Charles Crichton Run Time: 78 min. Format: DCP Release Year: 1951",
     "showtimes": [
-     "3:30 pm",
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/baby-boy/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125430/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg"
-   },
-   {
-    "title": "Native Son",
-    "synopsis": "Director: Pierre Chenal Run Time: 104 min. Format: DCP Release Year: 1951",
-    "showtimes": [
+     "4:00 pm",
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/native-son/",
+    "url": "https://brattlefilm.org/movies/the-lavender-hill-mob/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125550/qFvg1M5zr0Q5xIXuAHbB5iUMDPu.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125831/vPA53RF6clLSWlpoCLgYvmygiOl.jpg"
+   },
+   {
+    "title": "Josie and the Pussycats",
+    "synopsis": "Director: Deborah Kaplan, Harry Elfont Run Time: 98 min. Format: DCP Release Year: 2001",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/josie-and-the-pussycats/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/18121144/josie-and-the-pussycats-2c.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1002,7 +1002,6 @@
     "showtimes": [
      "12:45PM",
      "3:45PM",
-     "6:00PM",
      "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1017,12 +1016,25 @@
     "synopsis": "",
     "showtimes": [
      "1:05PM",
-     "4:05PM",
-     "7:10PM"
+     "4:00PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1077,8 +1089,8 @@
     "synopsis": "",
     "showtimes": [
      "1:40PM",
-     "4:40PM",
-     "7:15PM"
+     "4:30PM",
+     "7:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1088,14 +1100,14 @@
     "poster": ""
    },
    {
-    "title": "Project Hail Mary",
+    "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "2:15PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""
