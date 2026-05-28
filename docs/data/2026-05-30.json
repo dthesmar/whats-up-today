@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T15:13:41.456365",
+  "scraped_at": "2026-05-28T16:14:43.738993",
   "date": "2026-05-30"
  },
  "data": {
@@ -33,7 +33,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 51 min",
+    "runtime": "1 hr 50 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
    },
    {
@@ -67,7 +67,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-breadwinner-2026-243767/movie-overview",
     "rating": "PG",
-    "runtime": "",
+    "runtime": "1 hr 35 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243767/BW_Online_1400x2100_.jpg"
    },
    {
@@ -331,7 +331,7 @@
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 51 min",
+    "runtime": "1 hr 50 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
    },
    {
@@ -545,20 +545,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -588,6 +574,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Breadwinner",
@@ -801,7 +801,7 @@
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 51 min",
+    "runtime": "1 hr 50 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
    },
    {
@@ -837,7 +837,7 @@
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-breadwinner-2026-243767/movie-overview",
     "rating": "PG",
-    "runtime": "",
+    "runtime": "1 hr 35 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243767/BW_Online_1400x2100_.jpg"
    },
    {
@@ -1155,6 +1155,19 @@
    }
   ],
   "The Beehive": [
+   {
+    "title": "Brunch Set with Steve Kirby Trio",
+    "synopsis": "A master musician, Steve Kirby's guitar playing is modern deep and beautiful. Low key and shimmering this trio is fascinating to watch and listen to.",
+    "showtimes": [
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
    {
     "title": "Michelle Willson-Evil Gal...Early Set",
     "synopsis": "A soulful touring queen. Michelle's jazz/soul chops have been developed from an amazing history of shows on stages across the U.S and Europe. Michelle is a legit presence in the Boston scene.",
