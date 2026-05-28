@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T08:18:21.340738",
+  "scraped_at": "2026-05-28T10:05:58.097417",
   "date": "2026-05-30"
  },
  "data": {
@@ -475,6 +475,22 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm",
+     "9:55 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
     "title": "The Silence of the Lambs in 4K",
     "synopsis": "",
     "showtimes": [
@@ -623,23 +639,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Pressure (2026)",
-    "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
-    "showtimes": [
-     "11:10am",
-     "1:30pm",
-     "3:40pm",
-     "7:15pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/pressure-2026",
-    "rating": "",
-    "runtime": "1hr 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
-   },
-   {
     "title": "Tuner",
     "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
     "showtimes": [
@@ -655,6 +654,23 @@
     "rating": "",
     "runtime": "1hr 49mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Pressure (2026)",
+    "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
+    "showtimes": [
+     "11:10am",
+     "1:30pm",
+     "3:40pm",
+     "7:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/pressure-2026",
+    "rating": "",
+    "runtime": "1hr 40mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -981,9 +997,120 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "title": "The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "12:45PM",
+     "3:45PM",
+     "6:50PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "4:00PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Project Hail Mary",
+    "synopsis": "",
+    "showtimes": [
+     "1:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "1:15PM",
+     "4:15PM",
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:15PM",
+     "4:10PM",
+     "6:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:20PM",
+     "4:05PM",
+     "6:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-devil-wears-prada-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "1:40PM",
+     "4:30PM",
+     "7:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "7:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
