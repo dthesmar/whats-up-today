@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T16:14:28.706546",
+  "scraped_at": "2026-05-28T17:15:32.612559",
   "date": "2026-05-28"
  },
  "data": {
@@ -27,7 +27,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -90,7 +89,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -122,9 +120,7 @@
      "10:30 PM",
      "6:00 PM",
      "9:15 PM",
-     "4:30 PM",
      "7:45 PM",
-     "4:00 PM",
      "5:15 PM",
      "8:45 PM",
      "6:45 PM",
@@ -141,7 +137,6 @@
     "title": "Tuner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -290,7 +285,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -331,9 +325,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -357,9 +349,7 @@
    {
     "title": "Godzilla Minus One (2023)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/godzilla-minus-one-2023-233115/movie-overview",
@@ -373,7 +363,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "5:10 PM",
      "7:15 PM",
      "7:40 PM"
@@ -389,7 +378,6 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -403,7 +391,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -417,7 +404,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -431,7 +417,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "6:55 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -445,7 +430,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -457,47 +441,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
    {
     "title": "I Love Boosters",
     "synopsis": "",
@@ -524,6 +467,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm",
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "Disclosure Day",
@@ -567,49 +537,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "7:20 pm",
-     "4:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/michael/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-5.jpg"
-   },
-   {
     "title": "Project Hail Mary",
     "synopsis": "",
     "showtimes": [
@@ -636,6 +563,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm",
+     "4:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm",
+     "4:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "The Breadwinner",
@@ -854,7 +810,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -884,7 +839,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -952,7 +906,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -966,7 +919,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -981,7 +933,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "9:45 PM"
     ],

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T16:14:36.487946",
+  "scraped_at": "2026-05-28T17:15:40.831331",
   "date": "2026-05-29"
  },
  "data": {
@@ -400,18 +400,18 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Obsession",
+    "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "4:40 pm",
-     "7:20 pm"
+     "5:30 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "Backrooms",
@@ -428,18 +428,18 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
-    "title": "I Love Boosters",
+    "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm",
-     "8:00 pm"
+     "4:40 pm",
+     "7:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "Disclosure Day",
@@ -458,6 +458,21 @@
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "6:45 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
    {
     "title": "The Sheep Detectives",
     "synopsis": "",
@@ -485,21 +500,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "6:45 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Breadwinner",
@@ -745,19 +745,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Drag Me to Hell",
     "synopsis": "Even nice people can go to hell.",
     "showtimes": [
@@ -769,6 +756,19 @@
     "rating": "",
     "runtime": "1hr 39mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/5639_D068_00127R%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -1256,7 +1256,7 @@
     "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
     "rating": "",
     "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/75/02/54_Listings.jpg?v=12"
+    "poster": "https://i.ticketweb.com//i/00/12/75/02/54_Listings.jpg?v=13"
    },
    {
     "title": "Kurt Rosenwinkel Quintet",
