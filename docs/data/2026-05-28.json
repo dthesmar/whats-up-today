@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T12:08:01.863589",
+  "scraped_at": "2026-05-28T13:09:04.019326",
   "date": "2026-05-28"
  },
  "data": {
@@ -83,7 +83,6 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -126,7 +125,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "7:15 PM",
      "10:30 PM",
      "2:30 PM",
@@ -181,9 +179,7 @@
    {
     "title": "In the Grey (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/in-the-grey-2026-244801/movie-overview",
@@ -208,7 +204,6 @@
     "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -222,7 +217,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "3:15 PM",
      "5:45 PM",
      "7:15 PM",
@@ -292,7 +286,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -307,9 +300,7 @@
    {
     "title": "Hokum (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
@@ -337,7 +328,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:15 PM",
      "6:15 PM",
      "9:30 PM"
@@ -366,7 +356,6 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -878,9 +867,10 @@
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -935,7 +925,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "2:45 PM",
      "5:00 PM",
      "7:20 PM",
@@ -952,7 +941,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "1:00 PM",
      "3:30 PM",
      "6:30 PM",
@@ -1010,7 +998,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "1:00 PM",
      "4:00 PM",
      "6:30 PM",
@@ -1027,7 +1014,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "4:00 PM",
      "7:00 PM",
      "9:45 PM"
@@ -1043,7 +1029,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:30 PM",
      "6:30 PM",
      "9:30 PM"
@@ -1058,9 +1043,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",

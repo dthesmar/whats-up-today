@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T12:08:09.513809",
+  "scraped_at": "2026-05-28T13:09:11.436001",
   "date": "2026-05-29"
  },
  "data": {
@@ -745,19 +745,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Drag Me to Hell",
     "synopsis": "Even nice people can go to hell.",
     "showtimes": [
@@ -769,6 +756,19 @@
     "rating": "",
     "runtime": "1hr 39mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/5639_D068_00127R%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
