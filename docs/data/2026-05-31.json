@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-29T00:06:12.808746",
+  "scraped_at": "2026-05-29T10:00:49.704976",
   "date": "2026-05-31"
  },
  "data": {
@@ -714,10 +714,31 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Alice in Wonderland",
+    "synopsis": "Director: Clyde Geronimi, Hamilton Luske, Wilfred Jackson Run Time: 75 min. Format: 4K DCP Release Year: 1951",
+    "showtimes": [
+     "4:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/alice-in-wonderland/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27124029/tyj0QztA0PkYo6XauifWjkx7UVi.jpg"
+   },
+   {
+    "title": "Kontinental '25",
+    "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
+    "showtimes": [
+     "6:00 pm Premiere",
+     "8:30 pm Premiere"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kontinental-25/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/14114526/photo-kontinental-1-2048x1152-1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -927,55 +948,13 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:45PM",
-     "3:45PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Michael",
-    "synopsis": "",
-    "showtimes": [
-     "1:05PM",
-     "4:00PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Project Hail Mary",
-    "synopsis": "",
-    "showtimes": [
-     "1:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/project-hail-mary",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "CWX The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "1:15PM",
-     "4:15PM",
-     "7:20PM"
+     "12:20PM",
+     "3:20PM",
+     "6:20PM",
+     "9:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -988,13 +967,29 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "1:15PM",
-     "4:10PM",
-     "6:40PM"
+     "1:00PM",
+     "4:15PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Michael",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "3:55PM",
+     "6:55PM",
+     "9:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/michael",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1005,7 +1000,8 @@
     "showtimes": [
      "1:20PM",
      "4:05PM",
-     "6:55PM"
+     "6:45PM",
+     "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1015,12 +1011,30 @@
     "poster": ""
    },
    {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "1:30PM",
+     "4:35PM",
+     "7:05PM",
+     "9:20PM",
+     "9:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
      "1:40PM",
-     "4:30PM",
-     "7:25PM"
+     "4:40PM",
+     "7:10PM",
+     "9:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1030,14 +1044,16 @@
     "poster": ""
    },
    {
-    "title": "Backrooms",
+    "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "7:10PM"
+     "2:00PM",
+     "5:10PM",
+     "8:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
     "rating": "",
     "runtime": "",
     "poster": ""
