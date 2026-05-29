@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-29T18:08:34.519638",
+  "scraped_at": "2026-05-29T19:09:37.315029",
   "date": "2026-05-30"
  },
  "data": {
@@ -584,35 +584,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -657,6 +628,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -678,23 +678,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "11:10am",
-     "1:40pm",
-     "4:10pm",
-     "7:00pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
     "title": "Pressure (2026)",
     "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
     "showtimes": [
@@ -710,6 +693,23 @@
     "rating": "",
     "runtime": "1hr 40mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "11:10am",
+     "1:40pm",
+     "4:10pm",
+     "7:00pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
    },
    {
     "title": "I Love Boosters",
