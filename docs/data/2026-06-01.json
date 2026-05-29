@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T19:18:12.234157",
+  "scraped_at": "2026-05-28T20:19:13.401809",
   "date": "2026-06-01"
  },
  "data": {
@@ -420,6 +420,19 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
@@ -432,19 +445,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "8:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -553,6 +553,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-28.jpg"
+   },
+   {
+    "title": "Blue Velvet",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/blue-velvet/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-44.jpg"
    },
    {
     "title": "The Adventures of Prince Achmed",
@@ -687,20 +700,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -713,6 +712,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "The Sheep Detectives",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T19:17:50.438878",
+  "scraped_at": "2026-05-28T20:18:50.886715",
   "date": "2026-05-29"
  },
  "data": {
@@ -400,20 +400,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -426,6 +412,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -459,17 +459,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm"
+     "4:00 pm",
+     "6:45 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -487,19 +489,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
+    "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "6:45 pm",
-     "7:00 pm"
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Breadwinner",
