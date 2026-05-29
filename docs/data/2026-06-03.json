@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T22:32:02.358293",
+  "scraped_at": "2026-05-29T00:06:31.982082",
   "date": "2026-06-03"
  },
  "data": {
@@ -49,8 +49,10 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "10:15 PM",
+     "12:45 PM",
+     "7:45 PM",
+     "10:30 PM",
      "12:00 PM",
      "1:30 PM",
      "2:15 PM",
@@ -58,9 +60,7 @@
      "5:00 PM",
      "6:00 PM",
      "9:00 PM",
-     "9:15 PM",
-     "10:30 PM",
-     "7:45 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -73,10 +73,10 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:15 PM",
      "2:00 PM",
      "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -89,10 +89,10 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
+     "9:45 PM",
      "1:15 PM",
      "4:15 PM",
-     "7:00 PM",
-     "9:45 PM"
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -119,10 +119,10 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:15 PM",
      "1:45 PM",
      "4:30 PM",
-     "6:15 PM",
-     "10:15 PM"
+     "6:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -135,9 +135,9 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:30 PM",
      "12:45 PM",
      "7:15 PM",
-     "10:30 PM",
      "3:30 PM",
      "1:00 PM",
      "4:15 PM",
@@ -189,10 +189,10 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:15 PM",
      "12:15 PM",
      "3:15 PM",
-     "7:15 PM",
-     "10:15 PM"
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -205,9 +205,9 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:30 PM",
      "1:30 PM",
-     "4:00 PM",
-     "10:30 PM"
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -249,10 +249,10 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
+     "9:45 PM",
      "12:15 PM",
      "4:15 PM",
-     "7:15 PM",
-     "9:45 PM"
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -265,10 +265,10 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
+     "9:30 PM",
      "12:30 PM",
      "4:30 PM",
-     "6:15 PM",
-     "9:30 PM"
+     "6:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -695,31 +695,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Lavender Hill Mob",
-    "synopsis": "Director: Charles Crichton Run Time: 78 min. Format: DCP Release Year: 1951",
-    "showtimes": [
-     "4:00 pm",
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-lavender-hill-mob/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125831/vPA53RF6clLSWlpoCLgYvmygiOl.jpg"
-   },
-   {
-    "title": "Josie and the Pussycats",
-    "synopsis": "Director: Deborah Kaplan, Harry Elfont Run Time: 98 min. Format: DCP Release Year: 2001",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/josie-and-the-pussycats/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/18121144/josie-and-the-pussycats-2c.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

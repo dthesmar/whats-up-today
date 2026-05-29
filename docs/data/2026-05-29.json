@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-28T22:31:29.866618",
+  "scraped_at": "2026-05-29T00:05:59.908636",
   "date": "2026-05-29"
  },
  "data": {
@@ -773,31 +773,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Lavender Hill Mob",
-    "synopsis": "Director: Charles Crichton Run Time: 78 min. Format: DCP Release Year: 1951",
-    "showtimes": [
-     "4:00 pm",
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-lavender-hill-mob/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27125831/vPA53RF6clLSWlpoCLgYvmygiOl.jpg"
-   },
-   {
-    "title": "Josie and the Pussycats",
-    "synopsis": "Director: Deborah Kaplan, Harry Elfont Run Time: 98 min. Format: DCP Release Year: 2001",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/josie-and-the-pussycats/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/18121144/josie-and-the-pussycats-2c.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
