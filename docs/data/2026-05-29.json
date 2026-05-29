@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-29T17:07:17.708347",
+  "scraped_at": "2026-05-29T18:08:24.738077",
   "date": "2026-05-29"
  },
  "data": {
@@ -9,8 +9,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
-     "5:30 PM",
      "6:15 PM",
      "7:00 PM",
      "7:45 PM",
@@ -45,7 +43,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -91,7 +88,6 @@
      "8:00 PM",
      "6:45 PM",
      "10:00 PM",
-     "5:30 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -160,7 +156,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -226,9 +221,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -351,20 +344,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -391,6 +370,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
@@ -407,20 +399,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Pressure",
-    "synopsis": "",
-    "showtimes": [
-     "5:10 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
    {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
@@ -460,6 +438,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "The Natural",
@@ -677,19 +668,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Drag Me to Hell",
     "synopsis": "Even nice people can go to hell.",
     "showtimes": [
@@ -701,6 +679,19 @@
     "rating": "",
     "runtime": "1hr 39mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/5639_D068_00127R%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -745,7 +736,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:40 PM",
      "10:05 PM"
     ],
@@ -774,7 +764,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "7:45 PM",
      "10:00 PM"
     ],
@@ -815,7 +804,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:20 PM",
      "9:45 PM"
     ],
@@ -868,7 +856,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:40 PM",
      "10:05 PM"
     ],
@@ -1168,7 +1155,7 @@
     "title": "Kurt Rosenwinkel Quintet",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM (Sold Out)"
+     "9:00 PM"
     ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
