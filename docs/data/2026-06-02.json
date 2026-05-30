@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T00:27:57.436437",
+  "scraped_at": "2026-05-30T08:13:02.151397",
   "date": "2026-06-02"
  },
  "data": {
@@ -768,6 +768,32 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "All About Eve",
+    "synopsis": "Director: Joseph L. Mankiewicz Run Time: 139 min. Format: 35mm Film Release Year: 1950",
+    "showtimes": [
+     "1:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/all-about-eve/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13150331/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
+   },
+   {
+    "title": "Don't Bother to Knock",
+    "synopsis": "Director: Roy Ward Baker Run Time: 76 min. Format: DCP Release Year: 1952",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/dont-bother-to-knock/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13151359/smMrZPwFrKLuAN7eaYt4FLelZLe-scaled.jpg"
+   },
+   {
     "title": "Kontinental '25",
     "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
     "showtimes": [
@@ -797,6 +823,7 @@
     "showtimes": [
      "3:00 PM",
      "5:20 PM",
+     "6:50 PM",
      "7:45 PM",
      "10:10 PM"
     ],
@@ -851,19 +878,6 @@
     "rating": "Not Rated",
     "runtime": "3 hr 2 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245937/blast.jpg"
-   },
-   {
-    "title": "Kattalan (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:50 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/kattalan-2026-245954/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245954/Kattalan.jpg"
    },
    {
     "title": "Passenger (2026)",
@@ -973,44 +987,14 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:20PM",
-     "3:20PM",
-     "6:20PM",
-     "9:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:00PM",
-     "4:15PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "1:05PM",
-     "3:55PM",
-     "6:55PM",
-     "9:25PM"
+     "10:35AM",
+     "1:25PM",
+     "4:15PM",
+     "7:05PM",
+     "9:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1023,9 +1007,10 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
+     "10:40AM",
      "1:20PM",
-     "4:05PM",
-     "6:45PM",
+     "4:00PM",
+     "6:40PM",
      "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1036,14 +1021,44 @@
     "poster": ""
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "1:55PM",
+     "4:25PM",
+     "6:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sensory Showing - The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/sensory-showing---the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "1:30PM",
-     "4:35PM",
-     "7:05PM",
-     "9:20PM",
-     "9:45PM"
+     "11:10AM",
+     "1:45PM",
+     "4:30PM",
+     "7:00PM",
+     "9:25PM",
+     "9:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1056,7 +1071,8 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "1:40PM",
+     "11:20AM",
+     "2:05PM",
      "4:40PM",
      "7:10PM",
      "9:40PM"
@@ -1069,10 +1085,26 @@
     "poster": ""
    },
    {
+    "title": "CWX The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "11:45AM",
+     "3:15PM",
+     "6:20PM",
+     "9:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "2:00PM",
+     "1:50PM",
      "5:10PM",
      "8:15PM"
     ],
