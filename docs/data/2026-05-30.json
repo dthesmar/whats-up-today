@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T08:12:39.223291",
+  "scraped_at": "2026-05-30T11:21:30.726003",
   "date": "2026-05-30"
  },
  "data": {
@@ -430,30 +430,390 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "5:00 pm",
+     "7:45 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 pm",
+     "4:40 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:30 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
+    "title": "Carrie in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carrie-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-43.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm",
+     "9:55 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "The Silence of the Lambs in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-silence-of-the-lambs/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-33.jpg"
+   },
+   {
+    "title": "The Thing in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-thing-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-28.jpg"
+   },
+   {
+    "title": "Blue Velvet",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/blue-velvet/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-44.jpg"
+   },
+   {
+    "title": "Bottle Rocket",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bottle-rocket/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-45.jpg"
+   },
+   {
+    "title": "The Hateful Eight in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Hateful-8-600x900.jpeg"
+   },
+   {
+    "title": "Carnage in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Carnage-600x900.jpeg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Read timed out. (read timeout=15)",
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "12:10 pm",
+     "2:40 pm",
+     "6:40 pm",
+     "7:15 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "4:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "5:10 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "11:00am",
+     "1:20pm",
+     "4:00pm",
+     "6:45pm",
+     "9:30pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "11:10am",
+     "1:40pm",
+     "4:10pm",
+     "7:00pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Pressure (2026)",
+    "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
+    "showtimes": [
+     "11:10am",
+     "1:30pm",
+     "3:40pm",
+     "7:15pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/pressure-2026",
+    "rating": "",
+    "runtime": "1hr 40mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "Welcome to a new world of style.",
+    "showtimes": [
+     "11:30am",
+     "1:00pm",
+     "3:30pm",
+     "6:15pm",
+     "8:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/i-love-boosters",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "showtimes": [
+     "11:45am",
+     "2:15pm",
+     "4:45pm",
+     "7:30pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
+    "showtimes": [
+     "2:00pm",
+     "4:30pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
+    "rating": "",
+    "runtime": "2hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
+   },
+   {
+    "title": "Send Help",
+    "synopsis": "She's the boss now.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/send-help",
+    "rating": "",
+    "runtime": "1hr 54mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SH-TF-015.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
+    "title": "All About Eve",
+    "synopsis": "Director: Joseph L. Mankiewicz Run Time: 139 min. Format: 35mm Film Release Year: 1950",
+    "showtimes": [
+     "1:00 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/all-about-eve/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13150331/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
+   },
+   {
+    "title": "Don't Bother to Knock",
+    "synopsis": "Director: Roy Ward Baker Run Time: 76 min. Format: DCP Release Year: 1952",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/dont-bother-to-knock/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13151359/smMrZPwFrKLuAN7eaYt4FLelZLe-scaled.jpg"
+   },
+   {
+    "title": "Kontinental '25",
+    "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
+    "showtimes": [
+     "6:00 pm Premiere",
+     "8:30 pm Premiere"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kontinental-25/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/14114526/photo-kontinental-1-2048x1152-1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -482,7 +842,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:25 PM",
      "2:50 PM",
      "5:15 PM",
@@ -501,8 +860,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:10 AM",
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -519,7 +876,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "12:35 PM",
      "3:00 PM",
      "5:30 PM",
@@ -550,7 +906,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "12:30 PM",
      "2:45 PM",
      "5:00 PM",
@@ -568,7 +923,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "1:15 PM",
      "4:10 PM",
      "7:00 PM",
@@ -611,7 +965,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:30 PM",
      "3:00 PM",
      "5:15 PM",
@@ -629,7 +982,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "1:00 PM",
      "4:00 PM",
      "7:00 PM",
@@ -646,7 +998,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "1:00 PM",
      "4:00 PM",
      "7:15 PM",
@@ -808,9 +1159,43 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "Boston Piano Amateurs \u2013 Boston International Piano Competition",
+    "synopsis": "9:30 a.m. Saturday 5/30 \u2014 Piano Festival 1:00 a.m. Semifinals (20 pianists perform)",
+    "showtimes": [
+     "9:30 am"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Pickman Hall, Longy, in Cambridge",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Baroque (Various) \u2013 Sounds of Turkey and the Ottoman Empire,",
+    "synopsis": "Multicultural Arts Center, CambridgeThe world premiere of a commission by celebrated Turkish composer Mehmet Ali Sanl\u0131kol and will also include works from the Ottoman period. The X-tet will be joined by members of Sanl\u0131kol\u2019s ensemble, D\u00dcNYA.",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in Various",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston New Music Initiative (SMS) \u2013 The Boston Six Reimagined",
+    "synopsis": "Highlights include a selection of micro-commissions \u2014 1-2 minute pieces written just for this event \u2014 along with the winners of the 13th Annual Commissioning Competition (Lingbo Ma\u2019s Three Moods of a City) and the Historically Excluded Calls for Scores (Nicole Knorr\u2019s waiting to speak; Cara Haxo\u2019s hold/release; Roydon \u2026",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "1060 Broadway Suite C101B, in Somerville",
+    "url": "https://www.bostonnewmusic.org/NEL2026",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
