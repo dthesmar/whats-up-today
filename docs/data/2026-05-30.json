@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T16:14:45.610261",
+  "scraped_at": "2026-05-30T17:24:37.851012",
   "date": "2026-05-30"
  },
  "data": {
@@ -9,8 +9,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
-     "5:00 PM",
      "5:30 PM",
      "6:15 PM",
      "7:00 PM",
@@ -32,8 +30,8 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -46,7 +44,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -87,9 +84,7 @@
      "10:30 PM",
      "6:00 PM",
      "9:15 PM",
-     "4:45 PM",
      "8:00 PM",
-     "4:00 PM",
      "6:45 PM",
      "10:00 PM",
      "5:15 PM"
@@ -105,7 +100,6 @@
     "title": "Tuner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -133,7 +127,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:00 PM",
      "7:00 PM",
      "9:15 PM",
@@ -281,7 +274,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "7:00 PM",
      "8:15 PM",
      "9:30 PM"
@@ -324,7 +316,6 @@
     "title": "Tuner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:50 PM",
      "9:40 PM"
     ],
@@ -339,7 +330,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:15 PM",
      "9:50 PM"
     ],
@@ -354,7 +344,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:05 PM",
      "6:45 PM",
      "9:15 PM"
     ],
@@ -369,7 +358,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:05 PM",
      "9:45 PM"
     ],
@@ -383,10 +371,23 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "4:40 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -400,7 +401,6 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -409,20 +409,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "Carrie in 35mm",
@@ -534,34 +520,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
-    "title": "Pressure",
-    "synopsis": "",
-    "showtimes": [
-     "5:10 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -589,6 +547,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -600,6 +571,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -771,9 +755,7 @@
    {
     "title": "Pressure Cooker (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/pressure-cooker-2026-245900/movie-overview",
@@ -801,7 +783,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -844,7 +825,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:15 PM",
      "9:30 PM"
     ],
@@ -859,7 +839,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "7:00 PM",
      "9:50 PM"
     ],
@@ -913,7 +892,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -928,7 +906,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:15 PM"
     ],

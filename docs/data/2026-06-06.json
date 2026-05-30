@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T16:22:56.003366",
+  "scraped_at": "2026-05-30T17:32:18.134428",
   "date": "2026-06-06"
  },
  "data": {
@@ -173,7 +173,6 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "4:40 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -187,7 +186,6 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -201,7 +199,6 @@
     "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm",
      "8:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -321,34 +318,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
-    "title": "Pressure",
-    "synopsis": "",
-    "showtimes": [
-     "5:10 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -376,6 +345,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -387,6 +369,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -628,6 +623,19 @@
    }
   ],
   "Classical Music (Boston)": [
+   {
+    "title": "Multiverse Concert Series (HSA) \u2013 Chemistry in the Universe",
+    "synopsis": "inti figgis-vizueta: Form the Fabric David Ibbett: Sacrificial Bond Jessie Cox: Selections from Enter the Impossible Cosmos David Ibbett: Crab Nebula Wenbin Lyu: Galactic Playgroundwith musicians from Dinosaur Annex$25 suggested",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Harvard Smithsonian Center for Astrophysics, Phillips Auditorium, 60 Garden St., in Cambrdige",
+    "url": "https://events.humanitix.com/chemistryintheuniverse",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
    {
     "title": "Les Bostanades (CC) \u2013 Bach, Handel, and Muffat",
     "synopsis": "J.S. Bach: Harpsichord Concerto in A Major, BWV 1055 J.S. Bach: Brandenburg Concerto No.3 in G Major, B G. Muffat: \u201cArmonico Tributo\u201d Sonata No.5 in G Major G.F. Handel: arias and scenes with Zachary Wilder, tenor",
