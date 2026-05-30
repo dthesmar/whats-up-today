@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-29T20:11:02.807509",
+  "scraped_at": "2026-05-29T21:14:46.275439",
   "date": "2026-06-02"
  },
  "data": {
@@ -24,9 +24,6 @@
     "showtimes": [
      "12:00 PM",
      "6:30 PM",
-     "9:15 PM",
-     "10:00 PM",
-     "10:30 PM",
      "1:00 PM",
      "1:45 PM",
      "2:15 PM",
@@ -36,7 +33,10 @@
      "5:45 PM",
      "7:00 PM",
      "7:45 PM",
-     "8:30 PM"
+     "8:30 PM",
+     "9:15 PM",
+     "10:00 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -49,10 +49,10 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
      "2:00 PM",
      "4:45 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -65,10 +65,10 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:45 PM",
      "1:30 PM",
      "4:15 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -94,10 +94,10 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
      "12:15 PM",
      "4:30 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -110,19 +110,19 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "12:45 PM",
      "7:15 PM",
+     "10:30 PM",
      "3:00 PM",
      "9:15 PM",
      "1:00 PM",
      "4:15 PM",
      "7:30 PM",
      "4:00 PM",
-     "10:00 PM",
      "12:00 PM",
      "3:30 PM",
      "6:45 PM",
+     "10:00 PM",
      "2:00 PM",
      "5:15 PM",
      "8:30 PM"
@@ -167,10 +167,10 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
      "12:15 PM",
      "3:15 PM",
-     "7:15 PM"
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -197,10 +197,10 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:15 PM",
      "12:15 PM",
      "3:15 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -226,10 +226,10 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
      "12:15 PM",
      "4:15 PM",
-     "7:15 PM"
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -242,10 +242,10 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:30 PM",
      "12:45 PM",
      "4:00 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-29T20:10:34.070862",
+  "scraped_at": "2026-05-29T21:14:17.803900",
   "date": "2026-05-29"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:15 PM",
      "9:15 PM",
      "10:00 PM",
      "10:30 PM",
@@ -78,9 +77,7 @@
     "showtimes": [
      "10:30 PM",
      "9:15 PM",
-     "8:00 PM",
-     "10:00 PM",
-     "8:45 PM"
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -105,9 +102,7 @@
    {
     "title": "Drishyam 3 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
@@ -143,7 +138,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -231,7 +225,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:30 PM",
      "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -539,19 +532,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Drag Me to Hell",
     "synopsis": "Even nice people can go to hell.",
     "showtimes": [
@@ -563,6 +543,19 @@
     "rating": "",
     "runtime": "1hr 39mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/5639_D068_00127R%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -1014,7 +1007,7 @@
     "title": "Kurt Rosenwinkel Quintet",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM (Sold Out)"
+     "9:00 PM"
     ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
