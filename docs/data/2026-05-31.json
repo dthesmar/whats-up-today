@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T11:21:37.462790",
+  "scraped_at": "2026-05-30T14:11:58.773994",
   "date": "2026-05-31"
  },
  "data": {
@@ -140,9 +140,7 @@
      "8:30 PM",
      "4:00 PM",
      "12:00 PM",
-     "3:30 PM",
-     "6:45 PM",
-     "10:00 PM",
+     "9:30 PM",
      "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -187,7 +185,9 @@
     "showtimes": [
      "11:00 AM",
      "1:45 PM",
+     "3:30 PM",
      "4:15 PM",
+     "6:30 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -422,19 +422,19 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Backrooms",
+    "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
-     "5:00 pm",
-     "7:45 pm"
+     "2:45 pm",
+     "5:30 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "Obsession",
@@ -452,19 +452,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
-    "title": "I Love Boosters",
+    "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "2:45 pm",
-     "5:30 pm",
-     "8:00 pm"
+     "2:00 pm",
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
     "title": "Stolen Kingdom with Q&A",
@@ -525,21 +525,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -553,6 +538,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    },
    {
     "title": "Pressure",
@@ -570,35 +570,22 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
-    "title": "The Breadwinner",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm"
+     "12:30 pm",
+     "4:00 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
-   {
-    "title": "Babystar with director Joscha Bongard",
-    "synopsis": "Director Joscha Bongard joins us in-person for a post-film discussion, co-presented by the Goethe Institut Boston.",
-    "showtimes": [
-     "11:00am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/babystar-director-joscha-bongard",
-    "rating": "",
-    "runtime": "1hr 38mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/babystar_still_2300x1000_2.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
@@ -615,6 +602,19 @@
     "rating": "",
     "runtime": "1hr 45mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "Babystar with director Joscha Bongard",
+    "synopsis": "Director Joscha Bongard joins us in-person for a post-film discussion, co-presented by the Goethe Institut Boston.",
+    "showtimes": [
+     "11:00am"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/babystar-director-joscha-bongard",
+    "rating": "",
+    "runtime": "1hr 38mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/babystar_still_2300x1000_2.jpg"
    },
    {
     "title": "I Love Boosters",
