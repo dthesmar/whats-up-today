@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T00:28:29.210336",
-  "date": "2026-06-04"
+  "scraped_at": "2026-05-30T00:28:44.078009",
+  "date": "2026-06-06"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "title": "Another World (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -19,13 +19,27 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245735/AWRLD_Poster_27x39-5_WEB_Dated.jpg"
    },
    {
+    "title": "Hai Jawani Toh Ishq Hona Hai (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hai-jawani-toh-ishq-hona-hai-2026-245837/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 18 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245837/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai.jpg"
+   },
+   {
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
+     "4:15 PM",
+     "11:30 AM",
      "2:45 PM",
-     "7:15 PM",
-     "10:30 PM"
+     "6:00 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -38,9 +52,11 @@
     "title": "Power Ballad (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
-     "7:15 PM",
-     "10:00 PM"
+     "11:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -53,12 +69,14 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
-     "10:30 PM",
-     "2:00 PM",
-     "4:45 PM",
-     "6:00 PM",
-     "9:00 PM"
+     "12:30 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "9:30 PM",
+     "12:00 PM",
+     "5:30 PM",
+     "8:30 PM",
+     "2:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -68,45 +86,15 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/scarymovie_presale.jpg"
    },
    {
-    "title": "Peddi (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/peddi-2026-244813/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 56 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244813/Peddi%20-%2027x40.jpg"
-   },
-   {
-    "title": "Scary Movie: Fan Event (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/scary-movie-fan-event-2026-245839/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245839/SM6_DOM_Online_Teaser_1-Sheet_11_FIN32_FAN_EVENT_V2.jpg"
-   },
-   {
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
-     "1:15 PM",
-     "2:15 PM",
+     "11:00 AM",
+     "1:45 PM",
      "4:00 PM",
      "5:00 PM",
-     "6:00 PM",
      "7:00 PM",
-     "7:45 PM",
-     "9:45 PM",
-     "10:30 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -116,47 +104,16 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/digital_circus_presale1.jpg"
    },
    {
-    "title": "Pressure (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:15 PM",
-     "3:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/pressure-2026-244744/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 40 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244744/PRESSURE_OFFICIAL_POSTER.jpg"
-   },
-   {
-    "title": "The Breadwinner (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM",
-     "7:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-breadwinner-2026-243767/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243767/BW_Online_1400x2100_.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "12:00 PM",
-     "1:00 PM",
-     "4:15 PM",
-     "4:00 PM",
-     "3:30 PM",
-     "6:45 PM",
+     "3:15 PM",
+     "6:30 PM",
      "10:00 PM",
-     "5:00 PM",
-     "8:15 PM"
+     "1:00 PM",
+     "4:30 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -164,6 +121,32 @@
     "rating": "PG13",
     "runtime": "2 hr 12 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Milk",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/milk-113554/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 8 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/113554/milk-ps-1.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -171,8 +154,10 @@
     "title": "Power Ballad (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
-     "7:10 PM"
+     "2:10 PM",
+     "4:40 PM",
+     "7:10 PM",
+     "9:45 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -180,76 +165,6 @@
     "rating": "R",
     "runtime": "1 hr 38 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244979/powerballad_presale.jpg"
-   },
-   {
-    "title": "Backrooms (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 PM",
-     "7:00 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
-   },
-   {
-    "title": "Tuner (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM",
-     "6:50 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 49 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 PM",
-     "7:15 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
-   },
-   {
-    "title": "The Sheep Detectives (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:05 PM",
-     "6:45 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 49 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 PM",
-     "7:05 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -257,6 +172,7 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
+     "2:00 pm",
      "5:00 pm",
      "7:45 pm"
     ],
@@ -271,6 +187,8 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
+     "2:10 pm",
+     "4:40 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -284,7 +202,9 @@
     "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm"
+     "2:45 pm",
+     "5:30 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -294,10 +214,26 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
+    "title": "Carrie in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carrie-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-43.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm",
+     "9:55 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -307,30 +243,82 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
-    "title": "From Dusk Till Dawn",
+    "title": "The Silence of the Lambs in 4K",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/from-dusk-till-dawn/",
+    "url": "https://www.somervilletheatre.com/production/the-silence-of-the-lambs/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-3.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-33.jpg"
    },
    {
-    "title": "Shaun of the Dead",
+    "title": "The Thing in 4K",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "9:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/shaun-of-the-dead/",
+    "url": "https://www.somervilletheatre.com/production/the-thing-in-4k/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-28.jpg"
+   },
+   {
+    "title": "Blue Velvet",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/blue-velvet/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-44.jpg"
+   },
+   {
+    "title": "Bottle Rocket",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bottle-rocket/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-45.jpg"
+   },
+   {
+    "title": "The Hateful Eight in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Hateful-8-600x900.jpeg"
+   },
+   {
+    "title": "Carnage in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Carnage-600x900.jpeg"
    }
   ],
   "Capitol Theatre": [
@@ -338,7 +326,9 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
+     "12:10 pm",
+     "2:40 pm",
+     "6:40 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -352,7 +342,7 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
+     "12:30 pm",
      "6:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -366,6 +356,7 @@
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
+     "12:45 pm",
      "4:00 pm",
      "7:10 pm"
     ],
@@ -380,6 +371,7 @@
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
+     "1:00 pm",
      "5:10 pm",
      "7:30 pm"
     ],
@@ -394,6 +386,7 @@
     "title": "The Breadwinner",
     "synopsis": "",
     "showtimes": [
+     "1:30 pm",
      "4:30 pm",
      "7:00 pm"
     ],
@@ -407,122 +400,43 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Backrooms",
-    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "title": "It\u2019s Such a Beautiful Day",
+    "synopsis": "Screens with Don Hertzfeldt's short films Paper Trail and World of Tomorrow!",
     "showtimes": [
-     "12:45pm",
-     "3:15pm",
-     "7:30pm",
-     "10:05pm"
+     "2:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms",
+    "url": "https://www.coolidge.org/films/its-such-beautiful-day",
     "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/its-such-a-beautiful-day-0%20%281%29.jpg"
    },
    {
-    "title": "I Love Boosters",
-    "synopsis": "Welcome to a new world of style.",
+    "title": "Grave of the Fireflies",
+    "synopsis": "A singular work of art from Academy Award-nominated director and Studio Ghibli co-founder Isao Takahata.",
     "showtimes": [
-     "1:00pm",
-     "3:45pm",
-     "8:45pm"
+     "4:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-love-boosters",
+    "url": "https://www.coolidge.org/films/grave-fireflies",
     "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/GHI_GraveOfTheFireflies_Select1.jpg"
    },
    {
-    "title": "Pressure (2026)",
-    "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
+    "title": "A History of Violence",
+    "synopsis": "Tom Stall had the perfect life... until he became a hero.",
     "showtimes": [
-     "1:20pm",
-     "3:30pm",
-     "6:15pm",
-     "9:30pm"
+     "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/pressure-2026",
+    "url": "https://www.coolidge.org/films/history-violence",
     "rating": "",
-    "runtime": "1hr 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
-    "showtimes": [
-     "1:30pm",
-     "4:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "1:50pm",
-     "4:45pm",
-     "6:45pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "The eagerly awaited sequel to the 2006 phenomenon that defined a generation.",
-    "showtimes": [
-     "2:00pm",
-     "4:30pm",
-     "7:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/devil-wears-prada-2",
-    "rating": "",
-    "runtime": "2hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2-TDWP2-02725_R.jpg"
-   },
-   {
-    "title": "Amadeus",
-    "synopsis": "Featuring a special pre-show performance by students of the Brookline Music School!",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/amadeus",
-    "rating": "",
-    "runtime": "2hrs 40mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/959%20copy.jpg"
-   },
-   {
-    "title": "River\u2019s Edge",
-    "synopsis": "The most controversial film you will see this year.",
-    "showtimes": [
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/rivers-edge",
-    "rating": "",
-    "runtime": "1hr 39mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Rivers_Edge_1986_15%20copy.jpg"
+    "runtime": "1hr 36mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/HistoryOfViolence_41%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -551,57 +465,11 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Masters of the Universe (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "6:00 PM",
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239690/masteroftheuniverse_presale.jpg"
-   },
-   {
-    "title": "Scary Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "5:15 PM",
-     "7:30 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/scary-movie-2026-245093/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/scarymovie_presale.jpg"
-   },
-   {
-    "title": "Peddi (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM",
-     "6:30 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/peddi-2026-244813/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 56 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244813/Peddi%20-%2027x40.jpg"
-   },
-   {
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
-     "9:00 PM"
+     "12:00 PM",
+     "2:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -726,14 +594,27 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "SOHIP (EC) \u2013 Italian Style Beyond Borders",
-    "synopsis": "Music of Pietro Locatelli and Johann Rosenm\u00fcller, whose fame and (mis)fortune played crucial roles in disseminating Italian Baroque instrumental style across Europe. Nova Vetera: Nate Kim, violin, Thomas Conrad, traverso, viol, Luping Robyn Xu, harpsichord",
+    "title": "Les Bostanades (CC) \u2013 Bach, Handel, and Muffat",
+    "synopsis": "J.S. Bach: Harpsichord Concerto in A Major, BWV 1055 J.S. Bach: Brandenburg Concerto No.3 in G Major, B G. Muffat: \u201cArmonico Tributo\u201d Sonata No.5 in G Major G.F. Handel: arias and scenes with Zachary Wilder, tenor",
     "showtimes": [
-     "7:30 pm"
+     "3:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Emmanuel Church, Lindsay Chapel, in Boston",
-    "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
+    "address": "Church of the Covenant, 67 Newbury St., in Boston",
+    "url": "https://www.tickettailor.com/events/lesbostonades/2129973",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Beacon New Music Festival \u2013 Reflections Duo",
+    "synopsis": "Beacon Hill Friends House | 6 Chestnut St. BostonJessica Meyer \u2013 Space, in Chains Kevin Lubin \u2013 Giberne\u2019s Moon Morima \u2013 Amor de una Silabaria Amanda Fondos \u2013 \u00cdncipit Heather Pryse \u2013 Love, The Ex-Wife Catherine Lamb \u2013 Of Love",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in Boston area",
+    "url": "https://www.beaconensemble.org/beacon-new-music-2026festival",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -741,23 +622,10 @@
   ],
   "The Beehive": [
    {
-    "title": "Jazz Progressive, Larry Kukers Trio",
-    "synopsis": "Mr. Kukers is a veteran of decades in the Boston jazz scene. He has earned a reputation as a passionate innovator, and virtuoso. This trio's music is a dynamic showcase of what music can be.",
+    "title": "Pop to the Chemist-Brunch Music",
+    "synopsis": "Guitarist Mike Hermans along with bassist George Chinaglia lead this trio of very cool players. These guys are great jazz players who play exquisitely arranged \"pop\" tunes. This is very fun and expressive music.",
     "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "BT Allstars 1st Thursdays Spring Residency!!",
-    "synopsis": "Spring 1st Thursdays Residency at The Beehive! We are very blessed to have had Brian Thomas performing at The Beehive in Boston's historic South End since it opened in 2007. Brian has brought many different projects to that stage and I am very excited to kick off a new 1st Thursdays Residency with the newest lineup for\u2026",
-    "showtimes": [
-     "9:00 pm"
+     "10:00 am"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -769,30 +637,30 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "title": "KIM WATERS",
+    "synopsis": "",
+    "showtimes": [
+     "Shows at 7 and 9pm"
+    ],
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "url": "https://www.ticketweb.com/search?q=kim+waters+scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-07T20-48-09_kim%20waters%204-StandardPoster.jpg"
    }
   ],
   "Regattabar": [
    {
-    "title": "The Blues Project/ The Ken Clark Organ Trio",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/47/65/93_Listings.jpg?v=7"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
+    "title": "Jazz Night \u2014 Saturday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
@@ -808,7 +676,24 @@
   ],
   "Boston Ballet": [
    {
-    "title": "The Sleeping Beauty: Jun 4 at 7:30PM",
+    "title": "The Sleeping Beauty: Jun 6 at 1:30PM",
+    "synopsis": "Deep in a century-long slumber, a beautiful princess and her kingdom await the power of true love\u2019s kiss. The Sleeping Beauty enchants with a host of magical characters\u2014from the deliciously wicked fairy Carabosse and the valiant Prince Desire, to the benevolent woodland fairies and hilarious Puss in Boots. This iconic \u2026",
+    "showtimes": [
+     "1:30 PM"
+    ],
+    "theater": "Boston Ballet",
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/performances/the-sleeping-beauty/",
+    "rating": "",
+    "runtime": "",
+    "poster": [
+     "https://bostonballet.widen.net/content/ffpighcxyy/jpeg/FY26SleepingBeauty_Tile3_655x369.jpg",
+     "https://bostonballet.widen.net/content/cpadj9jzah/jpeg/FY26SleepingBeauty_Tile2_655x369.jpg",
+     "https://bostonballet.widen.net/content/bn3dhaet9w/jpeg/FY26SleepingBeauty_Tile1_655x369.jpg"
+    ]
+   },
+   {
+    "title": "The Sleeping Beauty: Jun 6 at 7:30PM",
     "synopsis": "Deep in a century-long slumber, a beautiful princess and her kingdom await the power of true love\u2019s kiss. The Sleeping Beauty enchants with a host of magical characters\u2014from the deliciously wicked fairy Carabosse and the valiant Prince Desire, to the benevolent woodland fairies and hilarious Puss in Boots. This iconic \u2026",
     "showtimes": [
      "7:30 PM"
