@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-30T15:12:48.481031",
+  "scraped_at": "2026-05-30T16:14:45.610261",
   "date": "2026-05-30"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "4:15 PM",
      "5:00 PM",
      "5:30 PM",
@@ -34,8 +33,7 @@
     "synopsis": "",
     "showtimes": [
      "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -48,7 +46,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -74,9 +71,7 @@
    {
     "title": "Passenger (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
@@ -95,7 +90,6 @@
      "4:45 PM",
      "8:00 PM",
      "4:00 PM",
-     "3:30 PM",
      "6:45 PM",
      "10:00 PM",
      "5:15 PM"
@@ -169,7 +163,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:15 PM",
      "9:15 PM"
     ],
@@ -195,7 +188,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "8:00 PM",
      "11:00 PM"
     ],
@@ -210,7 +202,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:10 PM",
      "9:00 PM"
     ],
@@ -319,7 +310,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:40 PM",
      "9:35 PM"
     ],
@@ -544,20 +534,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "The Breadwinner",
     "synopsis": "",
     "showtimes": [
@@ -611,6 +587,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -632,23 +621,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "11:10am",
-     "1:40pm",
-     "4:10pm",
-     "7:00pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
     "title": "Pressure (2026)",
     "synopsis": "In the tense 72 hours before D-Day, the fate of the world hangs in the balance.",
     "showtimes": [
@@ -664,6 +636,23 @@
     "rating": "",
     "runtime": "1hr 40mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/P_23734_R.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "11:10am",
+     "1:40pm",
+     "4:10pm",
+     "7:00pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
    },
    {
     "title": "I Love Boosters",
@@ -827,7 +816,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:30 PM",
      "7:45 PM",
      "10:00 PM"
@@ -910,7 +898,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:15 PM",
      "7:40 PM",
      "10:05 PM"
@@ -956,7 +943,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
