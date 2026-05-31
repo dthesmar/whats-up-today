@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T10:52:46.466242",
+  "scraped_at": "2026-05-31T11:53:43.967549",
   "date": "2026-05-31"
  },
  "data": {
@@ -37,7 +37,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "12:45 PM",
      "1:45 PM",
      "2:30 PM",
@@ -65,7 +64,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "2:00 PM",
      "4:45 PM",
      "7:30 PM",
@@ -82,7 +80,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "5:00 PM",
      "7:45 PM",
@@ -131,7 +128,6 @@
      "12:45 PM",
      "7:15 PM",
      "10:30 PM",
-     "11:30 AM",
      "2:45 PM",
      "6:00 PM",
      "9:15 PM",
@@ -183,7 +179,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM",
      "3:30 PM",
      "4:15 PM",
@@ -230,9 +225,7 @@
    {
     "title": "Hokum (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:15 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
@@ -260,7 +253,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "2:00 PM",
      "5:30 PM",
      "7:30 PM",
@@ -289,9 +281,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:00 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -524,36 +514,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 pm",
-     "4:00 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 pm",
-     "4:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
@@ -582,6 +542,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -796,7 +783,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -862,9 +848,7 @@
    {
     "title": "Drishyam 3 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
