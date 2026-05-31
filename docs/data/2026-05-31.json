@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T11:53:43.967549",
+  "scraped_at": "2026-05-31T12:55:38.027917",
   "date": "2026-05-31"
  },
  "data": {
@@ -135,7 +135,6 @@
      "5:00 PM",
      "8:30 PM",
      "4:00 PM",
-     "12:00 PM",
      "9:30 PM",
      "2:00 PM"
     ],
@@ -150,7 +149,6 @@
     "title": "Tuner (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -210,7 +208,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -499,21 +496,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "12:10 pm",
-     "2:40 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
@@ -542,6 +524,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:40 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -766,7 +762,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:25 PM",
      "2:50 PM",
      "5:15 PM",
      "7:40 PM",
@@ -799,7 +794,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:35 PM",
      "3:00 PM",
      "4:30 PM",
      "7:15 PM",
@@ -816,7 +810,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "2:45 PM",
      "5:00 PM",
      "7:15 PM",
@@ -860,7 +853,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "5:15 PM",
      "7:40 PM",
@@ -909,7 +901,6 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "6:15 PM"
     ],
