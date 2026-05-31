@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T15:52:44.522356",
+  "scraped_at": "2026-05-31T16:53:46.069945",
   "date": "2026-05-31"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Revolutionary America (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -23,7 +22,6 @@
     "title": "Tekkonkinkreet 20th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -37,7 +35,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "5:00 PM",
      "5:15 PM",
      "6:15 PM",
@@ -121,7 +118,6 @@
      "9:15 PM",
      "5:00 PM",
      "8:30 PM",
-     "4:00 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -162,7 +158,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "6:30 PM",
      "7:15 PM",
      "10:15 PM"
@@ -216,7 +211,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -283,7 +277,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "6:00 PM",
      "7:00 PM"
     ],
@@ -309,7 +302,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -323,7 +315,6 @@
     "title": "Tuner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -351,7 +342,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:05 PM",
      "6:45 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -365,7 +355,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -377,20 +366,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 pm",
-     "7:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "",
@@ -433,6 +408,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-39.jpg"
    },
    {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
@@ -462,34 +450,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
@@ -515,6 +475,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -740,7 +726,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -755,7 +740,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:15 PM",
      "9:30 PM"
     ],
@@ -785,7 +769,6 @@
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "7:00 PM",
      "9:50 PM"
     ],
@@ -826,7 +809,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -841,7 +823,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
