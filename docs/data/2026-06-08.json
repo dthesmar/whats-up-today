@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T10:03:23.548208",
+  "scraped_at": "2026-06-01T19:43:04.158880",
   "date": "2026-06-08"
  },
  "data": {
@@ -9,7 +9,8 @@
     "title": "Another World (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:30 PM"
+     "12:15 PM",
+     "6:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -19,23 +20,25 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245735/AWRLD_Poster_27x39-5_WEB_Dated.jpg"
    },
    {
-    "title": "Hai Jawani Toh Ishq Hona Hai (2026)",
+    "title": "Carolina Caroline (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM"
+     "3:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/hai-jawani-toh-ishq-hona-hai-2026-245837/movie-overview",
+    "url": "https://www.fandango.com/carolina-caroline-2026-244956/movie-overview",
     "rating": "Not Rated",
-    "runtime": "2 hr 18 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245837/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai.jpg"
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244956/CarolinaCaroline-Poster.jpg"
    },
    {
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
+     "12:00 PM",
+     "7:00 PM",
+     "12:45 PM",
      "4:15 PM",
      "2:45 PM",
      "6:00 PM",
@@ -68,15 +71,15 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
-     "3:30 PM",
+     "7:45 PM",
+     "10:30 PM",
+     "1:00 PM",
      "6:30 PM",
-     "9:30 PM",
      "12:00 PM",
-     "2:30 PM",
-     "5:00 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "2:45 PM",
+     "3:30 PM",
+     "5:30 PM",
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -84,6 +87,19 @@
     "rating": "R",
     "runtime": "1 hr 36 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/scarymovie_presale.jpg"
+   },
+   {
+    "title": "Peddi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/peddi-2026-244813/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 8 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244813/Peddi%20-%2027x40.jpg"
    },
    {
     "title": "The Amazing Digital Circus: The Last Act (2026)",
@@ -102,16 +118,93 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/digital_circus_presale1.jpg"
    },
    {
+    "title": "Backrooms (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "9:15 PM",
+     "12:15 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "7:15 PM",
+     "8:15 PM",
+     "10:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
+   },
+   {
+    "title": "Pressure (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/pressure-2026-244744/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244744/PRESSURE_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Breadwinner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "2:00 PM",
+     "7:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-breadwinner-2026-243767/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243767/BW_Online_1400x2100_.jpg"
+   },
+   {
+    "title": "I Love Boosters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/i-love-boosters-2026-245151/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 45 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245151/I%20Love%20Boosters%20-%20Final%20Poster%20-%2027x40.jpg"
+   },
+   {
+    "title": "Passenger (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 34 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245440/passenger.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "3:15 PM",
+     "3:45 PM",
+     "10:20 PM",
+     "12:15 PM",
      "6:30 PM",
-     "10:00 PM",
-     "1:00 PM",
-     "4:30 PM",
-     "8:00 PM"
+     "3:00 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -119,6 +212,112 @@
     "rating": "PG13",
     "runtime": "2 hr 12 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "1:15 PM",
+     "3:30 PM",
+     "4:15 PM",
+     "6:15 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "4:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "4:15 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "3:45 PM",
+     "7:00 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
+   },
+   {
+    "title": "The Super Mario Galaxy Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242307/MOG_Payoff_1Sheet_1080x1920_2_adjusted.jpg"
+   },
+   {
+    "title": "Project Hail Mary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/project-hail-mary-2026-243816/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243816/projecthailmary-finalart.jpg"
    },
    {
     "title": "Milk",
@@ -144,50 +343,11 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 pm",
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "The Accused in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-accused-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-21.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "8:30 pm"
+     "8:30 pm",
+     "8:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -195,6 +355,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm",
+     "6:45 pm",
+     "9:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
     "title": "Silkwood",
@@ -208,6 +383,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "6:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "Panic Room",
@@ -358,8 +546,7 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "6:45 pm"
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -386,8 +573,7 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "7:15 pm"
+     "5:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
