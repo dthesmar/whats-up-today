@@ -1,225 +1,30 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T19:58:07.397639",
+  "scraped_at": "2026-06-01T00:57:11.333888",
   "date": "2026-06-07"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "F1\u00ae on Apple TV Live in IMAX: Monaco Race (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 AM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-07\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/f1r-on-apple-tv-live-in-imax-monaco-race-2026-245609/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245609/IMAX%20Exclusive%20Artwork_F1%20on%20Apple%20TV%20Live%20in%20IMAX_Monaco_Race.jpg"
-   },
-   {
-    "title": "The Birdcage 30th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-birdcage-30th-anniversary-244288/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244288/1000x1480_Birdcage_Exhibitor%20Poster.jpg"
-   },
-   {
-    "title": "Another World (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/another-world-2026-245735/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 51 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245735/AWRLD_Poster_27x39-5_WEB_Dated.jpg"
-   },
-   {
-    "title": "Hai Jawani Toh Ishq Hona Hai (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/hai-jawani-toh-ishq-hona-hai-2026-245837/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 18 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245837/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai.jpg"
-   },
-   {
-    "title": "Masters of the Universe (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 PM",
-     "4:15 PM",
-     "11:30 AM",
-     "2:45 PM",
-     "6:00 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 13 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239690/masteroftheuniverse_presale.jpg"
-   },
-   {
-    "title": "Power Ballad (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "11:15 AM",
-     "2:00 PM",
-     "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/power-ballad-2026-244979/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244979/powerballad_presale.jpg"
-   },
-   {
-    "title": "Scary Movie (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "3:30 PM",
-     "6:30 PM",
-     "9:30 PM",
-     "11:00 AM",
-     "1:45 PM",
-     "4:30 PM",
-     "7:30 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/scary-movie-2026-245093/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 36 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/scarymovie_presale.jpg"
-   },
-   {
-    "title": "The Amazing Digital Circus: The Last Act (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 AM",
-     "1:15 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "9:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-amazing-digital-circus-the-last-act-2026-245189/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/digital_circus_presale1.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "3:15 PM",
-     "6:30 PM",
-     "10:00 PM",
-     "1:00 PM",
-     "4:30 PM",
-     "8:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 12 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
-   },
-   {
-    "title": "Milk",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/milk-113554/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 8 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/113554/milk-ps-1.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-07"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Power Ballad (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:10 PM",
-     "4:40 PM",
-     "7:10 PM"
-    ],
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-07\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/power-ballad-2026-244979/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244979/powerballad_presale.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-07"
    }
   ],
   "Somerville Theatre": [
    {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "The Adventures of Prince Achmed",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-adventures-of-prince-achmed/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-42.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
@@ -232,59 +37,16 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "S\u00e1t\u00e1ntang\u00f3 (4K Restoration)",
-    "synopsis": "#36 on the Sight & Sound / BFI\u2019s Critic\u2019s Poll of the 100 Greatest Films Ever Made.",
-    "showtimes": [
-     "11:00am"
-    ],
+    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/satantango-4k-restoration",
-    "rating": "",
-    "runtime": "7hrs 19mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Satantang5.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "All About Eve",
-    "synopsis": "Director: Joseph L. Mankiewicz Run Time: 139 min. Format: 35mm Film Release Year: 1950",
-    "showtimes": [
-     "1:00 pm 35mm"
-    ],
+    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/all-about-eve/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13150331/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
-   },
-   {
-    "title": "Don't Bother to Knock",
-    "synopsis": "Director: Roy Ward Baker Run Time: 76 min. Format: DCP Release Year: 1952",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dont-bother-to-knock/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13151359/smMrZPwFrKLuAN7eaYt4FLelZLe-scaled.jpg"
-   },
-   {
-    "title": "Kontinental '25",
-    "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
-    "showtimes": [
-     "6:00 pm Premiere",
-     "8:30 pm Premiere"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/kontinental-25/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/14114526/photo-kontinental-1-2048x1152-1.jpg"
+    "address": "40 Brattle St, Cambridge, MA"
    }
   ],
   "Harvard Film Archive": [
@@ -297,18 +59,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "The Amazing Digital Circus: The Last Act (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 PM",
-     "2:30 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-07\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-amazing-digital-circus-the-last-act-2026-245189/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/digital_circus_presale1.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-07"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -425,82 +179,9 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Charles River Wind Ensemble \u2013 Inspired by Art",
-    "synopsis": "Norman Dello Joio, Scenes from the Louvre Karel Husa, Les Couleurs Fauves Barbara York, River of Stars Aldo Rafael Forte, Impressionist Prints Ching-Shan Chang, An Eternal GlimpseFREE no tickets required",
-    "showtimes": [
-     "3:00 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Classical Music (Boston)",
-    "address": "300 Hammond Pond Pkwy Auditorium, in Chestnut HIll",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Cathedral of the Holy Cross \u2013 James Kennerley, organ",
-    "synopsis": "n a special program for the Feast of Corpus Christi: De Grigny | Pange lingua gloriosi corporis mysterium from Livre d\u2019orgue Durufl\u00e9 | Pr\u00e9lude et fugue sur le nom d\u2019Alain, Op. 7 Marier | Suite I from Gregorian Chant Suites: Hymns to the Blessed Sacrament Franck | Choral no. 2 in B minor Kennerley | Improvisation on Gre\u2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "1400 Washington Street, in Boston",
-    "url": "https://www.eventbrite.com/e/james-kennerley-municipal-organist-of-portland-maine-tickets-1987528992720?aff=oddtdtcreator",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Norrth Shore Philharmonic (FBC) \u2013 Childrens\u2019 Concert",
-    "synopsis": "Charles Turner, Dick Whittington and His Cat Marshunda Smith, guest conductor",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "First Baptist Cbhurch, 221 Cabot Street, in Beverly",
-    "url": "https://www.nspo.org/concerts.php#kids",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "First Lutheran Church \u2013 Samuel Eatherton, organ",
-    "synopsis": "Bruhns: Praeludium in G Minor Buxtehude: Passacaglia in D Minor J.S. Bach: Prelude and Fugue in C Major, BWV 545 The Church Year in Chorale Preludes: J.S. Bach, Nun komm, der Heiden Heiland, BWV 659 S. Eatherton, Vom Himmel hoch Pachelbel, Wie Sch\u00f6n luechtet der Morgenstern J.S. Bach, Valet will ich der geben G.P. Tele\u2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "299 Berkeley Street, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Recorder Orchestra (FCC) \u2013 Spring Concert,",
-    "synopsis": "Ukrainian traditional: Dobryj , Apkah Orlando di Lasso : Mon Coeur Se Recommande \u00e0 Vous Fantasia Tristis Est Anima Mea Carmina Chromatica Matona Mia Cara Un Jour Vis un FoulonClaude Gervaise: Pavane Venissienne BranlesElway Bevin : Browning Thomas Morley : Now Is the Month of Maying Anthony Holborne : The Night Watch T\u2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "First Church in Cambridge 11 Garden Streett, in Cambridge",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Beacon New Music Festival \u2013 Beacon Ensemble",
-    "synopsis": "Church of the Covenant | 67 Newbury St. BostonYangfan Xu \u2013 Shen Nong\u2019s Dream on the Mountain Tomer Rozen \u2013 On Borrowed Time Alex Matheson \u2013 The Fisherman and His Soul Gaston Gosselin \u2013 Beaver Drop",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Various, in Boston area",
-    "url": "https://www.beaconensemble.org/beacon-new-music-2026festival",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
@@ -533,10 +214,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-GDtYmZ --remote-debugging-pipe --no-startup-window\n  - <launched> pid=72299\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [

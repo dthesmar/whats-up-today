@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T00:52:45.167579",
-  "date": "2026-06-05"
+  "scraped_at": "2026-06-01T00:57:39.059588",
+  "date": "2026-06-08"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -37,7 +37,6 @@
     "showtimes": [
      "7:15 PM",
      "4:15 PM",
-     "11:30 AM",
      "2:45 PM",
      "6:00 PM",
      "9:30 PM"
@@ -53,11 +52,10 @@
     "title": "Power Ballad (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
-     "2:00 PM",
-     "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "1:30 PM",
+     "4:15 PM",
+     "7:00 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -70,14 +68,15 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "4:00 PM",
-     "6:45 PM",
+     "12:30 PM",
+     "3:30 PM",
+     "6:30 PM",
      "9:30 PM",
      "12:00 PM",
-     "2:45 PM",
-     "5:30 PM",
-     "8:30 PM"
+     "2:30 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -90,11 +89,10 @@
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "9:45 PM"
+     "4:30 PM",
+     "7:15 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -138,29 +136,110 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Power Ballad (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 PM",
-     "7:10 PM",
-     "9:45 PM"
-    ],
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/power-ballad-2026-244979/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244979/powerballad_presale.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-08"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm",
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "The Accused in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-accused-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-21.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Silkwood",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/silkwood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+   },
+   {
+    "title": "Panic Room",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/panic-room/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-32.jpg"
+   },
+   {
+    "title": "Backdraft in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backdraft-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-29.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:00 pm",
-     "10:00 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -168,140 +247,223 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Tombstone",
+    "synopsis": "",
+    "showtimes": [
+     "6:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tombstone/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
+   },
+   {
+    "title": "Maverick in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/maverick/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
+   },
+   {
+    "title": "Breakdown in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/breakdown-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-35.jpg"
+   },
+   {
+    "title": "Flightplan in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/flightplan-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-26.jpg"
+   },
+   {
+    "title": "Contact in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/contact-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-27.jpg"
+   },
+   {
+    "title": "Stargate in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "9:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/stargate-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-36.jpg"
+   },
+   {
+    "title": "Overboard in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/overboard-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-38.jpg"
+   },
+   {
+    "title": "Sommersby",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/sommersby/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-30.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Field of Dreams",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/field-of-dreams/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-23.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "Eephus",
+    "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/eephus/",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
-    "title": "Major League",
+    "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "4:15 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/major-league/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-16.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "Bull Durham",
+    "title": "The Breadwinner",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "4:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/bull-durham/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    },
    {
-    "title": "The Bad News Bears",
+    "title": "Pressure",
     "synopsis": "",
     "showtimes": [
+     "5:10 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-bad-news-bears/",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-19.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
-    "title": "Take Me Out to the Ball Game",
+    "title": "Disasterpiece Theatre",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/take-me-out-to-the-ball-game/",
+    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
-   },
-   {
-    "title": "Fear Strikes Out",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fear-strikes-out/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/FearStrikesOut-600x907.jpg"
-   },
-   {
-    "title": "A League of Their Own",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/a-league-of-their-own/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Time of the Wolf",
-    "synopsis": "A film by Michael Haneke.",
+    "title": "Seminar: Set It Off",
+    "synopsis": "Pre-film seminar taught by Mikal J. Gaines, Ph.D",
     "showtimes": [
-     "9:15pm"
+     "6:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/time-wolf",
+    "url": "https://www.coolidge.org/events/seminar-set-it",
     "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/timeofthewolf_Biscombe_fire%20copy.jpg"
+    "runtime": "30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Set_It_Off_1996_08%20copy.jpg"
    },
    {
-    "title": "Elephant",
-    "synopsis": "An ordinary high school day. Except that it's not.",
+    "title": "Set It Off",
+    "synopsis": "DEAL WITH THIS.",
     "showtimes": [
-     "11:59pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/elephant",
+    "url": "https://www.coolidge.org/films/set-it",
     "rating": "",
-    "runtime": "1hr 21mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ELE_Miles_Robinson_kiss%20copy.jpg"
+    "runtime": "2hrs 3mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Set_It_Off_1996_3%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -322,18 +484,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "The Amazing Digital Circus: The Last Act (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM",
-     "9:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-amazing-digital-circus-the-last-act-2026-245189/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/digital_circus_presale1.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-08"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -450,14 +604,14 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Beacon New Music Festival \u2013 Mink Duo",
-    "synopsis": "Forbes Graham \u2013 Gone/Outside Eliza Gelines \u2013 Screensaver Vincent Francis \u2013 I Always Imagined You As the Tide Mikayla Frank-Martin \u2013 Mantras Diego Peralta-Gonzales \u2013 TBD",
+    "title": "Music Monday \u2013 BOSTON CECILIA",
+    "synopsis": "Grace Coberly: Little Things Herbert Howells: A Hymn for St. Cecilia William Byrd: Non nobis Domine Rosephanye Powell: Non nobis Domine Johannes Brahms: Geistliches Wiegenlied Jeremiah Ingalls: Jerusalem Seth Houston: Big Sky Stephen Paulus: The Road Home Harry T. Burleigh: My Lord What a Morning Abbie Betinis: Love is\u2026",
     "showtimes": [
-     "7:00 pm"
+     "2:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Various, in Boston area",
-    "url": "https://www.beaconensemble.org/beacon-new-music-2026festival",
+    "address": "Scandinavian Cultural Center, 206 Waltham St., in Newton",
+    "url": "https://www.facebook.com/musicmondaysconcerts",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -465,10 +619,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "MONDAY NIGHT HOEDOWN",
+    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
@@ -481,22 +642,15 @@
   ],
   "Regattabar": [
    {
-    "title": "The Either/Orchestra with special guest Munit Mesfin",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/45/46/33_Listings.jpg?v=3"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "Blues Night \u2014 Monday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
@@ -512,21 +666,10 @@
   ],
   "Boston Ballet": [
    {
-    "title": "The Sleeping Beauty: Jun 5 at 7:30PM",
-    "synopsis": "Deep in a century-long slumber, a beautiful princess and her kingdom await the power of true love\u2019s kiss. The Sleeping Beauty enchants with a host of magical characters\u2014from the deliciously wicked fairy Carabosse and the valiant Prince Desire, to the benevolent woodland fairies and hilarious Puss in Boots. This iconic \u2026",
-    "showtimes": [
-     "7:30 PM"
-    ],
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
     "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
-    "url": "https://www.bostonballet.org/performances/the-sleeping-beauty/",
-    "rating": "",
-    "runtime": "",
-    "poster": [
-     "https://bostonballet.widen.net/content/ffpighcxyy/jpeg/FY26SleepingBeauty_Tile3_655x369.jpg",
-     "https://bostonballet.widen.net/content/cpadj9jzah/jpeg/FY26SleepingBeauty_Tile2_655x369.jpg",
-     "https://bostonballet.widen.net/content/bn3dhaet9w/jpeg/FY26SleepingBeauty_Tile1_655x369.jpg"
-    ]
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [

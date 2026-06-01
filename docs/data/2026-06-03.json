@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T19:57:40.463314",
+  "scraped_at": "2026-06-01T00:52:13.524994",
   "date": "2026-06-03"
  },
  "data": {
@@ -654,19 +654,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/behind-the-scenes-photos-of-the-original-movie-v0-lttgtvymi3x71.jpeg"
    },
    {
-    "title": "The Playboy of the Western World",
-    "synopsis": "Nicola Coughlan joins \u00c9anna Hardwicke and Siobh\u00e1n McSweeney in John Millington Synge\u2019s riveting play of youth and self-discovery",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/playboy-western-world",
-    "rating": "",
-    "runtime": "3hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Listings%20-%201240x874px%20white%20copy.png"
-   },
-   {
     "title": "Epidemic (1987)",
     "synopsis": "A director and screenwriter pen a script and, in the process, blur the line between fiction and reality.",
     "showtimes": [
@@ -678,6 +665,19 @@
     "rating": "",
     "runtime": "1hr 46mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/epridemic%201987.jpeg"
+   },
+   {
+    "title": "The Playboy of the Western World",
+    "synopsis": "Nicola Coughlan joins \u00c9anna Hardwicke and Siobh\u00e1n McSweeney in John Millington Synge\u2019s riveting play of youth and self-discovery",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/playboy-western-world",
+    "rating": "",
+    "runtime": "3hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Listings%20-%201240x874px%20white%20copy.png"
    },
    {
     "title": "Antichrist",
@@ -695,44 +695,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "All About Eve",
-    "synopsis": "Director: Joseph L. Mankiewicz Run Time: 139 min. Format: 35mm Film Release Year: 1950",
-    "showtimes": [
-     "1:00 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/all-about-eve/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13150331/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
-   },
-   {
-    "title": "Don't Bother to Knock",
-    "synopsis": "Director: Roy Ward Baker Run Time: 76 min. Format: DCP Release Year: 1952",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dont-bother-to-knock/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13151359/smMrZPwFrKLuAN7eaYt4FLelZLe-scaled.jpg"
-   },
-   {
-    "title": "Kontinental '25",
-    "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
-    "showtimes": [
-     "6:00 pm Premiere",
-     "8:30 pm Premiere"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/kontinental-25/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/14114526/photo-kontinental-1-2048x1152-1.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-05-31T19:57:33.205003",
+  "scraped_at": "2026-06-01T00:40:49.218975",
   "date": "2026-06-02"
  },
  "data": {
@@ -768,44 +768,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "All About Eve",
-    "synopsis": "Director: Joseph L. Mankiewicz Run Time: 139 min. Format: 35mm Film Release Year: 1950",
-    "showtimes": [
-     "1:00 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/all-about-eve/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13150331/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
-   },
-   {
-    "title": "Don't Bother to Knock",
-    "synopsis": "Director: Roy Ward Baker Run Time: 76 min. Format: DCP Release Year: 1952",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dont-bother-to-knock/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13151359/smMrZPwFrKLuAN7eaYt4FLelZLe-scaled.jpg"
-   },
-   {
-    "title": "Kontinental '25",
-    "synopsis": "Director: Radu Jude Run Time: 109 min. Format: DCP Release Year: 2025 Language: Romanian with English subtitles",
-    "showtimes": [
-     "6:00 pm Premiere",
-     "8:30 pm Premiere"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/kontinental-25/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/09/14114526/photo-kontinental-1-2048x1152-1.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
