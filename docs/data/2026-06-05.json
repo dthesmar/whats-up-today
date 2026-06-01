@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T00:52:45.167579",
+  "scraped_at": "2026-06-01T09:53:24.890809",
   "date": "2026-06-05"
  },
  "data": {
@@ -306,10 +306,45 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Some Like It Hot",
+    "synopsis": "Director: Billy Wilder Run Time: 122 min. Format: 35mm Film Release Year: 1959",
+    "showtimes": [
+     "4:00 pm 35mm",
+     "3:30 pm 35mm",
+     "8:15 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/some-like-it-hot/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164441/hVIKyTK13AvOGv7ICmJjK44DTzp-scaled.jpg"
+   },
+   {
+    "title": "Suspiria",
+    "synopsis": "Director: Dario Argento Run Time: 99 min. Format: DCP Release Year: 1977 Language: Italian with English subtitles",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/suspiria/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/03/20152456/suspiria-1977-22.jpg"
+   },
+   {
+    "title": "Climax",
+    "synopsis": "Director: Gaspar No\u00e9 Run Time: 97 min. Format: DCP Release Year: 2018 Language: French with English subtitles",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/climax/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/07125609/v0sblc9A8eaE8EqDQ5Y6fELj4oB-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -338,12 +373,26 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "CWX The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "12:55PM",
+     "3:50PM",
+     "6:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Michael",
     "synopsis": "",
     "showtimes": [
-     "10:35AM",
-     "1:25PM",
-     "4:15PM",
+     "1:10PM",
+     "4:00PM",
      "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -357,7 +406,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "10:40AM",
      "1:20PM",
      "4:05PM",
      "6:45PM"
@@ -373,10 +421,9 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "10:50AM",
-     "1:40PM",
+     "1:30PM",
      "4:25PM",
-     "7:05PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -386,42 +433,10 @@
     "poster": ""
    },
    {
-    "title": "The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "11:05AM",
-     "2:30PM",
-     "5:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "11:10AM",
-     "1:50PM",
-     "4:30PM",
-     "7:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "11:20AM",
-     "2:05PM",
+     "1:40PM",
      "4:40PM",
      "7:10PM"
     ],
@@ -433,16 +448,30 @@
     "poster": ""
    },
    {
-    "title": "CWX The Mandalorian And Grogu",
+    "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "12:15PM",
-     "3:20PM",
-     "6:30PM"
+     "1:50PM",
+     "4:30PM",
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-mandalorian-and-grogu",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "2:30PM",
+     "5:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
     "rating": "",
     "runtime": "",
     "poster": ""
