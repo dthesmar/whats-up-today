@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T21:03:52.541551",
+  "scraped_at": "2026-06-01T22:06:18.354891",
   "date": "2026-06-08"
  },
  "data": {
@@ -335,10 +335,114 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Masters of the Universe (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:05 PM",
+     "7:00 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-08"
+    "url": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239690/masteroftheuniverse_presale.jpg"
+   },
+   {
+    "title": "Power Ballad (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 PM",
+     "7:05 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/power-ballad-2026-244979/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244979/powerballad_presale.jpg"
+   },
+   {
+    "title": "Scary Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 PM",
+     "7:10 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/scary-movie-2026-245093/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/scarymovie_presale.jpg"
+   },
+   {
+    "title": "Backrooms (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM",
+     "6:50 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
+   },
+   {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:25 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:55 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:50 PM",
+     "6:35 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
