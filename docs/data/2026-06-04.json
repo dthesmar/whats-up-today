@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T23:06:47.096573",
+  "scraped_at": "2026-06-02T08:00:58.040522",
   "date": "2026-06-04"
  },
  "data": {
@@ -777,45 +777,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Some Like It Hot",
-    "synopsis": "Director: Billy Wilder Run Time: 122 min. Format: 35mm Film Release Year: 1959",
+    "title": "How to Marry a Millionaire",
+    "synopsis": "Director: Jean Negulesco Run Time: 95 min. Format: DCP Release Year: 1953",
     "showtimes": [
-     "4:00 pm 35mm",
-     "3:30 pm 35mm",
-     "8:15 pm 35mm"
+     "4:00 pm",
+     "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/some-like-it-hot/",
+    "url": "https://brattlefilm.org/movies/how-to-marry-a-millionaire/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164441/hVIKyTK13AvOGv7ICmJjK44DTzp-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/16165609/how-to-marry-a-millionaire-2.jpg"
    },
    {
-    "title": "Suspiria",
-    "synopsis": "Director: Dario Argento Run Time: 99 min. Format: DCP Release Year: 1977 Language: Italian with English subtitles",
+    "title": "Gentlemen Prefer Blondes",
+    "synopsis": "Director: Howard Hawks Run Time: 91 min. Format: DCP Release Year: 1953",
     "showtimes": [
-     "6:30 pm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/suspiria/",
+    "url": "https://brattlefilm.org/movies/gentlemen-prefer-blondes/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/03/20152456/suspiria-1977-22.jpg"
-   },
-   {
-    "title": "Climax",
-    "synopsis": "Director: Gaspar No\u00e9 Run Time: 97 min. Format: DCP Release Year: 2018 Language: French with English subtitles",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/climax/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/07125609/v0sblc9A8eaE8EqDQ5Y6fELj4oB-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164024/fDozhst5HVJJcd3BM8ZOsKniO7Q.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -892,8 +878,8 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
-     "6:15 PM",
+     "3:15 PM",
+     "6:30 PM",
      "9:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1040,6 +1026,7 @@
     "showtimes": [
      "1:40PM",
      "4:40PM",
+     "4:50PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1050,30 +1037,30 @@
     "poster": ""
    },
    {
-    "title": "Backrooms",
+    "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "1:50PM",
-     "4:30PM",
-     "7:05PM"
+     "1:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "The Mandalorian And Grogu",
+    "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "2:30PM",
-     "5:40PM"
+     "1:50PM",
+     "4:30PM",
+     "7:05PM",
+     "7:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""
