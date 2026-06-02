@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-01T19:40:03.194436",
+  "scraped_at": "2026-06-01T21:01:44.064973",
   "date": "2026-06-01"
  },
  "data": {
@@ -42,11 +42,9 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "9:00 PM",
      "10:00 PM",
-     "10:30 PM",
-     "8:30 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -59,8 +57,7 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
-     "7:30 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -112,7 +109,6 @@
     "showtimes": [
      "10:30 PM",
      "9:15 PM",
-     "8:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -178,7 +174,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -263,10 +258,70 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Backrooms (2026)",
+    "synopsis": "",
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-01"
+    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/star-wars-the-mandalorian-and-grogu-2026-242515/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -274,7 +329,6 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "8:30 pm",
      "8:45 pm",
      "7:40 pm"
     ],
@@ -289,7 +343,6 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "8:45 pm",
      "6:45 pm",
      "9:15 pm",
      "7:20 pm",
@@ -301,19 +354,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Silkwood",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/silkwood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -413,7 +453,7 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-44.jpg"
    },
    {
-    "title": "The Adventures of Prince Achmed",
+    "title": "Silents, Please: The Adventures of Prince Achmed in 35mm",
     "synopsis": "",
     "showtimes": [
      "2:00 pm"
@@ -849,7 +889,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:10 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -863,7 +902,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:40 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -877,7 +915,6 @@
     "title": "The Breadwinner (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -904,7 +941,6 @@
     "title": "Passenger (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -944,7 +980,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:40 PM",
      "10:05 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
