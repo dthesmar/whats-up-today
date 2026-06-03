@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-03T06:18:03.802936",
+  "scraped_at": "2026-06-03T07:19:55.103072",
   "date": "2026-06-03"
  },
  "data": {
@@ -701,19 +701,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/behind-the-scenes-photos-of-the-original-movie-v0-lttgtvymi3x71.jpeg"
    },
    {
-    "title": "The Playboy of the Western World",
-    "synopsis": "Nicola Coughlan joins \u00c9anna Hardwicke and Siobh\u00e1n McSweeney in John Millington Synge\u2019s riveting play of youth and self-discovery",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/playboy-western-world",
-    "rating": "",
-    "runtime": "3hrs",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Listings%20-%201240x874px%20white%20copy.png"
-   },
-   {
     "title": "Epidemic (1987)",
     "synopsis": "A director and screenwriter pen a script and, in the process, blur the line between fiction and reality.",
     "showtimes": [
@@ -725,6 +712,19 @@
     "rating": "",
     "runtime": "1hr 46mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/epridemic%201987.jpeg"
+   },
+   {
+    "title": "The Playboy of the Western World",
+    "synopsis": "Nicola Coughlan joins \u00c9anna Hardwicke and Siobh\u00e1n McSweeney in John Millington Synge\u2019s riveting play of youth and self-discovery",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/playboy-western-world",
+    "rating": "",
+    "runtime": "3hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Listings%20-%201240x874px%20white%20copy.png"
    },
    {
     "title": "Antichrist",
@@ -947,12 +947,26 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "12:30PM",
+     "3:30PM",
+     "6:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "CWX The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "12:55PM",
-     "3:50PM",
-     "6:50PM"
+     "1:05PM",
+     "4:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -981,8 +995,8 @@
     "synopsis": "",
     "showtimes": [
      "1:20PM",
-     "4:05PM",
-     "6:45PM"
+     "4:10PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -997,7 +1011,7 @@
     "showtimes": [
      "1:30PM",
      "4:25PM",
-     "7:00PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1012,7 +1026,6 @@
     "showtimes": [
      "1:40PM",
      "4:40PM",
-     "4:50PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1023,30 +1036,29 @@
     "poster": ""
    },
    {
-    "title": "The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "1:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
      "1:50PM",
      "4:30PM",
-     "7:05PM",
-     "7:20PM"
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Early Access Masters Of The Universe",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-early-access-masters-of-the-universe",
     "rating": "",
     "runtime": "",
     "poster": ""
