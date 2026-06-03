@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-02T23:05:17.413138",
+  "scraped_at": "2026-06-03T00:06:49.315613",
   "date": "2026-06-04"
  },
  "data": {
@@ -806,31 +806,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "How to Marry a Millionaire",
-    "synopsis": "Director: Jean Negulesco Run Time: 95 min. Format: DCP Release Year: 1953",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/how-to-marry-a-millionaire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/16165609/how-to-marry-a-millionaire-2.jpg"
-   },
-   {
-    "title": "Gentlemen Prefer Blondes",
-    "synopsis": "Director: Howard Hawks Run Time: 91 min. Format: DCP Release Year: 1953",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/gentlemen-prefer-blondes/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164024/fDozhst5HVJJcd3BM8ZOsKniO7Q.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

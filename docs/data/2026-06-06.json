@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-02T23:05:32.444019",
+  "scraped_at": "2026-06-03T00:07:03.445028",
   "date": "2026-06-06"
  },
  "data": {
@@ -864,23 +864,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Backrooms",
-    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
-    "showtimes": [
-     "11:20am",
-     "2:05pm",
-     "4:45pm",
-     "7:30pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms",
-    "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
-   },
-   {
     "title": "Tuner",
     "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
     "showtimes": [
@@ -896,6 +879,23 @@
     "rating": "",
     "runtime": "1hr 49mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "showtimes": [
+     "11:20am",
+     "2:05pm",
+     "4:45pm",
+     "7:30pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
     "title": "Pressure (2026)",
@@ -971,31 +971,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "How to Marry a Millionaire",
-    "synopsis": "Director: Jean Negulesco Run Time: 95 min. Format: DCP Release Year: 1953",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/how-to-marry-a-millionaire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/16165609/how-to-marry-a-millionaire-2.jpg"
-   },
-   {
-    "title": "Gentlemen Prefer Blondes",
-    "synopsis": "Director: Howard Hawks Run Time: 91 min. Format: DCP Release Year: 1953",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/gentlemen-prefer-blondes/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164024/fDozhst5HVJJcd3BM8ZOsKniO7Q.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
