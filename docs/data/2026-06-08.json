@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-03T02:11:20.165029",
+  "scraped_at": "2026-06-03T03:13:12.143077",
   "date": "2026-06-08"
  },
  "data": {
@@ -860,10 +860,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Barbara McQuade",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-barbara-mcquade/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27151342/image-11.jpeg"
+   },
+   {
+    "title": "The Misfits",
+    "synopsis": "Director: John Huston Run Time: 124 min. Format: DCP Release Year: 1961",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-misfits/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164722/pjWlNZeoT5ZcVutOAHkFK7Z22Sb-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
