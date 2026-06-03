@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-02T20:22:51.690340",
+  "scraped_at": "2026-06-02T21:24:29.479622",
   "date": "2026-06-02"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:30 PM",
      "9:15 PM",
      "10:00 PM",
      "10:30 PM"
@@ -89,9 +88,7 @@
    {
     "title": "Tuner (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
@@ -102,9 +99,7 @@
    {
     "title": "Drishyam 3 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/drishyam-3-2026-244690/movie-overview",
@@ -116,7 +111,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:30 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -538,6 +532,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
+   },
+   {
+    "title": "Member Screening",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/member-screening/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/MembersOnly-Square-600-x-900-px-1.webp"
    },
    {
     "title": "Toy Story 5",
