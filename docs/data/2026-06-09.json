@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-02T18:37:33.911845",
+  "scraped_at": "2026-06-02T20:24:15.913015",
   "date": "2026-06-09"
  },
  "data": {
@@ -463,7 +463,6 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "7:20 pm",
      "7:40 pm"
     ],
     "theater": "Somerville Theatre",
@@ -477,7 +476,6 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "7:45 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -491,7 +489,6 @@
     "title": "I Love Boosters",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -520,7 +517,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "6:45 pm",
      "7:40 pm"
     ],
     "theater": "Capitol Theatre",
@@ -531,25 +527,11 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm",
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "7:10 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -562,7 +544,6 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm",
      "5:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -573,11 +554,25 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+   },
+   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm",
-     "5:10 pm"
+     "5:10 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -599,6 +594,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    }
   ],
   "Coolidge Corner Theatre": [

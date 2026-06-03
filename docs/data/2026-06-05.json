@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-02T18:34:26.619186",
+  "scraped_at": "2026-06-02T20:23:12.462054",
   "date": "2026-06-05"
  },
  "data": {
@@ -522,20 +522,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -561,6 +547,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    },
    {
     "title": "Pressure",
@@ -615,6 +615,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Major League",
