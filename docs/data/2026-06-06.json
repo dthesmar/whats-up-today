@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-03T10:25:29.313320",
+  "scraped_at": "2026-06-03T11:27:23.375208",
   "date": "2026-06-06"
  },
  "data": {
@@ -39,10 +39,10 @@
      "7:15 PM",
      "12:45 PM",
      "4:15 PM",
+     "11:30 AM",
      "2:45 PM",
      "6:00 PM",
-     "9:30 PM",
-     "11:30 AM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -127,12 +127,12 @@
     "synopsis": "",
     "showtimes": [
      "9:15 PM",
+     "11:45 AM",
      "2:30 PM",
      "5:30 PM",
      "6:15 PM",
      "8:15 PM",
-     "11:00 PM",
-     "11:45 AM"
+     "11:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -146,6 +146,7 @@
     "synopsis": "",
     "showtimes": [
      "11:00 AM",
+     "2:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -253,9 +254,9 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
+     "11:30 AM",
      "2:15 PM",
-     "4:00 PM",
-     "11:30 AM"
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -863,23 +864,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "Backrooms",
-    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
-    "showtimes": [
-     "11:20am",
-     "2:05pm",
-     "4:45pm",
-     "7:30pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms",
-    "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
-   },
-   {
     "title": "Tuner",
     "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
     "showtimes": [
@@ -895,6 +879,23 @@
     "rating": "",
     "runtime": "1hr 49mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "showtimes": [
+     "11:20am",
+     "2:05pm",
+     "4:45pm",
+     "7:30pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
    },
    {
     "title": "Pressure (2026)",
