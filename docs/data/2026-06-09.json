@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-03T22:52:37.748395",
+  "scraped_at": "2026-06-04T09:49:19.597036",
   "date": "2026-06-09"
  },
  "data": {
@@ -729,30 +729,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Barbara McQuade",
-    "synopsis": "Run Time: 90 min.",
+    "title": "Some Like It Hot",
+    "synopsis": "Director: Billy Wilder Run Time: 122 min. Format: 35mm Film Release Year: 1959",
+    "showtimes": [
+     "3:30 pm 35mm",
+     "8:15 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/some-like-it-hot/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164441/hVIKyTK13AvOGv7ICmJjK44DTzp-scaled.jpg"
+   },
+   {
+    "title": "The Seven Year Itch",
+    "synopsis": "Director: Billy Wilder Run Time: 100 min. Format: DCP Release Year: 1955",
     "showtimes": [
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-barbara-mcquade/",
+    "url": "https://brattlefilm.org/movies/the-seven-year-itch/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27151342/image-11.jpeg"
-   },
-   {
-    "title": "The Misfits",
-    "synopsis": "Director: John Huston Run Time: 124 min. Format: DCP Release Year: 1961",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-misfits/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164722/pjWlNZeoT5ZcVutOAHkFK7Z22Sb-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164343/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -978,21 +979,6 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "The Mandalorian And Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "12:30PM",
-     "3:30PM",
-     "6:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "CWX The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
@@ -1011,12 +997,27 @@
     "synopsis": "",
     "showtimes": [
      "1:10PM",
-     "4:00PM",
-     "6:55PM"
+     "1:50PM",
+     "4:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/michael",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "1:15PM",
+     "4:45PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1040,9 +1041,8 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "1:30PM",
-     "4:25PM",
-     "7:05PM"
+     "1:25PM",
+     "4:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1067,29 +1067,54 @@
     "poster": ""
    },
    {
-    "title": "Backrooms",
+    "title": "Power Ballad",
     "synopsis": "",
     "showtimes": [
-     "1:50PM",
-     "4:30PM",
-     "7:15PM"
+     "4:00PM",
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "url": "https://arsenalyards.cwtheaters.com/movie/power-ballad",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "CWX Early Access Masters Of The Universe",
+    "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-early-access-masters-of-the-universe",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-masters-of-the-universe",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Scary Movie",
+    "synopsis": "",
+    "showtimes": [
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
