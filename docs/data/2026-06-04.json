@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-04T11:50:55.818541",
+  "scraped_at": "2026-06-04T12:52:03.467338",
   "date": "2026-06-04"
  },
  "data": {
@@ -112,7 +112,6 @@
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "1:15 PM",
      "2:15 PM",
      "4:00 PM",
@@ -134,7 +133,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "1:30 PM",
      "2:45 PM",
      "4:30 PM",
@@ -154,7 +152,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
      "2:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -195,9 +192,7 @@
    {
     "title": "Passenger (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/passenger-2026-245440/movie-overview",
@@ -210,7 +205,6 @@
     "synopsis": "",
     "showtimes": [
      "12:45 PM",
-     "12:00 PM",
      "1:15 PM",
      "4:30 PM",
      "4:00 PM",
@@ -257,7 +251,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:00 PM",
      "5:00 PM",
      "6:15 PM",
@@ -274,7 +267,6 @@
     "title": "Mortal Kombat II (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "3:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -288,7 +280,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -301,9 +292,7 @@
    {
     "title": "Hokum (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/hokum-2026-244804/movie-overview",
@@ -331,7 +320,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:15 PM",
      "6:30 PM",
      "9:45 PM"
@@ -346,9 +334,7 @@
    {
     "title": "The Drama (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-drama-2026-243663/movie-overview",
@@ -359,9 +345,7 @@
    {
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-super-mario-galaxy-movie-2026-242307/movie-overview",
@@ -579,6 +563,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "6:00 pm",
+     "3:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    }
   ],
   "Capitol Theatre": [
