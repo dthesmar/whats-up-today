@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-05T02:26:07.528889",
+  "scraped_at": "2026-06-05T03:27:09.135821",
   "date": "2026-06-10"
  },
  "data": {
@@ -753,10 +753,32 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Do It Your Damn Self National Youth Film Festival",
+    "synopsis": "Run Time: 120 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/do-it-your-damn-self-national-youth-film-festival/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13145718/image.jpeg"
+   },
+   {
+    "title": "The Last One for the Road",
+    "synopsis": "Director: Francesco Sossai Run Time: 98 min. Format: DCP Release Year: 2025 Language: Italian with English subtitles",
+    "showtimes": [
+     "8:30 pm Premiere",
+     "3:30 pm Premiere",
+     "6:00 pm Premiere"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-last-one-for-the-road/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
    }
   ],
   "Harvard Film Archive": [
