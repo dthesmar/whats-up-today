@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-04T23:23:04.360416",
+  "scraped_at": "2026-06-05T00:23:54.882561",
   "date": "2026-06-10"
  },
  "data": {
@@ -753,31 +753,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Some Like It Hot",
-    "synopsis": "Director: Billy Wilder Run Time: 122 min. Format: 35mm Film Release Year: 1959",
-    "showtimes": [
-     "3:30 pm 35mm",
-     "8:15 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/some-like-it-hot/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164441/hVIKyTK13AvOGv7ICmJjK44DTzp-scaled.jpg"
-   },
-   {
-    "title": "The Seven Year Itch",
-    "synopsis": "Director: Billy Wilder Run Time: 100 min. Format: DCP Release Year: 1955",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-seven-year-itch/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/10/18164343/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
