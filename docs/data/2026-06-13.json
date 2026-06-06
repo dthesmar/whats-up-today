@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-06T02:21:32.590452",
+  "scraped_at": "2026-06-06T03:22:31.593400",
   "date": "2026-06-13"
  },
  "data": {
@@ -615,19 +615,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Blood Harvest (1987)",
     "synopsis": "A cocktail of vengeance and lust ...",
     "showtimes": [
@@ -639,9 +626,36 @@
     "rating": "",
     "runtime": "1hr 28mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Blood_Harvest_1986_1.2.4_2400x.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
+   {
+    "title": "Prince: Sign 'o' the Times",
+    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
+    "showtimes": [
+     "1:00 pm 35mm",
+     "8:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
+   },
    {
     "title": "The Last One for the Road",
     "synopsis": "Director: Francesco Sossai Run Time: 98 min. Format: DCP Release Year: 2025 Language: Italian with English subtitles",
@@ -655,6 +669,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
+   },
+   {
+    "title": "Purple Rain",
+    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
+    "showtimes": [
+     "8:30 pm",
+     "1:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/purple-rain/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
    }
   ],
   "Harvard Film Archive": [
