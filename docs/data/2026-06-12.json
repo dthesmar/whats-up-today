@@ -1,12 +1,12 @@
 {
  "meta": {
-  "scraped_at": "2026-06-06T21:47:13.473177",
+  "scraped_at": "2026-06-06T22:51:16.241825",
   "date": "2026-06-12"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12"
@@ -14,7 +14,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12"
@@ -22,42 +22,271 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c393c50>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm",
+     "10:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "RATS!",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/rats/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "4:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c393ed0>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Eephus",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/eephus/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-22.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Major League",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/major-league/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-16.jpg"
+   },
+   {
+    "title": "Bull Durham",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/bull-durham/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
+   },
+   {
+    "title": "The Bad News Bears",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-bad-news-bears/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-19.jpg"
+   },
+   {
+    "title": "Take Me Out to the Ball Game",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/take-me-out-to-the-ball-game/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
+   },
+   {
+    "title": "Fear Strikes Out",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fear-strikes-out/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/FearStrikesOut-600x907.jpg"
+   },
+   {
+    "title": "A League of Their Own",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/a-league-of-their-own/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "CatVideoFest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "5:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-06-12 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c392850>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Disclosure Day in 70mm",
+    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "showtimes": [
+     "12:00pm",
+     "3:15pm",
+     "6:45pm",
+     "9:55pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
+    "rating": "",
+    "runtime": "2hrs 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
+   },
+   {
+    "title": "Stop! That! Train!",
+    "synopsis": "The greatest trainwreck in herstory.",
+    "showtimes": [
+     "7:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/stop-train",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
+   },
+   {
+    "title": "It (2017)",
+    "synopsis": "You'll float too.",
+    "showtimes": [
+     "11:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/it-2017",
+    "rating": "",
+    "runtime": "2hrs 15mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IT-09695r.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c3925d0>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Prince: Sign 'o' the Times",
+    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
+    "showtimes": [
+     "1:00 pm 35mm",
+     "8:30 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
+   },
+   {
+    "title": "The Last One for the Road",
+    "synopsis": "Director: Francesco Sossai Run Time: 98 min. Format: DCP Release Year: 2025 Language: Italian with English subtitles",
+    "showtimes": [
+     "3:30 pm Premiere",
+     "6:00 pm Premiere"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-last-one-for-the-road/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
+   },
+   {
+    "title": "Purple Rain",
+    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
+    "showtimes": [
+     "8:30 pm",
+     "1:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/purple-rain/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c390a50>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12"
@@ -65,37 +294,226 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c392210>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Mandalorian And Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "10:35AM",
+     "1:20PM",
+     "4:10PM",
+     "7:05PM",
+     "9:40PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Scary Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:40AM",
+     "1:00PM",
+     "3:20PM",
+     "5:35PM",
+     "7:50PM",
+     "10:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "2:00PM",
+     "4:30PM",
+     "7:10PM",
+     "9:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Masters Of The Universe",
+    "synopsis": "",
+    "showtimes": [
+     "10:55AM",
+     "6:30PM",
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/masters-of-the-universe",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Power Ballad",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM",
+     "1:30PM",
+     "4:00PM",
+     "6:35PM",
+     "9:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/power-ballad",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "11:10AM",
+     "1:45PM",
+     "4:20PM",
+     "6:55PM",
+     "9:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Masters Of The Universe",
+    "synopsis": "",
+    "showtimes": [
+     "12:40PM",
+     "3:50PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-masters-of-the-universe",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:25PM",
+     "3:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "10:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c391f90>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Halcyon Music Festival \u2013 Otherworldly",
+    "synopsis": "Mozart | Flute Quartet No. 1 in D Major, K. 285 Ives | String Quartet No. 1, \u2018From the Salvation Army\u2019 Beethoven | Piano Trio No. 1 in D Major, Op. 70, \u2018Ghost\u2019",
+    "showtimes": [
+     "7:00 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "St. John\u2019s Episcopal Church, 101 Chapel Street, in Portsmouth",
+    "url": "https://buytickets.at/halcyonmusicfestival/2046108",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Rockport Music \u2013 Opening Night",
+    "synopsis": "Jon Kimura Parker, piano | Chee-Yun Kim, violin | Barry Shiffman, viola | Colin Carr, cello | Mira Kardan, celloBRAHMS: 3 Intermezzi, Op. 117 ARENSKY: Quartet No. 2 in A minor BRAHMS: Piano Quartet in C minor",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
+    "url": "https://rockportmusic.org/rockport-chamber-music-festival/#",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1781236800000&endms=1781323200000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c391e50>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "title": "SARAH HANAHAN QUARTET",
+    "synopsis": "",
+    "showtimes": [
+     "One show at 7pm"
+    ],
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://www.ticketweb.com/event/sarah-hanahan-quartet-scullers-jazz-club-tickets/14848393?pl=scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-11T15-21-26_SARAH%20HANAHAN%202026-StandardPoster.jpg"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "title": "Bill Frisell with Luke Bergman & Tim Angulo: 75th Birthday Celebration",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/85/11/44_Listings.jpg?v=5"
+   },
+   {
+    "title": "Bill Frisell with Luke Bergman & Tim Angulo: 75th Birthday Celebration",
+    "synopsis": "",
+    "showtimes": [
+     "9:00 PM"
+    ],
+    "theater": "Regattabar",
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/85/11/44_Listings.jpg?v=5"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -116,16 +534,18 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c391950>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c390cd0>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No dance events found for today.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com"
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
    }
   ]
  }
