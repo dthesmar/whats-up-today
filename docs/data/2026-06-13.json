@@ -1,23 +1,203 @@
 {
  "meta": {
-  "scraped_at": "2026-06-07T10:18:04.527221",
+  "scraped_at": "2026-06-07T17:08:14.864441",
   "date": "2026-06-13"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19: no movies found on Fandango.",
+    "title": "Amores perros (2000)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-13"
+    "url": "https://www.fandango.com/amores-perros-2000-22163/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/22163/Amores-Perros_EN-US_OS-Digital_ComingSoon.jpg"
+   },
+   {
+    "title": "Ponyo - Studio Ghibli Fest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/ponyo-studio-ghibli-fest-2026-245494/movie-overview",
+    "rating": "G",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245494/1000x1480_Ponyo_TixThumb_Exh_2026_Final.jpg"
+   },
+   {
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:30 PM",
+     "7:00 PM",
+     "10:30 PM",
+     "11:00 AM",
+     "2:30 PM",
+     "6:00 PM",
+     "9:30 PM",
+     "1:00 PM",
+     "4:30 PM",
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
+   },
+   {
+    "title": "Jinsei (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/jinsei-2026-245423/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245423/jinsei_for_digital.jpg"
+   },
+   {
+    "title": "Main Vaapas Aaunga (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/main-vaapas-aaunga-2026-245689/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245689/MVA_NorthAmerica_1080x1600.jpg"
+   },
+   {
+    "title": "Stop! That! Train! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "10:00 PM",
+     "2:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244811/stopthattrain_presale.jpg"
+   },
+   {
+    "title": "The Furious (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-furious-2026-245071/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245071/thefurious2026.jpg"
+   },
+   {
+    "title": "Masters of the Universe (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "7:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239690/MOTU_2026_Payoff_Static_Poster_2765x4096.jpg"
+   },
+   {
+    "title": "Scary Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/scary-movie-2026-245093/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/SCRY_THEATRE_OnLine_Teaser_One_Sheet_2025x3000_04.30.26_NO_TECH.jpg"
+   },
+   {
+    "title": "The Amazing Digital Circus: The Last Act (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-amazing-digital-circus-the-last-act-2026-245189/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/1000x1480_TADC_TixThumb_Exh_2026_Final.png"
+   },
+   {
+    "title": "Call Me by Your Name",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/call-me-by-your-name-204245/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/204245/CallMeByYourName2017.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-13\", waiting until \"domcontentloaded\"\n",
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:50 PM",
+     "3:50 PM",
+     "6:50 PM",
+     "9:20 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-13"
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -240,6 +420,34 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show with Teseracte Players",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-rocky-horror-picture-show-with-teseracte-players/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+   },
+   {
     "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
@@ -365,10 +573,21 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-13\", waiting until \"domcontentloaded\"\n",
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:05 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-13"
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -599,16 +818,32 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "title": "CELEBRATE THE SOUNDS OF SOUL AND R&B SECOND SHOW ADDED AT 9PM!",
+    "synopsis": "",
+    "showtimes": [
+     "Shows at 7 and 9pm"
+    ],
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://www.ticketweb.com/search?q=celebrate+the+sounds+scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-16T17-30-07_celebrate%20men%20and%20women%20of%20soul%202026-StandardPoster.jpg"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "title": "Stanley Sagov & the Remembering the Future Jazz Workshop",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/90/65/94_Listings.jpg?v=5"
    }
   ],
   "Wally's Cafe Jazz Club": [
