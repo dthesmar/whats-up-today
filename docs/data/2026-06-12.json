@@ -1,23 +1,171 @@
 {
  "meta": {
-  "scraped_at": "2026-06-06T22:51:16.241825",
+  "scraped_at": "2026-06-07T09:58:55.933109",
   "date": "2026-06-12"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:30 PM",
+     "7:00 PM",
+     "10:30 PM",
+     "2:30 PM",
+     "6:00 PM",
+     "9:30 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-12"
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
+   },
+   {
+    "title": "Disclosure Day: IMAX Live Pre-Show Q&A with Steven Spielberg and Emily Blunt",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/disclosure-day-imax-live-pre-show-qanda-with-steven-spielberg-and-emily-blunt-245960/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245960/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
+   },
+   {
+    "title": "Jinsei (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/jinsei-2026-245423/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245423/jinsei_for_digital.jpg"
+   },
+   {
+    "title": "Main Vaapas Aaunga (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/main-vaapas-aaunga-2026-245689/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245689/MVA_NorthAmerica_1080x1600.jpg"
+   },
+   {
+    "title": "Stop! That! Train! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "2:30 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244811/stopthattrain_presale.jpg"
+   },
+   {
+    "title": "The Furious (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-furious-2026-245071/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245071/thefurious2026.jpg"
+   },
+   {
+    "title": "Masters of the Universe (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "7:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 13 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/239690/MOTU_2026_Payoff_Static_Poster_2765x4096.jpg"
+   },
+   {
+    "title": "Scary Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/scary-movie-2026-245093/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 36 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245093/SCRY_THEATRE_OnLine_Teaser_One_Sheet_2025x3000_04.30.26_NO_TECH.jpg"
+   },
+   {
+    "title": "The Amazing Digital Circus: The Last Act (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 PM",
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-amazing-digital-circus-the-last-act-2026-245189/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245189/1000x1480_TADC_TixThumb_Exh_2026_Final.png"
+   },
+   {
+    "title": "Call Me by Your Name",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/call-me-by-your-name-204245/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/204245/CallMeByYourName2017.jpg"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:50 PM",
+     "6:50 PM",
+     "9:20 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-12"
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -234,18 +382,17 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Prince: Sign 'o' the Times",
-    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
+    "title": "Purple Rain",
+    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
     "showtimes": [
-     "1:00 pm 35mm",
-     "8:30 pm 35mm"
+     "1:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
+    "url": "https://brattlefilm.org/movies/purple-rain/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
    },
    {
     "title": "The Last One for the Road",
@@ -262,18 +409,17 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
    },
    {
-    "title": "Purple Rain",
-    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
+    "title": "Prince: Sign 'o' the Times",
+    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
     "showtimes": [
-     "8:30 pm",
-     "1:00 pm"
+     "8:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/purple-rain/",
+    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -286,10 +432,21 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12\", waiting until \"domcontentloaded\"\n",
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:05 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-12"
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/disclosureday_presale.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -300,30 +457,11 @@
      "10:35AM",
      "1:20PM",
      "4:10PM",
-     "7:05PM",
-     "9:40PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Scary Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "1:00PM",
-     "3:20PM",
-     "5:35PM",
-     "7:50PM",
-     "10:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -335,8 +473,7 @@
      "10:50AM",
      "2:00PM",
      "4:30PM",
-     "7:10PM",
-     "9:55PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -350,8 +487,7 @@
     "synopsis": "",
     "showtimes": [
      "10:55AM",
-     "6:30PM",
-     "9:30PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -367,8 +503,7 @@
      "11:00AM",
      "1:30PM",
      "4:00PM",
-     "6:35PM",
-     "9:15PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -384,8 +519,7 @@
      "11:10AM",
      "1:45PM",
      "4:20PM",
-     "6:55PM",
-     "9:35PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -395,11 +529,27 @@
     "poster": ""
    },
    {
+    "title": "Scary Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "1:50PM",
+     "4:35PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "12:40PM",
-     "3:50PM",
+     "1:00PM",
+     "4:00PM",
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -419,19 +569,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "10:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""

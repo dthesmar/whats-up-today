@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-06T22:48:47.888514",
+  "scraped_at": "2026-06-07T09:42:33.572840",
   "date": "2026-06-08"
  },
  "data": {
@@ -874,18 +874,17 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Prince: Sign 'o' the Times",
-    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
+    "title": "Purple Rain",
+    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
     "showtimes": [
-     "1:00 pm 35mm",
-     "8:30 pm 35mm"
+     "1:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
+    "url": "https://brattlefilm.org/movies/purple-rain/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
    },
    {
     "title": "The Last One for the Road",
@@ -902,18 +901,17 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
    },
    {
-    "title": "Purple Rain",
-    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
+    "title": "Prince: Sign 'o' the Times",
+    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
     "showtimes": [
-     "8:30 pm",
-     "1:00 pm"
+     "8:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/purple-rain/",
+    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1146,30 +1144,11 @@
      "10:35AM",
      "1:20PM",
      "4:10PM",
-     "7:05PM",
-     "9:40PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Scary Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "1:00PM",
-     "3:20PM",
-     "5:35PM",
-     "7:50PM",
-     "10:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1181,8 +1160,7 @@
      "10:50AM",
      "2:00PM",
      "4:30PM",
-     "7:10PM",
-     "9:55PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1196,8 +1174,7 @@
     "synopsis": "",
     "showtimes": [
      "10:55AM",
-     "6:30PM",
-     "9:30PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1213,8 +1190,7 @@
      "11:00AM",
      "1:30PM",
      "4:00PM",
-     "6:35PM",
-     "9:15PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1230,8 +1206,7 @@
      "11:10AM",
      "1:45PM",
      "4:20PM",
-     "6:55PM",
-     "9:35PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1241,11 +1216,27 @@
     "poster": ""
    },
    {
+    "title": "Scary Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "1:50PM",
+     "4:35PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "12:40PM",
-     "3:50PM",
+     "1:00PM",
+     "4:00PM",
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1265,19 +1256,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "10:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""

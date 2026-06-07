@@ -1,12 +1,12 @@
 {
  "meta": {
-  "scraped_at": "2026-06-06T22:51:52.119075",
+  "scraped_at": "2026-06-07T10:18:04.527221",
   "date": "2026-06-13"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-13\", waiting until \"domcontentloaded\"\n",
+    "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-13"
@@ -21,19 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Carrie in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/carrie-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-43.jpg"
-   },
    {
     "title": "Disclosure Day",
     "synopsis": "",
@@ -300,19 +287,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Blood Harvest (1987)",
     "synopsis": "A cocktail of vengeance and lust ...",
     "showtimes": [
@@ -324,22 +298,34 @@
     "rating": "",
     "runtime": "1hr 28mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Blood_Harvest_1986_1.2.4_2400x.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Prince: Sign 'o' the Times",
-    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
+    "title": "Purple Rain",
+    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
     "showtimes": [
-     "1:00 pm 35mm",
-     "8:30 pm 35mm"
+     "1:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
+    "url": "https://brattlefilm.org/movies/purple-rain/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
    },
    {
     "title": "The Last One for the Road",
@@ -356,18 +342,17 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
    },
    {
-    "title": "Purple Rain",
-    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
+    "title": "Prince: Sign 'o' the Times",
+    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
     "showtimes": [
-     "8:30 pm",
-     "1:00 pm"
+     "8:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/purple-rain/",
+    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -394,30 +379,11 @@
      "10:35AM",
      "1:20PM",
      "4:10PM",
-     "7:05PM",
-     "9:40PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Scary Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "1:00PM",
-     "3:20PM",
-     "5:35PM",
-     "7:50PM",
-     "10:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -429,8 +395,7 @@
      "10:50AM",
      "2:00PM",
      "4:30PM",
-     "7:10PM",
-     "9:55PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -444,8 +409,7 @@
     "synopsis": "",
     "showtimes": [
      "10:55AM",
-     "6:30PM",
-     "9:30PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -461,8 +425,7 @@
      "11:00AM",
      "1:30PM",
      "4:00PM",
-     "6:35PM",
-     "9:15PM"
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -478,8 +441,7 @@
      "11:10AM",
      "1:45PM",
      "4:20PM",
-     "6:55PM",
-     "9:35PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -489,11 +451,27 @@
     "poster": ""
    },
    {
+    "title": "Scary Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "1:50PM",
+     "4:35PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "12:40PM",
-     "3:50PM",
+     "1:00PM",
+     "4:00PM",
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -513,19 +491,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "10:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -598,6 +563,19 @@
     "poster": ""
    },
    {
+    "title": "DuBois Orchestra (ULC) \u2013 Symphonies and Songs for Strings",
+    "synopsis": "New chamber music by composer Robert Rogler, featuring a whimsical string symphony, a fiery piano trio, selections from Act III of the ballet The Twelve Dancing Princesses, and intimate songs and duets with string quartet. Inspired by the poetry of Keats, Bront\u00eb, Marlowe, and others. VOCALS: Yunona Tabala, Robert Rogle\u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "UNiversity Lutheran Church, 66 Winthrop Street, in Cambridge",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Allen Center in Newton \u2013 Sheffield Chamber Players",
     "synopsis": "Jessie Montgomery: Strum Reena Esmail : This Is It, Part 3 \u2013 world premiere Schubert: String Qt in D minor, Death and the Maiden",
     "showtimes": [
@@ -621,32 +599,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "title": "CELEBRATE THE SOUNDS OF SOUL AND R&B SECOND SHOW ADDED AT 9PM!",
-    "synopsis": "",
-    "showtimes": [
-     "Shows at 7 and 9pm"
-    ],
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://www.ticketweb.com/search?q=celebrate+the+sounds+scullers",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-16T17-30-07_celebrate%20men%20and%20women%20of%20soul%202026-StandardPoster.jpg"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "title": "Stanley Sagov & the Remembering the Future Jazz Workshop",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/90/65/94_Listings.jpg?v=5"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
