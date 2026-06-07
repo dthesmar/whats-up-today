@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-07T18:08:58.845503",
+  "scraped_at": "2026-06-07T19:10:12.249788",
   "date": "2026-06-10"
  },
  "data": {
@@ -539,20 +539,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breadwinner",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -606,6 +592,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Breadwinner",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    },
    {
     "title": "The Sheep Detectives",
