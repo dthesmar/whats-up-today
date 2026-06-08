@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-08T17:29:11.953270",
+  "scraped_at": "2026-06-08T18:30:30.737517",
   "date": "2026-06-11"
  },
  "data": {
@@ -280,7 +280,9 @@
     "synopsis": "",
     "showtimes": [
      "4:00 PM",
-     "7:00 PM"
+     "4:20 PM",
+     "7:00 PM",
+     "7:20 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -293,8 +295,7 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:05 PM",
-     "7:05 PM"
+     "4:05 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -307,8 +308,7 @@
     "title": "Power Ballad (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
-     "7:20 PM"
+     "4:25 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -321,7 +321,6 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -358,22 +357,22 @@
     "rating": "R",
     "runtime": "1 hr 48 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:55 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 59 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "",
@@ -400,6 +399,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "Disclosure Day",
