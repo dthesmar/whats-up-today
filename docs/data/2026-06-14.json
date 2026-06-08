@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-07T20:11:47.168683",
+  "scraped_at": "2026-06-08T00:56:00.806467",
   "date": "2026-06-14"
  },
  "data": {
@@ -22,17 +22,17 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "12:00 PM",
      "3:30 PM",
      "7:00 PM",
-     "9:30 PM",
+     "10:30 PM",
      "11:00 AM",
      "2:30 PM",
      "6:00 PM",
-     "8:00 PM",
+     "9:30 PM",
      "1:00 PM",
-     "4:30 PM"
+     "4:30 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -71,11 +71,11 @@
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "10:00 PM",
      "12:00 PM",
      "2:30 PM",
-     "5:00 PM"
+     "5:00 PM",
+     "7:30 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -128,10 +128,10 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
-     "10:30 PM",
      "2:15 PM",
-     "5:00 PM"
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -144,8 +144,8 @@
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "4:45 PM"
+     "4:45 PM",
+     "7:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -325,24 +325,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Purple Rain",
-    "synopsis": "Director: Albert Magnoli Run Time: 111 min. Format: DCP Release Year: 1984",
-    "showtimes": [
-     "1:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/purple-rain/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/13124744/purple-rain-1a.jpg"
-   },
-   {
     "title": "The Last One for the Road",
     "synopsis": "Director: Francesco Sossai Run Time: 98 min. Format: DCP Release Year: 2025 Language: Italian with English subtitles",
     "showtimes": [
-     "3:30 pm Premiere",
-     "6:00 pm Premiere"
+     "3:30 pm Premiere"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
@@ -350,19 +336,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13160124/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg"
-   },
-   {
-    "title": "Prince: Sign 'o' the Times",
-    "synopsis": "Director: Prince Run Time: 84 min. Format: 35mm Film Release Year: 1987",
-    "showtimes": [
-     "8:30 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/prince-sign-o-the-times/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/05/13161357/sYMeZNB33cKS8bQql85Lf0ZBBPT.jpg"
    }
   ],
   "Harvard Film Archive": [
