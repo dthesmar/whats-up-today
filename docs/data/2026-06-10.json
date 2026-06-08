@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-08T18:30:23.956586",
+  "scraped_at": "2026-06-08T19:31:41.507432",
   "date": "2026-06-10"
  },
  "data": {
@@ -48,8 +48,8 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "7:15 PM",
+     "12:00 PM",
      "12:45 PM",
      "4:15 PM",
      "2:45 PM",
@@ -88,12 +88,12 @@
      "10:30 PM",
      "1:00 PM",
      "6:30 PM",
-     "12:00 PM",
      "2:30 PM",
      "3:30 PM",
      "5:00 PM",
      "8:45 PM",
-     "9:30 PM"
+     "9:30 PM",
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -106,8 +106,8 @@
     "title": "Peddi (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "9:15 PM"
+     "9:15 PM",
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -138,11 +138,11 @@
     "showtimes": [
      "3:45 PM",
      "9:15 PM",
-     "12:00 PM",
      "2:45 PM",
      "6:00 PM",
      "7:15 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -155,10 +155,10 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "3:15 PM",
      "6:45 PM",
-     "9:00 PM"
+     "9:00 PM",
+     "12:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -185,9 +185,9 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "4:00 PM",
-     "9:45 PM"
+     "9:45 PM",
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -243,12 +243,12 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "1:15 PM",
      "3:00 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "12:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -307,8 +307,8 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "10:00 PM"
+     "10:00 PM",
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -321,8 +321,8 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
-     "10:00 PM"
+     "10:00 PM",
+     "12:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -459,19 +459,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -484,6 +471,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
     "title": "I Love Boosters",
@@ -541,18 +541,18 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Breadwinner",
+    "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
-     "7:00 pm"
+     "7:40 pm",
+     "4:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -584,33 +584,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
    },
    {
-    "title": "Pressure",
+    "title": "The Breadwinner",
     "synopsis": "",
     "showtimes": [
-     "5:10 pm",
-     "7:30 pm",
-     "4:40 pm"
+     "4:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "url": "https://www.capitoltheatreusa.com/movie/the-breadwinner/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-25.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -624,6 +609,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Pressure",
+    "synopsis": "",
+    "showtimes": [
+     "5:10 pm",
+     "7:30 pm",
+     "4:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "Member Screening",
