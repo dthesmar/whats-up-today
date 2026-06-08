@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-08T09:23:56.248344",
+  "scraped_at": "2026-06-08T10:25:25.631387",
   "date": "2026-06-14"
  },
  "data": {
@@ -188,9 +188,51 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:40 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
+     "1:00 pm",
      "4:00 pm",
      "7:00 pm"
     ],
