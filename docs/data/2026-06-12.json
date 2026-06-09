@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-09T17:24:08.189907",
+  "scraped_at": "2026-06-09T18:25:16.281299",
   "date": "2026-06-12"
  },
  "data": {
@@ -46,8 +46,7 @@
     "title": "Jinsei (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
-     "8:00 PM"
+     "11:45 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -78,6 +77,7 @@
      "2:30 PM",
      "5:00 PM",
      "7:30 PM",
+     "8:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -940,6 +940,19 @@
   ],
   "Apple Cinemas Cambridge": [
    {
+    "title": "Bharat Bhhagya Viddhaata (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/bharat-bhhagya-viddhaata-2026-246120/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246120/bbv-1080x1600-Px.jpg"
+   },
+   {
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
@@ -973,12 +986,12 @@
     "title": "Jinsei (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
-     "12:30 PM",
-     "2:45 PM",
-     "5:00 PM",
-     "7:15 PM",
-     "9:30 PM"
+     "10:00 AM",
+     "12:45 PM",
+     "3:00 PM",
+     "5:15 PM",
+     "7:30 PM",
+     "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1004,12 +1017,12 @@
     "title": "The Furious (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "3:00 PM",
-     "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "10:15 AM",
+     "12:15 PM",
+     "2:45 PM",
+     "5:15 PM",
+     "7:45 PM",
+     "10:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1370,7 +1383,7 @@
     "title": "Bill Frisell with Luke Bergman & Tim Angulo: 75th Birthday Celebration",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM"
+     "7:00 PM (Sold Out)"
     ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",

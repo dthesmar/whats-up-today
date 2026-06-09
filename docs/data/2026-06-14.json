@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-09T17:24:24.293274",
+  "scraped_at": "2026-06-09T18:25:30.641267",
   "date": "2026-06-14"
  },
  "data": {
@@ -877,6 +877,19 @@
   ],
   "Apple Cinemas Cambridge": [
    {
+    "title": "Bharat Bhhagya Viddhaata (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/bharat-bhhagya-viddhaata-2026-246120/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246120/bbv-1080x1600-Px.jpg"
+   },
+   {
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
@@ -910,10 +923,11 @@
     "title": "Jinsei (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:00 AM",
      "2:30 PM",
      "5:00 PM",
-     "7:15 PM",
-     "9:30 PM"
+     "7:30 PM",
+     "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -939,12 +953,12 @@
     "title": "The Furious (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "3:00 PM",
-     "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "10:30 AM",
+     "12:15 PM",
+     "2:45 PM",
+     "5:15 PM",
+     "7:45 PM",
+     "10:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1071,7 +1085,6 @@
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "4:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
