@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-08T19:31:41.507432",
+  "scraped_at": "2026-06-08T20:33:31.138614",
   "date": "2026-06-10"
  },
  "data": {
@@ -48,8 +48,8 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "12:00 PM",
+     "7:15 PM",
      "12:45 PM",
      "4:15 PM",
      "2:45 PM",
@@ -88,12 +88,12 @@
      "10:30 PM",
      "1:00 PM",
      "6:30 PM",
+     "12:00 PM",
      "2:30 PM",
      "3:30 PM",
      "5:00 PM",
      "8:45 PM",
-     "9:30 PM",
-     "12:00 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -106,8 +106,8 @@
     "title": "Peddi (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:15 PM",
-     "12:00 PM"
+     "12:00 PM",
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -138,11 +138,11 @@
     "showtimes": [
      "3:45 PM",
      "9:15 PM",
+     "12:00 PM",
      "2:45 PM",
      "6:00 PM",
      "7:15 PM",
-     "10:15 PM",
-     "12:00 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -155,10 +155,10 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:15 PM",
      "3:15 PM",
      "6:45 PM",
-     "9:00 PM",
-     "12:15 PM"
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -185,9 +185,9 @@
     "title": "I Love Boosters (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:00 PM",
      "4:00 PM",
-     "9:45 PM",
-     "12:00 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -243,12 +243,12 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:15 PM",
      "1:15 PM",
      "3:00 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM",
-     "12:15 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -307,8 +307,8 @@
     "title": "The Super Mario Galaxy Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM",
-     "12:00 PM"
+     "12:00 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -321,8 +321,8 @@
     "title": "Project Hail Mary (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM",
-     "12:15 PM"
+     "12:15 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -541,20 +541,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -624,6 +610,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm",
+     "4:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Member Screening",

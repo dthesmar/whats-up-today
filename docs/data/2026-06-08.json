@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-08T19:31:27.184908",
+  "scraped_at": "2026-06-08T20:33:16.511260",
   "date": "2026-06-08"
  },
  "data": {
@@ -57,7 +57,6 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM",
      "9:00 PM"
     ],
@@ -85,7 +84,6 @@
     "title": "The Amazing Digital Circus: The Last Act (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -100,7 +98,6 @@
     "synopsis": "",
     "showtimes": [
      "9:15 PM",
-     "7:15 PM",
      "8:15 PM",
      "10:00 PM",
      "10:30 PM"
@@ -116,7 +113,6 @@
     "title": "Pressure (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -129,9 +125,7 @@
    {
     "title": "The Breadwinner (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-breadwinner-2026-243767/movie-overview",
@@ -194,7 +188,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -219,7 +212,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -324,39 +316,15 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
    },
    {
-    "title": "Tuner (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 49 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
-   },
-   {
     "title": "Obsession (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
     "rating": "R",
     "runtime": "1 hr 48 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2 (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-devil-wears-prada-2-2026-243909/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 59 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243909/DWP2_OOH_SHELTER_STAIRCASE_GROUP_FIN-12_Simplified_Mech7.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -537,20 +505,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm",
-     "4:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -596,8 +550,8 @@
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm",
-     "4:40 pm"
+     "4:40 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -605,6 +559,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -855,7 +823,6 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -907,9 +874,7 @@
    {
     "title": "Pressure (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/pressure-2026-244744/movie-overview",
