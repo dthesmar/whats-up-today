@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-11T00:15:18.775141",
+  "scraped_at": "2026-06-11T11:02:52.236547",
   "date": "2026-06-13"
  },
  "data": {
@@ -1016,19 +1016,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Blood Harvest (1987)",
     "synopsis": "A cocktail of vengeance and lust ...",
     "showtimes": [
@@ -1040,6 +1027,19 @@
     "rating": "",
     "runtime": "1hr 28mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Blood_Harvest_1986_1.2.4_2400x.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -1056,6 +1056,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13162343/n36zycrAqHn2uzx65IeAdnsZcMj-scaled.jpg"
+   },
+   {
+    "title": "Night on Earth",
+    "synopsis": "Director: Jim Jarmusch Run Time: 128 min. Format: DCP Release Year: 1991 Language: English, French, Italian, Finnish and German with English subtitles",
+    "showtimes": [
+     "8:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/night-on-earth/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/13124134/night-on-earth-12.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1308,9 +1321,7 @@
     "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "1:00PM",
-     "4:00PM",
-     "7:00PM"
+     "12:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1320,24 +1331,10 @@
     "poster": ""
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:05PM",
-     "3:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "1:10PM",
+     "12:45PM",
      "4:05PM",
      "7:05PM"
     ],
@@ -1349,11 +1346,24 @@
     "poster": ""
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Power Ballad",
     "synopsis": "",
     "showtimes": [
      "1:15PM",
-     "4:10PM",
+     "3:55PM",
      "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1409,10 +1419,25 @@
     "poster": ""
    },
    {
+    "title": "CWX Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "3:30PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "6:30PM"
+     "3:40PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",

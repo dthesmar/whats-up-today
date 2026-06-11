@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-11T00:35:23.306861",
+  "scraped_at": "2026-06-11T11:03:48.372749",
   "date": "2026-06-17"
  },
  "data": {
@@ -826,6 +826,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13162343/n36zycrAqHn2uzx65IeAdnsZcMj-scaled.jpg"
+   },
+   {
+    "title": "Night on Earth",
+    "synopsis": "Director: Jim Jarmusch Run Time: 128 min. Format: DCP Release Year: 1991 Language: English, French, Italian, Finnish and German with English subtitles",
+    "showtimes": [
+     "8:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/night-on-earth/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/13124134/night-on-earth-12.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1078,9 +1091,7 @@
     "title": "CWX Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "1:00PM",
-     "4:00PM",
-     "7:00PM"
+     "12:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1090,24 +1101,10 @@
     "poster": ""
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:05PM",
-     "3:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "1:10PM",
+     "12:45PM",
      "4:05PM",
      "7:05PM"
     ],
@@ -1119,11 +1116,24 @@
     "poster": ""
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Power Ballad",
     "synopsis": "",
     "showtimes": [
      "1:15PM",
-     "4:10PM",
+     "3:55PM",
      "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -1179,10 +1189,25 @@
     "poster": ""
    },
    {
+    "title": "CWX Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "3:30PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
-     "6:30PM"
+     "3:40PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
