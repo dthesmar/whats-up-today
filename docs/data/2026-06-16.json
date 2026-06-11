@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-11T11:03:38.183942",
+  "scraped_at": "2026-06-11T18:16:52.724620",
   "date": "2026-06-16"
  },
  "data": {
@@ -519,19 +519,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
-   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
@@ -556,6 +543,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "The Odyssey in 70mm",
@@ -601,20 +601,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "Pressure",
     "synopsis": "",
     "showtimes": [
@@ -641,6 +627,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -1203,6 +1203,19 @@
     "theater": "Classical Music (Boston)",
     "address": "St. Anne\u2019s in-the-Fields, 145 Concord Road, in Lincoln",
     "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Masterworks Chorale (GC) \u2013 Summer Sing",
+    "synopsis": "Mozart: Requiem Bring your score or borrow one of ours! $20 suggested",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Grace Chapel, 59 Worthen Road, in Lexington",
+    "url": "https://masterworkschorale.app.neoncrm.com/forms/11",
     "rating": "",
     "runtime": "",
     "poster": ""
