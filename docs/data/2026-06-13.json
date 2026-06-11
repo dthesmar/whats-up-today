@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-11T18:16:29.514213",
+  "scraped_at": "2026-06-11T19:17:33.821759",
   "date": "2026-06-13"
  },
  "data": {
@@ -770,21 +770,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "Masters of the Universe",
     "synopsis": "",
     "showtimes": [
@@ -824,6 +809,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -1016,19 +1016,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Blood Harvest (1987)",
     "synopsis": "A cocktail of vengeance and lust ...",
     "showtimes": [
@@ -1040,6 +1027,19 @@
     "rating": "",
     "runtime": "1hr 28mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Blood_Harvest_1986_1.2.4_2400x.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
