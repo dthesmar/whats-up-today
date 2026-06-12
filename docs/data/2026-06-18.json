@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-12T14:53:08.346413",
+  "scraped_at": "2026-06-12T15:55:52.554672",
   "date": "2026-06-18"
  },
  "data": {
@@ -109,7 +109,7 @@
     "synopsis": "",
     "showtimes": [
      "12:00 PM",
-     "5:00 PM"
+     "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -117,6 +117,32 @@
     "rating": "R",
     "runtime": "1 hr 32 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244811/StopThatTrain_DigitalLobby_1033x1530.jpg"
+   },
+   {
+    "title": "The Furious (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-furious-2026-245071/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245071/FURIOUS_2000x3000_ONLINE_1SHT_2x3_PAYOFF_V3.jpg"
+   },
+   {
+    "title": "Another World (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/another-world-2026-245735/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 51 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245735/AWRLD_Poster_27x39-5_WEB_Dated.jpg"
    },
    {
     "title": "Masters of the Universe (2026)",
@@ -148,10 +174,8 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
-     "5:00 PM",
-     "7:45 PM",
-     "10:30 PM"
+     "12:00 PM",
+     "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -228,6 +252,19 @@
     "rating": "PG13",
     "runtime": "2 hr 12 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242515/THA_4DX-KEYART_v20_CinemaCon_Mech3.jpg"
+   },
+   {
+    "title": "Tuner (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244115/BB_Tuner_KeyartResize_FB_X_1080x1600_R2A_Alt.jpg"
    },
    {
     "title": "Obsession (2026)",
