@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-12T09:31:12.844773",
+  "scraped_at": "2026-06-12T11:13:21.727576",
   "date": "2026-06-19"
  },
  "data": {
@@ -428,19 +428,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
    },
    {
-    "title": "Terrifier 2",
-    "synopsis": "Who's laughing now?",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/terrifier-2",
-    "rating": "",
-    "runtime": "2hrs 18mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Art-_-Sienna-web.jpg"
-   },
-   {
     "title": "The Room",
     "synopsis": "Oh, hi Mark.",
     "showtimes": [
@@ -452,6 +439,19 @@
     "rating": "",
     "runtime": "1hr 30mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
+   },
+   {
+    "title": "Terrifier 2",
+    "synopsis": "Who's laughing now?",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/terrifier-2",
+    "rating": "",
+    "runtime": "2hrs 18mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Art-_-Sienna-web.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -505,10 +505,28 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "title": "Toy Story 5 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "12:50 PM",
+     "3:10 PM",
+     "5:30 PM",
+     "7:50 PM",
+     "10:15 PM",
+     "10:00 AM",
+     "12:20 PM",
+     "2:40 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "10:00 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-19"
+    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
