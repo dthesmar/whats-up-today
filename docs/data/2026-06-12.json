@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-12T15:54:04.109772",
+  "scraped_at": "2026-06-12T16:56:52.965148",
   "date": "2026-06-12"
  },
  "data": {
@@ -11,7 +11,6 @@
     "showtimes": [
      "7:00 PM",
      "10:30 PM",
-     "4:30 PM",
      "8:00 PM",
      "6:00 PM",
      "9:30 PM"
@@ -81,7 +80,6 @@
     "title": "The Furious (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -118,7 +116,6 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:30 PM"
     ],
@@ -160,9 +157,7 @@
    {
     "title": "Peddi (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/peddi-2026-244813/movie-overview",
@@ -229,7 +224,6 @@
     "synopsis": "",
     "showtimes": [
      "6:15 PM",
-     "3:45 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -256,7 +250,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:15 PM",
      "8:45 PM",
      "10:30 PM"
@@ -283,7 +276,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM",
      "6:45 PM",
      "10:00 PM"
     ],
@@ -325,7 +317,6 @@
     "title": "Call Me by Your Name",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -355,7 +346,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:50 PM",
      "9:20 PM"
     ],
@@ -370,7 +360,6 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:25 PM"
     ],
@@ -398,7 +387,6 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "7:10 PM",
      "9:45 PM"
     ],
@@ -413,7 +401,6 @@
     "title": "Backrooms (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -428,7 +415,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:05 PM",
      "6:40 PM",
      "9:50 PM"
     ],
@@ -458,7 +444,6 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:00 pm",
      "10:00 pm"
     ],
@@ -470,23 +455,9 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
-   },
-   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "4:40 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -540,10 +511,22 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -557,7 +540,6 @@
     "title": "Masters of the Universe",
     "synopsis": "",
     "showtimes": [
-     "4:20 pm",
      "7:20 pm"
     ],
     "theater": "Capitol Theatre",
@@ -566,19 +548,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Pressure",
@@ -933,7 +902,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:05 PM"
     ],
@@ -1015,7 +983,6 @@
     "title": "Masters of the Universe (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -1099,9 +1066,7 @@
    {
     "title": "The Sheep Detectives (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
