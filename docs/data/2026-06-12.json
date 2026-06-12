@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-11T23:54:13.414623",
+  "scraped_at": "2026-06-12T09:29:44.367022",
   "date": "2026-06-12"
  },
  "data": {
@@ -903,31 +903,43 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Father Mother Sister Brother",
-    "synopsis": "Director: Jim Jarmusch Run Time: 110 min. Format: DCP Release Year: 2025",
+    "title": "Without You I'm Nothing",
+    "synopsis": "Director: John Boskovich Run Time: 90 min. Format: 35mm Film Release Year: 1990",
     "showtimes": [
-     "3:45 pm",
-     "6:00 pm"
+     "3:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/father-mother-sister-brother/",
+    "url": "https://brattlefilm.org/movies/without-you-im-nothing/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13162343/n36zycrAqHn2uzx65IeAdnsZcMj-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/29172205/kaMbmlrdk65N4lf2x1xqRFhKOcF.jpg"
    },
    {
-    "title": "Night on Earth",
-    "synopsis": "Director: Jim Jarmusch Run Time: 128 min. Format: DCP Release Year: 1991 Language: English, French, Italian, Finnish and German with English subtitles",
+    "title": "Black Angel",
+    "synopsis": "Director: Roy William Neill Run Time: 81 min. Format: 35mm Film Release Year: 1946",
     "showtimes": [
-     "8:15 pm"
+     "6:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/night-on-earth/",
+    "url": "https://brattlefilm.org/movies/black-angel/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/13124134/night-on-earth-12.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/15133302/sLPKGEH5jqP5EnghvLTXCASVxzu.jpg"
+   },
+   {
+    "title": "Blues in the Night",
+    "synopsis": "Director: Anatole Litvak Run Time: 88 min. Format: 35mm Film Release Year: 1941",
+    "showtimes": [
+     "8:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/blues-in-the-night/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03164940/iCi2TuEBAVEVEpsS6KGy4ZNLxuK.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1177,14 +1189,32 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Masters Of The Universe",
+    "title": "Scary Movie",
     "synopsis": "",
     "showtimes": [
-     "12:30PM"
+     "12:55PM",
+     "3:30PM",
+     "7:05PM",
+     "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-masters-of-the-universe",
+    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00PM",
+     "4:15PM",
+     "7:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-disclosure-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1193,9 +1223,9 @@
     "title": "The Mandalorian And Grogu",
     "synopsis": "",
     "showtimes": [
-     "12:45PM",
-     "4:05PM",
-     "7:05PM"
+     "1:05PM",
+     "4:10PM",
+     "6:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1205,25 +1235,11 @@
     "poster": ""
    },
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-sheep-detectives",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Power Ballad",
     "synopsis": "",
     "showtimes": [
      "1:15PM",
-     "3:55PM",
-     "6:40PM"
+     "3:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1238,7 +1254,8 @@
     "showtimes": [
      "1:20PM",
      "4:20PM",
-     "6:55PM"
+     "6:55PM",
+     "9:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1248,16 +1265,17 @@
     "poster": ""
    },
    {
-    "title": "Scary Movie",
+    "title": "Masters Of The Universe",
     "synopsis": "",
     "showtimes": [
      "1:30PM",
      "4:35PM",
-     "7:15PM"
+     "7:40PM",
+     "9:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/scary-movie",
+    "url": "https://arsenalyards.cwtheaters.com/movie/masters-of-the-universe",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1266,9 +1284,10 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "1:35PM",
+     "1:40PM",
      "4:30PM",
-     "7:10PM"
+     "7:10PM",
+     "9:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1278,29 +1297,15 @@
     "poster": ""
    },
    {
-    "title": "CWX Disclosure Day",
+    "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "3:30PM",
-     "7:00PM"
+     "6:00PM",
+     "9:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-disclosure-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Masters Of The Universe",
-    "synopsis": "",
-    "showtimes": [
-     "3:40PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/masters-of-the-universe",
+    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
     "rating": "",
     "runtime": "",
     "poster": ""
