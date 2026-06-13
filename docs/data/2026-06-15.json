@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-12T16:57:45.139280",
+  "scraped_at": "2026-06-13T00:51:44.248631",
   "date": "2026-06-15"
  },
  "data": {
@@ -895,43 +895,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Without You I'm Nothing",
-    "synopsis": "Director: John Boskovich Run Time: 90 min. Format: 35mm Film Release Year: 1990",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/without-you-im-nothing/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/29172205/kaMbmlrdk65N4lf2x1xqRFhKOcF.jpg"
-   },
-   {
-    "title": "Black Angel",
-    "synopsis": "Director: Roy William Neill Run Time: 81 min. Format: 35mm Film Release Year: 1946",
-    "showtimes": [
-     "6:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/black-angel/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/15133302/sLPKGEH5jqP5EnghvLTXCASVxzu.jpg"
-   },
-   {
-    "title": "Blues in the Night",
-    "synopsis": "Director: Anatole Litvak Run Time: 88 min. Format: 35mm Film Release Year: 1941",
-    "showtimes": [
-     "8:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/blues-in-the-night/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03164940/iCi2TuEBAVEVEpsS6KGy4ZNLxuK.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

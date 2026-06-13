@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-12T16:57:09.986202",
+  "scraped_at": "2026-06-13T00:40:18.598204",
   "date": "2026-06-13"
  },
  "data": {
@@ -542,6 +542,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
+    "title": "I Love Boosters",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
+   },
+   {
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
@@ -569,19 +582,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
-    "title": "I Love Boosters",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-love-boosters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-41.jpg"
    },
    {
     "title": "The Silence of the Lambs in 4K",
@@ -1016,19 +1016,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/I%20LOVE%20BOOSTERS_Still_01_Cropped_Courtesy%20of%20NEON.jpg"
    },
    {
-    "title": "Eraserhead",
-    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/eraserhead",
-    "rating": "",
-    "runtime": "1hr 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
-   },
-   {
     "title": "Blood Harvest (1987)",
     "synopsis": "A cocktail of vengeance and lust ...",
     "showtimes": [
@@ -1040,47 +1027,27 @@
     "rating": "",
     "runtime": "1hr 28mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Blood_Harvest_1986_1.2.4_2400x.jpg"
+   },
+   {
+    "title": "Eraserhead",
+    "synopsis": "David Lynch's startling debut feature is a lasting cult sensation influenced by the writings of Franz Kafka and Nikolai Gogol.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/eraserhead",
+    "rating": "",
+    "runtime": "1hr 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Eraserhead%20new%20site.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "title": "Without You I'm Nothing",
-    "synopsis": "Director: John Boskovich Run Time: 90 min. Format: 35mm Film Release Year: 1990",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/without-you-im-nothing/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/29172205/kaMbmlrdk65N4lf2x1xqRFhKOcF.jpg"
-   },
-   {
-    "title": "Black Angel",
-    "synopsis": "Director: Roy William Neill Run Time: 81 min. Format: 35mm Film Release Year: 1946",
-    "showtimes": [
-     "6:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/black-angel/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/15133302/sLPKGEH5jqP5EnghvLTXCASVxzu.jpg"
-   },
-   {
-    "title": "Blues in the Night",
-    "synopsis": "Director: Anatole Litvak Run Time: 88 min. Format: 35mm Film Release Year: 1941",
-    "showtimes": [
-     "8:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/blues-in-the-night/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03164940/iCi2TuEBAVEVEpsS6KGy4ZNLxuK.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
