@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-14T11:04:58.497576",
+  "scraped_at": "2026-06-14T12:06:51.351731",
   "date": "2026-06-14"
  },
  "data": {
@@ -26,7 +26,6 @@
      "3:30 PM",
      "7:00 PM",
      "10:30 PM",
-     "11:00 AM",
      "2:30 PM",
      "6:00 PM",
      "9:30 PM",
@@ -173,7 +172,6 @@
     "title": "Scary Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "2:00 PM",
      "5:00 PM",
      "7:45 PM",
@@ -323,7 +321,6 @@
     "title": "The Devil Wears Prada 2 (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "2:00 PM",
      "5:00 PM",
      "8:00 PM",
@@ -340,7 +337,6 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "2:45 PM",
      "6:00 PM",
      "9:15 PM"
@@ -587,22 +583,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "2:30 pm",
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
@@ -631,6 +611,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Pressure",
@@ -928,9 +923,7 @@
    {
     "title": "Governor: The Silent Saviour (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:00 AM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/governor-the-silent-saviour-2026-246183/movie-overview",
