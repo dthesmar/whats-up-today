@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-13T22:10:21.970149",
+  "scraped_at": "2026-06-14T11:05:13.181154",
   "date": "2026-06-16"
  },
  "data": {
@@ -777,56 +777,56 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Anatomy of a Murder",
-    "synopsis": "Director: Otto Preminger Run Time: 161 min. Format: 35mm Film Release Year: 1959",
+    "title": "The Man with the Golden Arm",
+    "synopsis": "Director: Otto Preminger Run Time: 119 min. Format: Digital Projection Release Year: 1955",
     "showtimes": [
-     "12:00 pm 35mm"
+     "12:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/anatomy-of-a-murder/",
+    "url": "https://brattlefilm.org/movies/the-man-with-the-golden-arm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03165736/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171446/3biBcohe172vLq243lFKreiEOwA.jpg"
    },
    {
-    "title": "All Night Long",
-    "synopsis": "Director: Basil Dearden Run Time: 91 min. Format: DCP Release Year: 1962",
+    "title": "A Man Called Adam",
+    "synopsis": "Director: Leo Penn Run Time: 99 min. Format: DCP Release Year: 1966",
     "showtimes": [
-     "3:15 pm"
+     "2:45 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/all-night-long/",
+    "url": "https://brattlefilm.org/movies/a-man-called-adam/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03170055/davOfwYOgOTLsJLSasJQ6tOAzgh.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171719/nrALjYHjdYEsV4qBULc3SG8SXLa.jpg"
    },
    {
-    "title": "Gilda",
-    "synopsis": "Director: Charles Vidor Run Time: 110 min. Format: 35mm Film Release Year: 1946",
+    "title": "The Yellow Canary",
+    "synopsis": "Director: Buzz Kulik Run Time: 93 min. Format: DCP Release Year: 1963",
     "showtimes": [
-     "6:00 pm 35mm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/gilda/",
+    "url": "https://brattlefilm.org/movies/the-yellow-canary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/02/03170442/gilda-P_ver2.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171837/fO8eodBogE2AbU72IQlXHRsskJ5.jpg"
    },
    {
-    "title": "To Have and Have Not",
-    "synopsis": "Director: Howard Hawks Run Time: 100 min. Format: 35mm Film Release Year: 1945",
+    "title": "The Crimson Canary",
+    "synopsis": "Director: John Hoffman Run Time: 64 min. Format: 35mm Film Release Year: 1945",
     "showtimes": [
-     "8:30 pm 35mm"
+     "8:15 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/to-have-and-have-not/",
+    "url": "https://brattlefilm.org/movies/the-crimson-canary/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/08/16164959/7ZuOjLr5yQUG5qCXGQjyDQEqx29-e1723843821993.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03172135/35a54ew9m0YSzxpobabnc7btmw8.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1081,28 +1081,11 @@
     "showtimes": [
      "10:30AM",
      "2:55PM",
-     "6:25PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-mandalorian-and-grogu",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Masters Of The Universe",
-    "synopsis": "",
-    "showtimes": [
-     "10:35AM",
-     "1:30PM",
-     "4:35PM",
-     "7:40PM",
-     "9:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/masters-of-the-universe",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1114,8 +1097,7 @@
      "10:45AM",
      "1:20PM",
      "4:20PM",
-     "6:55PM",
-     "9:30PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1125,14 +1107,29 @@
     "poster": ""
    },
    {
+    "title": "Masters Of The Universe",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "1:30PM",
+     "4:35PM",
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/masters-of-the-universe",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "1:35PM",
-     "4:30PM",
-     "7:10PM",
-     "9:40PM"
+     "11:05AM",
+     "1:50PM",
+     "4:45PM",
+     "7:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1146,10 +1143,9 @@
     "synopsis": "",
     "showtimes": [
      "11:15AM",
-     "1:50PM",
-     "4:45PM",
-     "7:05PM",
-     "9:35PM"
+     "1:45PM",
+     "4:25PM",
+     "7:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1163,8 +1159,7 @@
     "synopsis": "",
     "showtimes": [
      "11:30AM",
-     "6:00PM",
-     "9:10PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1192,8 +1187,8 @@
     "title": "Power Ballad",
     "synopsis": "",
     "showtimes": [
-     "1:40PM",
-     "4:05PM"
+     "1:55PM",
+     "4:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
