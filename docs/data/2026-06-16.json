@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-15T02:09:12.778329",
+  "scraped_at": "2026-06-15T06:56:03.071212",
   "date": "2026-06-16"
  },
  "data": {
@@ -777,10 +777,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Rye Barcott",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-rye-barcott/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27151839/image-2.jpeg"
+   },
+   {
+    "title": "Sweet Smell of Success",
+    "synopsis": "Director: Alexander Mackendrick Run Time: 97 min. Format: DCP Release Year: 1957",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sweet-smell-of-success/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/10/21145046/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg"
    }
   ],
   "Harvard Film Archive": [

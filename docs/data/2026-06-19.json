@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-15T02:10:16.269689",
+  "scraped_at": "2026-06-15T07:06:32.528246",
   "date": "2026-06-19"
  },
  "data": {
@@ -50,7 +50,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-death-of-robin-hood-2026-243756/movie-overview",
     "rating": "R",
-    "runtime": "",
+    "runtime": "2 hr 3 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243756/DRH_321_DIGITAL-FINISH_2025x3000_V70.jpg"
    },
    {
@@ -293,19 +293,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Terrifier 2",
     "synopsis": "Who's laughing now?",
     "showtimes": [
@@ -317,14 +304,47 @@
     "rating": "",
     "runtime": "2hrs 18mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Art-_-Sienna-web.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Rye Barcott",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-rye-barcott/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27151839/image-2.jpeg"
+   },
+   {
+    "title": "Sweet Smell of Success",
+    "synopsis": "Director: Alexander Mackendrick Run Time: 97 min. Format: DCP Release Year: 1957",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sweet-smell-of-success/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/10/21145046/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg"
    }
   ],
   "Harvard Film Archive": [

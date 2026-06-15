@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-15T02:11:57.967490",
+  "scraped_at": "2026-06-15T07:24:06.874367",
   "date": "2026-06-22"
  },
  "data": {
@@ -74,7 +74,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-death-of-robin-hood-2026-243756/movie-overview",
     "rating": "R",
-    "runtime": "",
+    "runtime": "2 hr 3 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243756/DRH_321_DIGITAL-FINISH_2025x3000_V70.jpg"
    },
    {
@@ -148,7 +148,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-22\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-22"
@@ -425,10 +425,30 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Harvard Book Store Presents Rye Barcott",
+    "synopsis": "Run Time: 90 min.",
+    "showtimes": [
+     "6:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-rye-barcott/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/27151839/image-2.jpeg"
+   },
+   {
+    "title": "Sweet Smell of Success",
+    "synopsis": "Director: Alexander Mackendrick Run Time: 97 min. Format: DCP Release Year: 1957",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sweet-smell-of-success/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/10/21145046/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -441,28 +461,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Toy Story 5 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 AM",
-     "12:50 PM",
-     "3:10 PM",
-     "5:30 PM",
-     "7:50 PM",
-     "10:15 PM",
-     "10:00 AM",
-     "12:20 PM",
-     "2:40 PM",
-     "5:00 PM",
-     "7:30 PM",
-     "10:00 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-22\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-22"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
