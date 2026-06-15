@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-15T09:41:44.966990",
+  "scraped_at": "2026-06-15T19:43:27.526244",
   "date": "2026-06-22"
  },
  "data": {
@@ -156,23 +156,22 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Obsession",
+    "title": "Maverick in 35mm",
     "synopsis": "",
     "showtimes": [
-     "3:45 pm"
+     "9:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "url": "https://www.somervilletheatre.com/production/maverick/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
    },
    {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -186,8 +185,7 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "4:40 pm",
-     "7:20 pm"
+     "5:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -195,32 +193,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Tombstone",
-    "synopsis": "",
-    "showtimes": [
-     "6:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/tombstone/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
-   },
-   {
-    "title": "Maverick in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "9:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/maverick/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
    },
    {
     "title": "Breakdown in 35mm",
@@ -317,11 +289,26 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm",
+     "2:00 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "Star Wars: The Mandalorian and Grogu",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -331,39 +318,10 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
-    "title": "Masters of the Universe",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 pm",
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/masters-of-the-universe/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/MOTU_2026_Payoff_Static_Poster_2765x4096-600x889.jpg"
-   },
-   {
-    "title": "Pressure",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/pressure/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -371,20 +329,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -400,6 +344,36 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "1:40 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "Unidentified",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -441,7 +415,7 @@
     "title": "Sweet Smell of Success",
     "synopsis": "Director: Alexander Mackendrick Run Time: 97 min. Format: DCP Release Year: 1957",
     "showtimes": [
-     "8:00 pm"
+     "8:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
