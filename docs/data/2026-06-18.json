@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-14T23:25:36.792987",
+  "scraped_at": "2026-06-15T00:49:50.246175",
   "date": "2026-06-18"
  },
  "data": {
@@ -689,56 +689,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Man with the Golden Arm",
-    "synopsis": "Director: Otto Preminger Run Time: 119 min. Format: Digital Projection Release Year: 1955",
-    "showtimes": [
-     "12:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-man-with-the-golden-arm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171446/3biBcohe172vLq243lFKreiEOwA.jpg"
-   },
-   {
-    "title": "A Man Called Adam",
-    "synopsis": "Director: Leo Penn Run Time: 99 min. Format: DCP Release Year: 1966",
-    "showtimes": [
-     "2:45 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/a-man-called-adam/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171719/nrALjYHjdYEsV4qBULc3SG8SXLa.jpg"
-   },
-   {
-    "title": "The Yellow Canary",
-    "synopsis": "Director: Buzz Kulik Run Time: 93 min. Format: DCP Release Year: 1963",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-yellow-canary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03171837/fO8eodBogE2AbU72IQlXHRsskJ5.jpg"
-   },
-   {
-    "title": "The Crimson Canary",
-    "synopsis": "Director: John Hoffman Run Time: 64 min. Format: 35mm Film Release Year: 1945",
-    "showtimes": [
-     "8:15 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-crimson-canary/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/03172135/35a54ew9m0YSzxpobabnc7btmw8.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
