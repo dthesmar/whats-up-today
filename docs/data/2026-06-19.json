@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-16T12:43:24.698951",
+  "scraped_at": "2026-06-16T13:44:33.305296",
   "date": "2026-06-19"
  },
  "data": {
@@ -35,7 +35,7 @@
     "url": "https://www.fandango.com/girls-like-girls-2026-244464/movie-overview",
     "rating": "R",
     "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244464/girlslikegirls_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244464/GLG_new_digital.jpg"
    },
    {
     "title": "Leviticus (2026)",
@@ -112,7 +112,7 @@
     "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
     "rating": "PG",
     "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
    },
    {
     "title": "Disclosure Day (2026)",
@@ -362,7 +362,7 @@
     "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
     "rating": "PG",
     "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
    },
    {
     "title": "Disclosure Day (2026)",
@@ -640,17 +640,96 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
     "showtimes": [
-     "11:59pm"
+     "1:00pm",
+     "4:00pm",
+     "6:30pm",
+     "9:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
+    "url": "https://www.coolidge.org/films/backrooms",
     "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "1:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "From writer/director Michael Sarnoski (Pig) & starring Hugh Jackman, Jodie Comer, & Bill Skarsg\u00e5rd.",
+    "showtimes": [
+     "1:40pm",
+     "4:30pm",
+     "7:15pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/death-robin-hood",
+    "rating": "",
+    "runtime": "2hrs 3mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DORH%20-%20smaller.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "1:50pm",
+     "4:15pm",
+     "7:00pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Leviticus (2026)",
+    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
+    "showtimes": [
+     "2:15pm",
+     "5:00pm",
+     "7:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/leviticus-2026",
+    "rating": "",
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
+   },
+   {
+    "title": "Stop! That! Train!",
+    "synopsis": "The greatest trainwreck in herstory.",
+    "showtimes": [
+     "4:05pm",
+     "6:15pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/stop-train",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
    },
    {
     "title": "Terrifier 2",
@@ -664,6 +743,19 @@
     "rating": "",
     "runtime": "2hrs 18mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Art-_-Sienna-web.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -750,7 +842,7 @@
     "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
     "rating": "PG",
     "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
    },
    {
     "title": "Disclosure Day (2026)",
