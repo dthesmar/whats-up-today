@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-16T02:02:33.788323",
+  "scraped_at": "2026-06-16T06:37:20.714387",
   "date": "2026-06-20"
  },
  "data": {
@@ -16,7 +16,7 @@
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/cocktail-2-2026-246069/movie-overview",
     "rating": "Not Rated",
-    "runtime": "",
+    "runtime": "1 hr 29 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246069/Cocktail%202.jpg"
    },
    {
@@ -756,10 +756,33 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Before Sunrise",
+    "synopsis": "Director: Richard Linklater Run Time: 101 min. Release Year: 1995",
+    "showtimes": [
+     "3:30 pm",
+     "6:00 pm",
+     "4:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/before-sunrise/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02115901/qA2TyqPldTtoTVY3LKrNIG5g6bH-scaled.jpg"
+   },
+   {
+    "title": "Stop Making Sense",
+    "synopsis": "Director: Jonathan Demme Run Time: 88 min. Format: DCP Release Year: 1984",
+    "showtimes": [
+     "6:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/stop-making-sense/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/10/02114733/SMS_014-copy-SMALL.png"
    }
   ],
   "Harvard Film Archive": [
