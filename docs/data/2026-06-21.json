@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-16T06:37:26.972710",
+  "scraped_at": "2026-06-16T10:11:36.081790",
   "date": "2026-06-21"
  },
  "data": {
@@ -662,10 +662,15 @@
      "7:50 PM",
      "10:15 PM",
      "10:00 AM",
+     "11:00 AM",
      "12:20 PM",
+     "1:30 PM",
      "2:40 PM",
+     "4:00 PM",
      "5:00 PM",
+     "6:30 PM",
      "7:30 PM",
+     "9:00 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -674,6 +679,105 @@
     "rating": "PG",
     "runtime": "1 hr 42 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/toystory5_presale.jpg"
+   },
+   {
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
+   },
+   {
+    "title": "The Furious (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "1:00 PM",
+     "3:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-furious-2026-245071/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 53 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245071/FURIOUS_2000x3000_ONLINE_1SHT_2x3_PAYOFF_V3.jpg"
+   },
+   {
+    "title": "Backrooms (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:25 PM",
+     "2:50 PM",
+     "5:15 PM",
+     "7:40 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/backrooms-2026-244954/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244954/BACKROOMS_Digi_1-Sheet.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "2:55 PM",
+     "5:20 PM",
+     "6:30 PM",
+     "7:45 PM",
+     "10:10 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "The Sheep Detectives (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "4:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-sheep-detectives-2026-236788/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/236788/THE-SHEEP-DETECTIVES-Poster-2.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "6:15 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
