@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-16T20:59:53.080659",
+  "scraped_at": "2026-06-16T22:03:13.669436",
   "date": "2026-06-23"
  },
  "data": {
@@ -470,9 +470,43 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
+    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
+    "synopsis": "Young Organists Initiative Showcase Recital$5 suggested",
+    "showtimes": [
+     "12:05 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Kings Chapel, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "SOHIP \u2013 Lessons for a King",
+    "synopsis": "During France\u2019s ancien r\u00e9gime, composers found ways to covertly caution their monarchs. Disguised within the works of Rameau, Rebel, Barriere, and others, we find warnings against hubris as well as messages of hope that humanity will triumph over cruelty. Silentwoods Collective: Howell Petty, soprano, Danilo Bonina, Ne\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. Anne\u2019s in-the-Fields, 145 Concord Road, in Lincoln",
+    "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Masterworks Chorale (GC) \u2013 Summer Sing",
+    "synopsis": "Faur\u00e9: Requiem Bring your score or borrow one of ours! $20 suggested",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Grace Chapel, 59 Worthen Road, in Lexington",
+    "url": "https://masterworkschorale.app.neoncrm.com/forms/11",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
