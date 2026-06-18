@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-18T03:18:28.502751",
+  "scraped_at": "2026-06-18T08:50:50.028075",
   "date": "2026-06-18"
  },
  "data": {
@@ -362,7 +362,6 @@
     "title": "Before Sunrise",
     "synopsis": "Director: Richard Linklater Run Time: 101 min. Release Year: 1995",
     "showtimes": [
-     "6:00 pm",
      "4:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -376,7 +375,6 @@
     "title": "Before Sunset",
     "synopsis": "Director: Richard Linklater Run Time: 80 min. Format: DCP Release Year: 2004",
     "showtimes": [
-     "8:15 pm",
      "6:15 pm"
     ],
     "theater": "Brattle Theatre",
@@ -590,9 +588,17 @@
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1781755200000&endms=1781841600000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10bbc2210>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Dwayne Haggins",
+    "synopsis": "He\u2019s been described as \u201cthe love child of Hank Williams and Otis Redding.\u201d \u201cThe John Legend of rockabilly.\u201d And even, \u201cthe \u2018what-took-you-so-long?\u2019 fusion of Elvis Presley and Marvin Gaye.\u201d At every performance, whether in a venerable metropolitan concert hall or a grimy dive in an anonymous strip mall, Dwayne Haggins \u2026",
+    "showtimes": [
+     "9:00 pm"
+    ],
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [

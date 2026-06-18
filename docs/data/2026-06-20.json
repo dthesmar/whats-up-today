@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-18T04:27:38.978599",
+  "scraped_at": "2026-06-18T08:51:39.633999",
   "date": "2026-06-20"
  },
  "data": {
@@ -22,30 +22,451 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:20 pm",
+     "10:10 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "Bottle Rocket",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bottle-rocket/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-45.jpg"
+   },
+   {
+    "title": "Django",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/django/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "The Hateful Eight in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Hateful-8-600x900.jpeg"
+   },
+   {
+    "title": "Carnage in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Carnage-600x900.jpeg"
+   },
+   {
+    "title": "Terminator 2: Judgment Day in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/terminator-2-judgment-day-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "4:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Dark Crystal in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-dark-crystal-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-1.jpg"
+   },
+   {
+    "title": "Howard the Duck in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/howard-the-duck-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
+   },
+   {
+    "title": "The Doors in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Inland Empire",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/inland-empire/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
+   },
+   {
+    "title": "Chopping Mall",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Read timed out. (read timeout=15)",
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "11:50 am"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "Unidentified",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show with Teseracte Players",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-rocky-horror-picture-show-with-teseracte-players/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+   },
+   {
+    "title": "CatVideoFest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:00 pm",
+     "5:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "title": "The Death of Robin Hood",
+    "synopsis": "From writer/director Michael Sarnoski (Pig) & starring Hugh Jackman, Jodie Comer, & Bill Skarsg\u00e5rd.",
+    "showtimes": [
+     "11:00am",
+     "1:40pm",
+     "4:30pm",
+     "7:15pm",
+     "10:05pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/death-robin-hood",
+    "rating": "",
+    "runtime": "2hrs 3mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DORH%20-%20smaller.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "11:10am",
+     "1:50pm",
+     "4:10pm",
+     "7:00pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "showtimes": [
+     "11:20am",
+     "2:00pm",
+     "4:00pm",
+     "6:30pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "Leviticus (2026)",
+    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
+    "showtimes": [
+     "11:45am",
+     "2:15pm",
+     "5:00pm",
+     "7:30pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/leviticus-2026",
+    "rating": "",
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
+   },
+   {
+    "title": "Disclosure Day in 70mm",
+    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "showtimes": [
+     "12:00pm",
+     "3:15pm",
+     "6:45pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
+    "rating": "",
+    "runtime": "2hrs 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
+   },
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "1:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Stop! That! Train!",
+    "synopsis": "The greatest trainwreck in herstory.",
+    "showtimes": [
+     "4:20pm",
+     "6:15pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/stop-train",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
+   },
+   {
+    "title": "Killer Klowns from Outer Space",
+    "synopsis": "Horrific Harlequins with an appetite for close encounters!",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/killer-klowns-outer-space",
+    "rating": "",
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/KillerKlowns_PUB01%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Before Sunrise",
+    "synopsis": "Director: Richard Linklater Run Time: 101 min. Release Year: 1995",
+    "showtimes": [
+     "4:00 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/before-sunrise/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02115901/qA2TyqPldTtoTVY3LKrNIG5g6bH-scaled.jpg"
+   },
+   {
+    "title": "Before Sunset",
+    "synopsis": "Director: Richard Linklater Run Time: 80 min. Format: DCP Release Year: 2004",
+    "showtimes": [
+     "6:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/before-sunset/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02120001/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -197,9 +618,108 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "(\"Connection broken: ConnectionResetError(54, 'Connection reset by peer')\", ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "Rockport Music \u2013 Music in the Morning",
+    "synopsis": "MARK STEINBERG, violin & JONATHAN BISS, pianoMozart: Sonata in A major, K. 305 Sonata in E-flat major, K. 380 Sonata in B-flat major, K. 454",
+    "showtimes": [
+     "11:00 am"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston GuitarFest (FLC) \u2013 Guitar Orchestra Summit",
+    "synopsis": "JS Bach Brandenburg Concerto No. 6 \u2013 arranged by Robert Bekkers WA Mozart Eine Kleine Nachtmusik \u2013 arranged by Andrew Forrest Andrew York Sail Off the Edge written for New Jersey Guitar Orchestra Matthew Cochran The Promise of Something New",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "FIrst Lutheran Church, in Boston",
+    "url": "https://efgamusic.org/events/bgfest-2026/schedule",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Bosdton GuitarFest (FLC) \u2013 Joaqu\u00edn Clerch, guitar",
+    "synopsis": "Alhambra Guitarras Demonstration by Joaqu\u00edn ClerchFREE",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "First Lutheran Church, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Rockport Music \u2013 Humor and Harmony",
+    "synopsis": "Cellist-filmmaker Nicholas Canellakis and pianist-composer Michael Stephen Brown blend gorgeous classics, virtuosic originals and arrangements, and wildly popular comedy films into one unforgettable, genre-defying evening.",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
+    "url": "https://rockportmusic.org/rockport-chamber-music-festival/#",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Mohawk Trails Concerts \u2013 Telegraph Quartet",
+    "synopsis": "Jerome Kern The Way You Look Tonight Eleanor Alberga String Quartet No. 3 Debussy String Quartet in G minor, Op. 10",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "CHARLEMONT FEDERATED CHURCH, in Charelmont",
+    "url": "https://www.mohawktrailconcerts.org/2026-season",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Halcyon Music Festival \u2013 Pinnacles",
+    "synopsis": "Mozart | Clarinet Quintet in A Major, K. 581 Leonard Bernstein | Piano Trio Mendelssohn | String Quintet No. 2 in Bb Major, Op. 87",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. John\u2019s Episcopal Church, 101 Chapel Street, in Portsmouth",
+    "url": "https://buytickets.at/halcyonmusicfestival/2046140",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Electric Earth Concerts \u2013 Kind of Blue",
+    "synopsis": "First Church in Jaffrey 14 Laban Ainsworth WayWith Lisa Emenheiser, piano; Ari Streisfeld, violin; Thomas Kraines, cello; Derek Bermel, clarinet & composer; Jonathan Bagg, viola & Laura Gilbert, flute.Leonard Bernstein: Clarinet Sonata Derek Bermel: Thracian Sketches for solo clarinet Jamie Keesecker: Bill Evans\u2019 \u201cThe \u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "in Various NH locations",
+    "url": "https://electricearthconcerts.org/event/kind-of-blue/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston GuitarFest (MAC) \u2013 Eliot Fisk, guitar",
+    "synopsis": "Bach: Prelude for the lute, BWV 999 Cello Suite I, BWV 1007 Cello Suite III, BWV 1009 Cello Suite VI, BWV 1012",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Multicultural Arts Center, 41 Second Street, in East Cambridge",
+    "url": "https://efgamusic.org/events/bgfest-2026",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
@@ -212,16 +732,32 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "title": "GREG ABATE QUARTET",
+    "synopsis": "",
+    "showtimes": [
+     "One show at 7pm"
+    ],
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://www.ticketweb.com/event/greg-abate-quartet-scullers-jazz-club-tickets/14857513",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-15T19-05-43_greg%20abate%201-StandardPoster.jpg"
    }
   ],
   "Regattabar": [
    {
-    "error": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-x43Tc5 --remote-debugging-pipe --no-startup-window\n  - <launched> pid=62174\n",
+    "title": "Kinga G\u0142yk",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/13/43/14/13_Listings.jpg?v=4"
    }
   ],
   "Wally's Cafe Jazz Club": [
