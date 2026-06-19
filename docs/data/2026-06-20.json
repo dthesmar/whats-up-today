@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-19T02:43:16.391838",
+  "scraped_at": "2026-06-19T10:12:02.833623",
   "date": "2026-06-20"
  },
  "data": {
@@ -459,43 +459,34 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Before Sunrise",
-    "synopsis": "Director: Richard Linklater Run Time: 101 min. Release Year: 1995",
+    "title": "Malcolm X",
+    "synopsis": "Director: Spike Lee Run Time: 202 min. Format: 35mm Film Release Year: 1992",
     "showtimes": [
-     "4:00 pm"
+     "3:30 pm 35mm",
+     "12:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/before-sunrise/",
+    "url": "https://brattlefilm.org/movies/malcolm-x/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02115901/qA2TyqPldTtoTVY3LKrNIG5g6bH-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13165938/kPdAZIqPgegqbv4QF1FshbVXNrx.jpg"
    },
    {
-    "title": "Before Sunset",
-    "synopsis": "Director: Richard Linklater Run Time: 80 min. Format: DCP Release Year: 2004",
+    "title": "Bitter Rice",
+    "synopsis": "Director: Giuseppe De Santis Run Time: 109 min. Format: 4K DCP Release Year: 1949 Language: Italian with English subtitles",
     "showtimes": [
-     "6:15 pm"
+     "7:30 pm",
+     "4:00 pm",
+     "6:30 pm",
+     "3:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/before-sunset/",
+    "url": "https://brattlefilm.org/movies/bitter-rice/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02120001/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg"
-   },
-   {
-    "title": "Before Midnight",
-    "synopsis": "Director: Richard Linklater Run Time: 109 min. Format: 35mm Film Release Year: 2013",
-    "showtimes": [
-     "8:15 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/before-midnight/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/02121438/crdW75sDNYM0ddjFyrcg6V59qdP-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14113105/bitter-rice-feature1.jpg"
    }
   ],
   "Harvard Film Archive": [
