@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-06-19T02:43:42.815572",
-  "date": "2026-06-21"
+  "scraped_at": "2026-06-19T04:15:53.463529",
+  "date": "2026-06-26"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-21"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-26"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-21"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-26"
    }
   ],
   "Somerville Theatre": [
@@ -25,7 +25,6 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "4:00 pm",
      "7:00 pm"
     ],
@@ -37,11 +36,24 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
     "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
-     "4:55 pm",
+     "5:00 pm",
      "7:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -88,8 +100,7 @@
     "synopsis": "",
     "showtimes": [
      "2:00 pm",
-     "4:30 pm",
-     "7:00 pm"
+     "4:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -102,7 +113,6 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
      "2:30 pm",
      "5:00 pm",
      "7:30 pm"
@@ -143,37 +153,87 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
-    "title": "The Devil Wears Prada 2",
+    "title": "Major League",
     "synopsis": "",
     "showtimes": [
-     "12:40 pm",
-     "4:00 pm"
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "url": "https://www.capitoltheatreusa.com/movie/major-league/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-16.jpg"
    },
    {
-    "title": "Member Screening",
+    "title": "Bull Durham",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm"
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/member-screening/",
+    "url": "https://www.capitoltheatreusa.com/movie/bull-durham/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/MembersOnly-Square-600-x-900-px-1.webp"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-18.jpg"
+   },
+   {
+    "title": "The Bad News Bears",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-bad-news-bears/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-19.jpg"
+   },
+   {
+    "title": "Take Me Out to the Ball Game",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/take-me-out-to-the-ball-game/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-17.jpg"
+   },
+   {
+    "title": "Fear Strikes Out",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/fear-strikes-out/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/FearStrikesOut-600x907.jpg"
+   },
+   {
+    "title": "A League of Their Own",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/a-league-of-their-own/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
    },
    {
     "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "3:00 pm",
      "5:00 pm",
      "7:00 pm"
@@ -188,115 +248,17 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Death of Robin Hood",
-    "synopsis": "From writer/director Michael Sarnoski (Pig) & starring Hugh Jackman, Jodie Comer, & Bill Skarsg\u00e5rd.",
+    "title": "House of 1000 Corpses",
+    "synopsis": "The most shocking tale of carnage ever seen.",
     "showtimes": [
-     "11:00am",
-     "1:40pm",
-     "4:30pm",
-     "7:15pm",
-     "10:05pm"
+     "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/death-robin-hood",
+    "url": "https://www.coolidge.org/films/house-1000-corpses",
     "rating": "",
-    "runtime": "2hrs 3mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DORH%20-%20smaller.jpg"
-   },
-   {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "11:10am"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
-    "showtimes": [
-     "11:20am",
-     "1:30pm",
-     "4:00pm",
-     "6:30pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms",
-    "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
-   },
-   {
-    "title": "Leviticus (2026)",
-    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
-    "showtimes": [
-     "11:45am",
-     "2:15pm",
-     "5:00pm",
-     "7:30pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/leviticus-2026",
-    "rating": "",
-    "runtime": "1hr 28mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
-   },
-   {
-    "title": "Disclosure Day in 70mm",
-    "synopsis": "A new original event film created and directed by Steven Spielberg.",
-    "showtimes": [
-     "12:00pm",
-     "3:15pm",
-     "6:45pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
-    "rating": "",
-    "runtime": "2hrs 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
-    "showtimes": [
-     "1:35pm",
-     "4:15pm",
-     "7:00pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Stop! That! Train!",
-    "synopsis": "The greatest trainwreck in herstory.",
-    "showtimes": [
-     "4:05pm",
-     "6:15pm",
-     "9:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stop-train",
-    "rating": "",
-    "runtime": "1hr 32mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
+    "runtime": "1hr 29mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/House_1000_03_Haig_2%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -353,7 +315,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-21"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-26"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -477,92 +439,14 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "New England Guitar Orchestra (MM) \u2013 Summer Solstice Collaborative Concer",
-    "synopsis": "JS Bach Brandenburg Concerto No. 6 \u2013 arranged by Robert Bekkers WA Mozart Eine Kleine Nachtmusik \u2013 arranged by Andrew Forrest Andrew York Sail Off the Edge written for New Jersey Guitar Orchestra Matthew Cochran The Promise of Something New",
-    "showtimes": [
-     "12:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Music Mansion, 88 Meting Street, in Providence",
-    "url": "https://www.musicmansion.org/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Outer Cape Chamber Music \u2013 Chamber Music",
-    "synopsis": "Samuel Coleridge-Taylor, Clarinet Quintet (1906) Johannes Brahms, Clarinet Quintet (1891)Sangwon Lee, clarinet Grant Houston and Yoonhee Lee, violins, Anna Griffis, viola Joseph Gotoff, cello",
-    "showtimes": [
-     "2:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Provincetown Art Association, in Provincetown",
-    "url": "https://www.outercapechambermusic.com/events/june21-clarinet-quintets",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston GuitarFest (MAC) \u2013 Competition Winner Concert",
-    "synopsis": "Competition prize winner in concertFREE",
-    "showtimes": [
-     "2:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Multicultural Arts Center, 41 Second Street, in East Cambridge",
-    "url": "https://efgamusic.org/events/bgfest-2026",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Music Mountain \u2013 Euclid Quartet",
-    "synopsis": "Florence PRICE String Quartet in G Major Robert PATERSON String Quartet #1, \u201cLove Boat\u201d BRAHMS String Quartet in B-flat Major, Op. 67",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271068/pe/11791060?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Rockport Music \u2013 Piers Lane and Friends",
-    "synopsis": "SCHUBERT: Fantasie for Piano, 4 hands HOLST: Four Songs for Violin and Voice Selection of Songs BRITTEN: The Trees they grow so high (trad. English folksong) VAUGHAN WILLIAMS: Silent Noon from The House of Life REBECCA CLARKE: The Seal Man H. HUGHES: I have a bonnet trimmed with blue (trad. folksong) Intermission ELGAR\u2026",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
-    "url": "https://rockportmusic.org/rockport-chamber-music-festival/#",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Modern Orchestra Project \u2013 PREMIERE4",
-    "synopsis": "Gil Rose, conductor Kristina Cooper, celloJOHN AYLWAR: History of the World (2026)premiere PAUL MORAVEC: Miami Variations (2025) BERNARD ROGER: Symphony No. 5 \u201cAfrica\u201d (1959)FREE but reservation required",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://bmop.org/performances/bmop-presents-premiere%E2%81%B4/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Puddingstone Music (C) \u2013 Schubertiade",
-    "synopsis": "Four Impromptus, D 899: II. Allegro; III. Andante Sonata in A minor for cello and piano, D 821 \u201cArpeggione\u201d: I. Allegro moderato; II. Adagio; III. Allegretto Nine Lieder: St\u00e4ndchen; An den Mond; Erlk\u00f6nig; An die Musik; Du bist die Ruh; Nacht und Tr\u00e4ume; Die b\u00f6se Farbe; Der M\u00fcller und der Bach; Wanderers NachtliedArlen \u2026",
+    "title": "Easton Chamber Music Festival (CCC) \u2013 Centennials with Connections",
+    "synopsis": "Oscar Navarro: Juego de Ladrones (Game of Thieves), Suite for Wind QuintetAlfred Schnittke: Hymnus II for cello and double bass (In Memoriam Igor Stravinsky)Jacques Ibert, Deux Interludes for flute, cello and pianoAmy Beach,:Piano Quintet, Op.67Vanessa Holroyd, flute Catherine Weinfield-Zell, Oboe Amy Advocat, clarinet\u2026",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Casino Theater, in Newport",
-    "url": "https://puddingstonemusic.ticketspice.com/opening-night-schubertiade",
+    "address": "Covenant Congregational Church, 204 Central St.,, in Easton",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -570,58 +454,45 @@
   ],
   "The Beehive": [
    {
-    "title": "Live @ Brunch: Blake Newman",
-    "synopsis": "Bassist Blake Newman is one of the most versatile musicians in Boston, playing groove music to ethnic folk music. This quartet features straight ahead jazz playing..Both classic and modern. Check him out: https://blakenewman.org Facebook: https://www.facebook.com/blake.newman.52",
-    "showtimes": [
-     "10:00 am"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Sunday Blues with Bruce Bears & Friends",
-    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "title": "EMMET COHEN TRIO",
+    "synopsis": "",
+    "showtimes": [
+     "Shows at 7 & 9pm"
+    ],
     "theater": "Scullers Jazz Club",
     "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "url": "https://www.ticketweb.com/search?q=emmet+cohen+scullers",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/artistbomb-content/event/poster/2026/4/2026-04-16T18-17-24_emmet%20cohen%202025-StandardPoster.jpg"
    }
   ],
   "Regattabar": [
    {
-    "title": "Antonia Bennett Father's Day Concert",
+    "title": "Alex Gao: Becoming",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "7:30 PM"
     ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
     "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
     "rating": "",
     "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/12/76/83/64_Listings.jpg?v=4"
+    "poster": "https://i.ticketweb.com//i/00/13/51/13/43_Listings.jpg?v=8"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
+    "title": "Jazz Night \u2014 Friday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
