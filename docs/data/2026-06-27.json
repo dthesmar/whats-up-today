@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-20T18:15:39.759167",
+  "scraped_at": "2026-06-20T19:18:58.715341",
   "date": "2026-06-27"
  },
  "data": {
@@ -21,21 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "",
@@ -67,6 +52,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "Bottle Rocket",
@@ -216,21 +215,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
@@ -259,6 +243,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",

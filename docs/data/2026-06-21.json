@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-20T18:13:13.388231",
+  "scraped_at": "2026-06-20T19:16:32.813247",
   "date": "2026-06-21"
  },
  "data": {
@@ -22,21 +22,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
     "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
@@ -50,6 +35,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "The Odyssey in 70mm",
@@ -68,21 +68,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
    {
     "title": "Toy Story 5",
     "synopsis": "",
@@ -113,6 +98,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
@@ -612,10 +612,17 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "title": "Antonia Bennett Father's Day Concert",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/76/83/64_Listings.jpg?v=4"
    }
   ],
   "Wally's Cafe Jazz Club": [
