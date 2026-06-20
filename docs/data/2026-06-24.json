@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-20T01:50:14.337545",
+  "scraped_at": "2026-06-20T09:52:49.584201",
   "date": "2026-06-24"
  },
  "data": {
@@ -296,7 +296,6 @@
     "title": "Malcolm X",
     "synopsis": "Director: Spike Lee Run Time: 202 min. Format: 35mm Film Release Year: 1992",
     "showtimes": [
-     "3:30 pm 35mm",
      "12:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -310,7 +309,6 @@
     "title": "Bitter Rice",
     "synopsis": "Director: Giuseppe De Santis Run Time: 109 min. Format: 4K DCP Release Year: 1949 Language: Italian with English subtitles",
     "showtimes": [
-     "7:30 pm",
      "4:00 pm",
      "6:30 pm",
      "3:30 pm"
@@ -321,6 +319,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14113105/bitter-rice-feature1.jpg"
+   },
+   {
+    "title": "The Shining",
+    "synopsis": "Director: Stanley Kubrick Run Time: 144 min. Format: 35mm Film Release Year: 1980",
+    "showtimes": [
+     "9:00 pm 35mm",
+     "12:00 pm 35mm",
+     "6:00 pm 35mm",
+     "6:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-shining/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/05/05121617/shining-12.jpg"
    }
   ],
   "Harvard Film Archive": [
