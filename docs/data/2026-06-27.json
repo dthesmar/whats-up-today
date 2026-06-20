@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-20T12:14:55.692744",
+  "scraped_at": "2026-06-20T18:15:39.759167",
   "date": "2026-06-27"
  },
  "data": {
@@ -216,35 +216,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "11:50 am"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
     "title": "The Death of Robin Hood",
     "synopsis": "",
     "showtimes": [
@@ -258,6 +229,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Unidentified",
@@ -425,6 +411,8 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
+     "10:30AM",
+     "11:00AM",
      "1:00PM",
      "3:30PM",
      "6:00PM",
@@ -438,43 +426,10 @@
     "poster": ""
    },
    {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:05PM",
-     "2:30PM",
-     "4:15PM",
-     "5:45PM",
-     "7:30PM",
-     "9:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "1:20PM",
-     "4:10PM",
-     "6:50PM",
-     "9:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Death Of Robin Hood",
     "synopsis": "",
     "showtimes": [
+     "10:35AM",
      "1:25PM",
      "4:05PM",
      "6:50PM",
@@ -488,9 +443,30 @@
     "poster": ""
    },
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "10:40AM",
+     "11:15AM",
+     "1:50PM",
+     "2:30PM",
+     "5:00PM",
+     "5:45PM",
+     "8:15PM",
+     "9:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
+     "10:50AM",
      "1:40PM",
      "4:25PM",
      "7:10PM",
@@ -507,6 +483,7 @@
     "title": "CWX Toy Story 5",
     "synopsis": "",
     "showtimes": [
+     "11:30AM",
      "2:00PM",
      "4:30PM",
      "7:00PM",
@@ -515,6 +492,22 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-toy-story-5",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "1:30PM",
+     "4:10PM",
+     "6:50PM",
+     "9:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
     "rating": "",
     "runtime": "",
     "poster": ""
