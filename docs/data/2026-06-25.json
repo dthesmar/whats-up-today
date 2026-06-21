@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-21T11:53:17.289823",
+  "scraped_at": "2026-06-21T13:11:37.026711",
   "date": "2026-06-25"
  },
  "data": {
@@ -380,9 +380,9 @@
      "10:30AM",
      "11:00AM",
      "1:00PM",
+     "1:30PM",
      "3:30PM",
-     "6:00PM",
-     "8:30PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -398,8 +398,7 @@
      "10:35AM",
      "1:25PM",
      "4:05PM",
-     "6:50PM",
-     "9:35PM"
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -409,38 +408,34 @@
     "poster": ""
    },
    {
-    "title": "Disclosure Day",
+    "title": "Obsession",
     "synopsis": "",
     "showtimes": [
      "10:40AM",
-     "11:15AM",
-     "1:50PM",
-     "2:30PM",
-     "5:00PM",
-     "5:45PM",
-     "8:15PM",
-     "9:00PM"
+     "4:25PM",
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Obsession",
+    "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "10:50AM",
-     "1:40PM",
-     "4:25PM",
-     "7:10PM",
-     "9:40PM"
+     "10:55AM",
+     "12:00PM",
+     "2:15PM",
+     "3:30PM",
+     "5:45PM",
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
+    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -452,8 +447,7 @@
      "11:30AM",
      "2:00PM",
      "4:30PM",
-     "7:00PM",
-     "9:30PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -466,10 +460,9 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "1:30PM",
+     "1:20PM",
      "4:10PM",
-     "6:50PM",
-     "9:25PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -538,10 +531,17 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "title": "Taylor Eigsti",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/13/44/22/33_Listings.jpg?v=3"
    }
   ],
   "Wally's Cafe Jazz Club": [
