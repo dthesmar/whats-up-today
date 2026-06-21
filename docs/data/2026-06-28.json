@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-21T18:59:20.384772",
+  "scraped_at": "2026-06-21T20:02:39.003458",
   "date": "2026-06-28"
  },
  "data": {
@@ -25,7 +25,6 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "4:00 pm",
      "7:00 pm"
     ],
@@ -40,7 +39,6 @@
     "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
      "4:55 pm",
      "7:45 pm"
     ],
@@ -68,21 +66,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
    {
     "title": "The Sheep Detectives",
     "synopsis": "",
@@ -140,6 +123,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
    },
    {
     "title": "Star Wars: The Mandalorian and Grogu",
