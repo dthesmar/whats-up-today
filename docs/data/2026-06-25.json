@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-22T17:42:13.378727",
+  "scraped_at": "2026-06-22T18:45:33.805681",
   "date": "2026-06-25"
  },
  "data": {
@@ -155,7 +155,8 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm"
+     "4:00 pm",
+     "7:20 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -521,10 +522,17 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "title": "Taylor Eigsti",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/13/44/22/33_Listings.jpg?v=3"
    }
   ],
   "Wally's Cafe Jazz Club": [
