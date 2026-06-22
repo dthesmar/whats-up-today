@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-22T12:28:31.367077",
+  "scraped_at": "2026-06-22T15:04:24.729107",
   "date": "2026-06-22"
  },
  "data": {
@@ -151,6 +151,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -404,29 +417,10 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "10:30AM",
-     "11:00AM",
-     "1:00PM",
-     "1:30PM",
-     "3:30PM",
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Death Of Robin Hood",
     "synopsis": "",
     "showtimes": [
-     "10:35AM",
-     "1:25PM",
+     "12:50PM",
      "4:05PM",
      "6:50PM"
     ],
@@ -438,28 +432,12 @@
     "poster": ""
    },
    {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "4:25PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "10:55AM",
-     "12:00PM",
-     "2:15PM",
-     "3:30PM",
+     "12:55PM",
+     "1:45PM",
+     "3:35PM",
      "5:45PM",
      "6:45PM"
     ],
@@ -471,17 +449,16 @@
     "poster": ""
    },
    {
-    "title": "CWX Toy Story 5",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "11:30AM",
-     "2:00PM",
-     "4:30PM",
-     "7:00PM"
+     "1:00PM",
+     "3:30PM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-toy-story-5",
+    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -490,13 +467,43 @@
     "title": "Backrooms",
     "synopsis": "",
     "showtimes": [
-     "1:20PM",
+     "1:10PM",
      "4:10PM",
      "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/backrooms",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "1:30PM",
+     "4:25PM",
+     "7:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/obsession",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "1:55PM",
+     "4:30PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-toy-story-5",
     "rating": "",
     "runtime": "",
     "poster": ""
