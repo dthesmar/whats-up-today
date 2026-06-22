@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-22T01:44:54.335611",
+  "scraped_at": "2026-06-22T07:51:19.415458",
   "date": "2026-06-29"
  },
  "data": {
@@ -21,19 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "",
@@ -72,6 +59,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Girls Like Girls",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
    },
    {
     "title": "Flightplan in 35mm",
@@ -168,21 +168,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Unidentified",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:15 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Death of Robin Hood",
     "synopsis": "",
     "showtimes": [
@@ -226,6 +211,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Unidentified",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -287,9 +287,6 @@
     "title": "The Shining",
     "synopsis": "Director: Stanley Kubrick Run Time: 144 min. Format: 35mm Film Release Year: 1980",
     "showtimes": [
-     "12:00 pm 35mm",
-     "6:00 pm 35mm",
-     "9:00 pm 35mm",
      "6:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -303,7 +300,6 @@
     "title": "Bitter Rice",
     "synopsis": "Director: Giuseppe De Santis Run Time: 109 min. Format: 4K DCP Release Year: 1949 Language: Italian with English subtitles",
     "showtimes": [
-     "3:30 pm",
      "4:00 pm"
     ],
     "theater": "Brattle Theatre",
