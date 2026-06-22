@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-22T07:50:55.077514",
+  "scraped_at": "2026-06-22T10:00:55.021971",
   "date": "2026-06-28"
  },
  "data": {
@@ -85,19 +85,6 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Shining",
-    "synopsis": "Director: Stanley Kubrick Run Time: 144 min. Format: 35mm Film Release Year: 1980",
-    "showtimes": [
-     "6:30 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-shining/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/05/05121617/shining-12.jpg"
-   },
-   {
     "title": "Bitter Rice",
     "synopsis": "Director: Giuseppe De Santis Run Time: 109 min. Format: 4K DCP Release Year: 1949 Language: Italian with English subtitles",
     "showtimes": [
@@ -109,6 +96,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14113105/bitter-rice-feature1.jpg"
+   },
+   {
+    "title": "The Shining",
+    "synopsis": "Director: Stanley Kubrick Run Time: 144 min. Format: 35mm Film Release Year: 1980",
+    "showtimes": [
+     "6:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-shining/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/05/05121617/shining-12.jpg"
    }
   ],
   "Harvard Film Archive": [
