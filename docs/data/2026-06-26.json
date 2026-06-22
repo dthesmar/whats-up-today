@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-22T16:39:17.955353",
+  "scraped_at": "2026-06-22T17:42:37.533948",
   "date": "2026-06-26"
  },
  "data": {
@@ -38,6 +38,20 @@
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
    {
     "title": "Bull Durham",
     "synopsis": "",
@@ -302,10 +316,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Rebecca Cline - Early Set",
+    "synopsis": "Rebecca Cline is an amazing pianist/composer and band leader. She leads a very passionate and creative trio that is also steeped in Latin Rhythms.",
+    "showtimes": [
+     "6:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
