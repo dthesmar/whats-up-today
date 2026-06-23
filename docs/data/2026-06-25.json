@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-23T09:05:48.841876",
+  "scraped_at": "2026-06-23T16:11:09.421869",
   "date": "2026-06-25"
  },
  "data": {
@@ -422,7 +422,7 @@
     "showtimes": [
      "12:55PM",
      "1:45PM",
-     "3:35PM",
+     "3:40PM",
      "5:45PM",
      "6:45PM"
     ],
@@ -467,7 +467,7 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "1:30PM",
+     "1:20PM",
      "4:25PM",
      "7:10PM"
     ],
@@ -553,17 +553,10 @@
   ],
   "Regattabar": [
    {
-    "title": "Taylor Eigsti",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/44/22/33_Listings.jpg?v=3"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
