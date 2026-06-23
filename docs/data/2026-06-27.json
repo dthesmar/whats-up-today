@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-23T18:18:47.026180",
+  "scraped_at": "2026-06-23T19:54:45.332070",
   "date": "2026-06-27"
  },
  "data": {
@@ -199,19 +199,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -268,6 +255,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
     "title": "Supergirl",
     "synopsis": "",
     "showtimes": [
@@ -313,6 +313,119 @@
    }
   ],
   "Coolidge Corner Theatre": [
+   {
+    "title": "Tuner",
+    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
+    "showtimes": [
+     "11:00am",
+     "1:30pm",
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tuner",
+    "rating": "",
+    "runtime": "1hr 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
+   },
+   {
+    "title": "Stop! That! Train!",
+    "synopsis": "The greatest trainwreck in herstory.",
+    "showtimes": [
+     "11:10am",
+     "1:15pm",
+     "3:45pm",
+     "6:15pm",
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/stop-train",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
+   },
+   {
+    "title": "Leviticus (2026)",
+    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
+    "showtimes": [
+     "11:20am",
+     "2:00pm",
+     "5:00pm",
+     "7:15pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/leviticus-2026",
+    "rating": "",
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "11:30am",
+     "1:45pm",
+     "4:15pm",
+     "7:00pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+    "showtimes": [
+     "11:45am",
+     "2:15pm",
+     "4:45pm",
+     "7:30pm",
+     "9:20pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
+   },
+   {
+    "title": "Disclosure Day in 70mm",
+    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "showtimes": [
+     "12:00pm",
+     "3:15pm",
+     "6:45pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
+    "rating": "",
+    "runtime": "2hrs 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "From writer/director Michael Sarnoski (Pig) & starring Hugh Jackman, Jodie Comer, & Bill Skarsg\u00e5rd.",
+    "showtimes": [
+     "6:30pm",
+     "9:10pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/death-robin-hood",
+    "rating": "",
+    "runtime": "2hrs 3mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DORH%20-%20smaller.jpg"
+   },
    {
     "title": "It: Chapter Two",
     "synopsis": "IT Ends.",
@@ -603,17 +716,10 @@
   ],
   "Regattabar": [
    {
-    "title": "Vapors of Morphine with Special Guest Le Prestige",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/48/12/93_Listings.jpg?v=3"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
