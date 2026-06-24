@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-24T09:32:38.606143",
+  "scraped_at": "2026-06-24T15:29:50.008167",
   "date": "2026-06-27"
  },
  "data": {
@@ -520,7 +520,7 @@
     "showtimes": [
      "12:55PM",
      "1:45PM",
-     "3:40PM",
+     "3:35PM",
      "5:45PM",
      "6:45PM"
     ],
@@ -565,7 +565,7 @@
     "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "1:20PM",
+     "1:30PM",
      "4:25PM",
      "7:10PM"
     ],
@@ -730,17 +730,10 @@
   ],
   "Regattabar": [
    {
-    "title": "Vapors of Morphine with Special Guest Le Prestige",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://i.ticketweb.com//i/00/13/48/12/93_Listings.jpg?v=3"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
