@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-23T23:33:23.588751",
+  "scraped_at": "2026-06-24T09:31:49.384114",
   "date": "2026-06-25"
  },
  "data": {
@@ -92,34 +92,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "The Death of Robin Hood",
     "synopsis": "",
     "showtimes": [
@@ -133,6 +105,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -177,6 +164,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "Supergirl",
@@ -358,30 +358,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Desert Hearts",
-    "synopsis": "Director: Donna Deitch Run Time: 91 min. Format: DCP Release Year: 1985",
+    "title": "Beautiful Thing",
+    "synopsis": "Director: Hettie Macdonald Run Time: 92 min. Format: 35mm Film Release Year: 1996",
     "showtimes": [
-     "6:00 pm"
+     "4:30 pm 35mm",
+     "6:30 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/desert-hearts/",
+    "url": "https://brattlefilm.org/movies/beautiful-thing/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/08/17131250/29139id_245.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131202/beautiful-thing-2.jpg"
    },
    {
-    "title": "Bound",
-    "synopsis": "Director: Lana Wachowski, Lilly Wachowski Run Time: 105 min. Format: DCP Release Year: 1996",
+    "title": "Macho Dancer",
+    "synopsis": "Director: Lino Brocka Run Time: 136 min. Format: 4K DCP Release Year: 1989 Language: Tagalog with English subtitles",
     "showtimes": [
-     "8:15 pm"
+     "8:30 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/bound/",
+    "url": "https://brattlefilm.org/movies/macho-dancer/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/04/17131345/bound-2b-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13174448/n6SDB2pVxhtW0NSWt9z0OnW4HdH.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -537,10 +538,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Jireh Calo-- Farewell Performance! Lee Fish and Friends",
+    "synopsis": "Jireh Calo is called an avid explorer of sound and rhythm, different world cultures and innovative approaches to music. Jireh is part of the latest breed of expansive musician with a huge understanding and feeling for genre-bending and culture. She is Filipina artist-educator born and raised in Manila, Philippines. I a\u2026",
+    "showtimes": [
+     "9:00 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
