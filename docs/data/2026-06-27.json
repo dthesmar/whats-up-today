@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-25T13:48:18.558892",
+  "scraped_at": "2026-06-25T14:51:35.179334",
   "date": "2026-06-27"
  },
  "data": {
@@ -471,9 +471,10 @@
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
