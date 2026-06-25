@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-25T00:58:31.490859",
+  "scraped_at": "2026-06-25T02:01:49.585095",
   "date": "2026-07-02"
  },
  "data": {
@@ -35,19 +35,6 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
     "title": "Shaun of the Dead",
     "synopsis": "",
     "showtimes": [
@@ -59,6 +46,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Girls Like Girls",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
    },
    {
     "title": "Down By The Riverside",
@@ -108,34 +108,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
-   },
-   {
     "title": "The Death of Robin Hood",
     "synopsis": "",
     "showtimes": [
@@ -149,6 +121,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -193,6 +180,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/star-wars-the-mandalorian-and-grogu/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/THA_4DX-KEYART_v2.0_CinemaCon_Mech3-600x889.jpg"
    },
    {
     "title": "Supergirl",
