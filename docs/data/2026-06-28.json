@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-27T07:36:50.744605",
+  "scraped_at": "2026-06-27T09:11:14.087574",
   "date": "2026-06-28"
  },
  "data": {
@@ -326,6 +326,33 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "Young Frankenstein",
+    "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
+    "showtimes": [
+     "12:00 pm",
+     "2:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/young-frankenstein/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
+   },
+   {
+    "title": "History of the World: Part I",
+    "synopsis": "Director: Mel Brooks Run Time: 92 min. Format: DCP Release Year: 1981",
+    "showtimes": [
+     "2:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/history-of-the-world-part-i/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131046/the-history-of-the-world-pt-1-5.jpg"
+   },
+   {
     "title": "Mare\u2019s Nest",
     "synopsis": "Director: Ben Rivers Run Time: 98 min. Format: DCP Release Year: 2026",
     "showtimes": [
@@ -342,6 +369,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13174921/dThiMcNSvtIt9EsbrVrilz61hgK.jpg"
+   },
+   {
+    "title": "The Fly",
+    "synopsis": "Director: David Cronenberg Run Time: 96 min. Format: 35mm Film Release Year: 1986",
+    "showtimes": [
+     "9:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-fly/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/19123630/fly-1986-5.jpg"
    }
   ],
   "Harvard Film Archive": [
