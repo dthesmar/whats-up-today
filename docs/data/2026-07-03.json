@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-28T00:12:39.018681",
+  "scraped_at": "2026-06-28T10:30:01.245599",
   "date": "2026-07-03"
  },
  "data": {
@@ -124,10 +124,22 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "The Producers",
+    "synopsis": "Director: Mel Brooks Run Time: 89 min. Format: DCP Release Year: 1968",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-producers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14104430/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg"
+   },
+   {
     "title": "Young Frankenstein",
     "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
     "showtimes": [
-     "12:00 pm",
      "2:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -136,19 +148,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
-   },
-   {
-    "title": "History of the World: Part I",
-    "synopsis": "Director: Mel Brooks Run Time: 92 min. Format: DCP Release Year: 1981",
-    "showtimes": [
-     "2:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/history-of-the-world-part-i/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131046/the-history-of-the-world-pt-1-5.jpg"
    },
    {
     "title": "Mare\u2019s Nest",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-28T00:07:22.022957",
+  "scraped_at": "2026-06-28T10:13:37.547736",
   "date": "2026-06-28"
  },
  "data": {
@@ -22,6 +22,51 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Backrooms",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:40 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
+   },
+   {
+    "title": "Girls Like Girls",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
+   },
+   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -38,6 +83,103 @@
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Member Screening",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/member-screening/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/MembersOnly-Square-600-x-900-px-1.webp"
+   },
+   {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Unidentified",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+   },
    {
     "title": "CatVideoFest 2026",
     "synopsis": "",
@@ -184,10 +326,22 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "The Producers",
+    "synopsis": "Director: Mel Brooks Run Time: 89 min. Format: DCP Release Year: 1968",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-producers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14104430/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg"
+   },
+   {
     "title": "Young Frankenstein",
     "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
     "showtimes": [
-     "12:00 pm",
      "2:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -196,19 +350,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
-   },
-   {
-    "title": "History of the World: Part I",
-    "synopsis": "Director: Mel Brooks Run Time: 92 min. Format: DCP Release Year: 1981",
-    "showtimes": [
-     "2:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/history-of-the-world-part-i/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131046/the-history-of-the-world-pt-1-5.jpg"
    },
    {
     "title": "Mare\u2019s Nest",
@@ -523,9 +664,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
@@ -554,9 +696,10 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [

@@ -1,12 +1,12 @@
 {
  "meta": {
-  "scraped_at": "2026-06-28T00:11:02.636619",
+  "scraped_at": "2026-06-28T10:28:48.033809",
   "date": "2026-06-30"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19: no movies found on Fandango.",
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-cycEsw --remote-debugging-pipe --no-startup-window\n  - <launched> pid=26128\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-06-30"
@@ -14,7 +14,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "error": "Kendall Square Cinema (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-SOagK4 --remote-debugging-pipe --no-startup-window\n  - <launched> pid=26129\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-06-30"
@@ -22,254 +22,43 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Burnin\u2019 Down The House",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "1:40 pm",
-     "4:15 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Unidentified",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Coroner to the Stars",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/coroner-to-the-stars/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-6.jpg"
+    "address": "204 Massachusetts Ave, Arlington, MA"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Disclosure Day in 70mm",
-    "synopsis": "A new original event film created and directed by Steven Spielberg.",
-    "showtimes": [
-     "3:15pm",
-     "6:45pm",
-     "9:55pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
-    "rating": "",
-    "runtime": "2hrs 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
-    "showtimes": [
-     "3:30pm",
-     "6:30pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Leviticus (2026)",
-    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
-    "showtimes": [
-     "3:45pm",
-     "6:15pm",
-     "10:05pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/leviticus-2026",
-    "rating": "",
-    "runtime": "1hr 28mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
-   },
-   {
-    "title": "Tuner",
-    "synopsis": "Academy Award-winning director Daniel Roher\u2019s first narrative feature, starring Leo Woodall, Havana Rose Liu, & Dustin Hoffman.",
-    "showtimes": [
-     "4:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tuner",
-    "rating": "",
-    "runtime": "1hr 49mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IMG_0865.jpeg"
-   },
-   {
-    "title": "Stop! That! Train!",
-    "synopsis": "The greatest trainwreck in herstory.",
-    "showtimes": [
-     "4:15pm",
-     "9:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stop-train",
-    "rating": "",
-    "runtime": "1hr 32mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
-    "showtimes": [
-     "4:45pm",
-     "7:30pm",
-     "10:10pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms",
-    "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/https___cdn.sanity.io_images_xq1bjtf4_production_e245923817e6c5241c330a7af2bc71a910020417-1547x1031.jpg"
-   },
-   {
-    "title": "The Death of Robin Hood",
-    "synopsis": "From writer/director Michael Sarnoski (Pig) & starring Hugh Jackman, Jodie Comer, & Bill Skarsg\u00e5rd.",
-    "showtimes": [
-     "6:20pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/death-robin-hood",
-    "rating": "",
-    "runtime": "2hrs 3mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/DORH%20-%20smaller.jpg"
-   },
-   {
-    "title": "Catch Me If You Can",
-    "synopsis": "The true story of a real fake.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/catch-me-if-you-can",
-    "rating": "",
-    "runtime": "2hrs 21mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Catch_Me_If_You_Can_2002_19%20copy.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
    {
+    "title": "The Producers",
+    "synopsis": "Director: Mel Brooks Run Time: 89 min. Format: DCP Release Year: 1968",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-producers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14104430/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg"
+   },
+   {
     "title": "Young Frankenstein",
     "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
     "showtimes": [
-     "12:00 pm",
      "2:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -278,19 +67,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
-   },
-   {
-    "title": "History of the World: Part I",
-    "synopsis": "Director: Mel Brooks Run Time: 92 min. Format: DCP Release Year: 1981",
-    "showtimes": [
-     "2:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/history-of-the-world-part-i/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131046/the-history-of-the-world-pt-1-5.jpg"
    },
    {
     "title": "Mare\u2019s Nest",
@@ -326,15 +102,14 @@
   ],
   "Harvard Film Archive": [
    {
-    "error": "No HFA screenings today.",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-zF8Nfs --remote-debugging-pipe --no-startup-window\n  - <launched> pid=26130\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-06-30"
@@ -510,38 +285,16 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
-    "synopsis": "Cheryl Van Ornam plays the C.B. Fisk Organ$5 suggested",
-    "showtimes": [
-     "12:05 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Classical Music (Boston)",
-    "address": "Kings Chapel, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "SOHIP \u2013 The 17th-century Invention of Modern Music",
-    "synopsis": "Concerto Incognito performs virtuosic diminutions, mashups, and original takes on pieces by Castello, Strozzi, Marini, Uccellini, and others.Dana Maiben, violin, Vivian Montgomery, harpsichord",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "St. Anne\u2019s in-the-Fields, 145 Concord Road, in Lincoln",
-    "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Read timed out. (read timeout=15)",
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "address": "541 Tremont St, Boston, MA"
    }
   ],
   "Scullers Jazz Club": [

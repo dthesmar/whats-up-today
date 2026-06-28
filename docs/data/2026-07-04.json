@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-28T00:24:31.767991",
+  "scraped_at": "2026-06-28T10:30:25.815920",
   "date": "2026-07-04"
  },
  "data": {
@@ -21,58 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Django",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/django/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
    {
     "title": "The Hateful Eight in 70mm",
     "synopsis": "",
@@ -195,71 +143,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Unidentified",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/unidentified/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
-   },
-   {
     "title": "The Rocky Horror Picture Show with Teseracte Players",
     "synopsis": "",
     "showtimes": [
@@ -299,10 +182,22 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "The Producers",
+    "synopsis": "Director: Mel Brooks Run Time: 89 min. Format: DCP Release Year: 1968",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-producers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14104430/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg"
+   },
+   {
     "title": "Young Frankenstein",
     "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
     "showtimes": [
-     "12:00 pm",
      "2:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -311,19 +206,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
-   },
-   {
-    "title": "History of the World: Part I",
-    "synopsis": "Director: Mel Brooks Run Time: 92 min. Format: DCP Release Year: 1981",
-    "showtimes": [
-     "2:15 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/history-of-the-world-part-i/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/17131046/the-history-of-the-world-pt-1-5.jpg"
    },
    {
     "title": "Mare\u2019s Nest",
