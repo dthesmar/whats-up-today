@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-28T22:42:15.635990",
+  "scraped_at": "2026-06-28T23:49:12.081383",
   "date": "2026-07-04"
  },
  "data": {
@@ -22,139 +22,12 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Hateful Eight in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Hateful-8-600x900.jpeg"
-   },
-   {
-    "title": "Carnage in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Carnage-600x900.jpeg"
-   },
-   {
-    "title": "Terminator 2: Judgment Day in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/terminator-2-judgment-day-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "The Dark Crystal in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-dark-crystal-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-1.jpg"
-   },
-   {
-    "title": "Howard the Duck in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/howard-the-duck-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Doors in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Inland Empire",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/inland-empire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
-   },
-   {
-    "title": "Chopping Mall",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Rocky Horror Picture Show with Teseracte Players",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-rocky-horror-picture-show-with-teseracte-players/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
-   },
    {
     "title": "CatVideoFest 2026",
     "synopsis": "",
@@ -182,61 +55,9 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Producers",
-    "synopsis": "Director: Mel Brooks Run Time: 89 min. Format: DCP Release Year: 1968",
-    "showtimes": [
-     "12:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-producers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/14104430/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg"
-   },
-   {
-    "title": "Young Frankenstein",
-    "synopsis": "Director: Mel Brooks Run Time: 106 min. Release Year: 1974",
-    "showtimes": [
-     "2:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/young-frankenstein/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/04/29122139/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg"
-   },
-   {
-    "title": "Mare\u2019s Nest",
-    "synopsis": "Director: Ben Rivers Run Time: 98 min. Format: DCP Release Year: 2026",
-    "showtimes": [
-     "4:15 pm",
-     "6:30 pm",
-     "4:00 pm",
-     "6:00 pm",
-     "9:00 pm",
-     "5:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mares-nest/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/05/13174921/dThiMcNSvtIt9EsbrVrilz61hgK.jpg"
-   },
-   {
-    "title": "The Fly",
-    "synopsis": "Director: David Cronenberg Run Time: 96 min. Format: 35mm Film Release Year: 1986",
-    "showtimes": [
-     "9:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-fly/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/05/19123630/fly-1986-5.jpg"
+    "address": "40 Brattle St, Cambridge, MA"
    }
   ],
   "Harvard Film Archive": [
@@ -436,18 +257,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -476,10 +295,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108a90190>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
