@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-29T23:45:31.565441",
+  "scraped_at": "2026-06-30T01:03:59.005442",
   "date": "2026-07-06"
  },
  "data": {
@@ -21,45 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "6:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Contact in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/contact-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-27.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
    {
     "title": "Backrooms",
     "synopsis": "",
@@ -85,6 +46,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-36.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "Overboard in 35mm",
@@ -141,19 +115,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Disasterpiece Theatre",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
-   },
    {
     "title": "The Death of Robin Hood",
     "synopsis": "",
@@ -256,6 +217,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Disasterpiece Theatre",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
    }
   ],
   "Coolidge Corner Theatre": [
