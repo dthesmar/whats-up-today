@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-06-29T11:18:29.219314",
+  "scraped_at": "2026-06-29T17:25:56.176139",
   "date": "2026-06-29"
  },
  "data": {
@@ -22,122 +22,10 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "6:20 pm"
-    ],
+    "error": "No Somerville Theatre screenings found for today.",
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Contact in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/contact-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-27.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "Backrooms",
-    "synopsis": "",
-    "showtimes": [
-     "8:40 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Stargate in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "9:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/stargate-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-36.jpg"
-   },
-   {
-    "title": "Overboard in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/overboard-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-38.jpg"
-   },
-   {
-    "title": "Sommersby",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/sommersby/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-30.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Burnin\u2019 Down The House",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "url": "https://www.somervilletheatre.com"
    }
   ],
   "Capitol Theatre": [
@@ -453,7 +341,7 @@
     "title": "Supergirl",
     "synopsis": "",
     "showtimes": [
-     "10:55AM",
+     "11:00AM",
      "11:30AM",
      "1:55PM",
      "4:40PM"
@@ -466,23 +354,10 @@
     "poster": ""
    },
    {
-    "title": "KidFest - A Minecraft Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---a-minecraft-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "11:25AM",
+     "11:20AM",
      "2:45PM",
      "6:05PM"
     ],
@@ -497,6 +372,7 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
+     "11:35AM",
      "12:55PM",
      "2:10PM",
      "3:30PM",
@@ -529,7 +405,7 @@
     "title": "CWX Supergirl",
     "synopsis": "",
     "showtimes": [
-     "4:10PM",
+     "4:05PM",
      "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -586,10 +462,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
@@ -626,10 +501,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
