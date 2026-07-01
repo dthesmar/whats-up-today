@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-02T00:36:37.797915",
-  "date": "2026-07-05"
+  "scraped_at": "2026-07-02T00:38:15.302183",
+  "date": "2026-07-09"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-07-05"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-07-09"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-05"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-09"
    }
   ],
   "Somerville Theatre": [
@@ -25,7 +25,6 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "3:30 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -36,11 +35,23 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
+    "title": "Down By The Riverside",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/down-by-the-riverside/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
     "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm",
-     "5:15 pm"
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -53,7 +64,6 @@
     "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -80,9 +90,10 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
+     "2:00 pm",
+     "6:00 pm",
+     "3:00 pm",
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -92,26 +103,41 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
+    "title": "The Third Man in 35mm",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm"
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/silents-please-chang-a-drama-of-the-wilderness/",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-16.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-15.jpg"
    }
   ],
   "Capitol Theatre": [
    {
+    "title": "The Death of Robin Hood",
+    "synopsis": "",
+    "showtimes": [
+     "1:40 pm",
+     "4:15 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
+   },
+   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
+     "7:20 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -124,7 +150,6 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "2:30 pm",
      "5:00 pm",
      "7:30 pm"
@@ -186,9 +211,6 @@
     "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "3:00 pm",
-     "5:00 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -201,13 +223,42 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "Disclosure Day (Digital)",
+    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "showtimes": [
+     "12:00pm",
+     "3:30pm",
+     "6:45pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/disclosure-day-digital",
+    "rating": "",
+    "runtime": "2hrs 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
+   },
+   {
+    "title": "Romer\u00eda",
+    "synopsis": "A beautifully rendered autobiographical tale from celebrated Spanish director Carla Sim\u00f3n.",
+    "showtimes": [
+     "1:00pm",
+     "3:45pm",
+     "6:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/romeria",
+    "rating": "",
+    "runtime": "1hr 54mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Romeria_image_12.jpg"
+   },
+   {
     "title": "Obsession (2026)",
     "synopsis": "You wished for this.",
     "showtimes": [
-     "11:00am",
      "1:15pm",
      "4:00pm",
-     "6:30pm",
      "9:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
@@ -218,31 +269,13 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
    },
    {
-    "title": "The Invite (2026)",
-    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
-    "showtimes": [
-     "11:10am",
-     "1:45pm",
-     "4:10pm",
-     "7:00pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invite-2026",
-    "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
-   },
-   {
     "title": "Maddie\u2019s Secret",
     "synopsis": "A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances.",
     "showtimes": [
-     "11:20am",
      "1:30pm",
      "4:30pm",
-     "7:30pm",
-     "10:05pm"
+     "6:30pm",
+     "10:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -252,50 +285,20 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_0.png"
    },
    {
-    "title": "Backrooms: Everything Must Go Edition",
-    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
     "showtimes": [
-     "11:30am",
-     "6:15pm",
-     "9:00pm"
+     "1:45pm",
+     "4:10pm",
+     "7:15pm",
+     "9:55pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
+    "url": "https://www.coolidge.org/films/invite-2026",
     "rating": "",
-    "runtime": "2hrs 7mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
-   },
-   {
-    "title": "Romer\u00eda",
-    "synopsis": "A beautifully rendered autobiographical tale from celebrated Spanish director Carla Sim\u00f3n.",
-    "showtimes": [
-     "11:40am",
-     "2:00pm",
-     "4:45pm",
-     "7:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/romeria",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Romeria_image_12.jpg"
-   },
-   {
-    "title": "Disclosure Day (Digital)",
-    "synopsis": "A new original event film created and directed by Steven Spielberg.",
-    "showtimes": [
-     "12:00pm",
-     "3:30pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/disclosure-day-digital",
-    "rating": "",
-    "runtime": "2hrs 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
    },
    {
     "title": "Leviticus (2026)",
@@ -312,30 +315,43 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
    },
    {
-    "title": "Disclosure Day in 70mm",
-    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "title": "Summer of Soul",
+    "synopsis": "Questlove's powerful and transporting documentary\u2014part music film, part historical record created around an epic event that celebrated Black history, culture, and fashion.",
     "showtimes": [
-     "6:45pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/disclosure-day-70mm",
+    "url": "https://www.coolidge.org/films/summer-soul",
     "rating": "",
-    "runtime": "2hrs 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D049_00039R_CROP_0.jpg"
+    "runtime": "1hr 57mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Summer%20of%20Soul%201%20720.jpeg"
    },
    {
-    "title": "Stop! That! Train!",
-    "synopsis": "The greatest trainwreck in herstory.",
+    "title": "Backrooms: Everything Must Go Edition",
+    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
+    "showtimes": [
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
+    "rating": "",
+    "runtime": "2hrs 7mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
+   },
+   {
+    "title": "Superbad",
+    "synopsis": "Come and Get Some.",
     "showtimes": [
      "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/stop-train",
+    "url": "https://www.coolidge.org/films/superbad",
     "rating": "",
-    "runtime": "1hr 32mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
+    "runtime": "1hr 53mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SuperBad2007_01%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -381,7 +397,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-05"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-09"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -486,62 +502,36 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 TMC Chamber Music",
-    "synopsis": "Mark-Anthony TURNAGE New England Etudes CARTER Eight Etudes and a Fantasy George LEWIS The Faculty of Sensing Liann KANG (TMC 2025) New work; world premiere Sehyeok PARK (TMC 2026) Quartet No. 2 Music for Brass by GABRIELIFREE",
+    "title": "Methuen Memorial Music Hall \u2013 Symphonic Organ",
+    "synopsis": "Raphael Attila Vogl Transcriptions by Raphael A. Vogl Mendelssohn: Overture on \u201cA Midsummer Night\u2019s Dream,\u201d op. 21 Bach: Brandenburg Concerto No. 3 in G Major, BWV Reger: Variations and Fugue on a Theme by Mozart,",
     "showtimes": [
-     "10:00 am"
+     "2:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Seiji Ozawa Hall, in Lenox",
-    "url": "https://classical-scene.com/calendar/",
+    "address": "192 Broadway, in Methuen",
+    "url": "https://www.tix.com/ticket-sales/mmmh/7203",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 E Pluribus Unum: From Many, One",
-    "synopsis": "Karen Kamensek, conductor Zachary James, baritone (GLASS) Philip GLASS Symphony No. 15, Lincoln John WILLIAMS Suite from Lincoln COPLAND Lincoln Portrait",
+    "title": "SOHIP (EC) \u2013 Fantasies and Fugues, Modes and Moods",
+    "synopsis": "works of Josquin, Dufay, Isaac, Purcell, Bach, Mozart, Shostakovich, and Cowell performed on recorders ranging from sopranino to contrabass. Sempervirens: H\u00e9lo\u00efse Degrugillier, Dan Meyers, Emily O\u2019Brien, Roy Sansom, recorders",
     "showtimes": [
-     "2:30 pm"
+     "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28609",
+    "address": "Emmanuel Church, Lindsay Chapel, in Boston",
+    "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Music Mountain \u2013 Arianna String Quartet",
-    "synopsis": "ENDELSSOHN String Quartet in F Minor, Opus 80 Gabriela LENA FRANK Kanto Kechua #4, \u201cFor B\u00e9la\u201d TCHAIKOVSKY String Quartet in D Major, Opus 11",
+    "title": "Rockport Music \u2013 BALOURDET & TERRA QUARTETS",
+    "synopsis": "With Barry Shiffman, violaBORODIN: String Quartet No 2 GOLIJOV: Tintype (US Premiere) RAVEL: Quartet SHOSTAKOVICH: Octet",
     "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271075/pe/11791062?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 Harlem Chamber Players",
-    "synopsis": "Florence Price: String Quartet No. 1 in G Major George Walker: String Quartet No.1, featuring the Lyric for Strings Dvo\u0159\u00e1k: Quartet No.12 in F Major, American",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1469660?_gl=1*oqvj59*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY0MTgkajYwJGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Rockport Music \u2013 Chamber Music",
-    "synopsis": "Joshua Bell, violin | Steven Isserlis, cello | Jeremy Denk, piano | Ir\u00e8ne Duval, violin | Blythe Teh Engstroem, violaFantasiest\u00fccke for piano trio, Op. 88 (Denk, Duval, Isserlis) Piano Trio No 3, Op 110 (Bell, Denk, Isserlis) Romances, Op 94 (Duval/Denk) Piano Quartet, Op. 47 (Denk, Bell, Engstroem, Isserlis)",
-    "showtimes": [
-     "5:00 pm"
+     "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
@@ -551,27 +541,14 @@
     "poster": ""
    },
    {
-    "title": "Newport Music (BR) \u2013 Parker String Quartet",
-    "synopsis": "BEETHOVEN Quartet in A major, Op. 18 No. 5 PAUL WIANCKO Strange Beloved Land SCHUBERT Quartet in G major, D. 887",
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Augustin Hadelich, violin",
+    "synopsis": "with pianist Seong-Jin Choworks by BRAHMS, JAN\u00c1\u010cEK, BEACH, and PROKOFIEV.",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "The Breakers, in Newport",
-    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000AuquD2AR",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Newport Music (BR) \u2013 Chen-Lipman-Cho Trio",
-    "synopsis": "DOHN\u00c1NYI Serenade in C Major for String Trio, Op. 10 ANDREIA PINTO-CORREIA Cantares MOZART Divertimento in E-flat Major for String Trio,",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "The Breakers, in Newport",
-    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000AwxMv2AJ",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28113",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -579,30 +556,10 @@
   ],
   "The Beehive": [
    {
-    "title": "Lizje Sarria",
-    "synopsis": "Lizje is one of our favorites. She has a soaring voice, is a talented song writer and band leader. Lizje fills this stage with beautiful energy and sounds.",
-    "showtimes": [
-     "10:00 am"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Sunday Blues with Bruce Bears & Friends",
-    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -623,7 +580,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
