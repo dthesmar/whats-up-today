@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-01T04:22:23.369693",
+  "scraped_at": "2026-07-01T06:54:52.384082",
   "date": "2026-07-05"
  },
  "data": {
@@ -340,23 +340,9 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Elements of Cinema: The Friends of Eddie Coyle",
-    "synopsis": "Today, Jun 30 @ 6:00 pm: Free screening and discussion!",
-    "showtimes": [
-     "6:00 pm FREE"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-friends-of-eddie-coyle/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2023/06/27141102/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg"
-   },
-   {
     "title": "Mare\u2019s Nest",
     "synopsis": "Director: Ben Rivers Run Time: 98 min. Format: DCP Release Year: 2026",
     "showtimes": [
-     "9:00 pm",
      "5:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -655,10 +641,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
