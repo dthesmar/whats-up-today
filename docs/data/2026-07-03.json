@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-01T01:37:03.482424",
+  "scraped_at": "2026-07-01T04:21:34.451662",
   "date": "2026-07-03"
  },
  "data": {
@@ -22,20 +22,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
@@ -48,6 +34,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Girls Like Girls",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
    },
    {
     "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
@@ -108,21 +108,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -137,6 +122,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
    },
    {
     "title": "The Sheep Detectives",
