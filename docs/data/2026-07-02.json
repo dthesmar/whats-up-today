@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-02T18:25:50.650942",
+  "scraped_at": "2026-07-02T19:27:07.866827",
   "date": "2026-07-02"
  },
  "data": {
@@ -45,9 +45,7 @@
    {
     "title": "Young Washington (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
@@ -59,12 +57,10 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
      "9:30 PM",
      "7:30 PM",
      "10:00 PM",
      "8:00 PM",
-     "6:15 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -116,7 +112,6 @@
     "showtimes": [
      "7:30 PM",
      "10:30 PM",
-     "7:00 PM",
      "8:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -180,7 +175,6 @@
     "title": "Girls Like Girls (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -230,7 +224,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:30 PM",
      "7:45 PM",
      "10:30 PM"
@@ -349,7 +342,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:50 PM",
      "9:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -363,7 +355,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:05 PM",
      "9:25 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -391,7 +382,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -419,7 +409,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:20 PM",
      "9:20 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -433,7 +422,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:40 PM",
      "9:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -449,7 +437,7 @@
     "title": "Down By The Riverside",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -457,20 +445,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "Girls Like Girls",
@@ -484,6 +458,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
@@ -572,32 +559,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Death of Robin Hood",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-death-of-robin-hood/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-3.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:20 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
    {
     "title": "Toy Story 5",
     "synopsis": "",
@@ -876,7 +837,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -905,7 +865,6 @@
     "showtimes": [
      "7:30 PM",
      "10:00 PM",
-     "7:00 PM",
      "9:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -933,7 +892,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "7:40 PM",
      "10:10 PM"
     ],
@@ -962,7 +920,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
