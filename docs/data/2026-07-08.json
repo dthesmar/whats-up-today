@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-02T13:50:39.618402",
+  "scraped_at": "2026-07-02T16:01:48.553963",
   "date": "2026-07-08"
  },
  "data": {
@@ -22,35 +22,35 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5e8190>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f7d90>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5ead50>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f74d0>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-07-08 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5eac10>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-07-08 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f4f50>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c421590>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f7110>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b9e5810>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f6fd0>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
@@ -65,21 +65,21 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5e9bd0>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f4cd0>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA"
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5e9310>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f5310>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Classical Music (Boston)",
     "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1783483200000&endms=1783569600000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5ea710>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1783483200000&endms=1783569600000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f5a90>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA"
    }
@@ -116,14 +116,14 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5e8e10>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f5590>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Boston Ballet",
     "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c5e8690>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10c4f6ad0>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Dance & Ballet (Boston)",
     "address": "boston-theater.com"
    }
