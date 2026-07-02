@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-02T16:23:54.270534",
+  "scraped_at": "2026-07-02T17:25:09.191062",
   "date": "2026-07-06"
  },
  "data": {
@@ -568,55 +568,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "2:30 pm",
-     "3:10 pm",
-     "5:00 pm",
-     "5:25 pm",
-     "7:30 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -645,6 +596,55 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "2:30 pm",
+     "3:10 pm",
+     "5:00 pm",
+     "5:25 pm",
+     "7:30 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -803,10 +803,18 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Closed Today",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm Sold Out",
+     "9:00 pm Sold Out"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/closed-today/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/15172127/Brattle-background-2.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -819,10 +827,214 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "title": "Alpha (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "10:00 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-06"
+    "url": "https://www.fandango.com/alpha-2026-244838/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244838/alpha2026.jpg"
+   },
+   {
+    "title": "Baby Do Die Do (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/baby-do-die-do-2026-246385/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246385/Baby%20Do%20Die%20Do.jpg"
+   },
+   {
+    "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "6:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 6 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246362/BACKROOMS_SECONDARY_REV.jpg"
+   },
+   {
+    "title": "Gatta Kusthi 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/gatta-kusthi-2-2026-246302/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 34 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246302/Gatta%20Kusthi%202.jpg"
+   },
+   {
+    "title": "Rao Bahadur (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/rao-bahadur-2026-245607/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245607/Rao-Bahadur-27x40-New.jpg"
+   },
+   {
+    "title": "Young Washington (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "9:30 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
+   },
+   {
+    "title": "Nagabandham - The Secret Treasure (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/nagabandham-the-secret-treasure-2026-246171/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246171/Nagabandham_Poster_1080x1600.jpg"
+   },
+   {
+    "title": "Minions & Monsters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "12:45 PM",
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "3:00 PM",
+     "4:15 PM",
+     "4:45 PM",
+     "5:15 PM",
+     "7:00 PM",
+     "7:30 PM",
+     "9:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
+   },
+   {
+    "title": "Jackass: Best and Last (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "12:30 PM",
+     "2:45 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/jackass-best-and-last-2026-245528/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245528/jackassbestandlast_new.jpg"
+   },
+   {
+    "title": "Supergirl (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "3:00 PM",
+     "5:25 PM",
+     "7:50 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
+   },
+   {
+    "title": "Toy Story 5 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "11:00 AM",
+     "12:20 PM",
+     "1:30 PM",
+     "2:40 PM",
+     "5:00 PM",
+     "7:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
+   },
+   {
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "6:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "2:55 PM",
+     "5:20 PM",
+     "7:45 PM",
+     "10:10 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
