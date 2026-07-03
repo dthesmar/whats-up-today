@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-03T18:31:47.973304",
+  "scraped_at": "2026-07-03T19:33:05.733234",
   "date": "2026-07-03"
  },
  "data": {
@@ -8,9 +8,7 @@
    {
     "title": "Alpha (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/alpha-2026-244838/movie-overview",
@@ -57,7 +55,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -71,13 +68,11 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
      "9:30 PM",
      "7:30 PM",
      "10:00 PM",
      "8:00 PM",
      "10:30 PM",
-     "6:15 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -129,7 +124,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "10:00 PM",
      "8:00 PM",
      "9:00 PM"
@@ -144,9 +138,7 @@
    {
     "title": "BLEACH: Thousand-Year Blood War - The Calamity (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/bleach-thousand-year-blood-war-the-calamity-2026-245728/movie-overview",
@@ -223,7 +215,6 @@
     "showtimes": [
      "7:30 PM",
      "10:15 PM",
-     "6:30 PM",
      "8:15 PM",
      "9:15 PM"
     ],
@@ -324,7 +315,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
      "9:25 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -338,7 +328,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "9:20 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -366,7 +355,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:55 PM",
      "9:30 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -380,7 +368,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:10 PM",
      "9:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -394,7 +381,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:50 PM",
      "9:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -408,7 +394,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:40 PM",
      "9:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -420,45 +405,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
    {
     "title": "Alien\u00b3 in 35mm",
     "synopsis": "",
@@ -490,45 +436,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Bad News Bears",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-bad-news-bears/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-19.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
    {
     "title": "Supergirl",
     "synopsis": "",
@@ -808,9 +715,7 @@
    {
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
@@ -846,7 +751,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -871,7 +775,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM",
      "7:30 PM",
      "9:15 PM",
      "10:00 PM"
@@ -928,9 +831,7 @@
    {
     "title": "Disclosure Day (2026)",
     "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
