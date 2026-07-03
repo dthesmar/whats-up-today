@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-02T19:27:07.866827",
+  "scraped_at": "2026-07-02T20:28:20.313819",
   "date": "2026-07-02"
  },
  "data": {
@@ -58,9 +58,7 @@
     "synopsis": "",
     "showtimes": [
      "9:30 PM",
-     "7:30 PM",
      "10:00 PM",
-     "8:00 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -85,7 +83,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -110,7 +107,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:30 PM",
      "8:30 PM"
     ],
@@ -147,8 +143,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "7:45 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -161,9 +155,7 @@
    {
     "title": "Cocktail 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/cocktail-2-2026-246069/movie-overview",
@@ -199,7 +191,6 @@
     "title": "Maddie's Secret (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -225,7 +216,6 @@
     "synopsis": "",
     "showtimes": [
      "9:30 PM",
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -251,9 +241,7 @@
    {
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
@@ -315,7 +303,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:25 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -368,7 +355,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "9:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -395,7 +381,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:10 PM",
      "9:35 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -433,32 +418,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Down By The Riverside",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/down-by-the-riverside/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
    {
     "title": "Disclosure Day",
     "synopsis": "",
@@ -560,12 +519,28 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm",
      "2:30 pm",
-     "5:00 pm"
+     "5:00 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -578,9 +553,9 @@
     "title": "Supergirl",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm",
      "1:45 pm",
-     "4:45 pm"
+     "4:45 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -588,22 +563,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm",
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "The Sheep Detectives",
@@ -863,7 +822,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:00 PM",
      "9:15 PM"
     ],
@@ -878,7 +836,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -892,7 +849,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:40 PM",
      "10:10 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -906,7 +862,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -957,7 +912,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:10 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
