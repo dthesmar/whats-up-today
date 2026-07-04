@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-03T19:33:05.733234",
+  "scraped_at": "2026-07-03T20:34:26.064458",
   "date": "2026-07-03"
  },
  "data": {
@@ -69,9 +69,7 @@
     "synopsis": "",
     "showtimes": [
      "9:30 PM",
-     "7:30 PM",
      "10:00 PM",
-     "8:00 PM",
      "10:30 PM",
      "9:00 PM"
     ],
@@ -125,7 +123,6 @@
     "synopsis": "",
     "showtimes": [
      "10:00 PM",
-     "8:00 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -150,7 +147,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -163,9 +159,7 @@
    {
     "title": "Cocktail 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/cocktail-2-2026-246069/movie-overview",
@@ -199,7 +193,6 @@
     "title": "Maddie's Secret (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -213,7 +206,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:15 PM",
      "8:15 PM",
      "9:15 PM"
@@ -288,7 +280,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -312,19 +303,6 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Young Washington (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:25 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
-   },
-   {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
@@ -341,7 +319,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
      "9:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -363,32 +340,6 @@
     "rating": "PG13",
     "runtime": "1 hr 48 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
-   },
-   {
-    "title": "Toy Story 5 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:35 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
-   },
-   {
-    "title": "Disclosure Day (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:10 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 25 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
    },
    {
     "title": "Obsession (2026)",
@@ -436,32 +387,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
    {
     "title": "Take Me Out to the Ball Game",
     "synopsis": "",
@@ -775,7 +700,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "9:15 PM",
      "10:00 PM"
     ],
@@ -790,7 +714,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -804,7 +727,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:50 PM",
      "10:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -818,7 +740,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -843,7 +764,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:10 PM"
     ],
     "theater": "Apple Cinemas Cambridge",

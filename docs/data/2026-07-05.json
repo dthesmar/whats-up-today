@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-03T19:33:19.492744",
+  "scraped_at": "2026-07-03T20:34:40.717552",
   "date": "2026-07-05"
  },
  "data": {
@@ -76,6 +76,7 @@
     "synopsis": "",
     "showtimes": [
      "10:15 AM",
+     "1:15 PM",
      "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -186,7 +187,6 @@
      "10:15 AM",
      "4:15 PM",
      "7:15 PM",
-     "1:00 PM",
      "1:15 PM",
      "2:15 PM",
      "6:15 PM",
@@ -607,21 +607,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -652,6 +637,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
    },
    {
     "title": "The Sheep Detectives",
