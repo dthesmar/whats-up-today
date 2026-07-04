@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-04T02:51:13.222128",
+  "scraped_at": "2026-07-04T03:52:50.313707",
   "date": "2026-07-04"
  },
  "data": {
@@ -916,10 +916,34 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "National Treasure",
+    "synopsis": "Director: Jon Turteltaub Run Time: 131 min. Format: DCP Release Year: 2004",
+    "showtimes": [
+     "12:00 pm",
+     "9:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/national-treasure/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10123533/9EnZD3ZWjpJy4IPoQkqTzxvZrso.jpg"
+   },
+   {
+    "title": "Jaws",
+    "synopsis": "Director: Steven Spielberg Run Time: 124 min. Format: 35mm Film Rating: PG Release Year: 1975",
+    "showtimes": [
+     "3:00 pm Sold Out",
+     "6:00 pm 35mm",
+     "12:00 pm 35mm",
+     "3:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/jaws/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/07115606/jaws-1975-2-brody-e1718031117960.jpg"
    }
   ],
   "Harvard Film Archive": [
