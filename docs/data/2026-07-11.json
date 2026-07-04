@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-04T15:10:05.209407",
+  "scraped_at": "2026-07-04T16:11:44.601120",
   "date": "2026-07-11"
  },
  "data": {
@@ -132,10 +132,22 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Girls Like Girls",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "3:30 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -149,7 +161,6 @@
     "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -158,19 +169,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
-   },
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
    },
    {
     "title": "Obsession",
@@ -320,35 +318,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -389,6 +358,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "The Rocky Horror Picture Show with Teseracte Players",
