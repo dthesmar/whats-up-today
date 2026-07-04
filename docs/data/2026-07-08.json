@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-03T23:47:11.169323",
+  "scraped_at": "2026-07-04T00:48:24.437570",
   "date": "2026-07-08"
  },
  "data": {
@@ -798,17 +798,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Closed Today",
-    "synopsis": "",
-    "showtimes": [
-     "9:00 pm Sold Out"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/closed-today/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/06/15172127/Brattle-background-2.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
