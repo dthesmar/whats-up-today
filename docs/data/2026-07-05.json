@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-05T13:02:44.260209",
+  "scraped_at": "2026-07-05T14:10:53.371256",
   "date": "2026-07-05"
  },
  "data": {
@@ -73,8 +73,7 @@
     "title": "Lockbox (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
-     "1:15 PM"
+     "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -106,14 +105,12 @@
      "4:00 PM",
      "6:45 PM",
      "9:30 PM",
-     "1:30 PM",
      "7:30 PM",
      "10:00 PM",
      "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM",
-     "1:00 PM",
      "3:30 PM",
      "6:00 PM",
      "9:00 PM"
@@ -173,11 +170,10 @@
      "8:15 PM",
      "4:15 PM",
      "7:15 PM",
+     "2:15 PM",
      "6:15 PM",
      "9:15 PM",
-     "10:15 PM",
-     "1:15 PM",
-     "2:15 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -190,8 +186,8 @@
     "title": "BLEACH: Thousand-Year Blood War - The Calamity (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM",
-     "2:15 PM"
+     "2:15 PM",
+     "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -206,8 +202,7 @@
     "showtimes": [
      "3:15 PM",
      "6:15 PM",
-     "9:15 PM",
-     "1:00 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -246,9 +241,7 @@
    {
     "title": "Leviticus (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/leviticus-2026-244348/movie-overview",
@@ -274,14 +267,13 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "2:00 PM",
+     "4:45 PM",
      "3:00 PM",
      "5:45 PM",
      "8:30 PM",
      "7:00 PM",
-     "9:45 PM",
-     "1:00 PM"
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -345,9 +337,7 @@
    {
     "title": "Tuner (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
@@ -361,8 +351,7 @@
     "showtimes": [
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM",
-     "1:30 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -390,7 +379,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:25 PM",
      "4:05 PM",
      "6:45 PM"
     ],
@@ -405,7 +393,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:00 PM"
     ],
@@ -420,7 +407,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:20 PM",
      "7:15 PM"
     ],
@@ -450,7 +436,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:40 PM",
      "4:35 PM",
      "7:10 PM"
     ],
@@ -465,7 +450,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:05 PM",
      "3:50 PM",
      "6:50 PM"
     ],
@@ -480,7 +464,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:20 PM",
      "4:10 PM",
      "6:40 PM"
     ],
@@ -582,7 +565,6 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "2:30 pm",
      "5:00 pm",
      "7:30 pm"
@@ -593,36 +575,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Minions & Monsters",
@@ -652,6 +604,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -864,9 +844,7 @@
    {
     "title": "Baby Do Die Do (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/baby-do-die-do-2026-246385/movie-overview",
@@ -918,7 +896,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "9:30 PM",
@@ -948,7 +925,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "2:30 PM",
      "3:00 PM",
      "4:15 PM",
@@ -1002,7 +978,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "2:40 PM",
      "5:00 PM",
      "7:30 PM",
