@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-05T15:47:09.095669",
+  "scraped_at": "2026-07-05T19:03:52.581768",
   "date": "2026-07-12"
  },
  "data": {
@@ -122,7 +122,6 @@
     "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -131,32 +130,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
-   },
-   {
-    "title": "Girls Like Girls",
-    "synopsis": "",
-    "showtimes": [
-     "5:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
     "title": "Obsession",
@@ -202,24 +175,9 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -230,24 +188,9 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -258,10 +201,22 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm",
      "7:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -336,7 +291,7 @@
     "showtimes": [
      "12:00 pm 35mm",
      "3:00 pm Sold Out",
-     "6:00 pm 35mm",
+     "6:00 pm Sold Out",
      "3:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
