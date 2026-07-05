@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-05T14:10:53.371256",
+  "scraped_at": "2026-07-05T15:45:26.329806",
   "date": "2026-07-05"
  },
  "data": {
@@ -86,7 +86,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "7:30 PM",
      "9:15 PM"
     ],
@@ -101,13 +100,11 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:00 PM",
      "6:45 PM",
      "9:30 PM",
      "7:30 PM",
      "10:00 PM",
-     "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM",
@@ -139,7 +136,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM"
@@ -170,7 +166,6 @@
      "8:15 PM",
      "4:15 PM",
      "7:15 PM",
-     "2:15 PM",
      "6:15 PM",
      "9:15 PM",
      "10:15 PM"
@@ -186,7 +181,6 @@
     "title": "BLEACH: Thousand-Year Blood War - The Calamity (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -200,7 +194,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:15 PM",
      "9:15 PM"
     ],
@@ -267,9 +260,7 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:45 PM",
-     "3:00 PM",
      "5:45 PM",
      "8:30 PM",
      "7:00 PM",
@@ -421,7 +412,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM",
      "6:55 PM"
     ],
@@ -477,10 +467,23 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
+   },
+   {
     "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm",
      "5:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -494,7 +497,6 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "3:30 pm",
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -503,20 +505,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
    },
    {
     "title": "Obsession",
@@ -562,36 +550,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -632,6 +590,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -795,8 +781,9 @@
     "synopsis": "Director: Steven Spielberg Run Time: 124 min. Format: 35mm Film Rating: PG Release Year: 1975",
     "showtimes": [
      "12:00 pm 35mm",
-     "3:00 pm 35mm",
-     "6:00 pm 35mm"
+     "3:00 pm Sold Out",
+     "6:00 pm 35mm",
+     "3:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
@@ -869,9 +856,7 @@
    {
     "title": "Gatta Kusthi 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/gatta-kusthi-2-2026-246302/movie-overview",
@@ -925,8 +910,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
-     "3:00 PM",
      "4:15 PM",
      "4:45 PM",
      "5:15 PM",
@@ -946,7 +929,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "5:00 PM",
      "7:30 PM",
      "9:45 PM"
@@ -962,7 +944,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:25 PM",
      "7:50 PM",
      "10:15 PM"
@@ -978,7 +959,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:40 PM",
      "5:00 PM",
      "7:30 PM",
      "9:45 PM"
@@ -1007,7 +987,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:55 PM",
      "5:20 PM",
      "7:45 PM",
      "10:10 PM"
