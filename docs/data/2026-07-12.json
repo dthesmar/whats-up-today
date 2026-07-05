@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-05T13:04:03.684286",
-  "date": "2026-07-11"
+  "scraped_at": "2026-07-05T13:04:28.754493",
+  "date": "2026-07-12"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -22,7 +22,8 @@
     "title": "My Neighbor Totoro - Studio Ghibli Fest 2026",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:00 PM",
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -36,11 +37,10 @@
     "synopsis": "",
     "showtimes": [
      "9:00 PM",
-     "11:00 AM",
-     "2:00 PM",
-     "5:00 PM",
-     "8:00 PM",
-     "11:00 PM"
+     "1:15 PM",
+     "4:15 PM",
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -107,19 +107,6 @@
     "rating": "PG",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
-   },
-   {
-    "title": "The Rocky Horror Picture Show",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -127,61 +114,64 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-11"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-12"
    }
   ],
   "Somerville Theatre": [
    {
-    "title": "The Hateful Eight in 70mm",
+    "title": "Girls Like Girls",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm"
+     "3:00 pm",
+     "5:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-hateful-eight-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/girls-like-girls/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Hateful-8-600x900.jpeg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-10.jpg"
    },
    {
-    "title": "Carnage in 35mm",
+    "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "6:15 pm"
+     "3:30 pm",
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/carnage-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/22-Carnage-600x900.jpeg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
-    "title": "Frankenhooker",
+    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
     "synopsis": "",
     "showtimes": [
-     "9:30 pm"
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/frankenhooker/",
+    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-14.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
    },
    {
-    "title": "Terminator 2: Judgment Day in 35mm",
+    "title": "Obsession",
     "synopsis": "",
     "showtimes": [
-     "11:59 pm"
+     "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/terminator-2-judgment-day-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-5.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
    },
    {
     "title": "The Odyssey in 70mm",
@@ -199,84 +189,94 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "The Dark Crystal in 70mm",
+    "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
     "synopsis": "",
     "showtimes": [
-     "11:59 pm"
+     "2:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-dark-crystal-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/silents-please-chang-a-drama-of-the-wilderness/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-1.jpg"
-   },
-   {
-    "title": "Howard the Duck in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/howard-the-duck-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Doors in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-6.jpg"
-   },
-   {
-    "title": "Inland Empire",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/inland-empire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
-   },
-   {
-    "title": "Chopping Mall",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-16.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "The Rocky Horror Picture Show with Teseracte Players",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm"
+     "1:30 pm",
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-rocky-horror-picture-show-with-teseracte-players/",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -297,17 +297,43 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Invasion of the Saucer Men",
-    "synopsis": "CREEPING HORROR... from the depths of time and space!",
+    "title": "Slamdance: Brailled It",
+    "synopsis": "Slamdance presents the best competition films from their 2026 festival!",
     "showtimes": [
-     "11:59pm"
+     "1:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invasion-saucer-men",
+    "url": "https://www.coolidge.org/films/slamdance-brailled-it",
     "rating": "",
-    "runtime": "1hr 9mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Invasion_Saucermen_1957_3%20copy.jpg"
+    "runtime": "1hr 13mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/unnamed%20%281%29_0.jpg"
+   },
+   {
+    "title": "The Seven Year Itch",
+    "synopsis": "It TICKLES and TANTALIZES! - The funniest comedy since laughter began!",
+    "showtimes": [
+     "2:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/seven-year-itch",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/7_Year_Itch_1955_Marilyn_color%20copy.jpg"
+   },
+   {
+    "title": "Slamdance: Danny Is My Boyfriend",
+    "synopsis": "Slamdance presents the best competition films from their 2026 festival!",
+    "showtimes": [
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/slamdance-danny-my-boyfriend",
+    "rating": "",
+    "runtime": "1hr 41mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Danny%2Bis%2Bmy%2BBoyfriend_2.jpeg"
    }
   ],
   "Brattle Theatre": [
@@ -516,79 +542,66 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 OPen Rehearsal",
-    "synopsis": "Fabio Luisi, conductor Eric Lu, piano Sophia JANI What do flowers do at night? CHOPIN Piano Concerto No. 2",
+    "title": "Boston Symphony Tanglewood (K) \u2013 Fabio Luisi, conductor",
+    "synopsis": "Eric Lu, piano Sophia JANI What do flowers do at night? CHOPIN Piano Concerto No. 2 BRAHMS Symphony No. 2",
     "showtimes": [
-     "10:30 am"
+     "2:30 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28119",
+    "url": "https://secure.bso.org/syos/performance/28129",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Mohawk Trails Concerts \u2013 Chamber Music",
-    "synopsis": "Matt Haimovitz, cello Jerry Noble, pianoBeethoven, Schumann, Arthur Foote, Thomas de Hartman, Leonard Bernstein, and more",
+    "title": "Music Mountain \u2013 American String Quartet",
+    "synopsis": "Nina Bernat, Double BassHAYDN String Quartet in D Major, Opus 76/5 DEBUSSY String Quartet in G Minor, Opus 10 DVO\u0158\u00c1K String Quintet in G Major, Opus 77",
     "showtimes": [
-     "5:00 pm"
+     "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "CHARLEMONT FEDERATED CHURCH, in Charelmont",
-    "url": "http://Beethoven,%20Schumann,%20Arthur%20Foote,%20Thomas%20de%20Hartman,%20%20Leonard%20Bernstein,%20and%20more",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271076/pe/11791063?deepLink=true&overlay=false",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Festival Orchestra (JH) \u2013 The Drop That Contained the Sea",
-    "synopsis": "WARD, arr. BATEMAN, America the Beautiful TIN The Drop That Contained the Sea (Boston premiere)featuring Ezgi Kurt, Emin Ismayilov, Christon Carney, Narantsetseg Ren, Catarina Avelar, Harshitha Krishnan, Morgan Beckford, and Chorus Pro Musica",
+    "title": "Maverick Concerts \u2013 Catalyst Quartet",
+    "synopsis": "Coleridge\u2011Taylor Perkinson: String Quartet No. 1 Philip Glass: String Quartet No. 3 (\u201cMishima\u201d) George Gershwin: Lullaby Maurice Ravel: String Quartet in F major",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://patron.bforchestra.org/ticketing/bfo/drop",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462083?_gl=1*l1qim0*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY0ODEkajU4JGwwJGgw",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Festival Orchestra (JH) \u2013 The Drop That Contained the Sea",
-    "synopsis": "Samual A. Ward, arr. Paul Bateman America the BeautifulChristopher Tin, The Drop That Contained the Sea\u200bEzgi Kurt, mezzo-soprano Emin Ismayilov, tenor Christon Carney, tenor Narantsetseg Ren, soprano Catarina Avelar, mezzo-soprano Harshitha Krishnan, alto Morgan Beckford, mezzo-soprano Chorus Pro Musica, Jamie Kirsch, \u2026",
+    "title": "Sevenars Music Festival \u2013 Chamber Music",
+    "synopsis": "America 250 \u2013 Rorianne Schrade, Lynelle James, and Christopher James, piano; special guests composer/pianist Clifton J. Noble, baritone John Roberts, and violinist Alexis WallsMARIO BRAGGIOTTI Variations on Yankee Doodle in the styles of Bach, Beethoven, Chopin, Debussy, and Gershwin GERSHWIN/HEIFETZ 3 Preludes (arr. v\u2026",
     "showtimes": [
-     "7:30 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://patron.bforchestra.org/ticketing/bfo/drop",
+    "address": "The Academy, 15, Ireland St, in South Worthington",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
-    "synopsis": "Emanuel Ax, piano Erin Morley, soprano MOZART Piano Concerto No. 25, K.503 MAHLER Symphony No. 4",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28124",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Newport Music (BR) \u2013 VOCES8",
-    "synopsis": "This concert features works Tom\u00e1s Luis de Victoria, Eric Whitacre, Ola Gjeilo, Taylor Scott Davis, and inspired interpretations of favorites from Simon & Garfunkel, John Barry, and more, culminating in a celebration of the power and joy of the human voice.",
+    "title": "Newport Music (BR) \u2013 Trio Kar\u00e9nine",
+    "synopsis": "RIMSKI-KORSAKOV Piano Trio in C minor: III. Adagio SAINT-SA\u00cbNS Trio in E minor, Op. 92 TCHAIKOVSKY Piano Trio in A minor, Op. 50",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "The Breakers, in Newport",
-    "url": "https://forms.gle/XsnQd8WsTHdpxXpD8",
+    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000B4aY12AJ",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -596,10 +609,30 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Bruce Ferrara Trio-Jazz",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 am"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
@@ -620,7 +653,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Saturday",
+    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
