@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-05T19:03:52.581768",
+  "scraped_at": "2026-07-06T09:10:56.577494",
   "date": "2026-07-12"
  },
  "data": {
@@ -119,32 +119,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -174,58 +148,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
    {
     "title": "CatVideoFest 2026",
     "synopsis": "",
@@ -289,9 +211,6 @@
     "title": "Jaws",
     "synopsis": "Director: Steven Spielberg Run Time: 124 min. Format: 35mm Film Rating: PG Release Year: 1975",
     "showtimes": [
-     "12:00 pm 35mm",
-     "3:00 pm Sold Out",
-     "6:00 pm Sold Out",
      "3:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
@@ -302,17 +221,30 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/07115606/jaws-1975-2-brody-e1718031117960.jpg"
    },
    {
-    "title": "Anaconda",
-    "synopsis": "Director: Luis Llosa Run Time: 89 min. Format: DCP Release Year: 1997",
+    "title": "Deep Impact",
+    "synopsis": "Director: Mimi Leder Run Time: 121 min. Format: 35mm Film Release Year: 1998",
     "showtimes": [
-     "9:00 pm"
+     "6:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/anaconda/",
+    "url": "https://brattlefilm.org/movies/deep-impact/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/10/28150745/94KpGOnZckDk6UQE9bThjnlDWcg1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/10163706/pWmJBkdb0EMb3PSd2f9wjza0krb-scaled.jpg"
+   },
+   {
+    "title": "Mission: Impossible",
+    "synopsis": "Director: Brian De Palma Run Time: 111 min. Format: 35mm Film Release Year: 1996",
+    "showtimes": [
+     "8:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mission-impossible/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/15150142/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -402,19 +334,6 @@
     "poster": ""
    },
    {
-    "title": "KidFest - Trolls",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---trolls",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Supergirl",
     "synopsis": "",
     "showtimes": [
@@ -447,6 +366,20 @@
     "poster": ""
    },
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "11:30AM",
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -458,19 +391,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "2:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
     "rating": "",
     "runtime": "",
     "poster": ""
