@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T17:47:21.835896",
+  "scraped_at": "2026-07-06T18:49:33.858712",
   "date": "2026-07-09"
  },
  "data": {
@@ -447,6 +447,19 @@
   ],
   "Kendall Square Cinema": [
    {
+    "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/gail-daughtry-and-the-celebrity-sex-pass-2026-245579/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 33 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
+   },
+   {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
@@ -463,7 +476,9 @@
    {
     "title": "Young Washington (2026)",
     "synopsis": "",
-    "showtimes": [],
+    "showtimes": [
+     "3:55 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
@@ -484,20 +499,6 @@
     "rating": "PG",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
-   },
-   {
-    "title": "Supergirl (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 PM",
-     "6:55 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
    },
    {
     "title": "The Invite (2026)",
