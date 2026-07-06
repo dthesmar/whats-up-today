@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T10:42:03.638500",
+  "scraped_at": "2026-07-06T11:44:17.278644",
   "date": "2026-07-06"
  },
  "data": {
@@ -78,10 +78,8 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "2:00 PM",
      "4:30 PM",
-     "10:45 AM",
      "1:30 PM",
      "4:00 PM",
      "6:45 PM",
@@ -259,7 +257,6 @@
     "showtimes": [
      "11:30 AM",
      "2:15 PM",
-     "10:45 AM",
      "1:30 PM",
      "4:45 PM",
      "7:30 PM",
@@ -281,7 +278,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "2:30 PM",
      "6:00 PM",
      "9:30 PM"
@@ -297,7 +293,6 @@
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -350,7 +345,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "1:30 PM",
      "4:30 PM",
      "7:30 PM",
@@ -616,7 +610,9 @@
     "showtimes": [
      "2:00 pm",
      "4:30 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "1:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -630,7 +626,9 @@
     "synopsis": "",
     "showtimes": [
      "4:00 pm",
-     "7:00 pm"
+     "7:00 pm",
+     "1:15 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -638,6 +636,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -848,7 +861,6 @@
     "title": "Alpha (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -945,7 +957,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "12:45 PM",
      "12:15 PM",
      "2:30 PM",
@@ -1002,7 +1013,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "12:20 PM",
      "1:30 PM",
      "2:40 PM",
@@ -1021,7 +1031,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "6:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",

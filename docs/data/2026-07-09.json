@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T10:42:26.319671",
+  "scraped_at": "2026-07-06T11:44:38.207751",
   "date": "2026-07-09"
  },
  "data": {
@@ -361,7 +361,9 @@
     "showtimes": [
      "2:00 pm",
      "4:30 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "1:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -369,6 +371,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Moana",

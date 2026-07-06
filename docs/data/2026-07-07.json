@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T10:42:11.193658",
+  "scraped_at": "2026-07-06T11:44:23.965265",
   "date": "2026-07-07"
  },
  "data": {
@@ -616,7 +616,9 @@
     "showtimes": [
      "2:00 pm",
      "4:30 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "1:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -638,6 +640,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
