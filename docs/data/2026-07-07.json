@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-07T16:06:23.580126",
+  "scraped_at": "2026-07-07T17:13:32.096037",
   "date": "2026-07-07"
  },
  "data": {
@@ -72,7 +72,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "9:30 PM",
      "5:00 PM",
      "7:30 PM",
@@ -81,8 +80,7 @@
      "8:00 PM",
      "10:30 PM",
      "6:00 PM",
-     "6:45 PM",
-     "4:00 PM"
+     "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -135,7 +133,6 @@
     "showtimes": [
      "7:15 PM",
      "10:15 PM",
-     "4:15 PM",
      "6:00 PM",
      "9:00 PM"
     ],
@@ -164,7 +161,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -230,10 +226,8 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:15 PM",
-     "3:45 PM",
      "6:30 PM",
      "8:15 PM",
      "9:15 PM"
@@ -262,9 +256,7 @@
    {
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
@@ -339,7 +331,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:05 PM",
      "6:45 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -353,7 +344,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -366,9 +356,7 @@
    {
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:20 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/jackass-best-and-last-2026-245528/movie-overview",
@@ -380,7 +368,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "6:55 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -394,7 +381,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -408,7 +394,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
      "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -422,7 +407,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -541,51 +525,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:15 pm",
-     "1:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:30 pm",
-     "2:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -617,6 +556,50 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm",
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "2:30 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
@@ -634,9 +617,129 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Disclosure Day (Digital)",
+    "synopsis": "A new original event film created and directed by Steven Spielberg.",
+    "showtimes": [
+     "3:30pm",
+     "6:45pm",
+     "9:15pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/disclosure-day-digital",
+    "rating": "",
+    "runtime": "2hrs 25mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
+   },
+   {
+    "title": "Romer\u00eda",
+    "synopsis": "A beautifully rendered autobiographical tale from celebrated Spanish director Carla Sim\u00f3n.",
+    "showtimes": [
+     "3:45pm",
+     "6:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/romeria",
+    "rating": "",
+    "runtime": "1hr 54mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Romeria_image_12.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "4:00pm",
+     "6:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "4:10pm",
+     "7:15pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "Leviticus (2026)",
+    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
+    "showtimes": [
+     "4:20pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/leviticus-2026",
+    "rating": "",
+    "runtime": "1hr 28mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
+   },
+   {
+    "title": "Maddie\u2019s Secret",
+    "synopsis": "A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances.",
+    "showtimes": [
+     "4:30pm",
+     "7:30pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/maddies-secret",
+    "rating": "",
+    "runtime": "1hr 38mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_0.png"
+   },
+   {
+    "title": "Saving Private Ryan",
+    "synopsis": "There was only one man left in the family, and the mission was to save him.",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/saving-private-ryan",
+    "rating": "",
+    "runtime": "2hrs 49mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SPR_Hanks_Burns_Damon%20copy.jpg"
+   },
+   {
+    "title": "Backrooms: Everything Must Go Edition",
+    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
+    "showtimes": [
+     "9:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
+    "rating": "",
+    "runtime": "2hrs 7mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
+   },
+   {
+    "title": "Stop! That! Train!",
+    "synopsis": "The greatest trainwreck in herstory.",
+    "showtimes": [
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/stop-train",
+    "rating": "",
+    "runtime": "1hr 32mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/STOP%21%20THAT%21%20TRAIN%21%20First%20Look%20Still%202.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -705,7 +808,6 @@
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -743,7 +845,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "9:30 PM",
      "10:00 PM"
@@ -772,8 +873,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
-     "4:45 PM",
      "5:15 PM",
      "7:00 PM",
      "7:30 PM",
