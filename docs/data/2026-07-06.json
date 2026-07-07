@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T19:51:23.852293",
+  "scraped_at": "2026-07-06T20:53:35.077789",
   "date": "2026-07-06"
  },
  "data": {
@@ -70,7 +70,6 @@
     "showtimes": [
      "9:30 PM",
      "10:00 PM",
-     "8:00 PM",
      "10:30 PM",
      "9:00 PM"
     ],
@@ -98,7 +97,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -124,7 +122,6 @@
     "synopsis": "",
     "showtimes": [
      "10:00 PM",
-     "8:00 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -209,7 +206,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "8:15 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -384,17 +380,30 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Sommersby",
+    "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "8:45 pm"
+     "7:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/sommersby/",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-30.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
    },
    {
     "title": "The Odyssey in 70mm",
@@ -820,7 +829,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:50 PM",
      "10:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -858,7 +866,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:10 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
