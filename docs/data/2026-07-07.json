@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-07T12:23:23.828625",
+  "scraped_at": "2026-07-07T15:04:54.842308",
   "date": "2026-07-07"
  },
  "data": {
@@ -48,9 +48,7 @@
    {
     "title": "Lockbox (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/lockbox-2026-246307/movie-overview",
@@ -77,20 +75,16 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:30 PM",
-     "1:00 PM",
      "3:30 PM",
      "9:30 PM",
      "5:00 PM",
      "7:30 PM",
      "10:00 PM",
-     "12:30 PM",
      "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM",
-     "1:30 PM",
      "6:00 PM",
      "6:45 PM",
      "4:00 PM"
@@ -119,7 +113,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "3:30 PM",
      "7:15 PM",
      "10:00 PM"
@@ -148,10 +141,7 @@
     "showtimes": [
      "7:15 PM",
      "10:15 PM",
-     "1:15 PM",
      "4:15 PM",
-     "12:15 PM",
-     "2:15 PM",
      "6:00 PM",
      "9:00 PM"
     ],
@@ -180,7 +170,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -208,9 +197,7 @@
    {
     "title": "Girls Like Girls (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/girls-like-girls-2026-244464/movie-overview",
@@ -249,12 +236,9 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
-     "1:45 PM",
      "4:45 PM",
      "7:30 PM",
      "10:15 PM",
-     "1:00 PM",
      "3:45 PM",
      "6:30 PM",
      "8:15 PM",
@@ -271,7 +255,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -324,9 +307,7 @@
    {
     "title": "Tuner (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/tuner-2026-244115/movie-overview",
@@ -338,7 +319,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "5:00 PM",
      "8:00 PM",
      "10:30 PM"
@@ -572,10 +552,10 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "3:15 pm",
      "5:30 pm",
-     "7:45 pm"
+     "7:45 pm",
+     "1:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -583,54 +563,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Supergirl",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:30 pm",
-     "7:15 pm",
-     "1:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -646,6 +578,51 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:15 pm",
+     "1:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm",
+     "2:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Moana",
@@ -844,9 +821,7 @@
    {
     "title": "Baby Do Die Do (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/baby-do-die-do-2026-246385/movie-overview",
@@ -871,9 +846,7 @@
    {
     "title": "Gatta Kusthi 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/gatta-kusthi-2-2026-246302/movie-overview",
@@ -898,7 +871,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "9:30 PM",
@@ -928,9 +900,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "12:15 PM",
-     "2:30 PM",
      "3:00 PM",
      "4:15 PM",
      "4:45 PM",
@@ -950,7 +919,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "2:45 PM",
      "5:00 PM",
      "7:30 PM",
@@ -967,7 +935,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "5:25 PM",
      "7:50 PM",
@@ -984,9 +951,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:20 PM",
-     "1:30 PM",
-     "2:40 PM",
      "5:00 PM",
      "7:30 PM",
      "9:45 PM"
@@ -1015,7 +979,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "2:55 PM",
      "5:20 PM",
      "7:45 PM",
