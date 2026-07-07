@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T20:54:16.102141",
+  "scraped_at": "2026-07-06T21:55:42.378734",
   "date": "2026-07-11"
  },
  "data": {
@@ -9,6 +9,8 @@
     "title": "Night Nurse",
     "synopsis": "",
     "showtimes": [
+     "10:45 AM",
+     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -16,6 +18,21 @@
     "url": "https://www.fandango.com/night-nurse-52029/movie-overview",
     "rating": "Not Rated",
     "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
+   {
+    "title": "The Eyes",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "4:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-eyes-72820/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
@@ -32,15 +49,44 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245495/1000x1480_Totoro_TixThumb_Exh_2026_Final.jpg"
    },
    {
+    "title": "Alpha (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/alpha-2026-244838/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244838/alpha2026.jpg"
+   },
+   {
+    "title": "Crossing (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "8:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/crossing-2026-246253/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 1 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246253/Crossing-2764x4096.jpg"
+   },
+   {
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
      "9:00 PM",
+     "7:30 PM",
+     "10:30 PM",
+     "10:00 AM",
      "11:00 AM",
      "2:00 PM",
      "5:00 PM",
-     "8:00 PM",
-     "11:00 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -64,6 +110,20 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
    },
    {
+    "title": "Lenin (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/lenin-2026-246389/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246389/lenin.jpg"
+   },
+   {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
@@ -76,7 +136,11 @@
      "6:00 PM",
      "12:00 PM",
      "6:30 PM",
+     "10:15 AM",
+     "1:30 PM",
      "3:15 PM",
+     "4:45 PM",
+     "8:30 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -87,19 +151,48 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/moana_presale.jpg"
    },
    {
+    "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 6 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246362/BACKROOMS_SECONDARY_REV.jpg"
+   },
+   {
+    "title": "Young Washington (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "2:45 PM",
+     "6:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
+   },
+   {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
-     "1:30 PM",
-     "4:00 PM",
-     "6:30 PM",
-     "9:00 PM",
-     "12:00 PM",
+     "11:45 AM",
      "2:30 PM",
      "5:00 PM",
-     "7:30 PM",
-     "10:00 PM"
+     "10:00 AM",
+     "1:30 PM",
+     "6:30 PM",
+     "9:00 PM",
+     "10:30 AM",
+     "12:30 PM",
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -107,6 +200,160 @@
     "rating": "PG",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
+   },
+   {
+    "title": "Jackass: Best and Last (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/jackass-best-and-last-2026-245528/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245528/jackassbestandlast_new.jpg"
+   },
+   {
+    "title": "Supergirl (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "1:30 PM",
+     "4:30 PM",
+     "7:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:15 AM",
+     "12:45 PM",
+     "2:15 PM",
+     "5:30 PM",
+     "7:20 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
+   },
+   {
+    "title": "Leviticus (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "2:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/leviticus-2026-244348/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 26 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244348/LEVITICUS_KA_Digital.jpg"
+   },
+   {
+    "title": "Maddie's Secret (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/maddies-secret-2026-245718/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245718/MaddiesSecret-Poster.jpg"
+   },
+   {
+    "title": "Toy Story 5 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "5:45 PM",
+     "6:30 PM",
+     "11:15 AM",
+     "1:00 PM",
+     "3:00 PM",
+     "7:45 PM",
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
+   },
+   {
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "5:15 PM",
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
+   },
+   {
+    "title": "Stop! That! Train! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244811/StopThatTrain_DigitalLobby_1033x1530.jpg"
+   },
+   {
+    "title": "Obsession (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:15 AM",
+     "1:15 PM",
+     "4:15 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 48 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+   },
+   {
+    "title": "Michael (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 7 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243301/MAVEN_27x40_1SHT_KA_VRT_RGB_V16_ONLINE_CROP.jpg"
    },
    {
     "title": "The Rocky Horror Picture Show",
@@ -578,9 +825,7 @@
      "10:00 AM",
      "12:30 PM",
      "3:00 PM",
-     "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "8:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -595,9 +840,6 @@
     "showtimes": [
      "11:00 AM",
      "1:45 PM",
-     "4:30 PM",
-     "7:15 PM",
-     "10:00 PM",
      "10:00 AM",
      "12:45 PM",
      "3:30 PM",
