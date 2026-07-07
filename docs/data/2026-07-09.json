@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-07T15:05:10.753906",
+  "scraped_at": "2026-07-07T16:06:54.006274",
   "date": "2026-07-09"
  },
  "data": {
@@ -646,36 +646,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -723,6 +693,36 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
@@ -753,135 +753,9 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Disclosure Day (Digital)",
-    "synopsis": "A new original event film created and directed by Steven Spielberg.",
-    "showtimes": [
-     "12:00pm",
-     "3:30pm",
-     "6:45pm",
-     "9:30pm"
-    ],
+    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/disclosure-day-digital",
-    "rating": "",
-    "runtime": "2hrs 25mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
-   },
-   {
-    "title": "Romer\u00eda",
-    "synopsis": "A beautifully rendered autobiographical tale from celebrated Spanish director Carla Sim\u00f3n.",
-    "showtimes": [
-     "1:00pm",
-     "3:45pm",
-     "6:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/romeria",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Romeria_image_12.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
-    "showtimes": [
-     "1:15pm",
-     "4:00pm",
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Maddie\u2019s Secret",
-    "synopsis": "A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances.",
-    "showtimes": [
-     "1:30pm",
-     "4:30pm",
-     "6:30pm",
-     "10:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/maddies-secret",
-    "rating": "",
-    "runtime": "1hr 38mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_0.png"
-   },
-   {
-    "title": "The Invite (2026)",
-    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
-    "showtimes": [
-     "1:45pm",
-     "4:10pm",
-     "7:15pm",
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invite-2026",
-    "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
-   },
-   {
-    "title": "Leviticus (2026)",
-    "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
-    "showtimes": [
-     "2:15pm",
-     "4:20pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/leviticus-2026",
-    "rating": "",
-    "runtime": "1hr 28mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Leviticus%20-%20Official%20Still%202.jpeg"
-   },
-   {
-    "title": "Summer of Soul",
-    "synopsis": "Questlove's powerful and transporting documentary\u2014part music film, part historical record created around an epic event that celebrated Black history, culture, and fashion.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/summer-soul",
-    "rating": "",
-    "runtime": "1hr 57mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Summer%20of%20Soul%201%20720.jpeg"
-   },
-   {
-    "title": "Backrooms: Everything Must Go Edition",
-    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
-    "showtimes": [
-     "9:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
-    "rating": "",
-    "runtime": "2hrs 7mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
-   },
-   {
-    "title": "Superbad",
-    "synopsis": "Come and Get Some.",
-    "showtimes": [
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/superbad",
-    "rating": "",
-    "runtime": "1hr 53mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SuperBad2007_01%20copy.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
@@ -960,7 +834,9 @@
      "7:30 PM",
      "10:00 PM",
      "2:00 PM",
+     "3:00 PM",
      "4:30 PM",
+     "6:00 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -989,7 +865,12 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM"
+     "10:00 AM",
+     "11:30 AM",
+     "12:30 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1003,8 +884,12 @@
     "synopsis": "",
     "showtimes": [
      "10:00 AM",
+     "12:15 PM",
      "11:00 AM",
-     "12:15 PM"
+     "2:00 PM",
+     "4:15 PM",
+     "6:30 PM",
+     "9:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1043,6 +928,20 @@
     "rating": "PG13",
     "runtime": "1 hr 48 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
    },
    {
     "title": "Toy Story 5 (2026)",
