@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-06T22:56:44.723994",
+  "scraped_at": "2026-07-07T00:16:46.714159",
   "date": "2026-07-08"
  },
  "data": {
@@ -842,43 +842,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Jaws",
-    "synopsis": "Director: Steven Spielberg Run Time: 124 min. Format: 35mm Film Rating: PG Release Year: 1975",
-    "showtimes": [
-     "3:00 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/jaws/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/07115606/jaws-1975-2-brody-e1718031117960.jpg"
-   },
-   {
-    "title": "Deep Impact",
-    "synopsis": "Director: Mimi Leder Run Time: 121 min. Format: 35mm Film Release Year: 1998",
-    "showtimes": [
-     "6:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/deep-impact/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/02/10163706/pWmJBkdb0EMb3PSd2f9wjza0krb-scaled.jpg"
-   },
-   {
-    "title": "Mission: Impossible",
-    "synopsis": "Director: Brian De Palma Run Time: 111 min. Format: 35mm Film Release Year: 1996",
-    "showtimes": [
-     "8:30 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mission-impossible/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/15150142/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
