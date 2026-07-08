@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-08T02:20:54.868373",
+  "scraped_at": "2026-07-08T03:21:58.258373",
   "date": "2026-07-14"
  },
  "data": {
@@ -729,10 +729,31 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Miss Congeniality",
+    "synopsis": "Director: Donald Petrie Run Time: 110 min. Format: DCP Release Year: 2000",
+    "showtimes": [
+     "3:45 pm",
+     "8:15 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/miss-congeniality/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10163953/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg"
+   },
+   {
+    "title": "Sister Act",
+    "synopsis": "Director: Emile Ardolino Run Time: 100 min. Format: DCP Release Year: 1992",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/sister-act/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10163907/bNiBuekwqwNKFGSqlJRDZIF4ADB.jpg"
    }
   ],
   "Harvard Film Archive": [
