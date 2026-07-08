@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-08T11:21:59.022714",
+  "scraped_at": "2026-07-08T13:10:41.131137",
   "date": "2026-07-14"
  },
  "data": {
@@ -524,22 +524,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
@@ -568,6 +552,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -1121,6 +1121,32 @@
     "synopsis": "VIVE LA RUCHE! Bastille Day at The Beehive Tuesday, July 14 | 5:00 PM \u2013 12:30 AM \u200bFor one unforgettable night, The Beehive (La Ruche) transforms into a spirited Parisian cabaret, celebrating Bastille Daywith an evening of French food, flowing champagne, live music, and seductive spectacle. Enjoy French-inspired dinner \u2026",
     "showtimes": [
      "5:00 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Lena Marie,,,Parisian Vocies",
+    "synopsis": "L\u00e9na Maire is a Parisian singer, songwriter, and arranger who blends jazz, pop, and poetry. (featured on Season 11 of The Voice: la plus belle voix (France) in 2022.)She released her project ECHOPRAXIA and regularly shares original compositions, loops, and vocal covers of French legends like Charles Aznavour on her L\u00e9n\u2026",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Angela Rossi Band Bastille Day International!",
+    "synopsis": "Angela Rossi is brilliant! Tonight she is leading a world-class group of powerful musicians for a Bastille Day celebration of expressive and dynamic Parisian music. This is jazz with classic and international influences and virtuoso playing and soaring vocals. This is a must see!",
+    "showtimes": [
+     "9:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
