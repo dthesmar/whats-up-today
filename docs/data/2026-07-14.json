@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-07T23:17:43.621887",
+  "scraped_at": "2026-07-08T00:18:38.814371",
   "date": "2026-07-14"
  },
  "data": {
@@ -729,31 +729,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Ricochet",
-    "synopsis": "Director: Russell Mulcahy Run Time: 102 min. Format: 35mm Film Release Year: 1991",
-    "showtimes": [
-     "3:45 pm 35mm",
-     "8:45 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/ricochet/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/15152238/hctxhcBs97EyE0vEWA6Ti9kvTOG.jpg"
-   },
-   {
-    "title": "Inside Man",
-    "synopsis": "Director: Spike Lee Run Time: 129 min. Format: DCP Release Year: 2006",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/inside-man/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10163800/tOkSenL74N23O4S7wjJSUHz7Aeh-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
