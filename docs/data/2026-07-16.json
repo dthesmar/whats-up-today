@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-09T10:11:37.774537",
-  "date": "2026-07-13"
+  "scraped_at": "2026-07-09T10:11:59.332712",
+  "date": "2026-07-16"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,9 +9,7 @@
     "title": "Night Nurse",
     "synopsis": "",
     "showtimes": [
-     "10:45 AM",
-     "7:45 PM",
-     "10:30 PM"
+     "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -24,7 +22,7 @@
     "title": "The Eyes",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -34,23 +32,33 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
-    "title": "My Neighbor Totoro - Studio Ghibli Fest 2026",
+    "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:00 PM"
+     "2:00 PM",
+     "6:00 PM",
+     "10:00 PM",
+     "4:30 PM",
+     "8:30 PM",
+     "3:00 PM",
+     "7:00 PM",
+     "11:00 PM",
+     "3:45 PM",
+     "7:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/my-neighbor-totoro-studio-ghibli-fest-2026-245495/movie-overview",
-    "rating": "G",
-    "runtime": "1 hr 31 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245495/1000x1480_Totoro_TixThumb_Exh_2026_Final.jpg"
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/odyssey_presale.jpg"
    },
    {
     "title": "Alpha (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM"
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -60,30 +68,14 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244838/alpha2026.jpg"
    },
    {
-    "title": "Crossing (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 PM",
-     "9:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/crossing-2026-246253/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 1 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246253/Crossing-2764x4096.jpg"
-   },
-   {
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM",
-     "7:30 PM",
-     "10:30 PM",
-     "11:15 AM",
-     "2:15 PM",
-     "5:15 PM",
-     "8:15 PM"
+     "10:15 AM",
+     "1:15 PM",
+     "4:15 PM",
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -93,51 +85,16 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244793/EVLBRN_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
-    "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 PM",
-     "7:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/gail-daughtry-and-the-celebrity-sex-pass-2026-245579/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 33 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
-   },
-   {
-    "title": "Lenin (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "8:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/lenin-2026-246389/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246389/lenin.jpg"
-   },
-   {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "4:00 PM",
-     "7:15 PM",
-     "10:30 PM",
-     "11:30 AM",
-     "2:45 PM",
-     "6:00 PM",
+     "11:00 AM",
      "12:00 PM",
-     "6:30 PM",
-     "10:15 AM",
      "1:30 PM",
-     "3:15 PM",
-     "8:15 PM",
-     "9:45 PM"
+     "7:30 PM",
+     "10:15 AM",
+     "4:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -147,26 +104,10 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/moana_presale.jpg"
    },
    {
-    "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 6 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246362/BACKROOMS_SECONDARY_REV.jpg"
-   },
-   {
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
-     "2:45 PM",
-     "6:00 PM"
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -179,20 +120,11 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
-     "2:15 PM",
-     "5:00 PM",
-     "10:00 AM",
      "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
-     "9:00 PM",
-     "10:45 AM",
-     "12:30 PM",
-     "3:00 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -202,26 +134,11 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
    },
    {
-    "title": "Jackass: Best and Last (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/jackass-best-and-last-2026-245528/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 32 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245528/jackassbestandlast_new.jpg"
-   },
-   {
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "3:00 PM",
-     "7:00 PM",
-     "10:00 PM"
+     "11:00 AM",
+     "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -234,12 +151,8 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
-     "1:15 PM",
-     "3:15 PM",
-     "4:45 PM",
-     "7:15 PM",
-     "10:15 PM"
+     "10:00 AM",
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -252,8 +165,7 @@
     "title": "Leviticus (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
-     "2:30 PM"
+     "11:15 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -266,7 +178,7 @@
     "title": "Maddie's Secret (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM"
+     "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -279,14 +191,8 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
-     "5:30 PM",
-     "11:00 AM",
-     "12:30 PM",
-     "2:00 PM",
-     "4:30 PM",
-     "6:30 PM",
-     "9:15 PM"
+     "12:45 PM",
+     "10:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -299,8 +205,7 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "9:15 PM"
+     "2:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -313,9 +218,7 @@
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "1:00 PM",
-     "10:30 PM"
+     "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -328,11 +231,8 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
-     "1:15 PM",
-     "4:15 PM",
-     "7:00 PM",
-     "10:00 PM"
+     "10:30 AM",
+     "1:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -345,7 +245,7 @@
     "title": "Michael (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:45 PM"
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -357,25 +257,27 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
+    "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
-     "6:45 PM"
+     "3:00 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/gail-daughtry-and-the-celebrity-sex-pass-2026-245579/movie-overview",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 33 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/odyssey_presale.jpg"
    },
    {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
      "4:10 PM",
-     "7:00 PM"
+     "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -385,24 +287,11 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/moana_presale.jpg"
    },
    {
-    "title": "Young Washington (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
-   },
-   {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
      "4:25 PM",
-     "7:10 PM"
+     "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -412,40 +301,11 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
    },
    {
-    "title": "The Invite (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 PM",
-     "6:15 PM",
-     "7:15 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 47 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
-   },
-   {
-    "title": "Toy Story 5 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:05 PM",
-     "6:50 PM"
-    ],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
-   },
-   {
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM",
-     "6:35 PM"
+     "3:45 PM",
+     "6:50 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -457,9 +317,50 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "BACKROOMS: Everything Must Go Edition w/ Bonus Footage",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/backrooms-everything-must-go-edition-w-bonus-footage/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/BACKROOMS_EverythingMustGo-600x889.jpg"
+   },
+   {
+    "title": "Obsession",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/obsession/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-14.jpg"
+   },
+   {
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
+     "2:10 pm",
+     "4:40 pm",
      "7:20 pm"
     ],
     "theater": "Somerville Theatre",
@@ -473,6 +374,8 @@
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "synopsis": "",
     "showtimes": [
+     "2:45 pm",
+     "5:15 pm",
      "7:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -486,6 +389,8 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
+     "2:00 pm",
+     "6:00 pm",
      "3:00 pm",
      "7:00 pm"
     ],
@@ -497,17 +402,18 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Burnin\u2019 Down The House",
+    "title": "The Third Man in 35mm",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -528,11 +434,28 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/supergirl/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-7.jpg"
+   },
+   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
+     "2:00 pm",
      "4:30 pm",
+     "7:15 pm",
+     "1:30 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -577,8 +500,7 @@
     "synopsis": "",
     "showtimes": [
      "1:15 pm",
-     "4:00 pm",
-     "7:15 pm"
+     "4:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -588,17 +510,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
-    "title": "Disasterpiece Theatre",
+    "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -606,9 +528,9 @@
     "title": "Disclosure Day (Digital)",
     "synopsis": "A new original event film created and directed by Steven Spielberg.",
     "showtimes": [
+     "12:00pm",
      "3:15pm",
-     "6:30pm",
-     "9:40pm"
+     "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -618,40 +540,13 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
    },
    {
-    "title": "Romer\u00eda",
-    "synopsis": "A beautifully rendered autobiographical tale from celebrated Spanish director Carla Sim\u00f3n.",
-    "showtimes": [
-     "3:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/romeria",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Romeria_image_12.jpg"
-   },
-   {
-    "title": "Rose of Nevada",
-    "synopsis": "In a forgotten fishing village, a boat mysteriously appears in the old harbour.",
-    "showtimes": [
-     "4:00pm",
-     "6:40pm",
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/rose-nevada",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ROSEOFNEVADA.jpg"
-   },
-   {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "synopsis": "Get ready for the ride of your life... and maybe journey too.",
     "showtimes": [
-     "4:20pm",
-     "7:30pm",
-     "9:15pm"
+     "1:15pm",
+     "4:15pm",
+     "6:45pm",
+     "9:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -661,12 +556,29 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/6_0.jpg"
    },
    {
+    "title": "Rose of Nevada",
+    "synopsis": "In a forgotten fishing village, a boat mysteriously appears in the old harbour.",
+    "showtimes": [
+     "1:30pm",
+     "3:30pm",
+     "6:30pm",
+     "9:10pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/rose-nevada",
+    "rating": "",
+    "runtime": "1hr 54mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ROSEOFNEVADA.jpg"
+   },
+   {
     "title": "The Invite (2026)",
     "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
     "showtimes": [
+     "2:00pm",
      "4:30pm",
-     "6:50pm",
-     "10:00pm"
+     "7:15pm",
+     "9:55pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -679,7 +591,9 @@
     "title": "Maddie\u2019s Secret",
     "synopsis": "A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances.",
     "showtimes": [
-     "4:45pm"
+     "2:15pm",
+     "4:45pm",
+     "7:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -689,36 +603,24 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_0.png"
    },
    {
-    "title": "Ask E. Jean with filmmaker Ivy Meeropol",
-    "synopsis": "Filmmaker Ivy Meeropol will join us for a post-film discussion following our screening.",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
     "showtimes": [
-     "7:00pm"
+     "4:00pm",
+     "8:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/ask-e-jean-filmmaker-ivy-meeropol",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
     "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ASK%20E%20JEAN%20with%20FILMMAKER.jpg"
-   },
-   {
-    "title": "The Man Who Shot Liberty Valance",
-    "synopsis": "Together For The First Time - James Stewart - John Wayne - in the masterpiece of Academy Award winner John Ford.",
-    "showtimes": [
-     "7:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/man-who-shot-liberty-valance",
-    "rating": "",
-    "runtime": "2hrs 3mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MWSLV_Marv_Stew_Wayne_x%20copy.jpg"
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Obsession (2026)",
     "synopsis": "You wished for this.",
     "showtimes": [
-     "9:30pm"
+     "10:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -726,19 +628,6 @@
     "rating": "",
     "runtime": "1hr 48mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Backrooms: Everything Must Go Edition",
-    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
-    "showtimes": [
-     "10:10pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
-    "rating": "",
-    "runtime": "2hrs 7mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -779,213 +668,19 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Dhamaal 4 (2026)",
+    "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
+     "2:00 PM",
+     "6:00 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/dhamaal-4-2026-246072/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246072/Dhamaal%204.jpg"
-   },
-   {
-    "title": "Evil Dead Burn (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "3:00 PM",
-     "4:45 PM",
-     "7:30 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/evil-dead-burn-2026-244793/movie-overview",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
     "rating": "R",
-    "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244793/EVLBRN_VERT_MAIN_2764x4096_DOM.jpg"
-   },
-   {
-    "title": "Idhayam Murali (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/idhayam-murali-2026-246420/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246420/Idhayam%20Murali.jpg"
-   },
-   {
-    "title": "Lenin (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/lenin-2026-246389/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246389/lenin.jpg"
-   },
-   {
-    "title": "Moana (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "11:00 AM",
-     "1:45 PM",
-     "10:00 AM",
-     "10:30 AM",
-     "12:45 PM",
-     "1:10 PM",
-     "3:30 PM",
-     "4:30 PM",
-     "6:15 PM",
-     "7:15 PM",
-     "9:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/moana-2026-243429/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 55 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/moana_presale.jpg"
-   },
-   {
-    "title": "I, Nobody (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/i-nobody-2026-246419/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
-   {
-    "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM",
-     "6:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 6 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246362/BACKROOMS_SECONDARY_REV.jpg"
-   },
-   {
-    "title": "Young Washington (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
-   },
-   {
-    "title": "Minions & Monsters (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "11:00 AM",
-     "12:15 PM",
-     "1:30 PM",
-     "2:30 PM",
-     "4:00 PM",
-     "5:30 PM",
-     "7:45 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
-   },
-   {
-    "title": "Supergirl (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 AM",
-     "4:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243716/supergirlmain1.jpg"
-   },
-   {
-    "title": "The Invite (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "4:00 PM",
-     "6:40 PM",
-     "9:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 47 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
-   },
-   {
-    "title": "Toy Story 5 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:10 AM",
-     "12:30 PM",
-     "2:50 PM",
-     "5:15 PM",
-     "7:40 PM",
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM",
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 48 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242812/OBSESSION_OFFICIAL_POSTER.jpg"
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/odyssey_presale.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -1139,14 +834,53 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 TMC Orchestra",
-    "synopsis": "Andris Nelsons, conductor TMC Conducting Fellows HAYDN Symphony No. 31, Hornsignal BRAHMS Variations on a Theme by Haydn, Op. 56a BEETHOVEN Overture to Egmont, Op. 84 BEETHOVEN Symphony No. 5",
+    "title": "Electric Earth Concerts \u2013 Schubert & Farrenc",
+    "synopsis": "Park Theatre, Jaffrey, 19 Main StreetSchubert\u2019s beloved Trout Quintet with pianist Mihae Lee, plus Louise Farrenc\u2019s Nonet for winds and strings. Laura Gilbert, flute; Stephen Taylor, oboe; Benjamin Fingland, clarinet; William Purvis, horn; Adrian Morejon, bassoon; Emilie-Anne Gendron, violin; Jonathan Bagg viola; Thoma\u2026",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "in Various NH locations",
+    "url": "https://electricearthconcerts.org/event/schubert-and-farrenc/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Aston Magna (Sb) \u2013 The Genius of the French Baroque",
+    "synopsis": "Sonatas and Cantatas of Rameau, Clerambault, and Leclair Dominique Labelle, soprano Daniel Stepner, baroque violin Laura Jeppesen, viola da gamba Michael Sponseller, harpsichord",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Slosberg Recital Hall 415 South Street, in Waltham",
+    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "SOHIP (EC) \u2013 Esperance et Croyance",
+    "synopsis": "Ars subtilior songs of the late 14th c. are among the most complex and beautiful pieces to emerge from the Middle Ages. Heartfelt French texts of esperance (hope) and croyance (faith) connect Medieval ideals and our own wish for better things to come. Duo Tarasque: Luce Burrell, vielle, plectrum lute, Howell Petty, voi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Emmanuel Church, Lindsay Chapel, in Boston",
+    "url": "https://buytickets.at/societyforhistoricallyinformedperformance",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Newport Music (BR) \u2013 Colors of Bach",
+    "synopsis": "solo, chamber, and ensemble works from across Bach\u2019s lifetimeEldbj\u00f8rg Hemsing, Nathan Amaral, violin Joshua Brown, violin; Joseph Skerik, viola Leland Ko, cello; Sebastian Bottone, harpsichord",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Seiji Ozawa Hall, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28076",
+    "address": "The Breakers, in Newport",
+    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000BAcqT2AT",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1154,10 +888,10 @@
   ],
   "The Beehive": [
    {
-    "title": "MONDAY NIGHT HOEDOWN",
-    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
+    "title": "Dwayne Haggins",
+    "synopsis": "He\u2019s been described as \u201cthe love child of Hank Williams and Otis Redding.\u201d \u201cThe John Legend of rockabilly.\u201d And even, \u201cthe \u2018what-took-you-so-long?\u2019 fusion of Elvis Presley and Marvin Gaye.\u201d At every performance, whether in a venerable metropolitan concert hall or a grimy dive in an anonymous strip mall, Dwayne Haggins \u2026",
     "showtimes": [
-     "7:30 pm"
+     "9:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -1185,7 +919,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Blues Night \u2014 Monday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
