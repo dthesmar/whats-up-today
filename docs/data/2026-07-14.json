@@ -1,25 +1,10 @@
 {
  "meta": {
-  "scraped_at": "2026-07-09T13:42:50.012476",
+  "scraped_at": "2026-07-09T15:04:00.175679",
   "date": "2026-07-14"
  },
  "data": {
   "AMC Boston Common 19": [
-   {
-    "title": "Night Nurse (1931)",
-    "synopsis": "",
-    "showtimes": [
-     "10:45 AM",
-     "7:45 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/night-nurse-1931-52029/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
-   },
    {
     "title": "The Eyes",
     "synopsis": "",
@@ -82,10 +67,10 @@
      "9:00 PM",
      "7:30 PM",
      "10:30 PM",
-     "10:00 AM",
      "1:15 PM",
      "3:15 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "10:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -131,16 +116,16 @@
      "4:00 PM",
      "7:15 PM",
      "10:30 PM",
-     "11:30 AM",
      "2:45 PM",
      "6:00 PM",
+     "11:30 AM",
      "12:00 PM",
      "6:30 PM",
-     "10:15 AM",
      "1:30 PM",
      "3:15 PM",
      "8:15 PM",
-     "9:45 PM"
+     "9:45 PM",
+     "10:15 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -167,9 +152,9 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:45 PM",
-     "6:00 PM"
+     "6:00 PM",
+     "11:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -182,15 +167,15 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
      "2:15 PM",
      "5:00 PM",
-     "10:00 AM",
-     "11:00 AM",
+     "11:45 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM",
+     "10:00 AM",
+     "11:00 AM",
      "12:30 PM",
      "3:00 PM",
      "7:30 PM",
@@ -236,12 +221,12 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "1:00 PM",
      "3:15 PM",
      "5:30 PM",
      "7:15 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "11:15 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -254,8 +239,8 @@
     "title": "Leviticus (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
-     "2:30 PM"
+     "2:30 PM",
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -281,14 +266,14 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "5:30 PM",
-     "11:15 AM",
+     "10:15 AM",
      "12:30 PM",
      "2:00 PM",
      "4:45 PM",
      "7:15 PM",
-     "9:15 PM"
+     "9:15 PM",
+     "11:15 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -315,9 +300,9 @@
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "4:45 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "10:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -330,10 +315,10 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "4:00 PM",
      "7:00 PM",
-     "10:00 PM"
+     "10:00 PM",
+     "11:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -524,6 +509,22 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -567,22 +568,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
