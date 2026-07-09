@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-09T15:03:26.180202",
+  "scraped_at": "2026-07-09T16:04:52.343839",
   "date": "2026-07-09"
  },
  "data": {
@@ -24,7 +24,6 @@
     "showtimes": [
      "11:00 PM",
      "10:00 PM",
-     "3:00 PM",
      "6:00 PM",
      "9:00 PM"
     ],
@@ -39,7 +38,6 @@
     "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:15 PM",
      "9:00 PM"
     ],
@@ -68,7 +66,6 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "9:15 PM",
      "5:00 PM",
      "8:00 PM",
@@ -82,6 +79,21 @@
     "rating": "PG",
     "runtime": "1 hr 55 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/moana_presale.jpg"
+   },
+   {
+    "title": "Night Nurse (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 PM",
+     "7:15 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/night-nurse-2026-246449/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246449/nightnurse-posterart.jpg"
    },
    {
     "title": "Moana IMAX Fan Event (2026)",
@@ -124,7 +136,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -140,13 +151,11 @@
     "showtimes": [
      "5:00 PM",
      "7:30 PM",
-     "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM",
      "6:15 PM",
-     "9:00 PM",
-     "3:30 PM"
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -211,7 +220,6 @@
     "title": "BLEACH: Thousand-Year Blood War - The Calamity (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "5:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -590,22 +598,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm",
-     "1:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -664,6 +656,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:45 pm",
+     "1:00 pm",
+     "3:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -880,7 +888,6 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:30 PM",
      "8:00 PM",
      "10:30 PM"
@@ -912,7 +919,6 @@
      "5:00 PM",
      "7:30 PM",
      "10:00 PM",
-     "3:00 PM",
      "4:30 PM",
      "6:00 PM",
      "7:00 PM",
@@ -943,7 +949,6 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -973,7 +978,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:45 PM",
      "5:00 PM",
      "7:30 PM"
     ],
