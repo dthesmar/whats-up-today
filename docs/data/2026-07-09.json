@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-09T20:01:09.426614",
+  "scraped_at": "2026-07-09T21:19:39.085072",
   "date": "2026-07-09"
  },
  "data": {
@@ -64,7 +64,6 @@
     "synopsis": "",
     "showtimes": [
      "9:15 PM",
-     "8:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -137,7 +136,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:30 PM",
      "9:00 PM"
     ],
@@ -163,7 +161,6 @@
     "title": "Jackass: Best and Last (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -211,9 +208,7 @@
    {
     "title": "The Invite (2026)",
     "synopsis": "",
-    "showtimes": [
-     "7:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
@@ -246,9 +241,7 @@
    {
     "title": "Leviticus (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/leviticus-2026-244348/movie-overview",
@@ -368,17 +361,6 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/gail-daughtry-and-the-celebrity-sex-pass-2026-245579/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 33 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
-   },
-   {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [],
@@ -388,17 +370,6 @@
     "rating": "PG",
     "runtime": "1 hr 55 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/Canon_853_1SheetIG_KeyArt_FIN041_FINAL_KA_Mech4.jpg"
-   },
-   {
-    "title": "Young Washington (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
    },
    {
     "title": "Minions & Monsters (2026)",
@@ -432,17 +403,6 @@
     "rating": "PG",
     "runtime": "1 hr 42 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
-   },
-   {
-    "title": "Disclosure Day (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 25 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -784,7 +744,6 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
