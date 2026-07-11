@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-11T01:58:29.300937",
+  "scraped_at": "2026-07-11T10:06:12.824555",
   "date": "2026-07-15"
  },
  "data": {
@@ -767,6 +767,45 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "Living the Land",
+    "synopsis": "Director: Huo Meng Run Time: 132 min. Format: DCP Release Year: 2025 Language: Chinese",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/living-the-land/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10114435/54Gjr1oPOBRNDhskAWN7DdWTscp.jpg"
+   },
+   {
+    "title": "Cui Hu (aka As the Water Flows)",
+    "synopsis": "Director: Bian Zhuo Run Time: 119 min. Format: DCP Release Year: 2026 Language: Chinese",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/cui-hu-aka-as-the-water-flows/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10114734/oXhCcvGRns2msPf3xhbkSh3iKvj.jpg"
+   },
+   {
+    "title": "Kill Zone",
+    "synopsis": "Director: Wilson Yip Run Time: 93 min. Format: Digital Projection Release Year: 2005",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kill-zone/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23112345/7uJmhgeKWYEGp4UydW9NhsOEhYP-scaled.jpg"
+   },
+   {
     "title": "John Wick: Chapter 4",
     "synopsis": "Director: Chad Stahelski Run Time: 170 min. Format: DCP Release Year: 2023",
     "showtimes": [
@@ -918,9 +957,7 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "11:00 AM",
-     "12:15 PM",
      "1:30 PM",
      "2:30 PM",
      "4:00 PM",

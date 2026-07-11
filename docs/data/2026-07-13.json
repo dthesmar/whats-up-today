@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-11T01:58:15.046115",
+  "scraped_at": "2026-07-11T10:05:59.747067",
   "date": "2026-07-13"
  },
  "data": {
@@ -756,6 +756,45 @@
   ],
   "Brattle Theatre": [
    {
+    "title": "Living the Land",
+    "synopsis": "Director: Huo Meng Run Time: 132 min. Format: DCP Release Year: 2025 Language: Chinese",
+    "showtimes": [
+     "12:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/living-the-land/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10114435/54Gjr1oPOBRNDhskAWN7DdWTscp.jpg"
+   },
+   {
+    "title": "Cui Hu (aka As the Water Flows)",
+    "synopsis": "Director: Bian Zhuo Run Time: 119 min. Format: DCP Release Year: 2026 Language: Chinese",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/cui-hu-aka-as-the-water-flows/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10114734/oXhCcvGRns2msPf3xhbkSh3iKvj.jpg"
+   },
+   {
+    "title": "Kill Zone",
+    "synopsis": "Director: Wilson Yip Run Time: 93 min. Format: Digital Projection Release Year: 2005",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/kill-zone/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23112345/7uJmhgeKWYEGp4UydW9NhsOEhYP-scaled.jpg"
+   },
+   {
     "title": "John Wick: Chapter 4",
     "synopsis": "Director: Chad Stahelski Run Time: 170 min. Format: DCP Release Year: 2023",
     "showtimes": [
@@ -990,16 +1029,159 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107d5dbd0>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "10:35AM",
+     "11:15AM",
+     "1:00PM",
+     "1:45PM",
+     "3:20PM",
+     "4:05PM",
+     "6:30PM",
+     "8:45PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Moana",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "1:30PM",
+     "4:15PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-moana",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "10:55AM",
+     "1:35PM",
+     "2:30PM",
+     "4:10PM",
+     "5:00PM",
+     "6:40PM",
+     "9:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "KidFest - Shrek 2",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---shrek-2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Evil Dead Burn",
+    "synopsis": "",
+    "showtimes": [
+     "11:05AM",
+     "1:40PM",
+     "4:20PM",
+     "7:00PM",
+     "9:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/evil-dead-burn",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "11:45AM",
+     "2:45PM",
+     "5:30PM",
+     "8:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Young Washington",
+    "synopsis": "",
+    "showtimes": [
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Supergirl",
+    "synopsis": "",
+    "showtimes": [
+     "9:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/supergirl",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x107d5d6d0>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 TMC Orchestra",
+    "synopsis": "Andris Nelsons, conductor TMC Conducting Fellows HAYDN Symphony No. 31, Hornsignal BRAHMS Variations on a Theme by Haydn, Op. 56a BEETHOVEN Overture to Egmont, Op. 84 BEETHOVEN Symphony No. 5",
+    "showtimes": [
+     "8:00 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28076",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
