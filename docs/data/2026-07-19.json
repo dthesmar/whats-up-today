@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-12T01:47:14.773735",
-  "date": "2026-07-18"
+  "scraped_at": "2026-07-12T01:47:22.837894",
+  "date": "2026-07-19"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -19,12 +19,10 @@
      "11:00 AM",
      "3:00 PM",
      "7:00 PM",
-     "11:00 PM",
      "9:30 AM",
      "12:00 PM",
      "4:00 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -41,7 +39,8 @@
      "1:30 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -65,19 +64,6 @@
     "rating": "PG",
     "runtime": "1 hr 55 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/Canon_853_1SheetIG_KeyArt_FIN041_FINAL_KA_Mech4.jpg"
-   },
-   {
-    "title": "The Rocky Horror Picture Show",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -99,6 +85,50 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 pm",
+     "4:40 pm",
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:15 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -114,72 +144,96 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "The Dark Crystal in 70mm",
+    "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
     "synopsis": "",
     "showtimes": [
-     "11:59 pm"
+     "2:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-dark-crystal-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/silents-please-chang-a-drama-of-the-wilderness/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-1.jpg"
-   },
-   {
-    "title": "Howard the Duck in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/howard-the-duck-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Doors in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Doors-Final-Cut-Poster-600x889.jpg"
-   },
-   {
-    "title": "Inland Empire",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/inland-empire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
-   },
-   {
-    "title": "Chopping Mall",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-16.jpg"
    }
   ],
   "Capitol Theatre": [
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
    {
     "title": "CatVideoFest 2026",
     "synopsis": "",
@@ -214,30 +268,30 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
-    "title": "Camp Miasma in the Rocky Woods",
-    "synopsis": "Join us for an immersive, early screening of director Jane Schoenbrun's Teenage Sex and Death at Camp Miasma in the Rocky Woods!",
+    "title": "Seminar: Some Like It Hot",
+    "synopsis": "Pre-film seminar from Kyle Stevens, Associate Professor of Film Studies at Appalachian State University",
     "showtimes": [
-     "8:00pm"
+     "1:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/camp-miasma-rocky-woods",
+    "url": "https://www.coolidge.org/events/seminar-some-it-hot",
     "rating": "",
-    "runtime": "",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Double%20Feature.jpg"
+    "runtime": "30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/some-like-it-hot-1959-behind-the-scenes-v0-jhsfe2gwh0se1.jpeg"
    },
    {
-    "title": "The Faculty",
-    "synopsis": "Six students discover their teachers really are from another planet in this thriller from director Robert Rodriguez.",
+    "title": "Some Like It Hot",
+    "synopsis": "Billy Wilder\u2019s madcap, men on the run farce still delights audiences over 50 years since it\u2019s release.",
     "showtimes": [
-     "11:59pm"
+     "2:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/faculty",
+    "url": "https://www.coolidge.org/films/some-it-hot",
     "rating": "",
-    "runtime": "1hr 44mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Faculty%201%20website.jpg"
+    "runtime": "2hrs 1min",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Some_Like_Hot_1959.png"
    }
   ],
   "Brattle Theatre": [
@@ -418,36 +472,10 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 OPen Rehearsal",
-    "synopsis": "Andris Nelsons, conductor Daniil Trifonov, piano Thomas Rolfs, trumpet HAYDN Symphony No. 22, The Philosopher SHOSTAKOVICH Piano Concerto No. 1 BEETHOVEN Symphony No. 2",
-    "showtimes": [
-     "10:30 am"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28145",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 BU Tanglewood Institute Young Artists Orchestra",
-    "synopsis": "TBA",
-    "showtimes": [
-     "1:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Seiji Ozawa Hall, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28357",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Horizon Ensemble: Summer Winds \u2013 Summer Winds",
-    "synopsis": "Jamaica Pond Bandstand, Jamaicaway & Pond Street, BostonBen Nacar: Outdoor Music Hayley Yu Qin: Three Moods in New England Luciano Lopez-Parnetti: Quansoo Andr\u00e9s Ballesteros: The Dog and the Squirrel",
+    "synopsis": "outside Church of the Covenant on 67 Newbury Street, Boston. Rain location indoors.Ben Nacar: Outdoor Music Hayley Yu Qin: Three Moods in New England Luciano Lopez-Parnetti: Quansoo Andr\u00e9s Ballesteros: The Dog and the Squirrel",
     "showtimes": [
-     "2:00 pm"
+     "1:00 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Various, in Boston Area",
@@ -457,79 +485,66 @@
     "poster": ""
    },
    {
-    "title": "Aston Magna (SJP) \u2013 The Genius of the French Baroque",
-    "synopsis": "Sonatas and Cantatas of Rameau, Clerambault, and Leclair Dominique Labelle, soprano Daniel Stepner, baroque violin Laura Jeppesen, viola da gamba Michael Sponseller, harpsichord",
+    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
+    "synopsis": "Daniil Trifonov, piano Thomas Rolfs, trumpet HAYDN Symphony No. 22, The Philosopher SHOSTAKOVICH Piano Concerto No. 1 BEETHOVEN Symphony No. 2",
+    "showtimes": [
+     "2:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28145",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Music Mountain \u2013 Daedalus Quartet",
+    "synopsis": "TAILLEFERRE String Quartet Andrew DAVIS Beyond the Break; Shifting Sands Amy BEACH String Quartet, Opus 89 BEETHOVEN String Quartet in A Minor, Opus 132",
     "showtimes": [
      "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Saint James Place,, in Great Barrington",
-    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271077/pe/11791064?deepLink=true&overlay=false",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Mohawk Trails Concerts \u2013 Sahun Sam Hong, piano",
-    "synopsis": "Works of Beethoven, Schubert, and Schumann",
+    "title": "Maverick Concerts \u2013 Windsync",
+    "synopsis": "with Evren Ozel, piano PROGRAM Philip Glass: \u00c9tude No. 17 (from \u00c9tudes for Piano) Samuel Barber: Summer Music, Op. 31 (1956) Elliott Carter: Woodwind Quintet (1948) John Adams: Short Ride in a Fast Machine Gershwin: Rhapsody in Blue",
     "showtimes": [
-     "5:00 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "CHARLEMONT FEDERATED CHURCH, in Charelmont",
-    "url": "https://www.mohawktrailconcerts.org/2026-season",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462087?_gl=1*l8t0lx*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY1MjIkajE3JGwwJGgw",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Joe Hisaishi, conductor",
-    "synopsis": "Jean-Yves Thibaudet, piano Joe HISAISHI Adagio for 2 harps and strings RAVEL Piano Concerto in G Joe HISAISHI DA\u00b7MA\u00b7SHI\u00b7E Joe HISAISHI Symphonic Suite from Princess Mononoke",
+    "title": "Sevenars Music Festival \u2013 Chamber Music",
+    "synopsis": "MADA-HUGH, AMERICA 250 M\u0103d\u0103lina-Claudia D\u0103nil\u0103 and Hugh Sung, Duo PianistsCOPLAND Hoe Down from Rodeo, arr. by Mada and Hugh VINCENT PERSICHETTI Serenade No. 8, Op. 62: A ben placido ~ Con grazia ~ Con calore ~ Semplice JENNIFER HIGDON Jumble Dancing JOHN CAROLLO Stranded in Illusions from Phantasmamusica Book VI SAMUE\u2026",
     "showtimes": [
-     "8:00 pm"
+     "4:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28153",
+    "address": "The Academy, 15, Ireland St, in South Worthington",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Newport Music (BR) \u2013 Opera Night",
-    "synopsis": "Lawrence Brownlee, tenor Erin Morley, soprano Malcolm Martineau, piano From Rossini and Bellini to Verdi and Bizet, with some of opera\u2019s most beloved arias,",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "The Breakers, in Newport",
-    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000BC22w2AD",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Newport Music (BR) \u2013 Harlem Quartet",
-    "synopsis": "with four Festival ArtistsFANNY MENDELSSOHN String Quartet in E-flat Major GUIDO L\u00d3PEZ GAVILAN Cuarteto en Guaguanc\u00f3 SHOSTAKOVICH Two Pieces for String Octet, Op. 11 MENDELSSOHN Octet",
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Tanglewood Music Center Orchestra",
+    "synopsis": "Andris Nelsons, conductor TMC Conducting Fellows BEETHOVEN Leonore Overture No. 3 HINDEMITH Konzertmusik for strings and brass STRAUSS Don Juan STRAUSS Till Eulenspiegel",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "The Breakers, in Newport",
-    "url": "https://newportclassical.my.salesforce-sites.com/ticket/#/events/a0SUV00000BC2Kg2AL",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Mercury Orchestra \u2013 PERRY, SCHUMAN, AND HARRIS",
-    "synopsis": "JULIA PERRY A Short Piece for Large Orchestra WILLIAM SCHUMAN A Free Song (Secular Cantata No. 2) for mixed chorus and orchestra ROY HARRIS Symphony No. 6 \u201cGettysburg\u201d",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Sanders Theatre, 45 Quincy Street, in Cambridge",
-    "url": "https://boxoffice.harvard.edu/Online/default.asp?BOparam::WScontent::loadArticle::permalink=mercury-orchestra",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28161",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -537,10 +552,23 @@
   ],
   "The Beehive": [
    {
-    "title": "Dinner Set with Oscar Stagnaro",
-    "synopsis": "Oscar's technical agility, advanced harmonic and melodic knowledge, and grounding in funk and R&B--as well as his dedication to Latin traditions--give him the ultimate flexibility when it comes time to lay down a groove.",
+    "title": "Live @ Brunch: Blake Newman",
+    "synopsis": "Bassist Blake Newman is one of the most versatile musicians in Boston, playing groove music to ethnic folk music. This quartet features straight ahead jazz playing..Both classic and modern. Check him out: https://blakenewman.org Facebook: https://www.facebook.com/blake.newman.52",
     "showtimes": [
-     "6:30 pm"
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -568,7 +596,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Saturday",
+    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
