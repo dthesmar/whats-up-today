@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-12T01:46:44.376682",
+  "scraped_at": "2026-07-12T04:57:03.963466",
   "date": "2026-07-14"
  },
  "data": {
@@ -729,10 +729,44 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Fly Me to the Moon",
+    "synopsis": "Director: Sasha Chuk Tsz-yin Run Time: 113 min. Release Year: 2024",
+    "showtimes": [
+     "12:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/fly-me-to-the-moon/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/10114956/rSigug388cIA2syRjoxZPu59FDK.jpg"
+   },
+   {
+    "title": "Cool Hand Luke",
+    "synopsis": "Director: Stuart Rosenberg Run Time: 127 min. Format: DCP Release Year: 1967",
+    "showtimes": [
+     "3:15 pm",
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/cool-hand-luke/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23124052/9TDi0FPOSAePfVLZXAUgFZhiMLf-scaled.jpg"
+   },
+   {
+    "title": "Ride in the Whirlwind",
+    "synopsis": "Director: Monte Hellman Run Time: 82 min. Format: DCP Release Year: 1966",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/ride-in-the-whirlwind/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/08/10152411/ride-in-the-whirlwind-3.jpg"
    }
   ],
   "Harvard Film Archive": [
