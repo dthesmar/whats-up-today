@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-13T03:29:30.774797",
+  "scraped_at": "2026-07-13T08:14:56.913247",
   "date": "2026-07-17"
  },
  "data": {
@@ -99,19 +99,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
@@ -227,20 +217,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "The Odyssey (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "2:00 PM",
-     "6:00 PM",
-     "9:30 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/odyssey_presale.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-17"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -285,7 +265,6 @@
     "showtimes": [
      "10:55AM",
      "1:35PM",
-     "2:10PM",
      "4:10PM",
      "6:40PM"
     ],
@@ -297,14 +276,15 @@
     "poster": ""
    },
    {
-    "title": "KidFest - Shrek 2",
+    "title": "Young Washington",
     "synopsis": "",
     "showtimes": [
-     "11:00AM"
+     "11:00AM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---shrek-2",
+    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -315,7 +295,7 @@
     "showtimes": [
      "11:05AM",
      "1:40PM",
-     "4:20PM",
+     "4:30PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -331,7 +311,6 @@
     "showtimes": [
      "11:45AM",
      "2:45PM",
-     "4:35PM",
      "5:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -342,23 +321,11 @@
     "poster": ""
    },
    {
-    "title": "Young Washington",
-    "synopsis": "",
-    "showtimes": [
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "6:55PM"
+     "2:05PM",
+     "5:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -413,10 +380,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [

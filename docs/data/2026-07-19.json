@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-13T03:29:44.664106",
+  "scraped_at": "2026-07-13T08:15:12.670998",
   "date": "2026-07-19"
  },
  "data": {
@@ -272,7 +272,6 @@
     "showtimes": [
      "10:55AM",
      "1:35PM",
-     "2:10PM",
      "4:10PM",
      "6:40PM"
     ],
@@ -284,14 +283,15 @@
     "poster": ""
    },
    {
-    "title": "KidFest - Shrek 2",
+    "title": "Young Washington",
     "synopsis": "",
     "showtimes": [
-     "11:00AM"
+     "11:00AM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---shrek-2",
+    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -302,7 +302,7 @@
     "showtimes": [
      "11:05AM",
      "1:40PM",
-     "4:20PM",
+     "4:30PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -318,7 +318,6 @@
     "showtimes": [
      "11:45AM",
      "2:45PM",
-     "4:35PM",
      "5:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -329,23 +328,11 @@
     "poster": ""
    },
    {
-    "title": "Young Washington",
-    "synopsis": "",
-    "showtimes": [
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "6:55PM"
+     "2:05PM",
+     "5:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
