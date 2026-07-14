@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-13T20:09:43.047064",
+  "scraped_at": "2026-07-13T22:39:04.632702",
   "date": "2026-07-19"
  },
  "data": {
@@ -277,8 +277,14 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:15 PM",
      "1:00 PM",
+     "1:45 PM",
+     "2:45 PM",
      "3:30 PM",
+     "4:45 PM",
+     "5:30 PM",
+     "6:15 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -287,6 +293,64 @@
     "rating": "R",
     "runtime": "2 hr 52 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/odyssey_presale.jpg"
+   },
+   {
+    "title": "Moana (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM",
+     "3:40 PM",
+     "6:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/moana-2026-243429/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 55 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/Canon_853_1SheetIG_KeyArt_FIN041_FINAL_KA_Mech4.jpg"
+   },
+   {
+    "title": "Minions & Monsters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "4:20 PM",
+     "7:10 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 PM",
+     "4:40 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
+   },
+   {
+    "title": "Disclosure Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:25 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
    }
   ],
   "Somerville Theatre": [

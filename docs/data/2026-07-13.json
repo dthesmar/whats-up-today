@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-13T20:07:52.236432",
+  "scraped_at": "2026-07-13T22:38:23.343686",
   "date": "2026-07-13"
  },
  "data": {
@@ -41,9 +41,7 @@
    {
     "title": "Crossing (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/crossing-2026-246253/movie-overview",
@@ -55,9 +53,7 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:00 PM",
-     "10:30 PM",
-     "8:15 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -80,9 +76,7 @@
    {
     "title": "Lenin (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/lenin-2026-246389/movie-overview",
@@ -94,9 +88,7 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
-     "8:15 PM",
-     "9:45 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -121,9 +113,7 @@
    {
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/backrooms-everything-must-go-edition-with-bonus-footage-2026-246362/movie-overview",
@@ -145,10 +135,7 @@
    {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM",
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
@@ -172,9 +159,7 @@
    {
     "title": "Supergirl (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
@@ -185,9 +170,7 @@
    {
     "title": "The Invite (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
@@ -220,9 +203,7 @@
    {
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
@@ -233,9 +214,7 @@
    {
     "title": "Disclosure Day (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
@@ -259,9 +238,7 @@
    {
     "title": "Obsession (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
@@ -283,81 +260,10 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
-    "synopsis": "",
-    "showtimes": [],
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/gail-daughtry-and-the-celebrity-sex-pass-2026-245579/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 33 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245579/SONY-SPMI-08_DigiPoster_1934x2866.jpg"
-   },
-   {
-    "title": "Moana (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/moana-2026-243429/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 55 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/Canon_853_1SheetIG_KeyArt_FIN041_FINAL_KA_Mech4.jpg"
-   },
-   {
-    "title": "Young Washington (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 5 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244774/YNW_KEY_AngelStudios_Main_Dig1Sht_27x40_157_F4.jpg"
-   },
-   {
-    "title": "Minions & Monsters (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
-   },
-   {
-    "title": "The Invite (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 47 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246048/theinvite2026.jpg"
-   },
-   {
-    "title": "Toy Story 5 (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243393/TS5_Payoff_Unboxing_1s_v80_Mech6.jpg"
-   },
-   {
-    "title": "Disclosure Day (2026)",
-    "synopsis": "",
-    "showtimes": [],
-    "theater": "Kendall Square Cinema",
-    "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/disclosure-day-2026-244050/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 25 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244050/NVW_AdvanceEye1Sheet2_1080x1350pxH_RGB_3.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-13"
    }
   ],
   "Somerville Theatre": [
@@ -490,6 +396,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
@@ -687,9 +608,7 @@
    {
     "title": "Dhamaal 4 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/dhamaal-4-2026-246072/movie-overview",
@@ -700,9 +619,7 @@
    {
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/evil-dead-burn-2026-244793/movie-overview",
@@ -713,9 +630,7 @@
    {
     "title": "Idhayam Murali (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/idhayam-murali-2026-246420/movie-overview",
@@ -737,10 +652,7 @@
    {
     "title": "Moana (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:00 PM",
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/moana-2026-243429/movie-overview",
@@ -773,9 +685,7 @@
    {
     "title": "Young Washington (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/young-washington-2026-244774/movie-overview",
@@ -786,9 +696,7 @@
    {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
@@ -810,9 +718,7 @@
    {
     "title": "The Invite (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:15 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/the-invite-2026-246048/movie-overview",
@@ -823,9 +729,7 @@
    {
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/toy-story-5-2026-243393/movie-overview",
@@ -836,9 +740,7 @@
    {
     "title": "Obsession (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/obsession-2026-242812/movie-overview",
