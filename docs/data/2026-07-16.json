@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-14T09:46:49.488844",
+  "scraped_at": "2026-07-14T14:07:10.918284",
   "date": "2026-07-16"
  },
  "data": {
@@ -524,6 +524,21 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -584,21 +599,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -735,6 +735,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23131042/X6N9ZxQOxkmhyaFPnT1R1XTwxi.jpg"
+   },
+   {
+    "title": "Repo Man",
+    "synopsis": "Director: Alex Cox Run Time: 92 min. Format: 35mm Film Release Year: 1984",
+    "showtimes": [
+     "10:00 pm 35mm",
+     "7:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/repo-man/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/23124937/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg"
    }
   ],
   "Harvard Film Archive": [
