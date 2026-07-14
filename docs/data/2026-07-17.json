@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-14T06:45:02.777053",
+  "scraped_at": "2026-07-14T09:47:04.531751",
   "date": "2026-07-17"
  },
  "data": {
@@ -365,62 +365,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:40 pm",
-     "7:30 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10ad0b9d0>, 'Connection to www.somervilletheatre.com timed out. (connect timeout=15)'))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 pm",
-     "9:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "6:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
@@ -602,10 +549,9 @@
   ],
   "Harvard Film Archive": [
    {
-    "error": "No HFA screenings today.",
+    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10ad0bed0>, 'Connection to harvardfilmarchive.org timed out. (connect timeout=15)'))",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -669,6 +615,7 @@
      "10:55AM",
      "1:35PM",
      "4:10PM",
+     "4:45PM",
      "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -679,15 +626,14 @@
     "poster": ""
    },
    {
-    "title": "Young Washington",
+    "title": "KidFest - Shrek 2",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "6:00PM"
+     "11:00AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---shrek-2",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -698,8 +644,8 @@
     "showtimes": [
      "11:05AM",
      "1:40PM",
-     "4:30PM",
-     "7:10PM"
+     "4:20PM",
+     "7:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -724,11 +670,24 @@
     "poster": ""
    },
    {
+    "title": "Young Washington",
+    "synopsis": "",
+    "showtimes": [
+     "1:50PM",
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "2:05PM",
-     "5:45PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
