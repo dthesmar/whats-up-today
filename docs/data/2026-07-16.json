@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-13T23:40:01.487839",
+  "scraped_at": "2026-07-14T01:26:34.792616",
   "date": "2026-07-16"
  },
  "data": {
@@ -723,23 +723,9 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "La La Land",
-    "synopsis": "Today, Jul 13 @ 6:00 pm: Craft-Along!",
-    "showtimes": [
-     "6:00 pm CRAFTING"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/la-la-land/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/07112008/nlPCdZlHtRNcF6C9hzUH4ebmV1w-scaled.jpg"
-   },
-   {
     "title": "Repo Man",
     "synopsis": "Director: Alex Cox Run Time: 92 min. Format: 35mm Film Release Year: 1984",
     "showtimes": [
-     "9:00 pm 35mm",
      "10:00 pm 35mm",
      "7:00 pm 35mm"
     ],
@@ -761,25 +747,15 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Dhamaal 4 (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/dhamaal-4-2026-246072/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246072/Dhamaal%204.jpg"
-   },
-   {
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
      "2:00 PM",
+     "3:00 PM",
      "6:00 PM",
-     "9:30 PM"
+     "6:30 PM",
+     "9:30 PM",
+     "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -804,38 +780,12 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244793/EVLBRN_VERT_MAIN_2764x4096_DOM.jpg"
    },
    {
-    "title": "Idhayam Murali (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/idhayam-murali-2026-246420/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246420/Idhayam%20Murali.jpg"
-   },
-   {
-    "title": "Lenin (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/lenin-2026-246389/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246389/lenin.jpg"
-   },
-   {
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
+     "10:00 AM",
      "11:00 AM",
-     "1:10 PM"
+     "12:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -843,19 +793,6 @@
     "rating": "PG",
     "runtime": "1 hr 55 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243429/Canon_853_1SheetIG_KeyArt_FIN041_FINAL_KA_Mech4.jpg"
-   },
-   {
-    "title": "I, Nobody (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/i-nobody-2026-246419/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    },
    {
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
@@ -876,10 +813,7 @@
     "synopsis": "",
     "showtimes": [
      "10:00 AM",
-     "1:00 PM",
-     "4:00 PM",
-     "7:00 PM",
-     "10:00 PM"
+     "1:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -928,8 +862,8 @@
     "showtimes": [
      "10:00 AM",
      "12:30 PM",
-     "4:00 PM",
-     "6:40 PM",
+     "3:30 PM",
+     "6:20 PM",
      "9:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
