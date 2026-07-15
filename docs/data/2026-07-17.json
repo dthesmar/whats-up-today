@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-15T14:44:46.090572",
+  "scraped_at": "2026-07-15T15:45:52.774941",
   "date": "2026-07-17"
  },
  "data": {
@@ -9,8 +9,8 @@
     "title": "Oh Sukumari (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
-     "1:30 PM"
+     "1:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -23,21 +23,19 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM",
      "10:00 AM",
      "2:00 PM",
      "6:00 PM",
+     "10:00 PM",
      "12:30 PM",
      "4:30 PM",
      "8:30 PM",
-     "11:00 PM",
      "11:00 AM",
      "3:00 PM",
      "7:00 PM",
-     "9:00 PM",
+     "11:00 PM",
      "5:00 PM",
-     "9:30 PM",
-     "10:30 PM",
+     "9:00 PM",
      "11:30 AM",
      "12:00 PM",
      "1:00 PM",
@@ -47,7 +45,9 @@
      "6:30 PM",
      "7:30 PM",
      "7:45 PM",
-     "8:00 PM"
+     "8:00 PM",
+     "9:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -60,11 +60,11 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "10:30 AM",
      "1:30 PM",
      "4:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -108,12 +108,12 @@
      "12:45 PM",
      "2:30 PM",
      "6:30 PM",
-     "9:45 PM",
      "10:00 AM",
      "11:30 AM",
      "4:00 PM",
      "5:30 PM",
-     "8:30 PM"
+     "8:30 PM",
+     "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -140,9 +140,9 @@
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
+     "4:45 PM",
      "11:00 PM",
-     "4:45 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -170,9 +170,9 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:30 PM",
      "11:45 AM",
      "3:45 PM",
+     "9:30 PM",
      "1:15 PM",
      "5:00 PM",
      "7:00 PM"
@@ -202,11 +202,11 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
      "10:30 AM",
      "1:30 PM",
      "4:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -219,8 +219,8 @@
     "title": "Leviticus (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:45 PM",
-     "10:15 AM"
+     "10:15 AM",
+     "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -236,9 +236,9 @@
      "11:00 AM",
      "4:30 PM",
      "7:15 PM",
-     "10:00 PM",
      "10:00 AM",
-     "1:45 PM"
+     "1:45 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -264,11 +264,11 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM",
      "10:00 AM",
      "1:15 PM",
      "4:15 PM",
-     "7:15 PM"
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -425,22 +425,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
@@ -497,6 +481,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Fear Strikes Out",
@@ -723,6 +723,19 @@
    }
   ],
   "Apple Cinemas Cambridge": [
+   {
+    "title": "Vadhala (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/vadhala-2026-246249/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246249/Vadhala-27x40New.jpg"
+   },
    {
     "title": "The Odyssey (2026)",
     "synopsis": "",
