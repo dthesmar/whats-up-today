@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-15T16:46:44.942550",
+  "scraped_at": "2026-07-15T17:47:50.189970",
   "date": "2026-07-15"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "The Eyes",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -78,7 +77,6 @@
     "title": "Gail Daughtry and the Celebrity Sex Pass (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -162,7 +160,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "6:30 PM",
      "9:00 PM",
      "7:30 PM",
@@ -207,7 +204,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -232,9 +228,7 @@
    {
     "title": "Maddie's Secret (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/maddies-secret-2026-245718/movie-overview",
@@ -247,7 +241,6 @@
     "synopsis": "",
     "showtimes": [
      "6:00 PM",
-     "4:45 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -273,9 +266,7 @@
    {
     "title": "Stop! That! Train! (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/stop-that-train-2026-244811/movie-overview",
@@ -364,7 +355,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -378,7 +368,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:40 PM",
      "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -500,37 +489,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:30 pm",
-     "2:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:45 pm",
-     "1:00 pm",
-     "3:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -544,6 +502,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "2:30 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm",
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Moana",
@@ -772,7 +761,6 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:00 PM"
     ],
@@ -813,7 +801,6 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "6:15 PM",
      "7:15 PM",
      "9:00 PM",
@@ -908,7 +895,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:40 PM",
      "9:30 PM"
     ],
