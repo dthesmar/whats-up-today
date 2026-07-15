@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-15T13:27:06.969051",
+  "scraped_at": "2026-07-15T14:44:31.542073",
   "date": "2026-07-15"
  },
  "data": {
@@ -48,7 +48,6 @@
     "title": "Crossing (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -111,10 +110,8 @@
     "showtimes": [
      "3:00 PM",
      "10:30 PM",
-     "2:15 PM",
      "5:30 PM",
      "6:30 PM",
-     "1:30 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -172,7 +169,6 @@
     "showtimes": [
      "2:30 PM",
      "5:00 PM",
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM",
@@ -262,7 +258,6 @@
     "showtimes": [
      "3:30 PM",
      "6:00 PM",
-     "2:00 PM",
      "4:45 PM",
      "9:15 PM"
     ],
@@ -277,7 +272,6 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -318,9 +312,7 @@
    {
     "title": "Michael (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/michael-2026-243301/movie-overview",
@@ -526,52 +518,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -601,6 +547,52 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm",
+     "1:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:45 pm",
+     "2:00 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm",
+     "2:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -840,8 +832,6 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "1:10 PM",
      "3:30 PM",
      "4:30 PM",
      "6:15 PM",
@@ -901,7 +891,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "2:30 PM",
      "4:00 PM",
      "5:30 PM",
