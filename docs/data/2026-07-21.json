@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-15T23:01:15.488584",
+  "scraped_at": "2026-07-16T09:10:33.402993",
   "date": "2026-07-21"
  },
  "data": {
@@ -655,31 +655,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "UFOria",
-    "synopsis": "Director: John Binder Run Time: 95 min. Format: 35mm Film Release Year: 1984",
+    "title": "Lucky",
+    "synopsis": "Director: John Carroll Lynch Run Time: 88 min. Format: DCP Release Year: 2017",
     "showtimes": [
-     "4:45 pm 35mm",
-     "9:00 pm 35mm"
+     "4:00 pm",
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/uforia/",
+    "url": "https://brattlefilm.org/movies/lucky/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23133450/z884s7ER2olQrbI9uHpv9Yvl44p.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23134030/josJUt5eVMANf06mxSKnJlwjELB.jpg"
    },
    {
-    "title": "Repo Man",
-    "synopsis": "Director: Alex Cox Run Time: 92 min. Format: 35mm Film Release Year: 1984",
+    "title": "GRRL HAUS CINEMA \u2013 New England Local Showcase",
+    "synopsis": "Run Time: 90 min.",
     "showtimes": [
-     "7:00 pm 35mm"
+     "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/repo-man/",
+    "url": "https://brattlefilm.org/special_events/grrl-haus-cinema-new-england-local-showcase/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/10/23124937/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/30150731/NE-Local_Slide.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -872,17 +872,17 @@
     "poster": ""
    },
    {
-    "title": "CWX Moana",
+    "title": "Moana",
     "synopsis": "",
     "showtimes": [
      "10:45AM",
-     "1:30PM",
-     "4:15PM",
-     "7:00PM"
+     "1:35PM",
+     "4:30PM",
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-moana",
+    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -892,9 +892,9 @@
     "synopsis": "",
     "showtimes": [
      "10:55AM",
-     "1:35PM",
-     "4:10PM",
-     "6:40PM"
+     "1:30PM",
+     "4:15PM",
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -907,8 +907,7 @@
     "title": "Young Washington",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "6:00PM"
+     "11:00AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -923,7 +922,7 @@
     "showtimes": [
      "11:05AM",
      "1:40PM",
-     "4:30PM",
+     "4:20PM",
      "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -934,16 +933,14 @@
     "poster": ""
    },
    {
-    "title": "Moana",
+    "title": "CWX Moana",
     "synopsis": "",
     "showtimes": [
-     "11:45AM",
-     "2:45PM",
-     "5:30PM"
+     "11:45AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-moana",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -952,12 +949,51 @@
     "title": "Disclosure Day",
     "synopsis": "",
     "showtimes": [
-     "2:05PM",
-     "5:45PM"
+     "2:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "2:30PM",
+     "6:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "5:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "the invite",
+    "synopsis": "",
+    "showtimes": [
+     "6:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
     "rating": "",
     "runtime": "",
     "poster": ""
