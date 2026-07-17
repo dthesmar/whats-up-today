@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-17T05:34:00.659916",
+  "scraped_at": "2026-07-17T06:35:06.979898",
   "date": "2026-07-24"
  },
  "data": {
@@ -434,20 +434,18 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Minions & Monsters",
+    "title": "the invite",
     "synopsis": "",
     "showtimes": [
-     "10:35AM",
-     "11:15AM",
-     "1:00PM",
-     "1:45PM",
-     "3:20PM",
-     "4:05PM",
-     "6:30PM"
+     "10:50AM",
+     "1:25PM",
+     "4:20PM",
+     "7:05PM",
+     "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -456,10 +454,11 @@
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "10:45AM",
+     "10:55AM",
      "1:35PM",
-     "4:30PM",
-     "7:05PM"
+     "4:10PM",
+     "6:45PM",
+     "9:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -469,13 +468,44 @@
     "poster": ""
    },
    {
+    "title": "KidFest - Dog Man",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---dog-man",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "11:15AM",
+     "1:40PM",
+     "3:55PM",
+     "6:10PM",
+     "8:30PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "10:55AM",
-     "1:30PM",
-     "4:15PM",
-     "6:45PM"
+     "11:20AM",
+     "1:45PM",
+     "4:05PM",
+     "6:35PM",
+     "9:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -485,66 +515,12 @@
     "poster": ""
    },
    {
-    "title": "Young Washington",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/young-washington",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Evil Dead Burn",
-    "synopsis": "",
-    "showtimes": [
-     "11:05AM",
-     "1:40PM",
-     "4:20PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/evil-dead-burn",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX Moana",
-    "synopsis": "",
-    "showtimes": [
-     "11:45AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-moana",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Disclosure Day",
-    "synopsis": "",
-    "showtimes": [
-     "2:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/disclosure-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "CWX The Odyssey",
     "synopsis": "",
     "showtimes": [
-     "2:30PM",
-     "6:15PM"
+     "11:30AM",
+     "3:15PM",
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -557,7 +533,11 @@
     "title": "The Odyssey",
     "synopsis": "",
     "showtimes": [
-     "5:40PM"
+     "12:30PM",
+     "1:30PM",
+     "4:15PM",
+     "5:35PM",
+     "8:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -567,14 +547,14 @@
     "poster": ""
    },
    {
-    "title": "the invite",
+    "title": "Evil Dead Burn",
     "synopsis": "",
     "showtimes": [
-     "6:25PM"
+     "9:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
+    "url": "https://arsenalyards.cwtheaters.com/movie/evil-dead-burn",
     "rating": "",
     "runtime": "",
     "poster": ""
