@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-17T14:37:14.248133",
+  "scraped_at": "2026-07-17T19:23:35.450626",
   "date": "2026-07-23"
  },
  "data": {
@@ -62,6 +62,20 @@
     "rating": "R",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245711/motorcity_presale.png"
+   },
+   {
+    "title": "Pinocchio Unstrung (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/pinocchio-unstrung-2026-245907/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 23 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245907/PinocchioUnstrung-4x5.jpg"
    },
    {
     "title": "Jana Nayagan (2026)",
@@ -187,7 +201,7 @@
     "title": "Young Washington (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM"
+     "10:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -215,7 +229,7 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM"
+     "1:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -340,6 +354,20 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -365,20 +393,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "4:40 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
     "title": "Disclosure Day",
@@ -410,50 +424,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Moana",
@@ -471,19 +454,50 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Toy Story 5",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "CatVideoFest 2026",
