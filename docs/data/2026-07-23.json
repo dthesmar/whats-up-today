@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-16T13:56:20.337311",
+  "scraped_at": "2026-07-16T21:03:55.500202",
   "date": "2026-07-23"
  },
  "data": {
@@ -343,8 +343,6 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
-     "6:00 pm",
      "3:00 pm",
      "7:00 pm"
     ],
@@ -354,38 +352,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "2:10 pm",
-     "4:40 pm",
-     "7:20 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:15 pm",
-     "7:45 pm",
-     "4:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
    },
    {
     "title": "Disclosure Day",
@@ -399,6 +365,33 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
    },
    {
     "title": "The Third Man in 35mm",
@@ -417,12 +410,57 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
      "2:00 pm",
      "4:45 pm",
-     "7:45 pm",
      "7:40 pm"
     ],
     "theater": "Capitol Theatre",
@@ -446,52 +484,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm",
-     "1:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "1:15 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm",
-     "7:00 pm",
-     "1:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -918,10 +910,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Chris Stovall Brown.......Blues Hit!!",
+    "synopsis": "Chris Stovall Brown is a killer blues musician with enough \"mojo\" to rock blues gods all the way to Texas and back. A legendary guitarist with a crack band...this man crushes!",
+    "showtimes": [
+     "9:00 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
