@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-17T23:30:47.178362",
+  "scraped_at": "2026-07-18T00:31:40.067012",
   "date": "2026-07-20"
  },
  "data": {
@@ -694,43 +694,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Jaws",
-    "synopsis": "Director: Steven Spielberg Run Time: 124 min. Format: 35mm Film Rating: PG Release Year: 1975",
-    "showtimes": [
-     "3:30 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/jaws/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2021/05/07115606/jaws-1975-2-brody-e1718031117960.jpg"
-   },
-   {
-    "title": "Death Watch",
-    "synopsis": "Director: Bertrand Tavernier Run Time: 131 min. Format: Digital Projection Release Year: 1980",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/death-watch/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23134326/hjqOmIZVSZLqqUkTuzZmTUUmoQP.jpg"
-   },
-   {
-    "title": "Christine",
-    "synopsis": "Director: John Carpenter Run Time: 110 min. Format: DCP Release Year: 1983",
-    "showtimes": [
-     "9:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/christine/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23134501/6goydaLavDu3d2g3kFJHECZiddt.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
