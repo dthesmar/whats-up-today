@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-18T02:34:14.121694",
+  "scraped_at": "2026-07-18T03:35:20.532594",
   "date": "2026-07-23"
  },
  "data": {
@@ -648,10 +648,47 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "The Last Temptation of Christ",
+    "synopsis": "Director: Martin Scorsese Run Time: 164 min. Format: DCP Release Year: 1988",
+    "showtimes": [
+     "1:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/the-last-temptation-of-christ/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23134736/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg"
+   },
+   {
+    "title": "Escape from New York",
+    "synopsis": "Director: John Carpenter Run Time: 99 min. Format: DCP Release Year: 1981",
+    "showtimes": [
+     "4:45 pm",
+     "9:30 pm",
+     "6:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/escape-from-new-york/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/12/11151740/aXPCXYFzFzdveVVk1HjVf9fHUcn-scaled.jpg"
+   },
+   {
+    "title": "Alien",
+    "synopsis": "Director: Ridley Scott Run Time: 117 min. Format: DCP Release Year: 1979",
+    "showtimes": [
+     "7:00 pm",
+     "4:00 pm",
+     "8:45 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/alien/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/06/22110712/alien-13.jpg"
    }
   ],
   "Harvard Film Archive": [
