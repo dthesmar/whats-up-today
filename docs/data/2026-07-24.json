@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-17T19:23:42.870206",
+  "scraped_at": "2026-07-17T23:31:13.769471",
   "date": "2026-07-24"
  },
  "data": {
@@ -9,11 +9,11 @@
     "title": "Hadestown: The Musical (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
-     "3:30 PM",
      "7:00 PM",
      "8:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "12:00 PM",
+     "3:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -40,9 +40,9 @@
     "title": "Her Private Hell (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "7:15 PM",
-     "10:15 PM"
+     "10:15 PM",
+     "4:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -94,16 +94,16 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "2:00 PM",
      "6:00 PM",
      "10:00 PM",
+     "10:00 AM",
+     "2:00 PM",
+     "8:30 PM",
      "12:30 PM",
      "4:30 PM",
-     "8:30 PM",
+     "7:00 PM",
      "11:00 AM",
-     "3:00 PM",
-     "7:00 PM"
+     "3:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -145,24 +145,11 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -170,74 +157,9 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Fear Strikes Out",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/fear-strikes-out/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/FearStrikesOut-600x907.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
    {
     "title": "A League of Their Own",
     "synopsis": "",

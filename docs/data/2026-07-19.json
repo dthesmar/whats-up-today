@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-17T19:23:05.053043",
+  "scraped_at": "2026-07-17T23:30:40.536167",
   "date": "2026-07-19"
  },
  "data": {
@@ -356,21 +356,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:40 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -384,19 +369,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "synopsis": "",
-    "showtimes": [
-     "4:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
    },
    {
     "title": "Disclosure Day",
@@ -413,6 +385,34 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
    },
    {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
+   },
+   {
     "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
     "synopsis": "",
     "showtimes": [
@@ -427,37 +427,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:40 pm",
-     "12:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
    {
     "title": "Minions & Monsters",
     "synopsis": "",
@@ -488,6 +457,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:40 pm",
+     "12:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "The Devil Wears Prada 2",
@@ -667,6 +667,19 @@
     "rating": "",
     "runtime": "2hrs 7mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
+   },
+   {
+    "title": "Camp Miasma in the Rocky Woods",
+    "synopsis": "Join us for an immersive, early screening of director Jane Schoenbrun's Teenage Sex and Death at Camp Miasma in the Rocky Woods!",
+    "showtimes": [
+     "8:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/events/camp-miasma-rocky-woods",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Double%20Feature.jpg"
    },
    {
     "title": "Obsession (2026)",
