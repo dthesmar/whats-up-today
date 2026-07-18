@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-18T08:40:56.313759",
+  "scraped_at": "2026-07-18T09:42:01.978158",
   "date": "2026-07-23"
  },
  "data": {
@@ -120,16 +120,16 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "2:00 PM",
      "6:00 PM",
      "10:00 PM",
-     "12:30 PM",
+     "10:00 AM",
      "4:30 PM",
      "8:30 PM",
-     "11:00 AM",
+     "12:30 PM",
      "3:00 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "11:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -142,11 +142,11 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "1:30 PM",
      "4:30 PM",
      "7:30 PM",
-     "10:30 PM"
+     "10:30 PM",
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -159,8 +159,8 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "6:30 PM",
+     "12:00 PM",
      "3:15 PM",
      "9:45 PM"
     ],
@@ -215,8 +215,8 @@
     "synopsis": "",
     "showtimes": [
      "12:30 PM",
-     "10:00 AM",
-     "3:15 PM"
+     "3:15 PM",
+     "10:00 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -243,8 +243,8 @@
     "synopsis": "",
     "showtimes": [
      "1:15 PM",
-     "10:30 AM",
-     "4:00 PM"
+     "4:00 PM",
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
