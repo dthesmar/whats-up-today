@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-18T20:46:12.252152",
+  "scraped_at": "2026-07-19T07:57:52.618380",
   "date": "2026-07-22"
  },
  "data": {
@@ -389,19 +389,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -426,6 +413,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
     "title": "The Third Man in 35mm",
@@ -692,47 +692,32 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Last Temptation of Christ",
-    "synopsis": "Director: Martin Scorsese Run Time: 164 min. Format: DCP Release Year: 1988",
+    "title": "Paris, Texas",
+    "synopsis": "Director: Wim Wenders Run Time: 145 min. Format: DCP Release Year: 1984",
     "showtimes": [
-     "1:00 pm"
+     "12:45 pm",
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-last-temptation-of-christ/",
+    "url": "https://brattlefilm.org/movies/paris-texas/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23134736/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/10/22115123/PTX03cWWS.jpg"
    },
    {
-    "title": "Escape from New York",
-    "synopsis": "Director: John Carpenter Run Time: 99 min. Format: DCP Release Year: 1981",
+    "title": "Pretty in Pink",
+    "synopsis": "Director: Howard Deutch Run Time: 97 min. Format: DCP Release Year: 1986",
     "showtimes": [
-     "4:45 pm",
-     "9:30 pm",
-     "6:30 pm"
+     "3:45 pm",
+     "9:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/escape-from-new-york/",
+    "url": "https://brattlefilm.org/movies/pretty-in-pink/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/12/11151740/aXPCXYFzFzdveVVk1HjVf9fHUcn-scaled.jpg"
-   },
-   {
-    "title": "Alien",
-    "synopsis": "Director: Ridley Scott Run Time: 117 min. Format: DCP Release Year: 1979",
-    "showtimes": [
-     "7:00 pm",
-     "4:00 pm",
-     "8:45 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/alien/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/06/22110712/alien-13.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23141127/bZneRu42OnfMJzQJ0Mn39kCI5v3-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -917,14 +902,28 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "CWX The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "2:15PM",
+     "6:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "the invite",
     "synopsis": "",
     "showtimes": [
      "10:50AM",
      "1:25PM",
      "4:20PM",
-     "7:05PM",
-     "9:35PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -940,8 +939,7 @@
      "10:55AM",
      "1:35PM",
      "4:10PM",
-     "6:45PM",
-     "9:20PM"
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -970,8 +968,7 @@
      "11:15AM",
      "1:40PM",
      "3:55PM",
-     "6:10PM",
-     "8:30PM"
+     "6:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -987,8 +984,7 @@
      "11:20AM",
      "1:45PM",
      "4:05PM",
-     "6:35PM",
-     "9:00PM"
+     "6:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -998,29 +994,13 @@
     "poster": ""
    },
    {
-    "title": "CWX The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "11:30AM",
-     "3:15PM",
-     "7:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Odyssey",
     "synopsis": "",
     "showtimes": [
-     "12:30PM",
-     "1:30PM",
-     "4:15PM",
-     "5:35PM",
-     "8:15PM"
+     "11:30AM",
+     "1:15PM",
+     "3:15PM",
+     "5:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1033,7 +1013,7 @@
     "title": "Evil Dead Burn",
     "synopsis": "",
     "showtimes": [
-     "9:25PM"
+     "7:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
