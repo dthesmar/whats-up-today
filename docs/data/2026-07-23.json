@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-19T20:19:00.755093",
+  "scraped_at": "2026-07-20T00:15:11.573523",
   "date": "2026-07-23"
  },
  "data": {
@@ -665,32 +665,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Paris, Texas",
-    "synopsis": "Director: Wim Wenders Run Time: 145 min. Format: DCP Release Year: 1984",
-    "showtimes": [
-     "12:45 pm",
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/paris-texas/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/10/22115123/PTX03cWWS.jpg"
-   },
-   {
-    "title": "Pretty in Pink",
-    "synopsis": "Director: Howard Deutch Run Time: 97 min. Format: DCP Release Year: 1986",
-    "showtimes": [
-     "3:45 pm",
-     "9:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/pretty-in-pink/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23141127/bZneRu42OnfMJzQJ0Mn39kCI5v3-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [

@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-20T00:15:35.252097",
-  "date": "2026-07-26"
+  "scraped_at": "2026-07-20T00:16:02.253674",
+  "date": "2026-07-27"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "title": "The Fifth Element (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "7:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -19,12 +19,24 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244291/1000x1480_Fifth%20Element_Exhibitor%20Poster.jpg"
    },
    {
+    "title": "AMC Screen Unseen: July 27",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/amc-screen-unseen-july-27-246431/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246431/MOP-POSTER_SCREEN-UNSEEN__R-RATED_400x600.jpg"
+   },
+   {
     "title": "Hadestown: The Musical (2026)",
     "synopsis": "",
     "showtimes": [
      "12:00 PM",
      "3:30 PM",
-     "4:15 PM",
      "7:00 PM",
      "10:30 PM"
     ],
@@ -91,19 +103,6 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245907/PinocchioUnstrung-4x5.jpg"
    },
    {
-    "title": "Sia: Nostalgic for the Present (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/sia-nostalgic-for-the-present-2026-246220/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 15 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246220/Sia-Fandango-900x1333.jpg"
-   },
-   {
     "title": "Bad Counselors (2026)",
     "synopsis": "",
     "showtimes": [
@@ -155,18 +154,10 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "The Odyssey (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 PM",
-     "7:00 PM"
-    ],
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-27"
    }
   ],
   "Somerville Theatre": [
@@ -174,9 +165,8 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
+     "3:00 pm",
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -186,25 +176,113 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm"
+     "4:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/silents-please-chang-a-drama-of-the-wilderness/",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-16.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
+   },
+   {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "4:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm"
+     "2:00 pm",
+     "4:45 pm",
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -214,40 +292,40 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "CatVideoFest 2026",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "3:00 pm",
+     "2:30 pm",
      "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Disasterpiece Theatre",
+    "synopsis": "",
+    "showtimes": [
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Gentlemen Prefer Blondes",
-    "synopsis": "Marilyn Monroe and Jane Russell star in Howard Hawks's hilarious and subversive musical comedy.",
-    "showtimes": [
-     "2:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/gentlemen-prefer-blondes",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Gentlemen%20Prefer%20Blondes%20new%20site.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
     "showtimes": [
+     "11:00am",
      "3:30pm",
      "8:00pm"
     ],
@@ -306,20 +384,6 @@
     "rating": "R",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245711/motorcity_presale.png"
-   },
-   {
-    "title": "Jana Nayagan (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 PM",
-     "6:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/jana-nayagan-2026-243375/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "3 hr 6 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243375/Jana%20Nayagan-Theater-poster2.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -447,105 +511,27 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 Festival of Contemporary Music",
-    "synopsis": "Delfin DEMIRAY as an antidote to fear of death, i eat the stars Maya MIRO JOHNSON bruises (disambiguation) Hannah ISHIZAKI Float/Shake Jessie COX Quantify LIGETI Melodien LUTOS\u0141AWSKI Chantefleurs et ChantefablesFREE",
+    "title": "Paul Madore Chorale (SPC) \u2013 Summer Sing",
+    "synopsis": "Handel\u2019s Messiah (Conductor: Robin Williams) $20",
     "showtimes": [
-     "10:00 am"
+     "7:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "St. Peter\u2019s Episcopal Church, 24 St. Peters St., in Salem",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Festival of Contemporary Music",
+    "synopsis": "Tanglewood Music Center Orchestra Esa-Pekka Salonen, conductor Senja Rummukainen, cello Magnus LINDBERG Serenade Hans ABRAHAMSEN let me tell you Anders HILLBORG Kongsgaard Variations Esa-Pekka SALONEN Cello Concerto",
+    "showtimes": [
+     "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Seiji Ozawa Hall, in Lenox",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
-    "synopsis": "Himari, violin Esa-Pekka SALONEN Gambit MOZART Violin Concerto No. 1 TCHAIKOVSKY Symphony No. 5",
-    "showtimes": [
-     "2:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28174",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Music Mountain \u2013 Verona Quartet",
-    "synopsis": "Alessandro SCARLATTI Sonata a Quattro in D Minor, #4 Augusta READ THOMAS Clara\u2019s Ascent Leo\u0161 JAN\u00c1\u010cEK String Quartet #1, \u201cKreutzer Sonata\u201d BEETHOVEN String Quartet in E Flat Major, Opus 127",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271078/pe/11791065?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 Pacifica Quartet",
-    "synopsis": "Haydn: String Quartet in B minor, Op. 33, No. 1 Korngold: String Quartet No. 2 in E-flat major, Op. 26 Beethoven: String Quartet No. 13 in B-flat major, Op. 130, with Grosse Fuge, Op. 133",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462088?_gl=1*111odng*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY3MzYkajU1JGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Sevenars Music Festival \u2013 Chamber Music",
-    "synopsis": "The Champlain Trio plays \u201cIn Her Voice\u201d Letitia Quante, violin; Emily Taubl, cello; Hiromi Fukuda, pianoAMY BEACH Trio in A minor, op.150 CHARLOTTE SOHY Trio in A minor, op. 24 (1931) DORA PEJA\u010cEVI\u0106 Piano Trio No. 1 in C major, Op. 29$20 suggested",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "The Academy, 15, Ireland St, in South Worthington",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Kingston Chamber Music Festival \u2013 Mozart and Britten",
-    "synopsis": "Purcell, Chaconne in G Minor (arranged by B. Britten) Britten, String Quartet No. 2 in C Major, Op. 36 Britten, Sonata for Cello and Piano in C Major, Op. 65Kate Liu, piano; Clancy Newman, cello; Terra String Quartet",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
-    "url": "http://kingstonchambermusic.org/events/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Festival Orchestra (JH) \u2013 Bruckner 6",
-    "synopsis": "Alyssa Wang, conductor Agata Szymczewska, violin Teng Li, violaMOZART Sinfonia Concertante BRUCKNER Symphony No. 6 in A Major",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://patron.bforchestra.org/ticketing/bfo/bruckner6",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Festival Orchestra (JH) \u2013 Bruckner 6",
-    "synopsis": "Mozart: Sinfonia Concertante Agata Szymczewska, violin Teng Li, violaAnton Bruckner: Symphony No. 6 in A Major",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://patron.bforchestra.org/ticketing/bfo/bruckner6",
+    "url": "https://secure.bso.org/syos/performance/28248",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -553,8 +539,8 @@
   ],
   "The Beehive": [
    {
-    "title": "Sunday Blues with Bruce Bears & Friends",
-    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "title": "MONDAY NIGHT HOEDOWN",
+    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
     "showtimes": [
      "7:30 pm"
     ],
@@ -584,7 +570,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
+    "title": "Blues Night \u2014 Monday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
