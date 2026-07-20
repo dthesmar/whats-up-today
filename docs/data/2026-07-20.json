@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-20T02:17:36.437398",
+  "scraped_at": "2026-07-20T03:18:58.045207",
   "date": "2026-07-20"
  },
  "data": {
@@ -696,10 +696,31 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Alien",
+    "synopsis": "Director: Ridley Scott Run Time: 117 min. Format: DCP Release Year: 1979",
+    "showtimes": [
+     "4:00 pm",
+     "8:45 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/alien/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/06/22110712/alien-13.jpg"
+   },
+   {
+    "title": "Escape from New York",
+    "synopsis": "Director: John Carpenter Run Time: 99 min. Format: DCP Release Year: 1981",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/escape-from-new-york/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/12/11151740/aXPCXYFzFzdveVVk1HjVf9fHUcn-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
