@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-19T18:48:50.157377",
+  "scraped_at": "2026-07-19T20:50:07.001822",
   "date": "2026-07-24"
  },
  "data": {
@@ -145,18 +145,10 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "No Somerville Theatre screenings found for today.",
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "url": "https://www.somervilletheatre.com"
    }
   ],
   "Capitol Theatre": [
@@ -272,49 +264,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Brunello: The Gracious Visionary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:50 PM"
-    ],
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/brunello-the-gracious-visionary-2026-245768/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245768/Brunello%20The%20Gracious%20Visionary.jpg"
-   },
-   {
-    "title": "Motor City (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
-     "2:50 PM",
-     "5:15 PM",
-     "7:40 PM",
-     "10:05 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/motor-city-2026-245711/movie-overview",
-    "rating": "R",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245711/motorcity_presale.png"
-   },
-   {
-    "title": "Jana Nayagan (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 PM",
-     "6:15 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/jana-nayagan-2026-243375/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "3 hr 6 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243375/Jana%20Nayagan-Theater-poster2.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-24"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
