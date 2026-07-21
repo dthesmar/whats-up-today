@@ -1,19 +1,32 @@
 {
  "meta": {
-  "scraped_at": "2026-07-21T00:16:28.353022",
-  "date": "2026-07-24"
+  "scraped_at": "2026-07-21T00:17:15.714413",
+  "date": "2026-07-28"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "WHAM! 10 Days in China (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/wham-10-days-in-china-2026-246273/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246273/WHAM.jpg"
+   },
    {
     "title": "Hadestown: The Musical (2026)",
     "synopsis": "",
     "showtimes": [
      "12:00 PM",
      "3:30 PM",
-     "5:00 PM",
+     "6:00 PM",
      "7:00 PM",
-     "8:30 PM",
+     "9:15 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -58,6 +71,7 @@
     "showtimes": [
      "10:30 AM",
      "1:30 PM",
+     "4:30 PM",
      "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -71,9 +85,9 @@
     "title": "Pinocchio Unstrung (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
-     "1:45 PM",
-     "5:00 PM"
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -87,7 +101,7 @@
     "synopsis": "",
     "showtimes": [
      "1:15 PM",
-     "6:00 PM"
+     "8:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -95,19 +109,6 @@
     "rating": "Not Rated",
     "runtime": "3 hr 6 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243375/Jana%20Nayagan-Theater-poster2.jpg"
-   },
-   {
-    "title": "Bad Counselors (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/bad-counselors-2026-245824/movie-overview",
-    "rating": "PG13",
-    "runtime": "1 hr 45 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245824/BC-1000x1480-Ticketing-Thumbnail-with-Border.jpg"
    },
    {
     "title": "The Odyssey (2026)",
@@ -129,11 +130,9 @@
      "10:30 PM",
      "11:30 AM",
      "12:00 PM",
-     "1:00 PM",
      "3:30 PM",
      "4:00 PM",
      "5:30 PM",
-     "7:30 PM",
      "8:00 PM",
      "9:30 PM"
     ],
@@ -148,6 +147,7 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
+     "11:00 AM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -161,11 +161,11 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "9:30 PM",
-     "10:45 AM",
-     "4:30 PM",
-     "6:15 PM"
+     "10:00 AM",
+     "4:00 PM",
+     "10:15 PM",
+     "1:00 PM",
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -193,7 +193,7 @@
     "synopsis": "",
     "showtimes": [
      "2:45 PM",
-     "10:15 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -208,7 +208,7 @@
     "showtimes": [
      "10:00 AM",
      "1:15 PM",
-     "4:15 PM"
+     "5:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -240,7 +240,8 @@
     "synopsis": "",
     "showtimes": [
      "10:15 AM",
-     "12:45 PM"
+     "12:45 PM",
+     "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -256,7 +257,7 @@
      "10:45 AM",
      "1:45 PM",
      "3:45 PM",
-     "6:45 PM",
+     "6:15 PM",
      "9:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -301,9 +302,9 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:45 AM",
+     "2:00 PM",
      "4:45 PM",
-     "9:45 PM"
+     "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -315,27 +316,38 @@
   ],
   "Kendall Square Cinema": [
    {
-    "title": "The Odyssey (2026)",
+    "title": "Jurassic Park (1993)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "7:00 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+    "url": "https://www.fandango.com/jurassic-park-1993-54537/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 6 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/54537/jurassicpark1.jpg"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -348,7 +360,7 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
+     "7:30 pm",
      "7:15 pm"
     ],
     "theater": "Somerville Theatre",
@@ -362,7 +374,6 @@
     "title": "Reading Lolita in Tehran",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -371,6 +382,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -396,7 +420,8 @@
     "showtimes": [
      "1:15 pm",
      "4:00 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -464,49 +489,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/unnamed-file-1.jpg"
-   },
-   {
-    "title": "A League of Their Own",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/a-league-of-their-own/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-20.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
-    "title": "CatVideoFest 2026",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -526,30 +508,17 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
-    "title": "Communion",
-    "synopsis": "The true story of one man's terrifying journey into the unknown.",
+    "title": "The Prince and the Showgirl",
+    "synopsis": "Some countries have a medal for everything.",
     "showtimes": [
-     "11:59pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/communion",
+    "url": "https://www.coolidge.org/films/prince-and-showgirl",
     "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Communion1989_04%20copy.jpg"
-   },
-   {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
+    "runtime": "1hr 55mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Marilyn_Monroe_port_7717%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -583,18 +552,22 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245768/Brunello%20The%20Gracious%20Visionary.jpg"
    },
    {
-    "title": "Jana Nayagan (2026)",
+    "title": "Motor City (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
-     "6:15 PM"
+     "10:00 AM",
+     "12:30 PM",
+     "2:50 PM",
+     "5:15 PM",
+     "7:40 PM",
+     "10:05 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/jana-nayagan-2026-243375/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "3 hr 6 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243375/Jana%20Nayagan-Theater-poster2.jpg"
+    "url": "https://www.fandango.com/motor-city-2026-245711/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245711/motorcity_presale.png"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -709,52 +682,39 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 Festival of Contemporary Music",
-    "synopsis": "Esa-Pekka SALONEN Saltat sobrius Nico MUHLY Two Motets DAVIES Fantasia on a Ground and Two Pavanes Esa-Pekka SALONEN FogFREE",
+    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
+    "synopsis": "Folias Duo$5 suggested",
     "showtimes": [
-     "2:30 pm"
+     "12:15 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Seiji Ozawa Hall, in Lenox",
+    "address": "Kings Chapel, in Boston",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Kingston Chamber Music Festival \u2013 Chamber Music from 1776 to Modern America",
-    "synopsis": "Boccherini, String Quartet in E-flat Major for Two Violins, Two Violas, and Two Cellos Mozart, Piano Trio No. 1 in B-flat major (\u201cDivertimento\u201d), Jessie Montogomery, \u201cStrum\u201d for String Quartet Dvorak, String Quartet No. 12 \u201cAmerican\u201dNatalie Zhu, piano; Harriet Langley, violin; Che-Hung Chen, viola; Tommy Mesa, cello; C\u2026",
+    "title": "Masterworks Chorale (GC) \u2013 Summer Sing",
+    "synopsis": "Brahms: Ein deutsches Requiem Bring your score or borrow one of ours! $20 suggested",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
-    "url": "http://kingstonchambermusic.org/events/",
+    "address": "Grace Chapel, 59 Worthen Road, in Lexington",
+    "url": "https://masterworkschorale.app.neoncrm.com/forms/11",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
-    "synopsis": "Augustin Hadelich, violin MOZART Violin Concerto No. 5 TCHAIKOVSKY Symphony No. 3, Polish",
+    "title": "First Lutheran Church \u2013 Tuesday Concerts",
+    "synopsis": "Chris Porter: Buxtehude, Titelouze, Langlais, VierneFREE (Alt venue for Old West Concerts)",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28172",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "MIT Summer Philharmonic \u2013 Celebrating Hope and Optimism",
-    "synopsis": "George Ogata, Music Director and ConductorPROKOFIEV: Symphony No. 5 DVO\u0158\u00c1K: Symphony No. 9, \u201cFrom the New World\u201dFREE",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Kresge Auditorium, 48 Mass. Ave, in Cambridge",
+    "address": "299 Berkeley Street, in Boston",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
@@ -763,17 +723,10 @@
   ],
   "The Beehive": [
    {
-    "title": "John Lockwood Group Early Jazz",
-    "synopsis": "John Lockwood is a very deep musician and master bassist. John has played bass consistently withe the supergroup \"The Fringe\" for decades creating one of the most salient statements in Boston music. Tonight John is leading an intimate but dynamic group of powerful players.",
-    "showtimes": [
-     "6:30 pm"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -794,7 +747,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "New Music Night \u2014 Tuesday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",

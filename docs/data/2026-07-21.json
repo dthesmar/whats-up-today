@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-20T23:06:01.592410",
+  "scraped_at": "2026-07-21T00:15:29.970689",
   "date": "2026-07-21"
  },
  "data": {
@@ -37,25 +37,25 @@
     "showtimes": [
      "10:00 AM",
      "2:00 PM",
-     "10:00 PM",
      "6:00 PM",
+     "10:00 PM",
      "12:30 PM",
-     "8:30 PM",
      "4:30 PM",
+     "8:30 PM",
      "11:00 AM",
      "3:00 PM",
      "7:00 PM",
-     "9:00 PM",
      "5:00 PM",
-     "7:45 PM",
+     "9:00 PM",
      "11:30 AM",
      "12:00 PM",
      "3:30 PM",
      "4:00 PM",
-     "8:00 PM",
-     "9:30 PM",
      "6:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "7:45 PM",
+     "8:00 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -70,9 +70,9 @@
     "showtimes": [
      "10:30 AM",
      "1:30 PM",
-     "10:30 PM",
      "4:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -148,8 +148,8 @@
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
-     "4:45 PM"
+     "4:45 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -180,9 +180,9 @@
      "10:45 AM",
      "3:45 PM",
      "1:15 PM",
-     "10:15 PM",
      "5:00 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -198,8 +198,8 @@
      "10:30 AM",
      "1:00 PM",
      "4:00 PM",
-     "10:30 PM",
-     "7:15 PM"
+     "7:15 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -214,9 +214,9 @@
     "showtimes": [
      "10:30 AM",
      "1:30 PM",
-     "10:30 PM",
      "4:30 PM",
-     "7:30 PM"
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -263,8 +263,8 @@
     "title": "Disclosure Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 PM",
-     "6:15 PM"
+     "6:15 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -280,8 +280,8 @@
      "10:15 AM",
      "1:15 PM",
      "4:15 PM",
-     "10:15 PM",
-     "7:15 PM"
+     "7:15 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -608,31 +608,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Alien",
-    "synopsis": "Director: Ridley Scott Run Time: 117 min. Format: DCP Release Year: 1979",
-    "showtimes": [
-     "4:00 pm",
-     "8:45 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/alien/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/06/22110712/alien-13.jpg"
-   },
-   {
-    "title": "Escape from New York",
-    "synopsis": "Director: John Carpenter Run Time: 99 min. Format: DCP Release Year: 1981",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/escape-from-new-york/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/12/11151740/aXPCXYFzFzdveVVk1HjVf9fHUcn-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
