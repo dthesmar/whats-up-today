@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-21T06:30:01.083280",
+  "scraped_at": "2026-07-21T07:32:17.405006",
   "date": "2026-07-24"
  },
  "data": {
@@ -526,19 +526,6 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
-    "title": "The Room",
-    "synopsis": "Oh, hi Mark.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/room-0",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
-   },
-   {
     "title": "Communion",
     "synopsis": "The true story of one man's terrifying journey into the unknown.",
     "showtimes": [
@@ -550,6 +537,19 @@
     "rating": "",
     "runtime": "1hr 47mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Communion1989_04%20copy.jpg"
+   },
+   {
+    "title": "The Room",
+    "synopsis": "Oh, hi Mark.",
+    "showtimes": [
+     "11:59pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/room-0",
+    "rating": "",
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Room%204.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -653,6 +653,19 @@
     "poster": ""
    },
    {
+    "title": "KidFest - Dog Man",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---dog-man",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -689,7 +702,7 @@
     "synopsis": "",
     "showtimes": [
      "11:30AM",
-     "1:15PM",
+     "1:30PM",
      "3:15PM",
      "5:30PM"
     ],
