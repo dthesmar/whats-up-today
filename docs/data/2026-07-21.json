@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-21T02:20:02.580010",
+  "scraped_at": "2026-07-21T03:22:16.630959",
   "date": "2026-07-21"
  },
  "data": {
@@ -608,10 +608,17 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Closed for Renovations",
+    "synopsis": "Run Time: 500 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/closed-for-renovations/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2018/04/05021923/Brattle-pic.jpeg"
    }
   ],
   "Harvard Film Archive": [

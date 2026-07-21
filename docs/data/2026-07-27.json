@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-21T02:21:40.060020",
+  "scraped_at": "2026-07-21T03:23:57.319375",
   "date": "2026-07-27"
  },
  "data": {
@@ -522,10 +522,17 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Closed for Renovations",
+    "synopsis": "Run Time: 500 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/special_events/closed-for-renovations/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2018/04/05021923/Brattle-pic.jpeg"
    }
   ],
   "Harvard Film Archive": [
@@ -546,7 +553,7 @@
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/brunello-the-gracious-visionary-2026-245768/movie-overview",
-    "rating": "Not Rated",
+    "rating": "PG-13",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245768/Brunello%20The%20Gracious%20Visionary.jpg"
    },
