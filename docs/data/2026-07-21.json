@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-21T12:45:43.747059",
+  "scraped_at": "2026-07-21T13:47:57.623278",
   "date": "2026-07-21"
  },
  "data": {
@@ -38,7 +38,6 @@
      "2:00 PM",
      "6:00 PM",
      "10:00 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM",
      "3:00 PM",
@@ -107,10 +106,8 @@
     "synopsis": "",
     "showtimes": [
      "1:45 PM",
-     "12:45 PM",
      "4:00 PM",
      "6:30 PM",
-     "1:00 PM",
      "3:15 PM",
      "9:45 PM"
     ],
@@ -167,7 +164,6 @@
     "synopsis": "",
     "showtimes": [
      "3:45 PM",
-     "1:15 PM",
      "5:00 PM",
      "7:00 PM",
      "10:15 PM"
@@ -183,7 +179,6 @@
     "title": "Supergirl (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:15 PM",
      "10:30 PM"
@@ -231,7 +226,6 @@
     "showtimes": [
      "4:30 PM",
      "7:15 PM",
-     "12:45 PM",
      "1:45 PM",
      "10:00 PM"
     ],
@@ -260,7 +254,6 @@
     "title": "Obsession (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:15 PM",
      "7:15 PM",
      "10:15 PM"
@@ -351,53 +344,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:00 pm",
-     "7:15 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
@@ -426,6 +372,52 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm",
+     "1:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:15 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm",
+     "1:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    },
    {
     "title": "Night Nurse",
@@ -650,7 +642,6 @@
     "title": "Evil Dead Burn (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "5:30 PM",
      "8:00 PM",
@@ -667,7 +658,6 @@
     "title": "Moana (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "1:30 PM",
      "2:15 PM",
      "3:30 PM",
@@ -686,7 +676,6 @@
     "title": "Backrooms: Everything Must Go Edition w/ Bonus Footage (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "7:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -730,7 +719,6 @@
     "title": "The Invite (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "5:30 PM",
      "8:00 PM",
@@ -747,7 +735,6 @@
     "title": "Toy Story 5 (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:00 PM",
      "5:20 PM",
      "7:40 PM",
