@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-22T17:46:00.523941",
+  "scraped_at": "2026-07-22T20:32:53.264883",
   "date": "2026-07-22"
  },
  "data": {
@@ -21,6 +21,59 @@
    }
   ],
   "Somerville Theatre": [
+   {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Reading Lolita in Tehran",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
+   },
    {
     "title": "The Third Man in 35mm",
     "synopsis": "",
@@ -54,10 +107,10 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "3:15 pm",
      "5:30 pm",
-     "7:45 pm"
+     "7:45 pm",
+     "1:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -70,7 +123,6 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
      "4:00 pm",
      "7:15 pm",
      "7:10 pm"
@@ -86,9 +138,9 @@
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
-     "7:00 pm"
+     "7:00 pm",
+     "1:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -101,9 +153,9 @@
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
      "4:45 pm",
-     "7:40 pm"
+     "7:40 pm",
+     "2:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -116,9 +168,9 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "5:00 pm",
-     "7:30 pm"
+     "7:30 pm",
+     "2:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -497,6 +549,19 @@
   ],
   "The Beehive": [
    {
+    "title": "Brad Faucher Trio...Early Blues Set",
+    "synopsis": "Veteran blues/groove guitarist Brad Faucher brings his trio tonight for a blues/soul inspired early set. This music is an immersion into the history of great jazz-blues guitarists.",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Rich Graiko and Friends",
     "synopsis": "Creative, rhythmic, soulful, Graiko is a deep and expressive musician. This music is reggae inspired jazz...very fun!",
     "showtimes": [
@@ -512,9 +577,10 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
