@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-23T08:51:24.799817",
-  "date": "2026-07-25"
+  "scraped_at": "2026-07-23T08:53:26.797469",
+  "date": "2026-07-30"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-07-25"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-07-30"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-25"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-30"
    }
   ],
   "Somerville Theatre": [
@@ -25,9 +25,8 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
-     "4:00 pm",
-     "8:00 pm"
+     "3:00 pm",
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -37,13 +36,25 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/gail-daughtry-and-the-celebrity-sex-pass/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-2.jpg"
+   },
+   {
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "4:45 pm",
-     "7:15 pm",
-     "9:45 pm"
+     "4:40 pm",
+     "7:30 pm",
+     "7:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -53,13 +64,23 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
+    "title": "Disclosure Day",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/disclosure-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/NVW_Char1Sheet5_Emily_RGB_2-600x950.jpg"
+   },
+   {
     "title": "Reading Lolita in Tehran",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:30 pm",
-     "10:00 pm"
+     "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -69,56 +90,18 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
-    "title": "Howard the Duck in 70mm",
+    "title": "The Third Man in 35mm",
     "synopsis": "",
     "showtimes": [
-     "11:59 pm"
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/howard-the-duck-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
-   },
-   {
-    "title": "The Doors in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Doors-Final-Cut-Poster-600x889.jpg"
-   },
-   {
-    "title": "Inland Empire",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/inland-empire/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
-   },
-   {
-    "title": "Chopping Mall",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -142,7 +125,9 @@
     "title": "The Devil Wears Prada 2",
     "synopsis": "",
     "showtimes": [
-     "7:10 pm"
+     "1:15 pm",
+     "4:00 pm",
+     "7:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -156,7 +141,8 @@
     "synopsis": "",
     "showtimes": [
      "1:30 pm",
-     "4:30 pm"
+     "4:30 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -200,6 +186,7 @@
     "synopsis": "",
     "showtimes": [
      "1:15 pm",
+     "4:15 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -228,9 +215,6 @@
     "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "3:00 pm",
-     "5:00 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -264,8 +248,8 @@
      "11:15am",
      "2:00pm",
      "4:30pm",
-     "7:00pm",
-     "9:30pm"
+     "7:15pm",
+     "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -279,9 +263,7 @@
     "synopsis": "A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances.",
     "showtimes": [
      "11:30am",
-     "1:45pm",
-     "7:15pm",
-     "9:55pm"
+     "1:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -295,9 +277,7 @@
     "synopsis": "In a forgotten fishing village, a boat mysteriously appears in the old harbour.",
     "showtimes": [
      "11:45am",
-     "2:45pm",
-     "6:30pm",
-     "9:15pm"
+     "2:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -307,13 +287,27 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/ROSEOFNEVADA.jpg"
    },
    {
+    "title": "Obsession (2026)",
+    "synopsis": "You wished for this.",
+    "showtimes": [
+     "12:00pm",
+     "6:15pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/obsession-2026",
+    "rating": "",
+    "runtime": "1hr 48mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+   },
+   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
     "showtimes": [
      "12:15pm",
      "2:30pm",
-     "4:45pm",
-     "7:05pm"
+     "6:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -350,31 +344,43 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/2593_D012_00050.jpg"
    },
    {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
+    "title": "Sherman\u2019s March with Ross McElwee",
+    "synopsis": "Post-film discussion with director Ross McElwee, moderated by filmmaker Robb Moss.",
     "showtimes": [
-     "6:15pm",
+     "6:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/events/shermans-march-ross-mcelwee",
+    "rating": "",
+    "runtime": "3hrs",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SHERMANS-MARCH_Still-4_72dpi_0.jpg"
+   },
+   {
+    "title": "The Mask",
+    "synopsis": "S-S-S-S-S-Smokin!!!",
+    "showtimes": [
+     "7:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mask",
+    "rating": "",
+    "runtime": "1hr 41mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Mask_1994_40%20copy.jpg"
+   },
+   {
+    "title": "Clash of the Titans (1981)",
+    "synopsis": "Before history and beyond imagination!",
+    "showtimes": [
      "9:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
+    "url": "https://www.coolidge.org/films/clash-titans-1981",
     "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Invasion of the Body Snatchers (1978)",
-    "synopsis": "\"They're all pods, all of them!\"",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invasion-body-snatchers-1978",
-    "rating": "",
-    "runtime": "1hr 55mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/New%20site_2.jpg"
+    "runtime": "1hr 58mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Clash_Titans_1981_13%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -405,7 +411,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-25"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-07-30"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -520,79 +526,27 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 OPen Rehearsal",
-    "synopsis": "Andris Nelsons, conductor Himari, violin Esa-Pekka SALONEN Gambit MOZART Violin Concerto No. 1 TCHAIKOVSKY Symphony No. 5",
+    "title": "Aston Magna (Sb) \u2013 Music from Less Expected Places",
+    "synopsis": "(Julia Glenn, guest director) Seeking an Other: Early Music from Scotland, South America, Scotland, China Julia Glenn and Daniel Stepner, violins Nathaniel Cox, theorbo/guitar Andrew Koutroubas, cello Andrus Madsen, harpsichord",
     "showtimes": [
-     "10:30 am"
+     "7:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28174",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Aston Magna (SJP) \u2013 Bach in Potsdam, Telemann in Paris",
-    "synopsis": "Telemann: Quadro No. 1, Paris Quartet No. 6, and Quartet in E Minor CPE Bach: Sanguineus und Melancholicus J. S. Bach: Excerpts from Musical Offering Peter Sykes, harpsichord Andrea Leblanc, transverse flute Daniel Stepner, baroque violin Laura Jeppesen, viola da gamba",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Saint James Place,, in Great Barrington",
+    "address": "Slosberg Recital Hall 415 South Street, in Waltham",
     "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Kingston Chamber Music Festival \u2013 The British Are Coming",
-    "synopsis": "Frank Bridge, Phantasy Piano Quartet, H. 94 Rebecca Clarke, Rhapsody for Cello and Piano Edward Elgar, Piano Quintet in A Minor, Op. 84Kate Liu, piano; Che-Hung Chen, viola; Amelia Dietrich, violin; Tommy Mesa, cello; Clancy Newman, cello; Terra String Quartet",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
-    "url": "http://kingstonchambermusic.org/events/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Orchestra Tanglewood (LC) \u2013 Festival of Contemporary Music",
-    "synopsis": "Alisson KRUUSMAA mesmerism Gabriella SMITH Anthozoa Anna BERG remnants of confetti unexploded Lisa STREICH SternenstillFREE",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Linde Center, Tanglewood, in Lenox",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 American Art Song",
-    "synopsis": "Brian Zeger, piano; Meredith Wohlgemuth, soprano; Joseph Parrish: baritonesongs of Copland, Barber, Ned Rorem, and the Catskills composer Robert Manno.",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1464345?_gl=1*yyvfwp*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY2MzAkajM3JGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
-    "synopsis": "Paul Lewis, piano MOZART Piano Concerto No. 27, K.595 TCHAIKOVSKY Symphony No. 4",
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Danish String Quartet",
+    "synopsis": "STRAVINSKY Suite italienne BEETHOVEN String Quartet No. 16 in F, Op. 135 Arrangements of Danish Folk Songs",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28180",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28309",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -600,10 +554,10 @@
   ],
   "The Beehive": [
    {
-    "title": "Brunch Set with Steve Kirby Trio",
-    "synopsis": "A master musician, Steve Kirby's guitar playing is modern deep and beautiful. Low key and shimmering this trio is fascinating to watch and listen to.",
+    "title": "Cheryl Arena -Blues Brunch",
+    "synopsis": "Blues is the vibe for early music! Cheryl Arena travels international stages to make this music happen. The blues set is a chance for intimate connection with the players and music.",
     "showtimes": [
-     "10:00 am"
+     "6:30 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -613,10 +567,10 @@
     "poster": ""
    },
    {
-    "title": "Dinner Set with Bruce Bartlett",
-    "synopsis": "Boston-based guitarist, composer and Berklee professor Bruce Bartlett has taught groove ensembles all over the world and his band, Bruce Bartlett Trio, has performed internationally. He has played rhythm guitar for several underground recordings, recorded live with Prince's drummer John Blackwell. Reserve Now!",
+    "title": "Jared Sims and Aftershock",
+    "synopsis": "Saxophonist and multi-reed player Jared Sims leads an upbeat, hard-hitting instrumental funk set that nods to \u201960s grooves and today's hip hop and R&B.",
     "showtimes": [
-     "6:30 pm"
+     "9:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -644,7 +598,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Saturday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
