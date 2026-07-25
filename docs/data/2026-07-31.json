@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-25T19:52:57.491789",
+  "scraped_at": "2026-07-25T23:16:54.668491",
   "date": "2026-07-31"
  },
  "data": {
@@ -14,7 +14,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-31\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-31\", waiting until \"domcontentloaded\"\n",
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-07-31"
@@ -22,17 +22,48 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "8:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Bouchra",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bouchra/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "No Capitol Theatre screenings found for today.",
+    "title": "CatVideoFest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "5:00 pm",
+     "7:00 pm"
+    ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com"
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -52,14 +83,15 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out.",
+    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
@@ -74,16 +106,185 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "10:40AM",
+     "1:25PM",
+     "4:10PM",
+     "6:55PM",
+     "9:30PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "1:40PM",
+     "4:05PM",
+     "6:25PM",
+     "8:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "1:20PM",
+     "3:50PM",
+     "6:30PM",
+     "9:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "KidFest - How To Train Your Dragon",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---how-to-train-your-dragon",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "the invite",
+    "synopsis": "",
+    "showtimes": [
+     "11:05AM",
+     "1:55PM",
+     "4:35PM",
+     "7:05PM",
+     "9:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "11:10AM",
+     "3:15PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "11:45AM",
+     "1:00PM",
+     "3:45PM",
+     "4:45PM",
+     "7:55PM",
+     "8:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out. (read timeout=15)",
+    "title": "Cape Cod Chamber Music Festival \u2013 Danish String Quartet",
+    "synopsis": "MAURICE RAVEL (1875 \u2013 1937) String Quartet in F MajorVARIOUS Original compositions and arrangements written for the Danish String Quartet (selections to be announced from the stage)",
+    "showtimes": [
+     "5:30 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "First Congregational Church, in Wellfleet",
+    "url": "https://capecodchambermusic.easy-ware-ticketing.com/generaladmission/WaoYBUzYLPmqW6sP22_O6Q",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Berkshire Opera Comany (PS21) \u2013 Z\u00c9MIRE ET AZOR",
+    "synopsis": "Z\u00c9MIRE ET AZORMusic by ANDR\u00c9-ERNEST-MODESTE GR\u00c9TRY Libretto by JEAN-FRAN\u00c7OIS MARMONTELSung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "PS21, 2980 NY-66, in Chatham, NY",
+    "url": "https://us.list-manage.com/2d6KZHFbi_z?e=4d953bd421&c2id=7aae3b65a5335f1228e2a720bfc903c2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Berkshire Opera Festival (GB) \u2013 Gr\u00e9try\u2019s Z\u00c9MIRE ET AZOR",
+    "synopsis": "Sung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
+    "url": "https://ps21chatham.org/event/ps21-presents-berkshire-opera-festival/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Kingston Chamber Music Festival \u2013 Conversation with Bach",
+    "synopsis": "Rebecca Clark, Two Pieces for Viola and Cello Mario Castelnuovo Tedesco, Fantasia Op. 145 Carlos Simon, Between Worlds for Solo Violin Antonin Dvorak, String Sextet in A Major, Op. 48Zachary DePue, violin; Julian Rhee, violin; Che-Hung Chen, viola; Burchard Tang, viola; Yegor Dyachkov, cello; Megan Koch, cello; Priscil\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (K) \u2013 Esa-Pekka Salonen, conductor",
+    "synopsis": "Yefim Bronfman, piano WAGNER Prelude and Liebestod from Tristan and Isolde SIBELIUS Symphony No. 7 BEETHOVEN Piano Concerto No. 5, Emperor",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28194",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
@@ -141,10 +342,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Read timed out.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
