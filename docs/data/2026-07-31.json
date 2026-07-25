@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-25T08:07:19.137474",
+  "scraped_at": "2026-07-25T17:35:44.204827",
   "date": "2026-07-31"
  },
  "data": {
@@ -22,20 +22,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Bouchra",
     "synopsis": "",
     "showtimes": [
@@ -47,82 +33,14 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
-   },
-   {
-    "title": "Barrio Triste",
-    "synopsis": "",
-    "showtimes": [
-     "9:15 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:15 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
-    "title": "CatVideoFest 2026",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -289,69 +207,9 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Cape Cod Chamber Music Festival \u2013 Danish String Quartet",
-    "synopsis": "MAURICE RAVEL (1875 \u2013 1937) String Quartet in F MajorVARIOUS Original compositions and arrangements written for the Danish String Quartet (selections to be announced from the stage)",
-    "showtimes": [
-     "5:30 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
     "theater": "Classical Music (Boston)",
-    "address": "First Congregational Church, in Wellfleet",
-    "url": "https://capecodchambermusic.easy-ware-ticketing.com/generaladmission/WaoYBUzYLPmqW6sP22_O6Q",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Berkshire Opera Comany (PS21) \u2013 Z\u00c9MIRE ET AZOR",
-    "synopsis": "Z\u00c9MIRE ET AZORMusic by ANDR\u00c9-ERNEST-MODESTE GR\u00c9TRY Libretto by JEAN-FRAN\u00c7OIS MARMONTELSung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "PS21, 2980 NY-66, in Chatham, NY",
-    "url": "https://us.list-manage.com/2d6KZHFbi_z?e=4d953bd421&c2id=7aae3b65a5335f1228e2a720bfc903c2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Berkshire Opera Festival (GB) \u2013 Gr\u00e9try\u2019s Z\u00c9MIRE ET AZOR",
-    "synopsis": "Sung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
-    "url": "https://ps21chatham.org/event/ps21-presents-berkshire-opera-festival/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Kingston Chamber Music Festival \u2013 Conversation with Bach",
-    "synopsis": "Rebecca Clark, Two Pieces for Viola and Cello Mario Castelnuovo Tedesco, Fantasia Op. 145 Carlos Simon, Between Worlds for Solo Violin Antonin Dvorak, String Sextet in A Major, Op. 48Zachary DePue, violin; Julian Rhee, violin; Che-Hung Chen, viola; Burchard Tang, viola; Yegor Dyachkov, cello; Megan Koch, cello; Priscil\u2026",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Esa-Pekka Salonen, conductor",
-    "synopsis": "Yefim Bronfman, piano WAGNER Prelude and Liebestod from Tristan and Isolde SIBELIUS Symphony No. 7 BEETHOVEN Piano Concerto No. 5, Emperor",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28194",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
@@ -371,10 +229,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
