@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-25T23:17:45.215839",
+  "scraped_at": "2026-07-26T00:41:53.465853",
   "date": "2026-08-01"
  },
  "data": {
@@ -22,17 +22,9 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Barrio Triste",
-    "synopsis": "",
-    "showtimes": [
-     "9:15 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
@@ -44,14 +36,22 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "title": "In a Violent Nature",
+    "synopsis": "Nature is unforgiving.",
+    "showtimes": [
+     "11:59pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/violent-nature",
+    "rating": "",
+    "runtime": "1hr 34mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/IAVN%20-%20Still%203.png"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Read timed out. (read timeout=15)",
+    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA"
    }
@@ -190,7 +190,7 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Classical Music (Boston)",
     "address": "classical-scene.com"
    }
