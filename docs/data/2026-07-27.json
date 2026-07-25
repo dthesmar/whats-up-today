@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-25T17:29:37.748182",
+  "scraped_at": "2026-07-25T18:39:13.172571",
   "date": "2026-07-27"
  },
  "data": {
@@ -29,7 +29,7 @@
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Read timed out. (read timeout=15)",
+    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Read timed out.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA"
    }
@@ -182,118 +182,9 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "10:40AM",
-     "1:25PM",
-     "4:10PM",
-     "6:55PM",
-     "9:30PM"
-    ],
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "1:40PM",
-     "4:05PM",
-     "6:25PM",
-     "8:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "10:50AM",
-     "1:20PM",
-     "3:50PM",
-     "6:30PM",
-     "9:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "KidFest - How To Train Your Dragon",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---how-to-train-your-dragon",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "the invite",
-    "synopsis": "",
-    "showtimes": [
-     "11:05AM",
-     "1:55PM",
-     "4:35PM",
-     "7:05PM",
-     "9:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "CWX The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "11:10AM",
-     "3:15PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "11:45AM",
-     "1:00PM",
-     "3:45PM",
-     "4:45PM",
-     "7:55PM",
-     "8:40PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "485 Arsenal Way, Watertown, MA"
    }
   ],
   "Classical Music (Boston)": [
@@ -350,9 +241,10 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Read timed out.",
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [

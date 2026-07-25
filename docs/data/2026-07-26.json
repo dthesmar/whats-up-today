@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-25T17:27:22.603909",
+  "scraped_at": "2026-07-25T18:38:25.972295",
   "date": "2026-07-26"
  },
  "data": {
@@ -310,7 +310,7 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out. (read timeout=15)",
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
     "theater": "Classical Music (Boston)",
     "address": "classical-scene.com"
    }
@@ -370,7 +370,7 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Read timed out.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Dance & Ballet (Boston)",
     "address": "boston-theater.com"
    }
