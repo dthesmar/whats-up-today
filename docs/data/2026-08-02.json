@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-26T00:42:32.322009",
+  "scraped_at": "2026-07-26T02:10:22.087238",
   "date": "2026-08-02"
  },
  "data": {
@@ -22,26 +22,134 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Read timed out. (read timeout=15)",
+    "title": "Reading Lolita in Tehran",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:30 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "4:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Silents, Please \u2013 Chang: A Drama of the Wilderness",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/silents-please-chang-a-drama-of-the-wilderness/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-16.jpg"
+   },
+   {
+    "title": "Bouchra",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bouchra/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
+   },
+   {
+    "title": "The Last Picture Shows",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-last-picture-shows/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Poster-Last-Picture-Shows1080x1620-600x900.jpeg"
+   },
+   {
+    "title": "The Third Man in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "Moana",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "12:00 pm",
-     "4:45 pm",
-     "7:40 pm"
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm",
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -54,17 +162,24 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='brattlefilm.org', port=443): Read timed out. (read timeout=15)",
+    "title": "Closed for Renovations",
+    "synopsis": "Run Time: 500 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/closed-for-renovations/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2018/04/05021923/Brattle-pic.jpeg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "No HFA screenings today.",
+    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Read timed out. (read timeout=15)",
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -193,9 +308,121 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
+    "title": "Berkshire Opera Comany (PS21) \u2013 Z\u00c9MIRE ET AZOR",
+    "synopsis": "Z\u00c9MIRE ET AZORMusic by ANDR\u00c9-ERNEST-MODESTE GR\u00c9TRY Libretto by JEAN-FRAN\u00c7OIS MARMONTELSung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "1:00 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "PS21, 2980 NY-66, in Chatham, NY",
+    "url": "https://us.list-manage.com/2d6KZHFbi_z?e=4d953bd421&c2id=7aae3b65a5335f1228e2a720bfc903c2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Berkshire Opera Festival (GB) \u2013 Gr\u00e9try\u2019s Z\u00c9MIRE ET AZOR",
+    "synopsis": "Sung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "1:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
+    "url": "https://ps21chatham.org/event/ps21-presents-berkshire-opera-festival/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 BU Tanglewood Institute Young Artists Orchestra",
+    "synopsis": "Wind Ensemble TBAFREE",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
+    "synopsis": "Joshua Bell, violin BRUCH Scottish Fantasy SCHUMANN Symphony No. 3, Rhenish",
+    "showtimes": [
+     "2:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28196",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Aston Magna (SJP) \u2013 Music from Less Expected Places",
+    "synopsis": "(Julia Glenn, guest director) Seeking an Other: Early Music from Scotland, South America, Scotland, China Julia Glenn and Daniel Stepner, violins Nathaniel Cox, theorbo/guitar Andrew Koutroubas, cello Andrus Madsen, harpsichord",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Saint James Place,, in Great Barrington",
+    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Music Mountain \u2013 Chamber Music",
+    "synopsis": "Erinys Quartet & Oskar Espina Ruiz, Clarinet (Clarinet Quintet Project Part 1 of 3)SCHUBERT String Quartet in C Major, D. 46 P\u0113teris VASKS String Quartet #4 Alfonso FUENTES Clarinet Quintet (World Premiere) MOZART Clarinet Quintet in A Major, K. 581",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271079/pe/11791066?deepLink=true&overlay=false",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Maverick Concerts \u2013 Callisto Quartet",
+    "synopsis": "Mozart: String Quartet No. 19 in C major, (\u201cDissonance\u201d) Peter Schickele: String Quartet No. 5 (\u201cA Year in the Country\u201d) Edvard Grieg: String Quartet No. 1 in G minor, Op. 27",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462089?_gl=1*hzzx07*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY4NTQkajYwJGwwJGgw",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sevenars Music Festival \u2013 Chamber Music",
+    "synopsis": "pianist Paul-Andr\u00e9 Bemp\u00e9chat in BeethovenSonata quasi una fantasia, Op. 27, No. 2 in C-sharp minor (\u201cMoonlight\u201d) Sonata Op. 22 in B-flat major Sonata Op. 90 in E minor Sonata Op. 57 in F minor (\u201cAppassionata\u201d)",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "The Academy, 15, Ireland St, in South Worthington",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Kingston Chamber Music Festival \u2013 Youth and Memory",
+    "synopsis": "Brahms, Scherzo in C minor, WoO2, from F-A-E Sonata for Violin and Piano Johannes Brahms, Trio for Horn, Violin and Piano in E-flat Major, Op. 40 Johannes Brahms, String Sextet in G Major, Op.36Zachary Depue, Henry Kramer, piano; Eric Huckins, French horn; Julian Rhee, violin; Che-Hung Chen, viola; Burchard Tang, viola\u2026",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
