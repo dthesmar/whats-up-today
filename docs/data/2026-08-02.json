@@ -1,12 +1,12 @@
 {
  "meta": {
-  "scraped_at": "2026-07-27T20:39:02.442581",
+  "scraped_at": "2026-07-27T23:02:04.523279",
   "date": "2026-08-02"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-02\", waiting until \"domcontentloaded\"\n",
+    "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-02"
@@ -14,7 +14,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-02\", waiting until \"domcontentloaded\"\n",
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-02"
@@ -22,9 +22,113 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "4:00 pm",
+     "8:00 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Reading Lolita in Tehran",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
+   },
+   {
+    "title": "Bouchra",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bouchra/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
+   },
+   {
+    "title": "Barrio Triste",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
+   },
+   {
+    "title": "The Last Picture Shows",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-last-picture-shows/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Poster-Last-Picture-Shows1080x1620-600x900.jpeg"
+   },
+   {
+    "title": "The Third Man in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -45,21 +149,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
@@ -73,6 +162,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
@@ -108,16 +212,25 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='coolidge.org', port=443): Read timed out. (read timeout=15)",
+    "error": "No Coolidge Corner screenings found for today.",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/showtimes?date=2026-08-02"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "Closed for Renovations",
+    "synopsis": "Run Time: 500 min.",
+    "showtimes": [
+     "2:00 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/special_events/closed-for-renovations/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2018/04/05021923/Brattle-pic.jpeg"
    }
   ],
   "Harvard Film Archive": [
@@ -130,7 +243,7 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-02\", waiting until \"domcontentloaded\"\n",
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-02"
@@ -235,23 +348,157 @@
   ],
   "Classical Music (Boston)": [
    {
-    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "Berkshire Opera Comany (PS21) \u2013 Z\u00c9MIRE ET AZOR",
+    "synopsis": "Z\u00c9MIRE ET AZORMusic by ANDR\u00c9-ERNEST-MODESTE GR\u00c9TRY Libretto by JEAN-FRAN\u00c7OIS MARMONTELSung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "1:00 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "PS21, 2980 NY-66, in Chatham, NY",
+    "url": "https://us.list-manage.com/2d6KZHFbi_z?e=4d953bd421&c2id=7aae3b65a5335f1228e2a720bfc903c2",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Berkshire Opera Festival (GB) \u2013 Gr\u00e9try\u2019s Z\u00c9MIRE ET AZOR",
+    "synopsis": "Sung in French with spoken English dialogue and projected English translations Fully staged inaugural Resident Artist production",
+    "showtimes": [
+     "1:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
+    "url": "https://ps21chatham.org/event/ps21-presents-berkshire-opera-festival/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 BU Tanglewood Institute Young Artists Orchestra",
+    "synopsis": "Wind Ensemble TBAFREE",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (K) \u2013 Andris Nelsons, conductor",
+    "synopsis": "Joshua Bell, violin BRUCH Scottish Fantasy SCHUMANN Symphony No. 3, Rhenish",
+    "showtimes": [
+     "2:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28196",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Aston Magna (SJP) \u2013 Music from Less Expected Places",
+    "synopsis": "(Julia Glenn, guest director) Seeking an Other: Early Music from Scotland, South America, Scotland, China Julia Glenn and Daniel Stepner, violins Nathaniel Cox, theorbo/guitar Andrew Koutroubas, cello Andrus Madsen, harpsichord",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Saint James Place,, in Great Barrington",
+    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Music Mountain \u2013 Chamber Music",
+    "synopsis": "Erinys Quartet & Oskar Espina Ruiz, Clarinet (Clarinet Quintet Project Part 1 of 3)SCHUBERT String Quartet in C Major, D. 46 P\u0113teris VASKS String Quartet #4 Alfonso FUENTES Clarinet Quintet (World Premiere) MOZART Clarinet Quintet in A Major, K. 581",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271079/pe/11791066?deepLink=true&overlay=false",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Maverick Concerts \u2013 Callisto Quartet",
+    "synopsis": "Mozart: String Quartet No. 19 in C major, (\u201cDissonance\u201d) Peter Schickele: String Quartet No. 5 (\u201cA Year in the Country\u201d) Edvard Grieg: String Quartet No. 1 in G minor, Op. 27",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462089?_gl=1*hzzx07*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY4NTQkajYwJGwwJGgw",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sevenars Music Festival \u2013 Chamber Music",
+    "synopsis": "pianist Paul-Andr\u00e9 Bemp\u00e9chat in BeethovenSonata quasi una fantasia, Op. 27, No. 2 in C-sharp minor (\u201cMoonlight\u201d) Sonata Op. 22 in B-flat major Sonata Op. 90 in E minor Sonata Op. 57 in F minor (\u201cAppassionata\u201d)",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "The Academy, 15, Ireland St, in South Worthington",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Kingston Chamber Music Festival \u2013 Youth and Memory",
+    "synopsis": "Brahms, Scherzo in C minor, WoO2, from F-A-E Sonata for Violin and Piano Johannes Brahms, Trio for Horn, Violin and Piano in E-flat Major, Op. 40 Johannes Brahms, String Sextet in G Major, Op.36Zachary Depue, Henry Kramer, piano; Eric Huckins, French horn; Julian Rhee, violin; Che-Hung Chen, viola; Burchard Tang, viola\u2026",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Fine Arts Center on the University of Rhode Island, in Kingston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
+    "title": "Lizje Sarria",
+    "synopsis": "Lizje is one of our favorites. She has a soaring voice, is a talented song writer and band leader. Lizje fills this stage with beautiful energy and sounds.",
+    "showtimes": [
+     "10:00 am"
+    ],
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /Users/thesmar/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=/var/folders/fp/trvbm67j5rs71tg89c_kl3g40000gp/T/playwright_chromiumdev_profile-4gh7JJ --remote-debugging-pipe --no-startup-window\n  - <launched> pid=88778\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
