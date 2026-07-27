@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-27T16:06:29.260312",
+  "scraped_at": "2026-07-27T17:10:00.814965",
   "date": "2026-08-03"
  },
  "data": {
@@ -38,7 +38,8 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm"
+     "7:15 pm",
+     "7:40 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -108,7 +109,10 @@
      "1:00 pm",
      "3:15 pm",
      "5:30 pm",
-     "7:45 pm"
+     "7:45 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -152,7 +156,8 @@
     "showtimes": [
      "2:00 pm",
      "4:45 pm",
-     "7:40 pm"
+     "7:40 pm",
+     "7:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -167,7 +172,8 @@
     "showtimes": [
      "2:30 pm",
      "5:00 pm",
-     "7:30 pm"
+     "7:30 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -201,6 +207,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "7:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
