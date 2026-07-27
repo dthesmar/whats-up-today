@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-27T19:14:06.444268",
+  "scraped_at": "2026-07-27T20:21:36.949870",
   "date": "2026-07-27"
  },
  "data": {
@@ -103,51 +103,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Night Nurse",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
-   },
-   {
-    "title": "The Sheep Detectives",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:40 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
@@ -183,6 +138,49 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Night Nurse",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
+   },
+   {
+    "title": "The Sheep Detectives",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-sheep-detectives/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm",
+     "2:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Disasterpiece Theatre",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-27T19:15:46.977035",
+  "scraped_at": "2026-07-27T20:23:18.612394",
   "date": "2026-07-31"
  },
  "data": {
@@ -92,21 +92,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
@@ -136,6 +121,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
