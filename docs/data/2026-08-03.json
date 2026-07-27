@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-27T18:13:36.839861",
+  "scraped_at": "2026-07-27T19:17:03.770805",
   "date": "2026-08-03"
  },
  "data": {
@@ -103,41 +103,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm",
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Night Nurse",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
-   },
-   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -184,6 +149,39 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm",
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Night Nurse",
+    "synopsis": "",
+    "showtimes": [
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
    },
    {
     "title": "Disasterpiece Theatre",
