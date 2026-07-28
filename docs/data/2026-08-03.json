@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-28T01:22:09.498863",
+  "scraped_at": "2026-07-28T14:07:16.846029",
   "date": "2026-08-03"
  },
  "data": {
@@ -21,19 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Reading Lolita in Tehran",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
-   },
    {
     "title": "The Odyssey in 70mm",
     "synopsis": "",
@@ -102,26 +89,25 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Toy Story 5",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm",
-     "1:30 pm",
-     "4:15 pm",
-     "6:45 pm"
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm",
      "2:00 pm",
      "4:45 pm",
      "7:30 pm"
@@ -134,21 +120,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "7:45 pm",
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
+     "1:30 pm",
+     "4:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
@@ -242,6 +226,22 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "10:40AM",
+     "1:25PM",
+     "4:10PM",
+     "6:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "CWX The Odyssey",
     "synopsis": "",
     "showtimes": [
@@ -276,7 +276,7 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
+     "10:55AM",
      "1:40PM",
      "4:05PM",
      "6:25PM"
@@ -284,6 +284,19 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "KidFest - How To Train Your Dragon",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---how-to-train-your-dragon",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -300,22 +313,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "11:10AM",
-     "1:00PM",
-     "4:00PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/moana",
     "rating": "",
     "runtime": "",
     "poster": ""
