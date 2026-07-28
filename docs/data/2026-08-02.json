@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-28T15:49:22.054670",
+  "scraped_at": "2026-07-28T17:43:36.853320",
   "date": "2026-08-02"
  },
  "data": {
@@ -227,10 +227,19 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "No Coolidge Corner screenings found for today.",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "11:00am",
+     "3:30pm",
+     "8:00pm"
+    ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/showtimes?date=2026-08-02"
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    }
   ],
   "Brattle Theatre": [
