@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-29T00:13:44.893102",
+  "scraped_at": "2026-07-29T08:26:23.901064",
   "date": "2026-08-05"
  },
  "data": {
@@ -117,67 +117,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Night Nurse",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "4:15 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm",
-     "1:30 pm",
-     "4:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Moana",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:40 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -198,6 +137,21 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
+    "title": "Night Nurse",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
+   },
+   {
     "title": "The Sheep Detectives",
     "synopsis": "",
     "showtimes": [
@@ -210,6 +164,52 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:40 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm",
+     "1:30 pm",
+     "4:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+   },
+   {
+    "title": "The Devil Wears Prada 2",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",

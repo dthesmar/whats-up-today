@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-29T00:13:18.876774",
+  "scraped_at": "2026-07-29T08:25:59.036458",
   "date": "2026-08-04"
  },
  "data": {
@@ -38,7 +38,6 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "7:15 pm",
      "7:40 pm"
     ],
     "theater": "Somerville Theatre",
@@ -47,19 +46,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "Reading Lolita in Tehran",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
     "title": "Bouchra",
@@ -103,52 +89,25 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Night Nurse",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
-   },
-   {
-    "title": "The Devil Wears Prada 2",
-    "synopsis": "",
-    "showtimes": [
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-devil-wears-prada-2/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/05/unnamed-file-10.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm",
-     "1:30 pm",
-     "4:15 pm",
-     "6:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm",
      "2:00 pm",
      "4:45 pm",
      "7:30 pm"
@@ -161,21 +120,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "7:45 pm",
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
+     "1:30 pm",
+     "4:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
