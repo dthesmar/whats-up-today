@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-07-30T04:56:00.202740",
-  "date": "2026-08-03"
+  "scraped_at": "2026-07-30T05:12:14.089975",
+  "date": "2026-08-06"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-03"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-06"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-03"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-06"
    }
   ],
   "Somerville Theatre": [
@@ -38,6 +38,7 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
+     "7:15 pm",
      "7:40 pm"
     ],
     "theater": "Somerville Theatre",
@@ -46,6 +47,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
+    "title": "Reading Lolita in Tehran",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
     "title": "Bouchra",
@@ -74,17 +88,18 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
    },
    {
-    "title": "Burnin\u2019 Down The House",
+    "title": "The Third Man in 35mm",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -92,6 +107,10 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm",
      "1:15 pm",
      "3:30 pm",
      "5:40 pm",
@@ -120,12 +139,27 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
+    "title": "Night Nurse",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "4:15 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/night-nurse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/NIGHT-NURSE-Poster-600x889.jpg"
+   },
+   {
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
      "2:00 pm",
      "4:45 pm",
-     "7:30 pm"
+     "7:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -138,6 +172,9 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm",
      "1:30 pm",
      "4:15 pm",
      "6:45 pm"
@@ -165,17 +202,17 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
    },
    {
-    "title": "Disasterpiece Theatre",
+    "title": "CatVideoFest 2026",
     "synopsis": "",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/disasterpiece-theatre/",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2023/10/Disasterpiece-1-1.png"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -218,7 +255,7 @@
      "2:15pm",
      "4:50pm",
      "7:20pm",
-     "9:50pm"
+     "9:30pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -233,9 +270,9 @@
     "showtimes": [
      "11:30am",
      "1:30pm",
-     "4:40pm",
+     "4:10pm",
      "7:10pm",
-     "10:10pm"
+     "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -250,7 +287,7 @@
     "showtimes": [
      "11:45am",
      "2:00pm",
-     "4:00pm"
+     "4:20pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -274,17 +311,31 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/SHERMANS-MARCH_Still-2_72dpi.jpg"
    },
    {
-    "title": "A Streetcar Named Desire",
-    "synopsis": "...When she got there she met the brute Stan, and the side of New Orleans she hardly knew existed.",
+    "title": "24 Hour Party People",
+    "synopsis": "Featuring a special pre-show performance by Pew Pew!",
     "showtimes": [
      "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/streetcar-named-desire-0",
+    "url": "https://www.coolidge.org/films/24-hour-party-people",
     "rating": "",
-    "runtime": "2hrs 2mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/089167_010C%20copy.jpg"
+    "runtime": "1hr 57mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/24HourPartyPeople_2002_12%20copy.jpg"
+   },
+   {
+    "title": "Remake",
+    "synopsis": "Ross McElwee explores time and memory through footage of his son Adrian, creating a meditation on loss & documentation.",
+    "showtimes": [
+     "7:30pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/remake",
+    "rating": "",
+    "runtime": "1hr 54mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/REMAKE_img1_72dpi.jpg"
    },
    {
     "title": "Backrooms: Everything Must Go Edition",
@@ -303,7 +354,7 @@
     "title": "Obsession (2026)",
     "synopsis": "You wished for this.",
     "showtimes": [
-     "9:40pm"
+     "10:05pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -311,19 +362,6 @@
     "rating": "",
     "runtime": "1hr 48mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
-   },
-   {
-    "title": "Remake",
-    "synopsis": "Ross McElwee explores time and memory through footage of his son Adrian, creating a meditation on loss & documentation.",
-    "showtimes": [
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/remake",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/REMAKE_img1_72dpi.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -354,7 +392,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-03"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-06"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -457,39 +495,52 @@
   "Classical Music (Boston)": [
    {
     "title": "Cape Cod Chamber Music Festival \u2013 Imani Winds",
-    "synopsis": "MENDELSSOHN: Scherzo from A Midsummer Night\u2019s Dream, ELLIOTT CARTER: Quintet for Winds PAQUITO D\u2019RIVERA: A Little Cuban Waltz SHAWN OKPEBHOLO: Rsie LALO SCHIFRIN: La Nouvelle Orleans",
+    "synopsis": "BEETHOVEN: String Quartet in F Major, Op. 59, No. 1 DVOR\u00c1K: String Quartet No. 14 in A-flat Major, Op. 105",
     "showtimes": [
      "5:30 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Federated Church, 320 Main Street, in Hyannis",
-    "url": "https://capecodchambermusic.easy-ware-ticketing.com/events",
+    "url": "https://capecodchambermusic.easy-ware-ticketing.com/generaladmission/nvj_4zi-wDjnNcVjnXKyKg",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Paul Madore Chorale (SPC) \u2013 Summer Sing",
-    "synopsis": "Mozart\u2019s Requiem (Conductor: Javier Marquez) $20",
+    "title": "Aston Magna (AC) \u2013 Gems from 17th Century Venice",
+    "synopsis": "Music of Monteverdi, Salamone Rossi, and Barbara Strozzi Sophie Michaux, mezzo-soprano Catherine Liddell, theorbo Laura Jeppesen, viola da gamba Daniel Stepner and Julie Leven, baroque violins",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "St. Peter\u2019s Episcopal Church, 24 St. Peters St., in Salem",
+    "address": "Allen Center, 35 Webster St, in Newton",
+    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Chamber Music",
+    "synopsis": "Annette Jakovcic, cellist Nan Ni \u502a\u6960 , pianistBeethoven: Sonata for Cello and Piano in D , Op. 102 Keiko Fujiie: Sonata for Cello and Piano, \u201cBe It Dream or Reality\u201d (USA Premiere) Manuel de Falla: Siete canciones populares espa\u00f1olas Schumann: Five Pieces in Folk Style, Op. 102$10 suggested",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (SOH) \u2013 TMC Orchestra",
-    "synopsis": "Esa-Pekka Salonen, conductor TMC Conducting Fellows RAVEL Le Tombeau de Couperin DEBUSSY La Mer BART\u00d3K Concerto for Orchestra",
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Cellists of the Boston Symphony Orchestra",
+    "synopsis": "Yo-Yo Ma, cello Cellists of the Boston Symphony Orchestra",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Seiji Ozawa Hall, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28246",
+    "url": "https://secure.bso.org/syos/performance/28326",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -497,10 +548,23 @@
   ],
   "The Beehive": [
    {
-    "title": "MONDAY NIGHT HOEDOWN",
-    "synopsis": "Every Monday Night at The Beehive Live Americana & Bluegrass Music Special Burgers, Ribs, Wings, Steaks Great Beers, Bourbon & Craft Cocktails LIVE ON STAGE: Join us every Monday for a foot-stomping celebration of Americana and bluegrass, featuring a rotating lineup of talented bands bringing their own unique spin on r\u2026",
+    "title": "Guillermo Nojechowicz Trio -Early Jazz",
+    "synopsis": "Mr Nojechowicz has been a major presence on the Boston/World jazz scene for decades. He is a powerful band leader and drummer as well as nuanced composer . We are thrilled to have Guillermo and crew light up the stage tonight. Guillermo Nojechowicz: drums Maxim Lubarsky: piano John Pierce: bass About Guillermo\"s latest\u2026",
     "showtimes": [
-     "7:30 pm"
+     "6:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "BT Allstars 1st Thursdays Spring Residency!!",
+    "synopsis": "Spring 1st Thursdays Residency at The Beehive! We are very blessed to have had Brian Thomas performing at The Beehive in Boston's historic South End since it opened in 2007. Brian has brought many different projects to that stage and I am very excited to kick off a new 1st Thursdays Residency with the newest lineup for\u2026",
+    "showtimes": [
+     "9:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -528,7 +592,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Blues Night \u2014 Monday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
