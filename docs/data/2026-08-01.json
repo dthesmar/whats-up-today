@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-31T02:06:24.624347",
+  "scraped_at": "2026-07-31T12:15:09.224423",
   "date": "2026-08-01"
  },
  "data": {
@@ -405,17 +405,49 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Closed for Renovations",
-    "synopsis": "Run Time: 500 min.",
+    "title": "West Side Story",
+    "synopsis": "Director: Jerome Robbins, Robert Wise Run Time: 153 min. Format: 35mm Film Release Year: 1961",
     "showtimes": [
-     "2:00 pm"
+     "3:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/closed-for-renovations/",
+    "url": "https://brattlefilm.org/movies/west-side-story/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2018/04/05021923/Brattle-pic.jpeg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142634/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg"
+   },
+   {
+    "title": "Mikey and Nicky",
+    "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
+    "showtimes": [
+     "6:30 pm",
+     "4:00 pm",
+     "6:00 pm",
+     "3:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mikey-and-nicky/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
+   },
+   {
+    "title": "Dead Souls",
+    "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "9:00 pm",
+     "2:00 pm",
+     "8:30 pm",
+     "10:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/dead-souls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
    }
   ],
   "Harvard Film Archive": [
