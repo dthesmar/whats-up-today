@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-07-30T17:01:05.423706",
+  "scraped_at": "2026-07-31T02:21:47.937782",
   "date": "2026-08-02"
  },
  "data": {
@@ -37,6 +37,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
+    "title": "Reading Lolita in Tehran",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
+   },
+   {
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
@@ -50,19 +63,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "Reading Lolita in Tehran",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
     "title": "Bouchra",
@@ -133,22 +133,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -164,19 +148,20 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
-    "title": "Moana",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
-     "4:45 pm",
-     "7:30 pm"
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
@@ -207,6 +192,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
+   },
+   {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "CatVideoFest 2026",
@@ -620,8 +620,8 @@
   ],
   "The Beehive": [
    {
-    "title": "Lizje Sarria",
-    "synopsis": "Lizje is one of our favorites. She has a soaring voice, is a talented song writer and band leader. Lizje fills this stage with beautiful energy and sounds.",
+    "title": "Emily Rodriues /Paolo Vilavila",
+    "synopsis": "Peruvian guitarist Vilavila is a young musician on the rise. His jazz-inspired acoustic and electric guitar style is expressive and soulful. He is leading a trio with singer Emily Rodrigues, and equally gifted young musician. This will be an inspiring performance.",
     "showtimes": [
      "10:00 am"
     ],
