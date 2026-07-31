@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-01T00:22:52.710448",
-  "date": "2026-08-05"
+  "scraped_at": "2026-08-01T00:24:07.757406",
+  "date": "2026-08-08"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-05"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-08"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-05"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-08"
    }
   ],
   "Somerville Theatre": [
@@ -25,7 +25,10 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "7:40 pm"
+     "1:30 pm",
+     "4:30 pm",
+     "7:00 pm",
+     "9:20 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -38,7 +41,7 @@
     "title": "Bouchra",
     "synopsis": "",
     "showtimes": [
-     "6:00 pm"
+     "7:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -51,7 +54,9 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "12:00 pm",
+     "4:00 pm",
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -64,7 +69,7 @@
     "title": "Barrio Triste",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm"
+     "9:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -74,31 +79,57 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
    },
    {
-    "title": "The Third Man in 35mm",
+    "title": "Reading Lolita in Tehran",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
-     "7:45 pm"
+     "1:00 pm",
+     "4:15 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/reading-lolita-in-tehran/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
-    "title": "Burnin\u2019 Down The House",
+    "title": "The Doors in 70mm",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "11:59 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "url": "https://www.somervilletheatre.com/production/the-doors-in-70mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Doors-Final-Cut-Poster-600x889.jpg"
+   },
+   {
+    "title": "Inland Empire",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/inland-empire/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file.jpg"
+   },
+   {
+    "title": "Chopping Mall",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -107,7 +138,8 @@
     "synopsis": "",
     "showtimes": [
      "1:30 pm",
-     "4:15 pm"
+     "4:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -176,154 +208,50 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "CatVideoFest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:00 pm",
+     "5:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "title": "The Samurai and the Prisoner",
+    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
-     "11:00am",
-     "3:30pm",
-     "8:00pm"
+     "6:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
     "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
    },
    {
-    "title": "Sheep in the Box",
-    "synopsis": "From master filmmaker Koreeda Hirokazu, director of Shoplifters and Broker.",
+    "title": "Heavyweights",
+    "synopsis": "They don't run the fastest. They don't jump the highest. But they sure are getting the last laugh.",
     "showtimes": [
-     "11:05am",
-     "1:50pm",
-     "4:30pm"
+     "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/sheep-box",
+    "url": "https://www.coolidge.org/films/heavyweights",
     "rating": "",
-    "runtime": "2hrs 6mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/204539.jpeg"
-   },
-   {
-    "title": "I Want Your Sex",
-    "synopsis": "The latest from New Queer Cinema pioneer Gregg Araki, starring Cooper Hoffman, Olivia Wilde, & Charli XCX.",
-    "showtimes": [
-     "11:10am",
-     "2:15pm",
-     "4:50pm",
-     "7:20pm",
-     "10:10pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-want-your-sex",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/6_1.jpg"
-   },
-   {
-    "title": "The Invite (2026)",
-    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
-    "showtimes": [
-     "11:30am",
-     "1:30pm",
-     "4:40pm",
-     "7:10pm",
-     "10:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invite-2026",
-    "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
-   },
-   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
-    "showtimes": [
-     "11:45am",
-     "2:00pm",
-     "4:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mary-oliver-saved-beauty-world",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_Mary_Oliver_typewriter_Horz.jpg"
-   },
-   {
-    "title": "Sherman\u2019s March (4K Restoration)",
-    "synopsis": "A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
-    "showtimes": [
-     "12:00pm",
-     "3:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/shermans-march-4k-restoration",
-    "rating": "",
-    "runtime": "2hrs 37mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/SHERMANS-MARCH_Still-2_72dpi.jpg"
-   },
-   {
-    "title": "Remake",
-    "synopsis": "Ross McElwee explores time and memory through footage of his son Adrian, creating a meditation on loss & documentation.",
-    "showtimes": [
-     "6:30pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/remake",
-    "rating": "",
-    "runtime": "1hr 54mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/REMAKE_img1_72dpi.jpg"
-   },
-   {
-    "title": "Le Cercle Rouge",
-    "synopsis": "No place to hide... Nowhere to run...",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/le-cercle-rouge",
-    "rating": "",
-    "runtime": "2hrs 20mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Le_Cercle_rouge_1970_001%20copy.jpg"
-   },
-   {
-    "title": "Backrooms: Everything Must Go Edition",
-    "synopsis": "Includes 16 minutes of new, theatrically exclusive post-credit bonus footage from Kane Parsons.",
-    "showtimes": [
-     "9:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/backrooms-everything-must-go-edition",
-    "rating": "",
-    "runtime": "2hrs 7mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/EFG_LOCK-R5Changes_Clean_A24_20260326.01_09_10_11.Still007_CropR.jpg"
-   },
-   {
-    "title": "Obsession (2026)",
-    "synopsis": "You wished for this.",
-    "showtimes": [
-     "9:45pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/obsession-2026",
-    "rating": "",
-    "runtime": "1hr 48mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4262_FP_00001.jpg"
+    "runtime": "1hr 37mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Heavy_Weights_1995_4%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -386,7 +314,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-05"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-08"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -503,27 +431,92 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Landmarks Orchestra \u2013 Verdi Requiem",
-    "synopsis": "Randall Thompson: The Testament of Freedom (excerpts) Verdi: Messa da Reqiuem",
+    "title": "Boston Symphony Tanglewood (K) \u2013 OPen Rehearsal",
+    "synopsis": "Anna Handler, conductor Samy Rachid, conductor Yo-Yo Ma, cello (Tavener) Karen Ouzounian, cello (Kalhor) Christine Lee, cello (Golijov) Kayhan Kalhor, kamanche Arooj Aftab, vocalist TAVENER Mah\u00e1m\u00e1tar, for cello, voice, chorus, and orchestra Kayhan KALHOR Venus in the Mirror, for kamanche, cello, and orchestra Osvaldo G\u2026",
     "showtimes": [
-     "7:00 pm"
+     "10:30 am"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Hatch Shell Boston Esplanade, in Boston",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28221",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 BU Tanglewood Institute Young Artists Orchestra",
+    "synopsis": "Chorus TBAFREE",
+    "showtimes": [
+     "1:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Seiji Ozawa Hall, in Lenox",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Methuen Memorial Music Hall \u2013 Wednesday Organ Recital",
-    "synopsis": "A Journey Through Tradition, Innovation, and the New Sound of the Organ\u201d Mi Zhou Bach: Fantasia and Fugue in G Minor, BWV 542 Reger: Chorale Fantasia on \u2018Halleluja! Gott zu loben,\u2019 op. 52 no. 3 Dupr\u00e9: Cort\u00e8ge et Litanie, op. 19 Wei: When the Mountains Sing (2017) Qi: Symphony in the Teapot (2015) Escaich: Po\u00e8mes pour o\u2026",
+    "title": "Aston Magna (SJP) \u2013 Gems from 17th Century Venice",
+    "synopsis": "Music of Monteverdi, Salamone Rossi, and Barbara Strozzi Sophie Michaux, mezzo-soprano Catherine Liddell, theorbo Laura Jeppesen, viola da gamba Daniel Stepner and Julie Leven, baroque violins",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Saint James Place,, in Great Barrington",
+    "url": "https://prod1.agileticketing.net/websales/pages/list.aspx?epguid=52d39898-9c1d-4122-8a37-33e544d310b2&",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Rockport Music \u2013 Jean-Yves Thibaudet, piano",
+    "synopsis": "DEBUSSY: Pr\u00e9ludes, Book 1 Intermission DEBUSSY: Pr\u00e9ludes, Book 2",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
+    "url": "https://tinyurl.com/pj79r697",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Trio Magnoliana",
+    "synopsis": "violinist Mann-Wen Lo, cellist Eunghee Cho, pianist Andrew Staupe Gayane Chebotaryan: Piano Trio Felix Mendelssohn: Piano Trio No. 1 Op. 49 in D minor Nicky Sohn (b. 1992): \u201cMagnolia\u201d Anton Arensky: Piano Trio No. 1, Op. 32 in D minor$10 suggested",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "192 Broadway, in Methuen",
-    "url": "http://www.mmmh.org/",
+    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CENTRAL VERMONT CHAMBER MUSIC FESTIVAL \u2013 Chamber Music",
+    "synopsis": "Chandler Arts Center, Randolph, VTPianist Diana Fanning. violinist Michael Roth, violist Arturo Delmoni, and cellist Peter Sanders will offer favorite works by Beethoven, Jan\u00e1\u010dek, Debussy and Chopin.$20 suggested",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in Various",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (K) \u2013 An American Journey with Yo-Yo Ma and Friends",
+    "synopsis": "Teddy Abrams, conductor Ken-David Masur, conductor Yo-Yo Ma, cello Aoife O\u2019Donovan, vocalist Jennifer Kreisberg, vocalist A journey in words and music through ma",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28225",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -531,10 +524,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Jane Potter/ Teri cote/ Fernando Huergo",
+    "synopsis": "This is a very cool trio with three great musicians. They are all from different backgrounds and genre, so when they get together the effect surprising, hip, and fun. Great vocals too!",
+    "showtimes": [
+     "6:30 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
@@ -555,7 +555,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Jam Session \u2014 Wednesday",
+    "title": "Jazz Night \u2014 Saturday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
