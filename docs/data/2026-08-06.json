@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-01T08:19:03.530849",
+  "scraped_at": "2026-08-01T10:16:28.800535",
   "date": "2026-08-06"
  },
  "data": {
@@ -329,20 +329,17 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Mikey and Nicky",
-    "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
+    "title": "Straight to Hell",
+    "synopsis": "Director: Alex Cox Run Time: 86 min. Format: DCP Release Year: 1987",
     "showtimes": [
-     "4:00 pm",
-     "6:30 pm",
-     "6:00 pm",
-     "3:30 pm"
+     "12:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/mikey-and-nicky/",
+    "url": "https://brattlefilm.org/movies/straight-to-hell/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23144107/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg"
    },
    {
     "title": "Dead Souls",
@@ -359,6 +356,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
+   },
+   {
+    "title": "Mikey and Nicky",
+    "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
+    "showtimes": [
+     "4:00 pm",
+     "6:30 pm",
+     "6:00 pm",
+     "3:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/mikey-and-nicky/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
    }
   ],
   "Harvard Film Archive": [
