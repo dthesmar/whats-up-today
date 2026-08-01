@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-01T19:20:24.823248",
+  "scraped_at": "2026-08-01T22:02:40.504927",
   "date": "2026-08-08"
  },
  "data": {
@@ -22,36 +22,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "4:30 pm",
-     "7:00 pm",
-     "9:20 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Reading Lolita in Tehran",
     "synopsis": "",
     "showtimes": [
@@ -65,6 +35,21 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/reading_lolita_for_digital-1-600x889.jpg"
    },
    {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 pm",
+     "7:00 pm",
+     "9:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
     "title": "Bouchra",
     "synopsis": "",
     "showtimes": [
@@ -76,6 +61,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Barrio Triste",
@@ -135,7 +133,6 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:15 pm",
      "6:45 pm"
     ],
@@ -150,7 +147,6 @@
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "synopsis": "",
     "showtimes": [
-     "1:45 pm",
      "4:30 pm",
      "7:00 pm"
     ],
@@ -165,7 +161,6 @@
     "title": "Moana",
     "synopsis": "",
     "showtimes": [
-     "2:00 pm",
      "4:45 pm",
      "7:30 pm"
     ],
@@ -180,7 +175,6 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "3:30 pm",
      "5:40 pm",
      "7:50 pm"
     ],
@@ -195,7 +189,6 @@
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
