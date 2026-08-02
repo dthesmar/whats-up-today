@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-02T05:42:32.709057",
+  "scraped_at": "2026-08-02T12:42:45.464616",
   "date": "2026-08-02"
  },
  "data": {
@@ -361,40 +361,22 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Straight to Hell",
-    "synopsis": "Director: Alex Cox Run Time: 86 min. Format: DCP Release Year: 1987",
+    "title": "Fiddlehead presents Baby I'll Change with Good Will Hunting",
+    "synopsis": "Run Time: 180 min.",
     "showtimes": [
-     "12:00 pm"
+     "1:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/straight-to-hell/",
+    "url": "https://brattlefilm.org/special_events/fiddlehead-presents-baby-ill-change-with-good-will-hunting/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23144107/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg"
-   },
-   {
-    "title": "Dead Souls",
-    "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "2:00 pm",
-     "9:00 pm",
-     "8:30 pm",
-     "10:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dead-souls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23181635/Fiddlehead-0802-poster.jpg"
    },
    {
     "title": "Mikey and Nicky",
     "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
     "showtimes": [
-     "4:00 pm",
-     "6:30 pm",
      "6:00 pm",
      "3:30 pm"
     ],
@@ -404,6 +386,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
+   },
+   {
+    "title": "Dead Souls",
+    "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "8:30 pm",
+     "10:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/dead-souls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
    }
   ],
   "Harvard Film Archive": [

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-02T05:48:29.709483",
+  "scraped_at": "2026-08-02T12:59:00.646137",
   "date": "2026-08-05"
  },
  "data": {
@@ -328,40 +328,22 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Straight to Hell",
-    "synopsis": "Director: Alex Cox Run Time: 86 min. Format: DCP Release Year: 1987",
+    "title": "Fiddlehead presents Baby I'll Change with Good Will Hunting",
+    "synopsis": "Run Time: 180 min.",
     "showtimes": [
-     "12:00 pm"
+     "1:00 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/straight-to-hell/",
+    "url": "https://brattlefilm.org/special_events/fiddlehead-presents-baby-ill-change-with-good-will-hunting/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23144107/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg"
-   },
-   {
-    "title": "Dead Souls",
-    "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
-    "showtimes": [
-     "2:00 pm",
-     "9:00 pm",
-     "8:30 pm",
-     "10:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/dead-souls/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23181635/Fiddlehead-0802-poster.jpg"
    },
    {
     "title": "Mikey and Nicky",
     "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
     "showtimes": [
-     "4:00 pm",
-     "6:30 pm",
      "6:00 pm",
      "3:30 pm"
     ],
@@ -371,6 +353,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
+   },
+   {
+    "title": "Dead Souls",
+    "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
+    "showtimes": [
+     "8:30 pm",
+     "10:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/dead-souls/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23143007/eIOmATfvsOEIVPUtbUS698B0noq.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -407,7 +403,20 @@
     "poster": ""
    },
    {
-    "title": "Toy Story 5",
+    "title": "the invite",
+    "synopsis": "",
+    "showtimes": [
+     "10:15AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
      "10:30AM",
@@ -415,7 +424,7 @@
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -431,9 +440,7 @@
      "3:30PM",
      "5:15PM",
      "6:30PM",
-     "7:00PM",
-     "8:30PM",
-     "9:15PM"
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -460,11 +467,10 @@
     "synopsis": "",
     "showtimes": [
      "11:25AM",
-     "12:30PM",
-     "2:15PM",
-     "4:30PM",
-     "6:10PM",
-     "8:50PM"
+     "1:00PM",
+     "2:30PM",
+     "5:25PM",
+     "6:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -474,28 +480,15 @@
     "poster": ""
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:20PM",
+     "1:15PM",
      "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "the invite",
-    "synopsis": "",
-    "showtimes": [
-     "9:45PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-invite",
+    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
     "rating": "",
     "runtime": "",
     "poster": ""
