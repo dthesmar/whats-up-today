@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-03T05:42:07.274947",
+  "scraped_at": "2026-08-03T15:51:59.568360",
   "date": "2026-08-09"
  },
  "data": {
@@ -109,23 +109,9 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Fiddlehead presents Baby I'll Change with Good Will Hunting",
-    "synopsis": "Run Time: 180 min.",
-    "showtimes": [
-     "1:00 pm Sold Out"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/fiddlehead-presents-baby-ill-change-with-good-will-hunting/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23181635/Fiddlehead-0802-poster.jpg"
-   },
-   {
     "title": "Mikey and Nicky",
     "synopsis": "Director: Elaine May Run Time: 106 min. Format: 4K DCP Release Year: 1976",
     "showtimes": [
-     "6:00 pm",
      "3:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -136,10 +122,38 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/06/23142142/pzST8cae4CTsfj0nPP63YOdPLiO.jpg"
    },
    {
+    "title": "The Day the Earth Stood Still",
+    "synopsis": "Run Time: 92 min. Format: DCP Release Year: 1951",
+    "showtimes": [
+     "6:00 pm",
+     "4:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-day-the-earth-stood-still/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01163644/day-the-earth-stood-still.jpg"
+   },
+   {
+    "title": "The Thing from Another World",
+    "synopsis": "Director: Christian Nyby, Howard Hawks Run Time: 87 min. Format: Digital Projection Release Year: 1951",
+    "showtimes": [
+     "8:00 pm",
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/the-thing-from-another-world/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/31135554/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg"
+   },
+   {
     "title": "Dead Souls",
     "synopsis": "Director: Alex Cox Run Time: 88 min. Format: DCP Release Year: 2025",
     "showtimes": [
-     "8:30 pm",
      "10:00 pm"
     ],
     "theater": "Brattle Theatre",
@@ -197,7 +211,24 @@
     "poster": ""
    },
    {
-    "title": "Minions & Monsters",
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "10:25AM",
+     "1:00PM",
+     "2:30PM",
+     "5:30PM",
+     "6:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
      "10:30AM",
@@ -205,7 +236,7 @@
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -216,6 +247,7 @@
     "showtimes": [
      "10:45AM",
      "11:30AM",
+     "12:00PM",
      "2:00PM",
      "3:00PM",
      "3:30PM",
@@ -231,45 +263,15 @@
     "poster": ""
    },
    {
-    "title": "KidFest - The Bad Guys 2",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---the-bad-guys-2",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "11:25AM",
-     "1:00PM",
-     "2:30PM",
-     "5:25PM",
-     "6:50PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "1:15PM",
+     "1:20PM",
      "6:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/toy-story-5",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
