@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-04T00:46:55.513033",
-  "date": "2026-08-07"
+  "scraped_at": "2026-08-04T00:48:33.472401",
+  "date": "2026-08-11"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-07"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-11"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-07"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-11"
    }
   ],
   "Somerville Theatre": [
@@ -25,8 +25,7 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "8:00 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -39,7 +38,7 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm",
+     "7:40 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -50,12 +49,36 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
+    "title": "Barrio Triste",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
+   },
+   {
+    "title": "Bouchra",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bouchra/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/BOUCHRA_FORWEB-600x889.jpeg"
+   },
+   {
     "title": "I Want Your Sex",
     "synopsis": "",
     "showtimes": [
-     "4:00 pm",
-     "6:15 pm",
-     "8:30 pm"
+     "8:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -63,6 +86,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
+   },
+   {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -70,6 +119,9 @@
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "synopsis": "",
     "showtimes": [
+     "1:45 pm",
+     "4:30 pm",
+     "7:00 pm",
      "7:10 pm"
     ],
     "theater": "Capitol Theatre",
@@ -85,7 +137,9 @@
     "showtimes": [
      "1:00 pm",
      "4:00 pm",
-     "7:15 pm"
+     "7:15 pm",
+     "2:30 pm",
+     "6:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -95,12 +149,28 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
+    "title": "Moana",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "4:45 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/moana/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
      "1:15 pm",
      "3:30 pm",
-     "5:40 pm"
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -114,7 +184,8 @@
     "synopsis": "",
     "showtimes": [
      "1:30 pm",
-     "4:15 pm"
+     "4:15 pm",
+     "6:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -122,21 +193,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "CatVideoFest 2026",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    },
    {
     "title": "One Night Only",
@@ -156,30 +212,17 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Samurai and the Prisoner",
-    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
+    "title": "The Killing",
+    "synopsis": "Stanley Kubrick\u2019s account of an ambitious racetrack robbery is one of Hollywood\u2019s tautest, twistiest noirs.",
     "showtimes": [
-     "6:15pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
+    "url": "https://www.coolidge.org/films/killing",
     "rating": "",
-    "runtime": "2hrs 27mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
-   },
-   {
-    "title": "The Final Girls",
-    "synopsis": "Todd Strauss-Schulson's genre-blending horror comedy starring Taissa Farmiga, Malin Akerman, and Alia Shawkat.",
-    "showtimes": [
-     "11:59pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/final-girls",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/The%20Final%20Girls%201%20website.jpg"
+    "runtime": "1hr 24mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/KILL_Hayden_mask.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -252,7 +295,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-07"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-11"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -354,21 +397,21 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Cape Cod Chamber Music Festival \u2013 Imani Winds",
-    "synopsis": "BEETHOVEN: String Quartet in F Major, Op. 59, No. 1 DVOR\u00c1K: String Quartet No. 14 in A-flat Major, Op. 105",
+    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
+    "synopsis": "Dasha Ovchinnikova plays the C.B. Fisk Organ$5 suggested",
     "showtimes": [
-     "5:30 pm"
+     "12:15 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "First Congregational Church, in Wellfleet",
-    "url": "https://capecodchambermusic.easy-ware-ticketing.com/generaladmission/nvj_4zi-wDjnNcVjnXKyKg",
+    "address": "Kings Chapel, in Boston",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Han Chen \u9673\u6db5, piano",
-    "synopsis": "Beethoven: Piano Sonata No. 26 \u201cLes Adieux\u201d Nina C. Young \u2013 Fern Flower (Tsvetok Paporotnika) Liszt: Fun\u00e9railles from Harmonies\u2026 p Stravinsky: Quatre \u00e9tudes, Op. 7 Stravinsky: Piano Sonata Stravinsky: Trois mouvements de Petrouchka$10 sugggested",
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Psychopomp Ensemble",
+    "synopsis": "Xiaopei Xu \u5f90\u5c0f\u57f9 and Chi-Wei Lo \u99f1\u5947\u5049 pianistsBach/Kurtag: Christe, du Lamm Gottes BWV 619 Bach/Filipsson: Widerstehe doch der S\u00fcnde, BWV 54 John Adams: Hallelujah Junction Gustav Holst/Psychopomp: The Planets, Op. 32$10 suggested",
     "showtimes": [
      "7:30 pm"
     ],
@@ -380,14 +423,14 @@
     "poster": ""
    },
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Samy Rachid+, conductor",
-    "synopsis": "Renaud Capu\u00e7on, violin Yo-Yo Ma, cello Berkshire Lyric Chorus Jack Brown, artistic director, Berkshire Lyric Chorus FAUR\u00c9 Cantique de Jean Racine BRAHMS (arr. ATTERBERG) String Sextet No. 2 in G, BRAHMS Double Concerto for violin, cello, and orchestra",
+    "title": "First Lutheran Church \u2013 Tuesday Concerts",
+    "synopsis": "Leonardo Ciampa: Bach, Ciampa, ScarlattiFREE (Alt venue for Old West Concerts)",
     "showtimes": [
      "8:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28219",
+    "address": "299 Berkeley Street, in Boston",
+    "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -395,10 +438,17 @@
   ],
   "The Beehive": [
    {
-    "error": "No Beehive events today.",
+    "title": "Naya Jazz Cartel",
+    "synopsis": "Nathan Sabanayagam is a multidimensional and deep presence in the reggae/fusion world. He is a drummer, composer, band leader, and most importantly a producer to too many of the great musicians coming from the Kingston Jamaica. Nathan is at the center and always brings creative veteran players. This will be exciting",
+    "showtimes": [
+     "8:00 pm"
+    ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar"
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
@@ -419,7 +469,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "New Music Night \u2014 Tuesday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
