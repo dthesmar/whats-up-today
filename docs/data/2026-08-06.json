@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-04T02:04:50.247380",
+  "scraped_at": "2026-08-04T03:08:11.162802",
   "date": "2026-08-06"
  },
  "data": {
@@ -21,19 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Barrio Triste",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
-   },
    {
     "title": "Bouchra",
     "synopsis": "",
@@ -75,6 +62,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
+    "title": "Barrio Triste",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/barrio-triste/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/unnamed-file-6.jpg"
+   },
+   {
     "title": "I Want Your Sex",
     "synopsis": "",
     "showtimes": [
@@ -104,22 +104,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -135,6 +119,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm",
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Toy Story 5",
