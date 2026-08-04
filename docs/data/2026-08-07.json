@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-04T08:55:51.933976",
+  "scraped_at": "2026-08-04T10:14:20.679097",
   "date": "2026-08-07"
  },
  "data": {
@@ -382,10 +382,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
