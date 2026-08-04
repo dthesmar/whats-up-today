@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-04T10:14:45.257747",
+  "scraped_at": "2026-08-04T11:46:11.712295",
   "date": "2026-08-08"
  },
  "data": {
@@ -411,19 +411,6 @@
     "poster": ""
    },
    {
-    "title": "CENTRAL VERMONT CHAMBER MUSIC FESTIVAL \u2013 Chamber Music",
-    "synopsis": "Chandler Arts Center, Randolph, VTPianist Diana Fanning. violinist Michael Roth, violist Arturo Delmoni, and cellist Peter Sanders will offer favorite works by Beethoven, Jan\u00e1\u010dek, Debussy and Chopin.$20 suggested",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Various, in Various",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Foundation for Chinese Performing Arts (WH) \u2013 Trio Magnoliana",
     "synopsis": "violinist Mann-Wen Lo, cellist Eunghee Cho, pianist Andrew Staupe Gayane Chebotaryan: Piano Trio Felix Mendelssohn: Piano Trio No. 1 Op. 49 in D minor Nicky Sohn (b. 1992): \u201cMagnolia\u201d Anton Arensky: Piano Trio No. 1, Op. 32 in D minor$10 suggested",
     "showtimes": [
@@ -431,6 +418,19 @@
     ],
     "theater": "Classical Music (Boston)",
     "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CENTRAL VERMONT CHAMBER MUSIC FESTIVAL \u2013 Chamber Music",
+    "synopsis": "Chandler Arts Center, Randolph, VTPianist Diana Fanning. violinist Michael Roth, violist Arturo Delmoni, and cellist Peter Sanders will offer favorite works by Beethoven, Jan\u00e1\u010dek, Debussy and Chopin.$20 suggested",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Various, in Various",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
@@ -467,10 +467,9 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
