@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-05T05:30:19.731856",
+  "scraped_at": "2026-08-05T06:33:37.985937",
   "date": "2026-08-12"
  },
  "data": {
@@ -351,31 +351,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "The Day the Earth Stood Still",
-    "synopsis": "Run Time: 92 min. Format: DCP Release Year: 1951",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-day-the-earth-stood-still/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01163644/day-the-earth-stood-still.jpg"
-   },
-   {
-    "title": "The Thing from Another World",
-    "synopsis": "Director: Christian Nyby, Howard Hawks Run Time: 87 min. Format: Digital Projection Release Year: 1951",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-thing-from-another-world/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/08/31135554/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
