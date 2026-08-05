@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-05T12:45:47.117617",
+  "scraped_at": "2026-08-05T16:04:22.824653",
   "date": "2026-08-09"
  },
  "data": {
@@ -105,6 +105,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
+   },
+   {
+    "title": "A Mighty Wind in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -623,16 +636,18 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
