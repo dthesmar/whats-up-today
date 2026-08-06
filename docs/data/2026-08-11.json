@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-06T05:35:56.451316",
+  "scraped_at": "2026-08-06T06:39:15.407747",
   "date": "2026-08-11"
  },
  "data": {
@@ -291,31 +291,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Anchorman: The Legend of Ron Burgundy",
-    "synopsis": "Director: Adam McKay Run Time: 95 min. Format: DCP Release Year: 2004",
-    "showtimes": [
-     "3:30 pm",
-     "9:15 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/anchorman-the-legend-of-ron-burgundy/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10124108/img-1720800931851.jpeg"
-   },
-   {
-    "title": "Elements of Cinema: Network",
-    "synopsis": "Today, Aug 5 @ 6:00 pm: Free Screening & Discussion",
-    "showtimes": [
-     "6:00 pm FREE"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/network/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01165414/m4Iyzh9YVOh0ra7UwdMoJcrjxkx.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
