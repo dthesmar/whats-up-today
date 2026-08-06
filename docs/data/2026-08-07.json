@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-06T07:45:56.336358",
+  "scraped_at": "2026-08-06T09:03:51.840202",
   "date": "2026-08-07"
  },
  "data": {
@@ -319,10 +319,44 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "The Bakery Girl of Monceau + Suzanne\u2019s Career",
+    "synopsis": "Director: \u00c9ric Rohmer Run Time: 78 min. Format: DCP Release Year: 1963 Language: French",
+    "showtimes": [
+     "4:15 pm",
+     "8:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/the-bakery-girl-of-monceau/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173917/bakery-girl-of-monceau-1-criterion.jpeg"
+   },
+   {
+    "title": "La Collectionneuse",
+    "synopsis": "Director: \u00c9ric Rohmer Run Time: 86 min. Format: DCP Release Year: 1967 Language: French",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/la-collectionneuse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03174213/la-collectionneuse-poster-criterion-clean-1-CROP.jpeg"
+   },
+   {
+    "title": "First Blood",
+    "synopsis": "Director: Ted Kotcheff Run Time: 93 min. Format: 35mm Film Release Year: 1982",
+    "showtimes": [
+     "10:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/first-blood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173654/first-blood-rambo-1-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -441,43 +475,9 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Cape Cod Chamber Music Festival \u2013 Imani Winds",
-    "synopsis": "BEETHOVEN: String Quartet in F Major, Op. 59, No. 1 DVOR\u00c1K: String Quartet No. 14 in A-flat Major, Op. 105",
-    "showtimes": [
-     "5:30 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10727a850>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Classical Music (Boston)",
-    "address": "First Congregational Church, in Wellfleet",
-    "url": "https://capecodchambermusic.easy-ware-ticketing.com/generaladmission/nvj_4zi-wDjnNcVjnXKyKg",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Han Chen \u9673\u6db5, piano",
-    "synopsis": "Beethoven: Piano Sonata No. 26 \u201cLes Adieux\u201d Nina C. Young \u2013 Fern Flower (Tsvetok Paporotnika) Liszt: Fun\u00e9railles from Harmonies\u2026 p Stravinsky: Quatre \u00e9tudes, Op. 7 Stravinsky: Piano Sonata Stravinsky: Trois mouvements de Petrouchka$10 sugggested",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Symphony Tanglewood (K) \u2013 Samy Rachid+, conductor",
-    "synopsis": "Renaud Capu\u00e7on, violin Yo-Yo Ma, cello Berkshire Lyric Chorus Jack Brown, artistic director, Berkshire Lyric Chorus FAUR\u00c9 Cantique de Jean Racine BRAHMS (arr. ATTERBERG) String Sextet No. 2 in G, BRAHMS Double Concerto for violin, cello, and orchestra",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28219",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [

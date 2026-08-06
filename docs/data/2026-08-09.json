@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-06T07:46:45.180978",
+  "scraped_at": "2026-08-06T09:04:40.825547",
   "date": "2026-08-09"
  },
  "data": {
@@ -385,10 +385,44 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "The Bakery Girl of Monceau + Suzanne\u2019s Career",
+    "synopsis": "Director: \u00c9ric Rohmer Run Time: 78 min. Format: DCP Release Year: 1963 Language: French",
+    "showtimes": [
+     "4:15 pm",
+     "8:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/the-bakery-girl-of-monceau/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173917/bakery-girl-of-monceau-1-criterion.jpeg"
+   },
+   {
+    "title": "La Collectionneuse",
+    "synopsis": "Director: \u00c9ric Rohmer Run Time: 86 min. Format: DCP Release Year: 1967 Language: French",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/la-collectionneuse/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03174213/la-collectionneuse-poster-criterion-clean-1-CROP.jpeg"
+   },
+   {
+    "title": "First Blood",
+    "synopsis": "Director: Ted Kotcheff Run Time: 93 min. Format: 35mm Film Release Year: 1982",
+    "showtimes": [
+     "10:00 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/first-blood/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173654/first-blood-rambo-1-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
