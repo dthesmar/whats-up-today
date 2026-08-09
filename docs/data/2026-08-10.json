@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-09T07:57:37.210800",
+  "scraped_at": "2026-08-09T13:25:05.083531",
   "date": "2026-08-10"
  },
  "data": {
@@ -366,17 +366,19 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Spider-Man: Brand New Day",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
      "10:00AM",
-     "1:10PM",
-     "4:20PM",
-     "7:30PM"
+     "10:45AM",
+     "1:20PM",
+     "2:15PM",
+     "4:40PM",
+     "5:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -386,10 +388,9 @@
     "synopsis": "",
     "showtimes": [
      "10:15AM",
-     "2:05PM",
+     "2:00PM",
      "4:00PM",
-     "5:50PM",
-     "8:55PM"
+     "5:40PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -405,8 +406,7 @@
      "10:20AM",
      "12:55PM",
      "3:35PM",
-     "6:20PM",
-     "9:35PM"
+     "6:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -422,33 +422,11 @@
      "10:30AM",
      "1:10PM",
      "3:45PM",
-     "6:25PM",
-     "9:00PM"
+     "6:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/super-troopers-3",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "11:30AM",
-     "2:00PM",
-     "2:50PM",
-     "5:15PM",
-     "6:10PM",
-     "8:00PM",
-     "8:35PM",
-     "9:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -462,6 +440,21 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---despicable-me-4",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "11:15AM",
+     "2:45PM",
+     "6:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
