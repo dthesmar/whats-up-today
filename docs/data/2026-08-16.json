@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-09T19:30:29.703644",
+  "scraped_at": "2026-08-09T23:03:35.724075",
   "date": "2026-08-16"
  },
  "data": {
@@ -22,186 +22,16 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Invite",
-    "synopsis": "",
-    "showtimes": [
-     "1:45 pm",
-     "4:45 pm",
-     "7:30 pm"
-    ],
+    "error": "('Connection aborted.', OSError(49, \"Can't assign requested address\"))",
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-invite/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
-   },
-   {
-    "title": "I Want Your Sex",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "6:15 pm",
-     "8:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-want-your-sex/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Silents, Please: The Son of the Sheik",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/silents-please-the-son-of-the-sheik/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/B_SON_of_sheik-600x912.jpg"
-   },
-   {
-    "title": "The Last Picture Shows",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-last-picture-shows/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Poster-Last-Picture-Shows1080x1620-600x900.jpeg"
-   },
-   {
-    "title": "Best in Show in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/best-in-show/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
-   },
-   {
-    "title": "A Mighty Wind in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
+    "address": "55 Davis Sq, Somerville, MA"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:15 pm",
-     "7:40 pm"
-    ],
+    "error": "('Connection aborted.', OSError(49, \"Can't assign requested address\"))",
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
-   },
-   {
-    "title": "CatVideoFest 2026",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "5:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 pm",
-     "5:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
-    "title": "Toy Story 5",
-    "synopsis": "",
-    "showtimes": [
-     "4:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
-   },
-   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "synopsis": "",
-    "showtimes": [
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
+    "address": "204 Massachusetts Ave, Arlington, MA"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -251,34 +81,9 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Tally Brown, New York",
-    "synopsis": "Director: Rosa von Praunheim Run Time: 97 min. Format: 4K DCP Release Year: 1979 Language: German w/ English subtitles",
-    "showtimes": [
-     "12:00 pm",
-     "9:00 pm"
-    ],
+    "error": "('Connection aborted.', OSError(49, \"Can't assign requested address\"))",
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/tally-brown-new-york/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01171235/aAqEMR44KqRY7u49j1PnHAyJgiq.jpg"
-   },
-   {
-    "title": "I Shot Andy Warhol",
-    "synopsis": "Director: Mary Harron Run Time: 103 min. Format: 4K DCP Release Year: 1996",
-    "showtimes": [
-     "2:15 pm",
-     "4:30 pm",
-     "6:45 pm",
-     "8:30 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/i-shot-andy-warhol/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01171115/5no2GArlFLbtgOkJ5qGUe59cqhE.jpg"
+    "address": "40 Brattle St, Cambridge, MA"
    }
   ],
   "Harvard Film Archive": [
@@ -408,69 +213,9 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Apollo Ensemble (V) \u2013 rom Andalusia to the Andes",
-    "synopsis": "Roxbury Community College Media Arts Center, 1234 Columbus AvenueElias Miller, conductor Reuben Stern, conductorGeronimo GIMENEZ \u2013 La boda de Luis Alonso, Intermedio Gabriela Lena FRANK \u2013 Eleg\u00eda Andina Georges BIZET \u2013 L\u2019Arlesienne, Suite No. 1 Manuel de FALLA \u2013 El sombrero de tres picos(The Three-Cornered Hat), Suites \u2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Read timed out.",
     "theater": "Classical Music (Boston)",
-    "address": "various, in Boston and beyond",
-    "url": "https://www.eventbrite.com/e/duende-de-andalucia-a-los-andes-from-andalusia-to-the-andes-tickets-1992514658982?aff=oddtdtcreator",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Music Mountain \u2013 Ulysses Quartet",
-    "synopsis": "Max Levinson, Piano Oskar Espina Ruiz, ClarinetSeth GROSSHANDLER Suite for Clarinet Quintet MOZART String Quartet in E Flat Major, K. 171 Traditional Songs of Ulysses Heritage SCHUMANN Piano Quintet in E Flat Major, Opus 44",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271081/pe/11791070?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 Angela Hewitt, piano",
-    "synopsis": "Bach: Partita No. 5 in G major, BWV 829 Schumann: Piano Sonata No. 2 in G minor, Op. 22 Couperin: Selections from Sixi\u00e8me ordre ( Ravel: Le Tombeau de Couperin",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1464349?_gl=1*9du9z5*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY5NTAkajU2JGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Rockport Music \u2013 Hamelin and Hamelin",
-    "synopsis": "Pianists Marc-Andr\u00e9 Hamelin and Charles Richard-Hamelin come together for a duo piano performance featuring works by Mozart, Chopin, Gershwin, and others.",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
-    "url": "https://tinyurl.com/5n6d3dn9",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Fou Ts\u2019ong International Concerto Competition",
-    "synopsis": "Finalists will perform Brahms Piano Concerto No. 2 in B-flat Major, Op. 83, in its entirety, accompanied by the official collaborative pianist.$10 suggested",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com"
    }
   ],
   "The Beehive": [
@@ -511,10 +256,9 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -535,10 +279,9 @@
   ],
   "Boston Ballet": [
    {
-    "error": "No Boston Ballet performances today.",
+    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x106efdd10>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
-    "url": "https://www.bostonballet.org/home/tickets-performances/"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
    }
   ],
   "Dance & Ballet (Boston)": [
