@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-09T07:58:02.228474",
-  "date": "2026-08-11"
+  "scraped_at": "2026-08-09T08:30:04.986801",
+  "date": "2026-08-16"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-11"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-16"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,15 +17,33 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-11"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-16"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 pm",
+     "4:15 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
     "title": "I Want Your Sex",
     "synopsis": "",
     "showtimes": [
-     "8:00 pm"
+     "1:30 pm",
+     "4:00 pm",
+     "6:15 pm",
+     "8:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -38,6 +56,8 @@
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
+     "1:45 pm",
+     "4:45 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -48,30 +68,56 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
-    "title": "The Odyssey (DIGITAL)",
+    "title": "Silents, Please: The Son of the Sheik",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "2:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "url": "https://www.somervilletheatre.com/production/silents-please-the-son-of-the-sheik/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/B_SON_of_sheik-600x912.jpg"
    },
    {
-    "title": "Burnin\u2019 Down The House",
+    "title": "The Last Picture Shows",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "5:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "url": "https://www.somervilletheatre.com/production/the-last-picture-shows/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Poster-Last-Picture-Shows1080x1620-600x900.jpeg"
+   },
+   {
+    "title": "Best in Show in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/best-in-show/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
+   },
+   {
+    "title": "A Mighty Wind in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -79,10 +125,9 @@
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
+     "12:30 pm",
      "1:00 pm",
-     "2:30 pm",
      "4:00 pm",
-     "6:00 pm",
      "7:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -96,6 +141,7 @@
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
+     "12:30 pm",
      "2:45 pm",
      "5:15 pm",
      "7:40 pm"
@@ -106,6 +152,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "CatVideoFest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:00 pm",
+     "5:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/catvideofest-2026/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-2.jpg"
    },
    {
     "title": "Minions & Monsters",
@@ -126,7 +188,6 @@
     "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:15 pm"
     ],
     "theater": "Capitol Theatre",
@@ -152,24 +213,10 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Samurai and the Prisoner",
-    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
-    "showtimes": [
-     "3:00pm",
-     "6:15pm",
-     "9:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
-    "rating": "",
-    "runtime": "2hrs 27mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
-   },
-   {
     "title": "The Odyssey in 70mm",
     "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
     "showtimes": [
+     "11:00am",
      "3:30pm",
      "8:00pm"
     ],
@@ -181,112 +228,32 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
-    "showtimes": [
-     "4:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/mary-oliver-saved-beauty-world",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_Mary_Oliver_typewriter_Horz.jpg"
-   },
-   {
-    "title": "Wild Inside",
-    "synopsis": "The new documentary from Penny Lane (Hail Satan?).",
-    "showtimes": [
-     "4:15pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/wild-inside",
-    "rating": "",
-    "runtime": "1hr 36mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MV5BZjU5OTUwYjMtYzIxNi00NWY4LWIwOTgtNjNmNjdmOTBmY2I2XkEyXkFqcGc%40._V1_FMjpg_UX2160_.jpg"
-   },
-   {
-    "title": "Cookie Queens",
-    "synopsis": "A coming-of-age story about the joys, pressures, and tensions woven into one of America\u2019s most cherished rituals: Girl Scout Cookie season.",
-    "showtimes": [
-     "4:30pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/cookie-queens",
-    "rating": "",
-    "runtime": "1hr 31mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Cookie_Queens_Courtesy_of_Roadside_Attractions_0d33ae1b6a.png"
-   },
-   {
-    "title": "The Invite (2026)",
-    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
     "showtimes": [
      "4:45pm",
-     "7:30pm",
+     "7:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
+    "showtimes": [
+     "7:00pm",
      "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/invite-2026",
+    "url": "https://www.coolidge.org/films/teenage-sex-and-death-camp-miasma",
     "rating": "",
-    "runtime": "1hr 47mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
-   },
-   {
-    "title": "Sheep in the Box",
-    "synopsis": "From master filmmaker Koreeda Hirokazu, director of Shoplifters and Broker.",
-    "showtimes": [
-     "6:30pm",
-     "9:20pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/sheep-box",
-    "rating": "",
-    "runtime": "2hrs 6mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/204539.jpeg"
-   },
-   {
-    "title": "Bernstein\u2019s Wall",
-    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
-    "showtimes": [
-     "6:45pm",
-     "9:10pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/bernsteins-wall",
-    "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
-   },
-   {
-    "title": "The Killing",
-    "synopsis": "Stanley Kubrick\u2019s account of an ambitious racetrack robbery is one of Hollywood\u2019s tautest, twistiest noirs.",
-    "showtimes": [
-     "7:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/killing",
-    "rating": "",
-    "runtime": "1hr 24mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/KILL_Hayden_mask.jpg"
-   },
-   {
-    "title": "I Want Your Sex",
-    "synopsis": "The latest from New Queer Cinema pioneer Gregg Araki, starring Cooper Hoffman, Olivia Wilde, & Charli XCX.",
-    "showtimes": [
-     "9:55pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/i-want-your-sex",
-    "rating": "",
-    "runtime": "1hr 30mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/6_1.jpg"
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -334,7 +301,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-11"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-16"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -455,39 +422,65 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "King\u2019s Chapel \u2013 Tuesday Concerts",
-    "synopsis": "Dasha Ovchinnikova plays the C.B. Fisk Organ$5 suggested",
+    "title": "Apollo Ensemble (V) \u2013 rom Andalusia to the Andes",
+    "synopsis": "Roxbury Community College Media Arts Center, 1234 Columbus AvenueElias Miller, conductor Reuben Stern, conductorGeronimo GIMENEZ \u2013 La boda de Luis Alonso, Intermedio Gabriela Lena FRANK \u2013 Eleg\u00eda Andina Georges BIZET \u2013 L\u2019Arlesienne, Suite No. 1 Manuel de FALLA \u2013 El sombrero de tres picos(The Three-Cornered Hat), Suites \u2026",
     "showtimes": [
-     "12:15 pm"
+     "3:00 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Kings Chapel, in Boston",
-    "url": "https://classical-scene.com/calendar/",
+    "address": "various, in Boston and beyond",
+    "url": "https://www.eventbrite.com/e/duende-de-andalucia-a-los-andes-from-andalusia-to-the-andes-tickets-1992514658982?aff=oddtdtcreator",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Psychopomp Ensemble",
-    "synopsis": "Xiaopei Xu \u5f90\u5c0f\u57f9 and Chi-Wei Lo \u99f1\u5947\u5049 pianistsBach/Kurtag: Christe, du Lamm Gottes BWV 619 Bach/Filipsson: Widerstehe doch der S\u00fcnde, BWV 54 John Adams: Hallelujah Junction Gustav Holst/Psychopomp: The Planets, Op. 32$10 suggested",
+    "title": "Music Mountain \u2013 Ulysses Quartet",
+    "synopsis": "Max Levinson, Piano Oskar Espina Ruiz, ClarinetSeth GROSSHANDLER Suite for Clarinet Quintet MOZART String Quartet in E Flat Major, K. 171 Traditional Songs of Ulysses Heritage SCHUMANN Piano Quintet in E Flat Major, Opus 44",
     "showtimes": [
-     "7:30 pm"
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271081/pe/11791070?deepLink=true&overlay=false",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Maverick Concerts \u2013 Angela Hewitt, piano",
+    "synopsis": "Bach: Partita No. 5 in G major, BWV 829 Schumann: Piano Sonata No. 2 in G minor, Op. 22 Couperin: Selections from Sixi\u00e8me ordre ( Ravel: Le Tombeau de Couperin",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1464349?_gl=1*9du9z5*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY5NTAkajU2JGwwJGgw",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Rockport Music \u2013 Hamelin and Hamelin",
+    "synopsis": "Pianists Marc-Andr\u00e9 Hamelin and Charles Richard-Hamelin come together for a duo piano performance featuring works by Mozart, Chopin, Gershwin, and others.",
+    "showtimes": [
+     "5:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
+    "url": "https://tinyurl.com/5n6d3dn9",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Fou Ts\u2019ong International Concerto Competition",
+    "synopsis": "Finalists will perform Brahms Piano Concerto No. 2 in B-flat Major, Op. 83, in its entirety, accompanied by the official collaborative pianist.$10 suggested",
+    "showtimes": [
+     "7:00 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "First Lutheran Church \u2013 Tuesday Concerts",
-    "synopsis": "Leonardo Ciampa: Bach, Ciampa, ScarlattiFREE (Alt venue for Old West Concerts)",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "299 Berkeley Street, in Boston",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",
@@ -496,10 +489,23 @@
   ],
   "The Beehive": [
    {
-    "title": "Naya Jazz Cartel/ Featuring Andy Bassford",
-    "synopsis": "Nathan Sabanayagam is a multidimensional and deep presence in the reggae/fusion world. He is a drummer, composer, band leader, and most importantly a producer to too many of the great musicians coming from the Kingston Jamaica. Nathan is at the center and always brings creative veteran players. This will be exciting",
+    "title": "Live @ Brunch: Blake Newman",
+    "synopsis": "Bassist Blake Newman is one of the most versatile musicians in Boston, playing groove music to ethnic folk music. This quartet features straight ahead jazz playing..Both classic and modern. Check him out: https://blakenewman.org Facebook: https://www.facebook.com/blake.newman.52",
     "showtimes": [
-     "8:00 pm"
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -527,7 +533,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "New Music Night \u2014 Tuesday",
+    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
