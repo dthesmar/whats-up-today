@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-10T19:59:53.626144",
+  "scraped_at": "2026-08-10T22:21:59.613114",
   "date": "2026-08-10"
  },
  "data": {
@@ -89,28 +89,9 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "4:00 pm",
-     "6:00 pm",
-     "7:15 pm",
-     "1:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
-     "2:45 pm",
      "5:15 pm",
      "7:40 pm",
      "2:30 pm",
@@ -127,9 +108,9 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "3:30 pm",
      "5:40 pm",
-     "1:15 pm"
+     "1:15 pm",
+     "3:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -139,17 +120,21 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
-    "title": "Toy Story 5",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm"
+     "6:00 pm",
+     "7:15 pm",
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "Mary Oliver: Saved by the Beauty of the World",
