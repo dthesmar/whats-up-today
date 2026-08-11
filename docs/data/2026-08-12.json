@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-11T19:23:40.754659",
+  "scraped_at": "2026-08-11T23:29:17.470930",
   "date": "2026-08-12"
  },
  "data": {
@@ -104,18 +104,19 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Toy Story 5",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "4:15 pm"
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
@@ -136,6 +137,20 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm",
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
+   },
+   {
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
@@ -153,33 +168,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Toy Story 5",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
-     "3:30 pm",
-     "5:40 pm"
+     "1:30 pm",
+     "4:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "PAW Patrol: The Dino Movie",
