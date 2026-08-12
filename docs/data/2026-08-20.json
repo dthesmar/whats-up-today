@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-13T00:17:14.401069",
-  "date": "2026-08-16"
+  "scraped_at": "2026-08-13T00:18:52.400726",
+  "date": "2026-08-20"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-16"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-20"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,7 +17,7 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-16"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-20"
    }
   ],
   "Somerville Theatre": [
@@ -25,7 +25,7 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "12:30 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -35,10 +35,23 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
+    "title": "I Want Your Sex",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm",
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-want-your-sex/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
+   },
+   {
     "title": "The Invite",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -49,24 +62,10 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
    },
    {
-    "title": "Silents, Please: The Son of the Sheik",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/silents-please-the-son-of-the-sheik/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/B_SON_of_sheik-600x912.jpg"
-   },
-   {
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
-     "4:15 pm",
-     "7:45 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -76,43 +75,44 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
    },
    {
-    "title": "The Last Picture Shows with director Q&A",
+    "title": "The Third Man in 35mm",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm"
+     "5:00 pm",
+     "7:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-last-picture-shows/",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Poster-Last-Picture-Shows1080x1620-600x900.jpeg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
    },
    {
-    "title": "Best in Show in 35mm",
+    "title": "HERO! HITO!\uff08\u51a0\u8ecd\u4e4b\u8def\uff09",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/best-in-show/",
+    "url": "https://www.somervilletheatre.com/production/hero-hito/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/HERO-HITO_OFFICAIL-POSTER_VERTICAL-600x882.jpg"
    },
    {
-    "title": "A Mighty Wind in 35mm",
+    "title": "Blind Love\uff08\u5931\u660e\uff09",
     "synopsis": "",
     "showtimes": [
-     "4:45 pm"
+     "6:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/blind-love/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/\u5931\u660e_\u6d77\u5831\u570b\u969b\u7248_\u5927\u5c3a\u5bf8-\u5927\u5e45\u5370\u5237-600x900.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -121,7 +121,10 @@
     "synopsis": "",
     "showtimes": [
      "1:00 pm",
+     "2:30 pm",
      "4:00 pm",
+     "6:00 pm",
+     "7:15 pm",
      "7:00 pm"
     ],
     "theater": "Capitol Theatre",
@@ -135,8 +138,10 @@
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
+     "2:45 pm",
      "5:15 pm",
+     "7:40 pm",
+     "2:30 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -150,6 +155,7 @@
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "synopsis": "",
     "showtimes": [
+     "7:10 pm",
      "7:50 pm"
     ],
     "theater": "Capitol Theatre",
@@ -173,6 +179,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Toy Story 5",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 pm",
+     "4:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/toy-story-5/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/TS5_Payoff_Unboxing_1s_v8.0_Mech6-600x890.jpg"
    },
    {
     "title": "PAW Patrol: The Dino Movie",
@@ -232,8 +252,8 @@
      "1:30pm",
      "2:30pm",
      "4:45pm",
-     "7:30pm",
-     "9:30pm",
+     "6:45pm",
+     "9:15pm",
      "10:05pm"
     ],
     "theater": "Coolidge Corner Theatre",
@@ -250,8 +270,8 @@
      "11:15am",
      "1:45pm",
      "4:15pm",
-     "7:00pm",
-     "9:45pm"
+     "7:30pm",
+     "9:55pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -261,13 +281,27 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
    },
    {
+    "title": "Bernstein\u2019s Wall",
+    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
+    "showtimes": [
+     "11:30am",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/bernsteins-wall",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
+   },
+   {
     "title": "The Invite (2026)",
     "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
     "showtimes": [
      "11:45am",
      "5:00pm",
      "7:15pm",
-     "9:55pm"
+     "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -281,7 +315,7 @@
     "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
     "showtimes": [
      "2:00pm",
-     "6:30pm"
+     "4:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -305,18 +339,17 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
    },
    {
-    "title": "Bernstein\u2019s Wall",
-    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
+    "title": "Austin Powers: International Man of Mystery",
+    "synopsis": "Debonair. Defiant. Defrosted.",
     "showtimes": [
-     "4:00pm",
-     "9:00pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/bernsteins-wall",
+    "url": "https://www.coolidge.org/films/austin-powers-international-man-mystery",
     "rating": "",
-    "runtime": "1hr 45mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
+    "runtime": "1hr 29mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Austin_Powers_1997_80%20copy.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -360,7 +393,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-16"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-20"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -462,62 +495,10 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Apollo Ensemble (V) \u2013 rom Andalusia to the Andes",
-    "synopsis": "Roxbury Community College Media Arts Center, 1234 Columbus AvenueElias Miller, conductor Reuben Stern, conductorGeronimo GIMENEZ \u2013 La boda de Luis Alonso, Intermedio Gabriela Lena FRANK \u2013 Eleg\u00eda Andina Georges BIZET \u2013 L\u2019Arlesienne, Suite No. 1 Manuel de FALLA \u2013 El sombrero de tres picos(The Three-Cornered Hat), Suites \u2026",
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Magdalene Ho, pianist",
+    "synopsis": "Bach: English Suite No. 6 in D minor, BWV 811 Ad\u00e8s: Three Mazurkas, Op. 27 Handel: Suite No. 5 in E major, HWV 430 Satie: Nocturnes (selection of all five) Medtner: Sonata minacciosa, Op. 53, No. 2$10 suggested",
     "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "various, in Boston and beyond",
-    "url": "https://www.eventbrite.com/e/duende-de-andalucia-a-los-andes-from-andalusia-to-the-andes-tickets-1992514658982?aff=oddtdtcreator",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Music Mountain \u2013 Ulysses Quartet",
-    "synopsis": "Max Levinson, Piano Oskar Espina Ruiz, ClarinetSeth GROSSHANDLER Suite for Clarinet Quintet MOZART String Quartet in E Flat Major, K. 171 Traditional Songs of Ulysses Heritage SCHUMANN Piano Quintet in E Flat Major, Opus 44",
-    "showtimes": [
-     "3:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271081/pe/11791070?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 Angela Hewitt, piano",
-    "synopsis": "Bach: Partita No. 5 in G major, BWV 829 Schumann: Piano Sonata No. 2 in G minor, Op. 22 Couperin: Selections from Sixi\u00e8me ordre ( Ravel: Le Tombeau de Couperin",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1464349?_gl=1*9du9z5*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTY5NTAkajU2JGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Rockport Music \u2013 Hamelin and Hamelin",
-    "synopsis": "Pianists Marc-Andr\u00e9 Hamelin and Charles Richard-Hamelin come together for a duo piano performance featuring works by Mozart, Chopin, Gershwin, and others.",
-    "showtimes": [
-     "5:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Shalin Liu Performance Center, 37 Main Street, in Rockport",
-    "url": "https://tinyurl.com/5n6d3dn9",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Fou Ts\u2019ong International Concerto Competition",
-    "synopsis": "Finalists will perform Brahms Piano Concerto No. 2 in B-flat Major, Op. 83, in its entirety, accompanied by the official collaborative pianist.$10 suggested",
-    "showtimes": [
-     "7:00 pm"
+     "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
     "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
@@ -525,27 +506,27 @@
     "rating": "",
     "runtime": "",
     "poster": ""
+   },
+   {
+    "title": "Boston Symphony Tanglewood (SOH) \u2013 Silk Road Ensemble",
+    "synopsis": "The Silkroad Ensemble\u2019s latest flagship program with Artistic Director Rhiannon Giddens is Sanctuary: The Power of Resonance and Ritual.",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Seiji Ozawa Hall, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28276",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "title": "Live @ Brunch: Blake Newman",
-    "synopsis": "Bassist Blake Newman is one of the most versatile musicians in Boston, playing groove music to ethnic folk music. This quartet features straight ahead jazz playing..Both classic and modern. Check him out: https://blakenewman.org Facebook: https://www.facebook.com/blake.newman.52",
+    "title": "Dwayne Haggins",
+    "synopsis": "He\u2019s been described as \u201cthe love child of Hank Williams and Otis Redding.\u201d \u201cThe John Legend of rockabilly.\u201d And even, \u201cthe \u2018what-took-you-so-long?\u2019 fusion of Elvis Presley and Marvin Gaye.\u201d At every performance, whether in a venerable metropolitan concert hall or a grimy dive in an anonymous strip mall, Dwayne Haggins \u2026",
     "showtimes": [
-     "10:00 am"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Sunday Blues with Bruce Bears & Friends",
-    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
-    "showtimes": [
-     "7:30 pm"
+     "9:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -573,7 +554,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
