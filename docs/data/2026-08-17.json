@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-12T05:20:54.867310",
+  "scraped_at": "2026-08-12T06:24:14.634600",
   "date": "2026-08-17"
  },
  "data": {
@@ -195,19 +195,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
-    "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
-   },
-   {
     "title": "The Samurai and the Prisoner",
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
@@ -220,6 +207,19 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "3:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Bernstein\u2019s Wall",
@@ -308,31 +308,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Earth vs. the Flying Saucers",
-    "synopsis": "Director: Fred F. Sears Run Time: 83 min. Format: DCP Release Year: 1956",
-    "showtimes": [
-     "4:00 pm",
-     "8:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/earth-vs-the-flying-saucers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01171517/rpazkJ87yIAcKbQ4IFbZ8y2uJIN.jpg"
-   },
-   {
-    "title": "The War of the Worlds",
-    "synopsis": "Director: Byron Haskin Run Time: 85 min. Format: DCP Release Year: 1953",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/the-war-of-the-worlds/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173555/war-of-the-worlds-1953-0.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
