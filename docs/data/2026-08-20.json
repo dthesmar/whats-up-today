@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-13T05:35:34.904100",
+  "scraped_at": "2026-08-13T06:38:54.601854",
   "date": "2026-08-20"
  },
  "data": {
@@ -354,30 +354,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Harvard Book Store Presents Daron Acemoglu",
-    "synopsis": "Run Time: 90 min.",
-    "showtimes": [
-     "6:00 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/special_events/harvard-book-store-presents-daron-acemoglu/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10104348/image1.jpeg"
-   },
-   {
-    "title": "Broadcast News",
-    "synopsis": "Director: James L. Brooks Run Time: 133 min. Format: DCP Release Year: 1987",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/broadcast-news/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/01171722/wHSZJ8s0JfWIjoHkRknq6ZtGlZr-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
