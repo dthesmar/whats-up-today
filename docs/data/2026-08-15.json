@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-13T11:45:54.959484",
+  "scraped_at": "2026-08-13T14:20:03.981592",
   "date": "2026-08-15"
  },
  "data": {
@@ -374,19 +374,15 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Spider-Man: Brand New Day",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "10:00AM",
-     "10:45AM",
-     "1:20PM",
-     "2:15PM",
-     "4:40PM",
-     "5:35PM"
+     "10:10AM",
+     "11:30AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -396,9 +392,8 @@
     "synopsis": "",
     "showtimes": [
      "10:15AM",
-     "2:00PM",
-     "4:00PM",
-     "5:40PM"
+     "2:05PM",
+     "5:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -429,8 +424,8 @@
     "showtimes": [
      "10:30AM",
      "1:10PM",
-     "3:45PM",
-     "6:25PM"
+     "4:00PM",
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -440,15 +435,19 @@
     "poster": ""
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "1:30PM"
+     "10:45AM",
+     "12:30PM",
+     "2:10PM",
+     "3:45PM",
+     "5:30PM",
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -459,7 +458,7 @@
     "showtimes": [
      "11:15AM",
      "2:45PM",
-     "6:15PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -467,22 +466,36 @@
     "rating": "",
     "runtime": "",
     "poster": ""
-   }
-  ],
-  "Classical Music (Boston)": [
+   },
    {
-    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Fou Ts\u2019ong International Concerto Competition",
-    "synopsis": "Ten semifinalists of the 6th Fou Ts\u2019ong International Concerto Competition, representing (alphabetically) China, Hong Kong, Israel, Malaysia, Russia, South Korea, Taiwan, and USA will perform a 20 min solo repertoire, along with a 5-min orchestral excerpt from the Brahms Piano Concerto No. 2$10 suggested",
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
     "showtimes": [
-     "1:00 pm"
+     "2:00PM",
+     "4:15PM"
     ],
-    "theater": "Classical Music (Boston)",
-    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
-    "url": "https://classical-scene.com/calendar/",
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   }
+  ],
+  "Classical Music (Boston)": [
    {
     "title": "Apollo Ensemble (V) \u2013 rom Andalusia to the Andes",
     "synopsis": "Great Brook Farm State Park Pavilion, 165 North RoadElias Miller, conductor Reuben Stern, conductorGeronimo GIMENEZ \u2013 La boda de Luis Alonso, Intermedio Gabriela Lena FRANK \u2013 Eleg\u00eda Andina Georges BIZET \u2013 L\u2019Arlesienne, Suite No. 1 Manuel de FALLA \u2013 El sombrero de tres picos(The Three-Cornered Hat), Suites No. 1 & 2FREE\u2026",
@@ -491,6 +504,19 @@
     ],
     "theater": "Classical Music (Boston)",
     "address": "various, in Boston and beyond",
+    "url": "https://classical-scene.com/calendar/",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Foundation for Chinese Performing Arts (WH) \u2013 Fou Ts\u2019ong International Concerto Competition",
+    "synopsis": "Ten semifinalists of the 6th Fou Ts\u2019ong International Concerto Competition, representing (alphabetically) China, Hong Kong, Israel, Malaysia, Russia, South Korea, Taiwan, and USA will perform a 20 min solo repertoire, along with a 5-min orchestral excerpt from the Brahms Piano Concerto No. 2$10 suggested",
+    "showtimes": [
+     "1:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Williams Hall, 30 Gaisnborough Street, in Boston",
     "url": "https://classical-scene.com/calendar/",
     "rating": "",
     "runtime": "",

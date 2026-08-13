@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-13T11:46:43.753891",
+  "scraped_at": "2026-08-13T14:20:52.824670",
   "date": "2026-08-17"
  },
  "data": {
@@ -195,19 +195,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
-    "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
-   },
-   {
     "title": "The Samurai and the Prisoner",
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
@@ -220,6 +207,19 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "3:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Bernstein\u2019s Wall",
@@ -353,19 +353,15 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Spider-Man: Brand New Day",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "10:00AM",
-     "10:45AM",
-     "1:20PM",
-     "2:15PM",
-     "4:40PM",
-     "5:35PM"
+     "10:10AM",
+     "11:30AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -375,9 +371,8 @@
     "synopsis": "",
     "showtimes": [
      "10:15AM",
-     "2:00PM",
-     "4:00PM",
-     "5:40PM"
+     "2:05PM",
+     "5:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -408,8 +403,8 @@
     "showtimes": [
      "10:30AM",
      "1:10PM",
-     "3:45PM",
-     "6:25PM"
+     "4:00PM",
+     "6:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -419,15 +414,19 @@
     "poster": ""
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "11:00AM",
-     "1:30PM"
+     "10:45AM",
+     "12:30PM",
+     "2:10PM",
+     "3:45PM",
+     "5:30PM",
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -438,11 +437,38 @@
     "showtimes": [
      "11:15AM",
      "2:45PM",
-     "6:15PM"
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "2:00PM",
+     "4:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
     "rating": "",
     "runtime": "",
     "poster": ""
