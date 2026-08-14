@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-14T08:55:51.986470",
+  "scraped_at": "2026-08-14T09:59:12.810050",
   "date": "2026-08-16"
  },
  "data": {
@@ -321,10 +321,45 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Oliver!",
+    "synopsis": "Director: Carol Reed Run Time: 153 min. Format: 35mm Film Release Year: 1968",
+    "showtimes": [
+     "3:00 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/oliver/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/25134558/4RpCpe6TAWFPH4pmBh8uewQA5h.jpg"
+   },
+   {
+    "title": "Strangers on a Train",
+    "synopsis": "Director: Alfred Hitchcock Run Time: 101 min. Format: 35mm Film Release Year: 1951",
+    "showtimes": [
+     "6:15 pm 35mm",
+     "1:30 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/strangers-on-a-train/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173422/strangers-on-a-train-3-scaled-e1785792880572.jpg"
+   },
+   {
+    "title": "Family Plot",
+    "synopsis": "Director: Alfred Hitchcock Run Time: 120 min. Format: 35mm Film Release Year: 1976",
+    "showtimes": [
+     "8:30 pm 35mm",
+     "3:45 pm 35mm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/family-plot/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02100240/gc3eJlBJQfYHRkCko3BBZEtcbPd-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
