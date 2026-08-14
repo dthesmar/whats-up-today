@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-14T05:46:12.941630",
+  "scraped_at": "2026-08-14T06:49:32.931898",
   "date": "2026-08-17"
  },
  "data": {
@@ -308,31 +308,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "My Night at Maud's",
-    "synopsis": "Director: \u00c9ric Rohmer Run Time: 110 min. Format: DCP Release Year: 1969 Language: French",
-    "showtimes": [
-     "4:00 pm",
-     "6:30 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/my-night-at-mauds/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2022/06/02095644/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg"
-   },
-   {
-    "title": "Angel Heart",
-    "synopsis": "Director: Alan Parker Run Time: 113 min. Format: 35mm Film Release Year: 1987",
-    "showtimes": [
-     "9:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/angel-heart/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2025/10/03173512/angel-heart-2-scaled.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
