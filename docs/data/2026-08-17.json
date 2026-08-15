@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-15T10:22:00.846878",
+  "scraped_at": "2026-08-15T14:24:17.729462",
   "date": "2026-08-17"
  },
  "data": {
@@ -195,19 +195,6 @@
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
-    "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
-   },
-   {
     "title": "The Samurai and the Prisoner",
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
@@ -220,6 +207,19 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "3:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Bernstein\u2019s Wall",
@@ -408,8 +408,8 @@
     "showtimes": [
      "10:30AM",
      "1:05PM",
-     "3:40PM",
-     "6:15PM",
+     "4:15PM",
+     "6:30PM",
      "9:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
@@ -483,7 +483,7 @@
     "synopsis": "",
     "showtimes": [
      "1:40PM",
-     "4:20PM"
+     "9:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -493,11 +493,23 @@
     "poster": ""
    },
    {
+    "title": "Six The Musical Live!",
+    "synopsis": "",
+    "showtimes": [
+     "4:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/six-the-musical-live",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Wet Hot American Summer: 25th Anniversary",
     "synopsis": "",
     "showtimes": [
-     "6:55PM",
-     "9:30PM"
+     "6:55PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
