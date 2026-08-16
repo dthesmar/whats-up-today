@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-16T04:31:40.013211",
+  "scraped_at": "2026-08-16T14:49:11.524372",
   "date": "2026-08-22"
  },
  "data": {
@@ -21,32 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "I Want Your Sex",
-    "synopsis": "",
-    "showtimes": [
-     "10:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/i-want-your-sex/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
-   },
-   {
-    "title": "Chopping Mall",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/chopping-mall/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-4.jpg"
-   },
    {
     "title": "Waiting for Guffman in 35mm",
     "synopsis": "",
@@ -126,32 +100,32 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Strangers on a Train",
-    "synopsis": "Director: Alfred Hitchcock Run Time: 101 min. Format: 35mm Film Release Year: 1951",
+    "title": "Vertigo",
+    "synopsis": "Director: Alfred Hitchcock Run Time: 129 min. Format: 35mm Film Release Year: 1958",
     "showtimes": [
-     "1:30 pm 35mm",
-     "6:15 pm 35mm"
+     "1:00 pm 35mm",
+     "6:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/strangers-on-a-train/",
+    "url": "https://brattlefilm.org/movies/vertigo/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173422/strangers-on-a-train-3-scaled-e1785792880572.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/02160910/vertigo-3.jpg"
    },
    {
-    "title": "Family Plot",
-    "synopsis": "Director: Alfred Hitchcock Run Time: 120 min. Format: 35mm Film Release Year: 1976",
+    "title": "Obsession",
+    "synopsis": "Director: Brian De Palma Run Time: 99 min. Format: DCP Release Year: 1976",
     "showtimes": [
-     "3:45 pm 35mm",
-     "8:30 pm 35mm"
+     "3:45 pm",
+     "8:45 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/family-plot/",
+    "url": "https://brattlefilm.org/movies/obsession/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02100240/gc3eJlBJQfYHRkCko3BBZEtcbPd-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02101355/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -192,50 +166,14 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Spider-Man: Brand New Day",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "10:00AM",
-     "1:10PM",
-     "4:20PM",
-     "7:30PM"
+     "10:20AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "10:10AM",
-     "1:45PM",
-     "5:20PM",
-     "8:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Paw Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:15AM",
-     "12:30PM",
-     "2:45PM",
-     "5:00PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -244,11 +182,10 @@
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "10:30AM",
-     "1:05PM",
-     "4:15PM",
-     "6:30PM",
-     "9:05PM"
+     "10:35AM",
+     "2:25PM",
+     "4:50PM",
+     "7:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -262,10 +199,8 @@
     "synopsis": "",
     "showtimes": [
      "10:45AM",
-     "2:00PM",
-     "5:15PM",
-     "8:30PM",
-     "9:20PM"
+     "2:15PM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -275,14 +210,16 @@
     "poster": ""
    },
    {
-    "title": "Minions & Monsters",
+    "title": "The Odyssey",
     "synopsis": "",
     "showtimes": [
-     "10:50AM"
+     "10:55AM",
+     "2:40PM",
+     "6:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -301,13 +238,56 @@
     "poster": ""
    },
    {
+    "title": "Six The Musical Live!",
+    "synopsis": "",
+    "showtimes": [
+     "12:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/six-the-musical-live",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "12:15PM",
+     "3:35PM",
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:30PM",
+     "2:45PM",
+     "5:00PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
-     "1:20PM",
-     "3:50PM",
-     "6:25PM",
-     "9:25PM"
+     "1:30PM",
+     "4:10PM",
+     "7:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -321,24 +301,11 @@
     "synopsis": "",
     "showtimes": [
      "1:40PM",
-     "9:30PM"
+     "4:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/super-troopers-3",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Six The Musical Live!",
-    "synopsis": "",
-    "showtimes": [
-     "4:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/six-the-musical-live",
     "rating": "",
     "runtime": "",
     "poster": ""
