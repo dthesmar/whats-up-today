@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T17:25:28.117860",
+  "scraped_at": "2026-08-17T18:28:49.513343",
   "date": "2026-08-22"
  },
  "data": {
@@ -62,7 +62,7 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-6.jpg"
    },
    {
-    "title": "After Hours in 35mm",
+    "title": "After Hours",
     "synopsis": "",
     "showtimes": [
      "8:45 pm"
@@ -73,6 +73,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Craft in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-craft-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-14.jpg"
    },
    {
     "title": "Michael Mann's Manhunter: The Final Cut",
@@ -104,20 +117,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -132,6 +131,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
