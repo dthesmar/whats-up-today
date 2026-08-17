@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T05:08:58.546576",
+  "scraped_at": "2026-08-17T06:12:19.793663",
   "date": "2026-08-19"
  },
  "data": {
@@ -310,32 +310,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Vertigo",
-    "synopsis": "Director: Alfred Hitchcock Run Time: 129 min. Format: 35mm Film Release Year: 1958",
-    "showtimes": [
-     "1:00 pm 35mm",
-     "6:00 pm 35mm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/vertigo/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2024/06/02160910/vertigo-3.jpg"
-   },
-   {
-    "title": "Obsession",
-    "synopsis": "Director: Brian De Palma Run Time: 99 min. Format: DCP Release Year: 1976",
-    "showtimes": [
-     "3:45 pm",
-     "8:45 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/obsession/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02101355/kjIgQmRlgBI1u2YvjW7EcorzHbf.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
