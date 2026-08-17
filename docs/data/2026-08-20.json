@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T01:44:18.485515",
+  "scraped_at": "2026-08-17T02:47:39.524634",
   "date": "2026-08-20"
  },
  "data": {
@@ -21,19 +21,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
-   },
    {
     "title": "The Invite",
     "synopsis": "",
@@ -75,6 +62,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
    },
    {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
     "title": "HERO! HITO!\uff08\u51a0\u8ecd\u4e4b\u8def\uff09",
     "synopsis": "",
     "showtimes": [
@@ -102,19 +102,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "synopsis": "",
-    "showtimes": [
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
-   },
    {
     "title": "The End of Oak Street",
     "synopsis": "",
@@ -191,6 +178,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "",
+    "showtimes": [
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
