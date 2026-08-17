@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T08:18:37.246959",
+  "scraped_at": "2026-08-17T09:21:57.515602",
   "date": "2026-08-18"
  },
  "data": {
@@ -282,10 +282,31 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "This Island Earth",
+    "synopsis": "Director: Jack Arnold, Joseph M. Newman Run Time: 85 min. Format: DCP Release Year: 1955",
+    "showtimes": [
+     "4:00 pm",
+     "8:00 pm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/this-island-earth/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02101755/inQQLXDOkb3jwDqNqHF8Lnel6yU.jpg"
+   },
+   {
+    "title": "Forbidden Planet",
+    "synopsis": "Director: Fred M. Wilcox Run Time: 98 min. Format: DCP Release Year: 1956",
+    "showtimes": [
+     "6:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/forbidden-planet/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173327/forbidden-planet-1.jpg"
    }
   ],
   "Harvard Film Archive": [
