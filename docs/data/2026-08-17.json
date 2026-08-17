@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T11:42:36.025059",
+  "scraped_at": "2026-08-17T15:16:04.696523",
   "date": "2026-08-17"
  },
  "data": {
@@ -25,7 +25,8 @@
     "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "7:00 pm",
+     "6:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -195,6 +196,19 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "3:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+   },
+   {
     "title": "The Samurai and the Prisoner",
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
@@ -207,19 +221,6 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
-    "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Bernstein\u2019s Wall",
@@ -353,50 +354,6 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "10:20AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "10:35AM",
-     "2:25PM",
-     "4:50PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "2:15PM",
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "The Odyssey",
     "synopsis": "",
     "showtimes": [
@@ -412,27 +369,62 @@
     "poster": ""
    },
    {
-    "title": "KidFest - The Wild Robot",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
      "11:00AM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/kidfest---the-wild-robot-2",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Six The Musical Live!",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "12:00PM"
+     "11:05AM",
+     "1:20PM",
+     "2:30PM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/six-the-musical-live",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "11:15AM",
+     "1:45PM",
+     "4:30PM",
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:25AM",
+     "2:00PM",
+     "4:35PM",
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -453,28 +445,12 @@
     "poster": ""
    },
    {
-    "title": "Paw Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:30PM",
-     "2:45PM",
-     "5:00PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
      "1:30PM",
      "4:10PM",
-     "7:00PM"
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -487,25 +463,12 @@
     "title": "Super Troopers 3",
     "synopsis": "",
     "showtimes": [
-     "1:40PM",
-     "4:20PM"
+     "4:55PM",
+     "7:25PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/super-troopers-3",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Wet Hot American Summer: 25th Anniversary",
-    "synopsis": "",
-    "showtimes": [
-     "6:55PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/wet-hot-american-summer-25th-anniversary",
     "rating": "",
     "runtime": "",
     "poster": ""
