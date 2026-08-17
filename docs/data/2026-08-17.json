@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T18:26:47.127634",
+  "scraped_at": "2026-08-17T20:50:25.811071",
   "date": "2026-08-17"
  },
  "data": {
@@ -62,6 +62,19 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/HellsHighway_poster_2026_2025x3000-600x889.jpg"
    },
    {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
     "title": "Burnin\u2019 Down The House",
     "synopsis": "",
     "showtimes": [
@@ -90,29 +103,13 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
      "3:00 pm",
      "5:20 pm",
-     "7:40 pm"
+     "7:40 pm",
+     "12:45 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -122,27 +119,12 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    },
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
      "3:30 pm",
-     "5:40 pm"
+     "5:40 pm",
+     "1:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -152,10 +134,40 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm",
+     "1:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm",
+     "12:40 pm",
+     "2:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "5:15 pm",
      "7:30 pm"
     ],
@@ -180,6 +192,22 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
    },
    {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
     "title": "Disasterpiece Theatre",
     "synopsis": "",
     "showtimes": [
@@ -195,6 +223,19 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "3:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+   },
+   {
     "title": "The Samurai and the Prisoner",
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
@@ -207,19 +248,6 @@
     "rating": "",
     "runtime": "2hrs 27mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
-    "showtimes": [
-     "3:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
-    "rating": "",
-    "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
     "title": "Bernstein\u2019s Wall",
