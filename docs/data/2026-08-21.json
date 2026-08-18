@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-17T23:06:29.247057",
+  "scraped_at": "2026-08-18T09:14:37.537443",
   "date": "2026-08-21"
  },
  "data": {
@@ -72,21 +72,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
+   },
+   {
+    "title": "Batman in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/batman-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
    }
   ],
   "Capitol Theatre": [
    {
-    "title": "One Night Only",
+    "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "7:30 pm"
+     "12:40 pm",
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -105,19 +121,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    },
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -133,20 +136,30 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
-    "title": "PAW Patrol: The Dino Movie",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
+     "1:15 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    },
    {
     "title": "Spa Weekend",
@@ -182,31 +195,31 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "This Island Earth",
-    "synopsis": "Director: Jack Arnold, Joseph M. Newman Run Time: 85 min. Format: DCP Release Year: 1955",
+    "title": "It! The Terror from Beyond Space",
+    "synopsis": "Director: Edward L. Cahn Run Time: 69 min. Format: Digital Projection Release Year: 1958",
     "showtimes": [
-     "4:00 pm",
+     "4:15 pm",
      "8:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/this-island-earth/",
+    "url": "https://brattlefilm.org/movies/it-the-terror-from-beyond-space/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02101755/inQQLXDOkb3jwDqNqHF8Lnel6yU.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02104334/f2CGKEEkQ7q9j5bZ1545VTxRaOK.jpg"
    },
    {
-    "title": "Forbidden Planet",
-    "synopsis": "Director: Fred M. Wilcox Run Time: 98 min. Format: DCP Release Year: 1956",
+    "title": "The Quatermass Xperiment",
+    "synopsis": "Director: Val Guest Run Time: 82 min. Format: Digital Projection Release Year: 1955",
     "showtimes": [
      "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/forbidden-planet/",
+    "url": "https://brattlefilm.org/movies/the-quatermass-xperiment/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173327/forbidden-planet-1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02104449/hEK998lceNeL6kSkQzHfmuH1Ld.jpg"
    }
   ],
   "Harvard Film Archive": [
