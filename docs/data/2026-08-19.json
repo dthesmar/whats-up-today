@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-19T21:33:44.087456",
+  "scraped_at": "2026-08-19T22:39:11.128887",
   "date": "2026-08-19"
  },
  "data": {
@@ -116,21 +116,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm",
-     "1:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -190,6 +175,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm",
+     "1:00 pm",
+     "4:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -572,17 +572,9 @@
   ],
   "The Beehive": [
    {
-    "title": "Rich Graiko and Friends",
-    "synopsis": "Creative, rhythmic, soulful, Graiko is a deep and expressive musician. This music is reggae inspired jazz...very fun!",
-    "showtimes": [
-     "8:00 pm"
-    ],
+    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1787112000000&endms=1787198400000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10785a210>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "541 Tremont St, Boston, MA"
    }
   ],
   "Scullers Jazz Club": [
