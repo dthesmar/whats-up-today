@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-19T20:21:12.272182",
+  "scraped_at": "2026-08-19T20:33:15.021018",
   "date": "2026-08-26"
  },
  "data": {
@@ -116,21 +116,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:15 pm",
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -191,6 +176,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm",
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    },
    {
     "title": "Mary Oliver: Saved by the Beauty of the World",

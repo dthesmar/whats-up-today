@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-19T20:19:34.310063",
+  "scraped_at": "2026-08-19T20:31:34.197600",
   "date": "2026-08-22"
  },
  "data": {
@@ -162,19 +162,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -231,6 +218,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    },
    {
     "title": "Spa Weekend",
