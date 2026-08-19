@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-18T19:02:05.526335",
+  "scraped_at": "2026-08-19T02:33:24.678321",
   "date": "2026-08-24"
  },
  "data": {
@@ -22,19 +22,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
@@ -46,6 +33,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Burnin\u2019 Down The House",
@@ -75,33 +75,6 @@
    }
   ],
   "Capitol Theatre": [
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "3:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
-   },
    {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
@@ -150,6 +123,33 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "3:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
@@ -181,6 +181,92 @@
   ],
   "Coolidge Corner Theatre": [
    {
+    "title": "The Samurai and the Prisoner",
+    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
+    "showtimes": [
+     "3:00pm",
+     "6:15pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
+    "rating": "",
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "3:15pm",
+     "6:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "The Odyssey (Digital)",
+    "synopsis": "The new film from filmmaker Christopher Nolan (Oppenheimer, Inception).",
+    "showtimes": [
+     "3:30pm",
+     "8:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-digital",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-K020-18_CROP.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "showtimes": [
+     "3:45pm",
+     "7:30pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
+    "showtimes": [
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mary-oliver-saved-beauty-world",
+    "rating": "",
+    "runtime": "1hr 31mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_Mary_Oliver_typewriter_Horz.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
+    "showtimes": [
+     "4:30pm",
+     "7:15pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/teenage-sex-and-death-camp-miasma",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
+   },
+   {
     "title": "Casino",
     "synopsis": "They had it all, they ran the show, and it was paradise...while it lasted.",
     "showtimes": [
@@ -192,6 +278,19 @@
     "rating": "",
     "runtime": "2hrs 58mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/Casino_1995_0051%20copy.jpg"
+   },
+   {
+    "title": "Bernstein\u2019s Wall",
+    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
+    "showtimes": [
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/bernsteins-wall",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
    }
   ],
   "Brattle Theatre": [
