@@ -1,12 +1,12 @@
 {
  "meta": {
-  "scraped_at": "2026-08-20T13:41:24.136051",
+  "scraped_at": "2026-08-20T15:50:51.555253",
   "date": "2026-08-23"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23"
@@ -14,7 +14,7 @@
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23"
@@ -22,42 +22,377 @@
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c4b90>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "5:30 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Best in Show in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/best-in-show/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
+   },
+   {
+    "title": "A Mighty Wind in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
+   },
+   {
+    "title": "Batman in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/batman-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
+   },
+   {
+    "title": "Edie Arnold Is a Loser",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/edie-arnold-is-a-loser/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/FOR-DIGITAL-Edie-Arnold-is-a-Loser-600x872.png"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c6850>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:40 pm",
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "3:00 pm",
+     "5:20 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "3:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-08-23 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c6710>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "11:00am",
+     "3:30pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "showtimes": [
+     "11:05am",
+     "12:30pm",
+     "1:30pm",
+     "5:00pm",
+     "7:30pm",
+     "9:00pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "11:10am",
+     "4:15pm",
+     "6:45pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
+    "showtimes": [
+     "11:20am",
+     "2:15pm",
+     "4:30pm",
+     "7:15pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/teenage-sex-and-death-camp-miasma",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
+   },
+   {
+    "title": "Bernstein\u2019s Wall",
+    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
+    "showtimes": [
+     "11:30am",
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/bernsteins-wall",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
+   },
+   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
+    "showtimes": [
+     "1:45pm",
+     "6:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mary-oliver-saved-beauty-world",
+    "rating": "",
+    "runtime": "1hr 31mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_Mary_Oliver_typewriter_Horz.jpg"
+   },
+   {
+    "title": "The Thomas Crown Affair (1968)",
+    "synopsis": "A Thrill-A-Minute Deal For A Million Dollars!",
+    "showtimes": [
+     "2:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/thomas-crown-affair-1968",
+    "rating": "",
+    "runtime": "1hr 42mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ThomasCrownAffair1968_17%20copy.jpg"
+   },
+   {
+    "title": "The Samurai and the Prisoner",
+    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
+    "showtimes": [
+     "3:00pm",
+     "6:15pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
+    "rating": "",
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Odyssey (Digital)",
+    "synopsis": "The new film from filmmaker Christopher Nolan (Oppenheimer, Inception).",
+    "showtimes": [
+     "8:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-digital",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-K020-18_CROP.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c4e10>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Claire's Knee",
+    "synopsis": "Director: \u00c9ric Rohmer Run Time: 105 min. Format: DCP Release Year: 1970 Language: French",
+    "showtimes": [
+     "4:00 pm",
+     "6:30 pm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/claires-knee/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02105007/eirSTJkaGgEB8mpunntNrXI1nNH.jpg"
+   },
+   {
+    "title": "Jacob's Ladder",
+    "synopsis": "Director: Adrian Lyne Run Time: 113 min. Format: DCP Release Year: 1990",
+    "showtimes": [
+     "9:00 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/jacobs-ladder/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173222/jacobs-ladder-2.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c6e90>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Z\u00e9ro de conduite",
+    "synopsis": "\u201cLondon is unlikely to offer any other film as interesting as Jean Vigo\u2019s Z\u00e9ro de Conduite,\u201d Greene wrote in 1936 when reviewing a theater\u2019s series, The History of Film. At the time, the controversial film had been banned in France for three years, with its young firebrand director already dead, yet Z\u00e9ro de conduite wa\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/zero-de-conduite-2026-08",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb/6a75002f822c0.jpg?1786116286"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23"
@@ -65,37 +400,247 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c4e10>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "2:30PM",
+     "4:10PM",
+     "6:00PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "10:50AM",
+     "1:30PM",
+     "4:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/one-night-only",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "10:55AM",
+     "2:40PM",
+     "6:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "11:00AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "11:15AM",
+     "1:55PM",
+     "4:30PM",
+     "7:15PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "11:25AM",
+     "2:00PM",
+     "4:35PM",
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "12:15PM",
+     "3:35PM",
+     "6:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Super Troopers 3",
+    "synopsis": "",
+    "showtimes": [
+     "1:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/super-troopers-3",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Insidious: Out Of The Further",
+    "synopsis": "",
+    "showtimes": [
+     "7:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/insidious-out-of-the-further",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c74d0>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Boston Symphony Tanglewood (K) \u2013 Gustavo Gimeno, conductor",
+    "synopsis": "Man\u00e9 Galoyan, soprano Zoie Reams, mezzo-soprano Ben Bliss, tenor Soloman Howard, bass Tanglewood Festival Chorus Work for unaccompanied chorus BEETHOVEN Symphony No. 9",
+    "showtimes": [
+     "2:30 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28294",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Music Mountain \u2013 Lysander Piano Trio",
+    "synopsis": "MOZART Piano Trio in E Major, K. 542 Edvard GRIEG Andante con moto Jennifer HIGDON Color Through SCHOENBERG Verkl\u00e4rte Nacht, Opus 4 (arr. Steuermann)",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271082/pe/11791071?deepLink=true&overlay=false",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Maverick Concerts \u2013 American Chamber Music Society",
+    "synopsis": "Schumann: String Quartet No. 1 in A minor, Op. 41, Mendelssohn: String Quartet No. 6 in F minor, Op. 80 Chester Biscardi: Piano Quintet (2006) Arthur Foote: Piano Quintet in A minor, Op. 38Evening Postlude: Reed Tetzloff, piano Charles Ives: Piano Sonata No. 2 (\u201cConcord, Mass., 1840\u201360\u201d) (\u201cConcord Sonata\u201d)",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462091?_gl=1*19d5700*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTcwMTQkajU1JGwwJGgw",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Summer Opera \u2013 Il Barbiere di Siviglia by G. Rossini",
+    "synopsis": "at the Boston SynagogueBoston Summer Opera & the Horizon Ensemble",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "various, in Boston Area",
+    "url": "https://www.eventbrite.com/e/the-barber-of-seville-by-gioachino-rossini-tickets-1986541241329",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1787457600000&endms=1787544000000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c6e90>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Jim Kelly Brunch",
+    "synopsis": "Jim Kelly plays deep and soulful jazz guitar. There is a blues edge to Kelly's playing that informs his jazz vocabulary and cuts to the bone. This band makes beautiful, soulful, funky sounds.",
+    "showtimes": [
+     "10:00 am"
+    ],
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -116,16 +661,18 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c7250>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10b7c7110>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No dance events found for today.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com"
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
    }
   ]
  }
