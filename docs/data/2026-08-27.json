@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-20T11:08:52.948700",
-  "date": "2026-08-22"
+  "scraped_at": "2026-08-20T11:10:54.530950",
+  "date": "2026-08-27"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "error": "AMC Boston Common 19: no movies found on Fandango.",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-27"
    }
   ],
   "Kendall Square Cinema": [
@@ -17,16 +17,43 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-27"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "The Third Man in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-third-man-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/The-Third-Man_75th_One-Sheet_SC_mini-600x888.jpg"
+   },
+   {
+    "title": "I Want Your Sex",
+    "synopsis": "",
+    "showtimes": [
+     "5:15 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/i-want-your-sex/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/IWYS_1Sht_FM1_HR_In-Theaters-600x884.jpg"
+   },
+   {
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
-     "1:45 pm",
-     "8:00 pm"
+     "7:00 pm",
+     "6:45 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -36,14 +63,23 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
    },
    {
+    "title": "The Invite",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-invite/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/TheInvite_DOM_Payoff_1-Sheet_Frame-600x937.jpg"
+   },
+   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm",
-     "9:45 pm",
-     "11:55 pm"
+     "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
@@ -53,111 +89,43 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Waiting for Guffman in 35mm",
+    "title": "Member Screening",
     "synopsis": "",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/waiting-for-guffman-in-35mm/",
+    "url": "https://www.somervilletheatre.com/production/member-screening/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-6.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/MembersOnly-Square-600-x-900-px.jpg"
    },
    {
-    "title": "After Hours",
+    "title": "HERO! HITO!\uff08\u51a0\u8ecd\u4e4b\u8def\uff09",
     "synopsis": "",
     "showtimes": [
-     "8:45 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/after-hours/",
+    "url": "https://www.somervilletheatre.com/production/hero-hito/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-7.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/HERO-HITO_OFFICAIL-POSTER_VERTICAL-600x882.jpg"
    },
    {
-    "title": "The Craft in 4K",
+    "title": "Blind Love\uff08\u5931\u660e\uff09",
     "synopsis": "",
     "showtimes": [
-     "11:59 pm"
+     "6:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-craft-in-4k/",
+    "url": "https://www.somervilletheatre.com/production/blind-love/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-14.jpg"
-   },
-   {
-    "title": "Michael Mann's Manhunter: The Final Cut",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "8:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
-   },
-   {
-    "title": "Bound in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/bound/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-13.jpg"
-   },
-   {
-    "title": "Hundreds of Beavers",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/hundreds-of-beavers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/Beavers-600x890.webp"
-   },
-   {
-    "title": "Batman in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/batman-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/\u5931\u660e_\u6d77\u5831\u570b\u969b\u7248_\u5927\u5c3a\u5bf8-\u5927\u5e45\u5370\u5237-600x900.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -182,6 +150,8 @@
     "synopsis": "",
     "showtimes": [
      "12:45 pm",
+     "3:00 pm",
+     "5:20 pm",
      "7:40 pm"
     ],
     "theater": "Capitol Theatre",
@@ -210,7 +180,9 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm"
+     "1:15 pm",
+     "3:30 pm",
+     "5:40 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -223,6 +195,8 @@
     "title": "One Night Only",
     "synopsis": "",
     "showtimes": [
+     "2:30 pm",
+     "5:15 pm",
      "7:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -231,6 +205,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "",
+    "showtimes": [
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/mary-oliver-saved-by-the-beauty-of-the-world/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/MaryOliver_poster_KL_675x1000-600x889.jpg"
    },
    {
     "title": "Spa Weekend",
@@ -259,7 +246,6 @@
      "1:30pm",
      "4:45pm",
      "7:30pm",
-     "9:00pm",
      "10:05pm"
     ],
     "theater": "Coolidge Corner Theatre",
@@ -276,8 +262,8 @@
      "11:10am",
      "1:35pm",
      "4:15pm",
-     "6:45pm",
-     "9:15pm"
+     "9:15pm",
+     "10:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -294,7 +280,7 @@
      "1:45pm",
      "4:30pm",
      "7:15pm",
-     "9:55pm"
+     "9:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -334,8 +320,7 @@
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
     "showtimes": [
-     "2:00pm",
-     "6:30pm"
+     "2:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -349,8 +334,7 @@
     "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
     "showtimes": [
      "3:00pm",
-     "6:15pm",
-     "9:30pm"
+     "6:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -374,17 +358,30 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
    },
    {
-    "title": "Ernest Goes to Camp",
-    "synopsis": "Everyone\u2019s favorite pitchman Ernest P. Worrell stars in his first feature film!",
+    "title": "Midnight in the Garden of Good and Evil",
+    "synopsis": "Introduced by guests from The Theater Offensive!",
     "showtimes": [
-     "11:59pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/ernest-goes-camp",
+    "url": "https://www.coolidge.org/films/midnight-garden-good-and-evil",
     "rating": "",
-    "runtime": "1hr 32mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Ernest_GoesTo_Camp_1987_2%20copy.jpg"
+    "runtime": "2hrs 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MidnightGarden1997_04%20copy.jpg"
+   },
+   {
+    "title": "Zardoz",
+    "synopsis": "PRAISE BE TO ZARDOZ!",
+    "showtimes": [
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/zardoz",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Zardoz.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -418,30 +415,10 @@
   ],
   "Harvard Film Archive": [
    {
-    "title": "Ministry of Fear",
-    "synopsis": "Fritz Lang\u2019s veteran experience in silent cinema is everywhere apparent in this visually dazzling noir which makes incredible use of shadow and stark lighting to follow Ray Milland who stumbles out of release from an asylum into a world of treacherous deceit that will be the greatest test of his sanity yet. Pulled into\u2026",
-    "showtimes": [
-     "7:00 pm"
-    ],
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/ministry-of-fear-2026-08",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6a74ff7f0a378.jpg?1786115471"
-   },
-   {
-    "title": "This Gun for Hire",
-    "synopsis": "Celebrated as a vehicle for Veronica Lake and the film that announced Alan Ladd, This Gun for Hire diverges from Greene\u2019s novel, A Gun for Sale, in setting\u00ad\u2014moving from London to San Francisco\u2014and therefore in geopolitical significance. However, the human concept of the story remained unchanged: a portrait of a laconic\u2026",
-    "showtimes": [
-     "9:00 pm"
-    ],
-    "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/this-gun-for-hire-2026-08",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6a74ffe1c738b.jpg?1786116057"
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -449,7 +426,7 @@
     "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-27"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -589,84 +566,18 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Boston Symphony Tanglewood (K) \u2013 OPen Rehearsal",
-    "synopsis": "Gustavo Gimeno, conductor Man\u00e9 Galoyan, soprano Zoie Reams, mezzo-soprano Ben Bliss, tenor Soloman Howard, bass Tanglewood Festival Chorus Work for unaccompanied chorus BEETHOVEN Symphony No. 9",
-    "showtimes": [
-     "10:30 am"
-    ],
+    "error": "No classical music events found for today.",
     "theater": "Classical Music (Boston)",
-    "address": "Koussevitzky Music Shed, in Lenox",
-    "url": "https://secure.bso.org/syos/performance/28282",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Berkshire Opera Festival (GB) \u2013 Donizetti\u2019s LUCIA DI LAMMERMOOR",
-    "synopsis": "Christine Lyons as Lucia Terrence Chin-Loy as Edgardo Dean Murphy as Enrico Stefan Egerstrom as Raimondo Luke Norvell as ArturoBerkshire Opera Festival Orchestra and Chorus Conducted by Brian Garman Stage Direction by Jonathon Loy",
-    "showtimes": [
-     "1:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
-    "url": "https://mahaiwe.my.salesforce-sites.com/ticket/#/events/a0SQK00000r0t0a2AA",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Foundation for Chinese Performing Arts (JH) \u2013 Mercury Orchestra",
-    "synopsis": "SCHUMANN: Symphony No. 1 in B-flat major, Op. 38 \u2018Spring\u2019 BRAHMS: Piano Concerto No. 2 in B-flat major, Op. 83 (Featuring the winner (TBA) of 2026 Fou Ts\u2019ong International Concerto Competition as the soloist)$10 suggested",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "Jordan Hall, in Boston",
-    "url": "https://classical-scene.com/calendar/",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Boston Summer Opera \u2013 Il Barbiere di Siviglia by G. Rossini",
-    "synopsis": "at Wellesley Hills Congregational ChurchBoston Summer Opera & the Horizon Ensemble",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "various, in Boston Area",
-    "url": "https://www.eventbrite.com/e/the-barber-of-seville-by-gioachino-rossini-tickets-1986537136050?aff=oddtdtcreator",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com",
+    "url": "https://classical-scene.com/calendar/"
    }
   ],
   "The Beehive": [
    {
-    "title": "Brunch! With Renato Malavasi",
-    "synopsis": "Inspired by his native Brazil, Renato Malavasi's jazz is a fusion of modern jazz and international influences. His approach is minimalist and expressionistic. This is an engaging and soulful jazz set.",
-    "showtimes": [
-     "10:00 am"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Early Dinner Buzz: Bruce Bartlett",
-    "synopsis": "Boston-based guitarist, composer and Berklee professor Bruce Bartlett has taught groove ensembles all over the world and his band, Bruce Bartlett Trio, has performed internationally. He has played rhythm guitar for several underground recordings, recorded live with Prince's drummer John Blackwell.",
-    "showtimes": [
-     "6:30 pm"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -687,7 +598,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Saturday",
+    "title": "Latin Jazz & Salsa Night \u2014 Thursday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
