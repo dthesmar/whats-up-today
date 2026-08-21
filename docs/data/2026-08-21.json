@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T19:52:40.335501",
+  "scraped_at": "2026-08-21T20:53:51.362851",
   "date": "2026-08-21"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:15 PM",
      "8:00 PM",
      "10:45 PM"
@@ -67,7 +66,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -96,7 +94,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "7:30 PM",
      "10:15 PM",
      "4:45 PM"
@@ -152,9 +149,7 @@
    {
     "title": "Nimrods (2026)",
     "synopsis": "",
-    "showtimes": [
-     "2:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/nimrods-2026-246455/movie-overview",
@@ -180,9 +175,7 @@
    {
     "title": "Six: The Musical Live! (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/six-the-musical-live-2026-245872/movie-overview",
@@ -194,7 +187,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "5:00 PM",
      "7:45 PM",
      "10:30 PM"
@@ -235,7 +227,6 @@
     "title": "KATSEYE: WILD HEARTS (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:15 PM",
      "10:45 PM"
     ],
@@ -279,7 +270,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "5:00 PM",
      "8:00 PM",
      "10:45 PM"
@@ -316,7 +306,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:15 PM",
      "10:15 PM",
      "4:30 PM",
@@ -493,21 +482,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
@@ -550,6 +524,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "One Night Only",
@@ -881,7 +869,6 @@
     "title": "The Brink of War (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:10 PM",
      "6:55 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -895,7 +882,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM",
      "9:30 PM"
@@ -925,7 +911,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM"
@@ -941,7 +926,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "4:00 PM",
      "5:15 PM",
      "7:10 PM",
@@ -959,7 +943,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:00 PM",
      "9:30 PM"
     ],
