@@ -1,23 +1,479 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T10:06:32.024210",
+  "scraped_at": "2026-08-21T12:56:09.722183",
   "date": "2026-08-22"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19: no movies found on Fandango.",
+    "title": "Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/castle-in-the-sky-40th-anniversary-studio-ghibli-fest-2026-245498/movie-overview",
+    "rating": "PG",
+    "runtime": "2 hr 9 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245498/1000x1480_CastleInTheSky_TixThumb_Exh_2026_Final.jpg"
+   },
+   {
+    "title": "Hot Spot (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hot-spot-2026-246310/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246310/HOTSPOT_POSTER.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:45 PM",
+     "10:30 AM",
+     "1:30 PM",
+     "4:30 PM",
+     "7:30 PM",
+     "12:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:15 AM",
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
+    "title": "Learning to Fly (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/learning-to-fly-2026-246867/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246867/LTF_SalesArt_THEATERS_v2_DATE_logocombo1_Web.jpg"
+   },
+   {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "Never Stop Chasing (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/never-stop-chasing-2026-246676/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246676/NeverStopChasing_KeyArt_27x40-FINAL_WebReady.jpg"
+   },
+   {
+    "title": "Spa Weekend (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "7:30 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245958/SPA_KEY_Main_1Sht_27x40_256_F9.jpg"
+   },
+   {
+    "title": "The Fast And The Furious: 25th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-fast-and-the-furious-25th-anniversary-2026-245980/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245980/fastfurious25.jpg"
+   },
+   {
+    "title": "The Magic Faraway Tree (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-magic-faraway-tree-2026-245875/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245875/TMFT_US-1SHEET_LR.jpg"
+   },
+   {
+    "title": "La La Land 10th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/la-la-land-10th-anniversary-2026-246636/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 8 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246636/LaLaLand_2000x3000_DolbyCinema_r1.jpg"
+   },
+   {
+    "title": "Nimrods (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/nimrods-2026-246455/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246455/nimrods.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM",
+     "6:30 PM",
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "Six: The Musical Live! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/six-the-musical-live-2026-245872/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245872/six_themusical_presale.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "The Rivals of Amziah King (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rivals-of-amziah-king-2026-245978/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245978/The%20Rivals%20of%20Amziah%20King.jpg"
+   },
+   {
+    "title": "Your Name. 10th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/your-name-10th-anniversary-2026-246537/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246537/YNAME-4K_Poster2_Web_Dated.jpg"
+   },
+   {
+    "title": "KATSEYE: WILD HEARTS (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/katseye-wild-hearts-2026-246437/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 20 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246437/KATSEYE-900x1333.jpg"
+   },
+   {
+    "title": "One Night Only (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/one-night-only-2026-245604/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245604/ONO_Tsr1Sheet2_RGB_1SM.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "2:00 PM",
+     "5:00 PM",
+     "8:00 PM",
+     "11:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "7:15 PM",
+     "10:45 PM",
+     "1:00 PM",
+     "4:30 PM",
+     "8:00 PM",
+     "9:00 PM",
+     "11:30 AM",
+     "12:15 PM",
+     "3:00 PM",
+     "6:30 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "2:15 PM",
+     "6:15 PM",
+     "10:15 PM",
+     "12:30 PM",
+     "4:30 PM",
+     "8:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "4:10 PM",
+     "6:40 PM",
+     "10:00 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "4:35 PM",
+     "7:20 PM",
+     "9:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:40 PM",
+     "4:20 PM",
+     "6:55 PM",
+     "9:30 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:50 PM",
+     "4:25 PM",
+     "7:15 PM",
+     "9:45 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:50 AM",
+     "12:50 PM",
+     "3:00 PM",
+     "4:00 PM",
+     "6:10 PM",
+     "7:10 PM",
+     "9:20 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "2:50 PM",
+     "6:25 PM",
+     "9:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    }
   ],
   "Somerville Theatre": [
@@ -465,111 +921,245 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "title": "Roid (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-22"
+    "url": "https://www.fandango.com/roid-2026-246213/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 49 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
+   },
+   {
+    "title": "Bethlehem Kudumba Unit (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/bethlehem-kudumba-unit-2026-246692/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246692/BethlehemKudumbaUnit-OneSheetPoster.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "3:00 PM",
+     "5:25 PM",
+     "7:50 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:15 AM",
+     "1:45 PM",
+     "4:45 PM",
+     "7:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "Khalifa (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/khalifa-2026-246836/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246836/Khalifa-Theater.jpg"
+   },
+   {
+    "title": "Awarapan 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:55 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/awarapan-2-2026-246601/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246601/awarapan2-1080x1600-Px.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "12:30 PM",
+     "2:45 PM",
+     "5:00 PM",
+     "7:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "The Brink of War (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:55 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-brink-of-war-2026-246132/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 57 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246132/thebrinkofwar-posterart.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "7:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Vishwanath and Sons (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/vishwanath-and-sons-2026-246791/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246791/Vishwanath%20and%20Sons.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM",
+     "6:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:50 AM",
+     "10:45 AM",
+     "12:55 PM",
+     "2:00 PM",
+     "4:00 PM",
+     "5:15 PM",
+     "7:10 PM",
+     "8:30 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "2:15 PM",
+     "6:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "Minions & Monsters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:50 AM",
+     "9:55 AM",
+     "4:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "2:30PM",
-     "4:10PM",
-     "6:00PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "10:50AM",
-     "1:30PM",
-     "4:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/one-night-only",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "10:55AM",
-     "2:40PM",
-     "6:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "11:00AM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/minions-monsters",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "11:15AM",
-     "1:55PM",
-     "4:30PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Paw Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "11:25AM",
-     "2:00PM",
-     "4:35PM",
-     "7:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "CWX Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "12:15PM",
-     "3:35PM",
-     "6:55PM"
+     "10:20AM",
+     "1:20PM",
+     "4:25PM",
+     "7:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -579,14 +1169,34 @@
     "poster": ""
    },
    {
-    "title": "Super Troopers 3",
+    "title": "The Odyssey",
     "synopsis": "",
     "showtimes": [
-     "1:35PM"
+     "10:30AM",
+     "2:15PM",
+     "6:15PM",
+     "9:05PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/super-troopers-3",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "12:55PM",
+     "3:05PM",
+     "5:15PM",
+     "7:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -595,7 +1205,11 @@
     "title": "Insidious: Out Of The Further",
     "synopsis": "",
     "showtimes": [
-     "7:00PM"
+     "11:05AM",
+     "1:55PM",
+     "4:35PM",
+     "7:15PM",
+     "9:50PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -608,11 +1222,48 @@
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
-     "7:20PM"
+     "11:10AM",
+     "1:45PM",
+     "4:20PM",
+     "7:05PM",
+     "9:45PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "2:05PM",
+     "4:50PM",
+     "7:20PM",
+     "9:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "11:35AM",
+     "2:55PM",
+     "6:00PM",
+     "9:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
