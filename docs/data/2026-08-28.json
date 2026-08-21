@@ -1,15 +1,162 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T16:34:40.164011",
+  "scraped_at": "2026-08-21T17:36:17.282542",
   "date": "2026-08-28"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19: no movies found on Fandango.",
+    "title": "Colony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-28"
+    "url": "https://www.fandango.com/colony-2026-245476/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 2 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245476/Colony-2764x4096.jpg"
+   },
+   {
+    "title": "Coyote vs. Acme",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/coyote-vs-acme-246329/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "Idiots (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/idiots-2026-245445/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/idiots-posterart-presales.jpg"
+   },
+   {
+    "title": "Legend of the White Dragon (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/legend-of-the-white-dragon-2026-245475/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245475/LOTWD-1382x2048.jpg"
+   },
+   {
+    "title": "Terminator 2: Judgment Day 35th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/terminator-2-judgment-day-35th-anniversary-2026-246355/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 22 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246355/1000x1480_Terminator%202_Exhibitor%20Poster.jpg"
+   },
+   {
+    "title": "The Dog Stars (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM",
+     "4:15 PM",
+     "1:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-dog-stars-2026-245569/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "It Ends (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 PM",
+     "8:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/it-ends-2026-246704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 29 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246704/itends_v2new.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "4:30 PM",
+     "8:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/harry-potter-and-the-prisoner-of-azkaban-2004-85348/movie-overview",
+    "rating": "PG",
+    "runtime": "2 hr 21 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/85348/prisonerofazkaban.jpg"
+   },
+   {
+    "title": "Harry Potter and the Sorcerer's Stone (2001)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/harry-potter-and-the-sorcerers-stone-2001-32227/movie-overview",
+    "rating": "PG",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/32227/harry_potter_and_the_sorcerers_stone_ver4.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -258,10 +405,22 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge: no movies found on Fandango.",
+    "title": "Coyote vs. Acme",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:25 PM",
+     "2:50 PM",
+     "5:15 PM",
+     "7:40 PM",
+     "10:05 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-28"
+    "url": "https://www.fandango.com/coyote-vs-acme-246329/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
