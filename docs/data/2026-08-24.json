@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T02:51:38.164203",
+  "scraped_at": "2026-08-21T03:54:57.018981",
   "date": "2026-08-24"
  },
  "data": {
@@ -564,10 +564,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
