@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T05:12:13.530512",
+  "scraped_at": "2026-08-21T06:15:32.945121",
   "date": "2026-08-21"
  },
  "data": {
@@ -318,31 +318,10 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Claire's Knee",
-    "synopsis": "Director: \u00c9ric Rohmer Run Time: 105 min. Format: DCP Release Year: 1970 Language: French",
-    "showtimes": [
-     "4:00 pm",
-     "6:30 pm"
-    ],
+    "error": "No Brattle screenings today.",
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/claires-knee/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02105007/eirSTJkaGgEB8mpunntNrXI1nNH.jpg"
-   },
-   {
-    "title": "Jacob's Ladder",
-    "synopsis": "Director: Adrian Lyne Run Time: 113 min. Format: DCP Release Year: 1990",
-    "showtimes": [
-     "9:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/jacobs-ladder/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173222/jacobs-ladder-2.jpg"
+    "url": "https://www.brattlefilm.org"
    }
   ],
   "Harvard Film Archive": [
