@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T17:06:31.837778",
+  "scraped_at": "2026-08-21T18:22:53.998326",
   "date": "2026-08-23"
  },
  "data": {
@@ -156,6 +156,7 @@
      "10:15 AM",
      "2:00 PM",
      "4:45 PM",
+     "7:30 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -591,38 +592,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 pm",
-     "3:00 pm",
-     "5:20 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -665,6 +634,38 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "3:00 pm",
+     "5:20 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    },
    {
     "title": "Minions & Monsters",

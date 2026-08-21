@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T17:06:19.134924",
+  "scraped_at": "2026-08-21T18:22:40.821948",
   "date": "2026-08-21"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -26,7 +25,6 @@
     "showtimes": [
      "10:45 PM",
      "7:30 PM",
-     "6:00 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -62,7 +60,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -91,8 +88,7 @@
     "synopsis": "",
     "showtimes": [
      "7:30 PM",
-     "10:15 PM",
-     "4:45 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -180,7 +176,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:45 PM",
      "10:30 PM"
     ],
@@ -206,7 +201,6 @@
     "title": "Your Name. 10th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -261,7 +255,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -462,34 +455,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -527,6 +492,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -761,7 +752,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:25 PM",
      "7:50 PM",
      "10:15 PM"
     ],
@@ -789,7 +779,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:15 PM",
      "9:30 PM"
     ],
@@ -828,7 +817,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -896,7 +884,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:10 PM",
      "8:30 PM",
      "10:15 PM"
@@ -912,7 +899,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
