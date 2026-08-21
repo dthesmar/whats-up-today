@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T08:39:26.388441",
+  "scraped_at": "2026-08-21T10:12:36.776925",
   "date": "2026-08-24"
  },
  "data": {
@@ -295,10 +295,50 @@
   ],
   "Brattle Theatre": [
    {
-    "error": "No Brattle screenings today.",
+    "title": "Paint Your Wagon",
+    "synopsis": "Director: Joshua Logan Run Time: 164 min. Release Year: 1969",
+    "showtimes": [
+     "3:00 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://www.brattlefilm.org"
+    "url": "https://brattlefilm.org/movies/paint-your-wagon/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10103244/fhRurTei4K2T6dNeK3YxbGHuqmc.jpg"
+   },
+   {
+    "title": "Late Fame",
+    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "6:30 pm",
+     "12:00 pm",
+     "2:15 pm",
+     "4:30 pm",
+     "7:00 pm",
+     "4:00 pm",
+     "3:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/late-fame/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
+   },
+   {
+    "title": "Train to Busan",
+    "synopsis": "Director: Yeon Sang-ho Run Time: 118 min. Format: 4K DCP Release Year: 2016 Language: Korean",
+    "showtimes": [
+     "9:00 pm",
+     "9:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/train-to-busan/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/08/13165853/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -543,10 +583,9 @@
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "No dance events found for today.",
+    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Read timed out. (read timeout=15)",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com",
-    "url": "https://www.boston-theater.com/shows/dance/"
+    "address": "boston-theater.com"
    }
   ]
  }
