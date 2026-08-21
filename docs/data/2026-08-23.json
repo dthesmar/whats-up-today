@@ -1,101 +1,1322 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T21:10:37.673054",
+  "scraped_at": "2026-08-21T17:06:31.837778",
   "date": "2026-08-23"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "title": "Coyote vs. Acme",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM"
+    ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-23"
+    "url": "https://www.fandango.com/coyote-vs-acme-246329/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "40 Years of F**kin' Up (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/40-years-of-fkin-up-2026-245090/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 4 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245090/NOFX_1080x1600_A1-0001_TT2.jpg"
+   },
+   {
+    "title": "House of Worship (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/house-of-worship-2026-246690/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246690/HouseOfWorship_MOP_900x1333_PBFAN_V1.jpg"
+   },
+   {
+    "title": "Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/castle-in-the-sky-40th-anniversary-studio-ghibli-fest-2026-245498/movie-overview",
+    "rating": "PG",
+    "runtime": "2 hr 9 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245498/1000x1480_CastleInTheSky_TixThumb_Exh_2026_Final.jpg"
+   },
+   {
+    "title": "Hot Spot (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "3:45 PM",
+     "6:30 PM",
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hot-spot-2026-246310/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246310/HOTSPOT_POSTER.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 PM",
+     "4:30 PM",
+     "7:15 PM",
+     "10:00 PM",
+     "12:00 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
+    "title": "Learning to Fly (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/learning-to-fly-2026-246867/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246867/LTF_SalesArt_THEATERS_v2_DATE_logocombo1_Web.jpg"
+   },
+   {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "Never Stop Chasing (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/never-stop-chasing-2026-246676/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246676/NeverStopChasing_KeyArt_27x40-FINAL_WebReady.jpg"
+   },
+   {
+    "title": "Spa Weekend (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "2:00 PM",
+     "4:45 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245958/SPA_KEY_Main_1Sht_27x40_256_F9.jpg"
+   },
+   {
+    "title": "The Fast And The Furious: 25th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:30 PM",
+     "7:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-fast-and-the-furious-25th-anniversary-2026-245980/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245980/fastfurious25.jpg"
+   },
+   {
+    "title": "The Magic Faraway Tree (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-magic-faraway-tree-2026-245875/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245875/TMFT_US-1SHEET_LR.jpg"
+   },
+   {
+    "title": "La La Land 10th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/la-la-land-10th-anniversary-2026-246636/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 8 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246636/LaLaLand_2000x3000_DolbyCinema_r1.jpg"
+   },
+   {
+    "title": "Nimrods (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/nimrods-2026-246455/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246455/nimrods.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM",
+     "6:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "Six: The Musical Live! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/six-the-musical-live-2026-245872/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245872/six_themusical_presale.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:30 AM",
+     "2:15 PM",
+     "5:00 PM",
+     "7:45 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "The Rivals of Amziah King (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rivals-of-amziah-king-2026-245978/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 10 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245978/The%20Rivals%20of%20Amziah%20King.jpg"
+   },
+   {
+    "title": "Your Name. 10th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "3:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/your-name-10th-anniversary-2026-246537/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 47 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246537/YNAME-4K_Poster2_Web_Dated.jpg"
+   },
+   {
+    "title": "KATSEYE: WILD HEARTS (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:45 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/katseye-wild-hearts-2026-246437/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 20 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246437/KATSEYE-900x1333.jpg"
+   },
+   {
+    "title": "One Night Only (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/one-night-only-2026-245604/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245604/ONO_Tsr1Sheet2_RGB_1SM.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "5:00 PM",
+     "8:00 PM",
+     "11:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "3:45 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:45 PM",
+     "7:15 PM",
+     "1:00 PM",
+     "2:00 PM",
+     "5:30 PM",
+     "9:00 PM",
+     "11:30 AM",
+     "3:00 PM",
+     "6:30 PM",
+     "10:00 PM",
+     "10:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "2:15 PM",
+     "6:15 PM",
+     "10:15 PM",
+     "12:30 PM",
+     "4:30 PM",
+     "8:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM",
+     "4:10 PM",
+     "6:40 PM"
+    ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-23"
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "4:35 PM",
+     "7:20 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:40 PM",
+     "4:20 PM",
+     "6:55 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:50 PM",
+     "4:25 PM",
+     "7:15 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:50 AM",
+     "12:50 PM",
+     "3:00 PM",
+     "4:00 PM",
+     "6:10 PM",
+     "7:10 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM",
+     "2:50 PM",
+     "6:25 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    }
   ],
   "Somerville Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.somervilletheatre.com', port=443): Max retries exceeded with url: /movies/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d88b90>: Failed to resolve 'www.somervilletheatre.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "5:30 pm"
+    ],
     "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA"
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Best in Show in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/best-in-show/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-3.jpg"
+   },
+   {
+    "title": "A Mighty Wind in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/a-mighty-wind-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-4.jpg"
+   },
+   {
+    "title": "Batman in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/batman-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
+   },
+   {
+    "title": "Edie Arnold Is a Loser",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/edie-arnold-is-a-loser/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/FOR-DIGITAL-Edie-Arnold-is-a-Loser-600x872.png"
    }
   ],
   "Capitol Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.capitoltheatreusa.com', port=443): Max retries exceeded with url: /movies/todays-schedule/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d88050>: Failed to resolve 'www.capitoltheatreusa.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "3:00 pm",
+     "5:20 pm",
+     "7:40 pm"
+    ],
     "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA"
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:40 pm",
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "3:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.coolidge.org', port=443): Max retries exceeded with url: /showtimes?date=2026-08-23 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1089d1590>: Failed to resolve 'www.coolidge.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "The Odyssey in 70mm",
+    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "showtimes": [
+     "11:00am",
+     "3:30pm"
+    ],
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA"
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "showtimes": [
+     "11:05am",
+     "12:30pm",
+     "1:30pm",
+     "5:00pm",
+     "7:30pm",
+     "9:00pm",
+     "10:05pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "11:10am",
+     "4:15pm",
+     "6:45pm",
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
+    "showtimes": [
+     "11:20am",
+     "2:15pm",
+     "4:30pm",
+     "7:15pm",
+     "9:55pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/teenage-sex-and-death-camp-miasma",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
+   },
+   {
+    "title": "Bernstein\u2019s Wall",
+    "synopsis": "A complex look at one of the greatest figures in 20th century classical music whose passion & creativity guided him well beyond the concert hall.",
+    "showtimes": [
+     "11:30am",
+     "4:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/bernsteins-wall",
+    "rating": "",
+    "runtime": "1hr 45mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/credit-RuthOrkin.Bernstein.highres.jpg"
+   },
+   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "synopsis": "If poetry had a pop icon, Mary Oliver would be it.",
+    "showtimes": [
+     "1:45pm",
+     "6:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/mary-oliver-saved-beauty-world",
+    "rating": "",
+    "runtime": "1hr 31mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/1_Mary_Oliver_typewriter_Horz.jpg"
+   },
+   {
+    "title": "The Thomas Crown Affair (1968)",
+    "synopsis": "A Thrill-A-Minute Deal For A Million Dollars!",
+    "showtimes": [
+     "2:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/thomas-crown-affair-1968",
+    "rating": "",
+    "runtime": "1hr 42mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/ThomasCrownAffair1968_17%20copy.jpg"
+   },
+   {
+    "title": "The Samurai and the Prisoner",
+    "synopsis": "A film by Kiyoshi Kurosawa, based on Honobu Yonezawa's novel.",
+    "showtimes": [
+     "3:00pm",
+     "6:15pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/samurai-and-prisoner",
+    "rating": "",
+    "runtime": "2hrs 27mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Main_KOKUROJO-03224_rtd02.jpg"
+   },
+   {
+    "title": "The Odyssey (Digital)",
+    "synopsis": "The new film from filmmaker Christopher Nolan (Oppenheimer, Inception).",
+    "showtimes": [
+     "8:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-digital",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-K020-18_CROP.jpg"
    }
   ],
   "Brattle Theatre": [
    {
-    "error": "HTTPSConnectionPool(host='www.brattlefilm.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d88050>: Failed to resolve 'www.brattlefilm.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Paint Your Wagon",
+    "synopsis": "Director: Joshua Logan Run Time: 164 min. Release Year: 1969",
+    "showtimes": [
+     "3:00 pm 35mm"
+    ],
     "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA"
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/paint-your-wagon/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10103244/fhRurTei4K2T6dNeK3YxbGHuqmc.jpg"
+   },
+   {
+    "title": "Late Fame",
+    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "showtimes": [
+     "6:30 pm",
+     "12:00 pm",
+     "2:15 pm",
+     "4:30 pm",
+     "7:00 pm",
+     "4:00 pm",
+     "3:30 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/late-fame/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
+   },
+   {
+    "title": "Train to Busan",
+    "synopsis": "Director: Yeon Sang-ho Run Time: 118 min. Format: 4K DCP Release Year: 2016 Language: Korean",
+    "showtimes": [
+     "9:00 pm",
+     "9:15 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/train-to-busan/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/08/13165853/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg"
    }
   ],
   "Harvard Film Archive": [
    {
-    "error": "HTTPSConnectionPool(host='harvardfilmarchive.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d88b90>: Failed to resolve 'harvardfilmarchive.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Z\u00e9ro de conduite",
+    "synopsis": "\u201cLondon is unlikely to offer any other film as interesting as Jean Vigo\u2019s Z\u00e9ro de Conduite,\u201d Greene wrote in 1936 when reviewing a theater\u2019s series, The History of Film. At the time, the controversial film had been banned in France for three years, with its young firebrand director already dead, yet Z\u00e9ro de conduite wa\u2026",
+    "showtimes": [
+     "3:00 pm"
+    ],
     "theater": "Harvard Film Archive",
-    "address": "24 Quincy St (Carpenter Center), Cambridge, MA"
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/zero-de-conduite-2026-08",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb/6a75002f822c0.jpg?1786116286"
    }
   ],
   "Apple Cinemas Cambridge": [
    {
-    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23\", waiting until \"domcontentloaded\"\n",
+    "title": "Bethlehem Kudumba Unit (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-23"
+    "url": "https://www.fandango.com/bethlehem-kudumba-unit-2026-246692/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246692/BethlehemKudumbaUnit-OneSheetPoster.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:30 PM",
+     "3:00 PM",
+     "5:25 PM",
+     "7:50 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:20 PM",
+     "2:40 PM",
+     "5:00 PM",
+     "7:15 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "Khalifa (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/khalifa-2026-246836/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246836/Khalifa-Theater.jpg"
+   },
+   {
+    "title": "Awarapan 2 (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:55 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/awarapan-2-2026-246601/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246601/awarapan2-1080x1600-Px.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "12:30 PM",
+     "2:45 PM",
+     "5:00 PM",
+     "7:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "The Brink of War (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:10 PM",
+     "6:55 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-brink-of-war-2026-246132/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 57 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246132/thebrinkofwar-posterart.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
+     "7:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Vishwanath and Sons (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/vishwanath-and-sons-2026-246791/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 41 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246791/Vishwanath%20and%20Sons.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM",
+     "6:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:50 AM",
+     "10:45 AM",
+     "12:55 PM",
+     "4:00 PM",
+     "5:15 PM",
+     "7:10 PM",
+     "8:30 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "2:15 PM",
+     "6:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "Minions & Monsters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:50 AM",
+     "9:55 AM",
+     "4:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "error": "HTTPSConnectionPool(host='arsenalyards.cwtheaters.com', port=443): Max retries exceeded with url: /now-showing/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d89090>: Failed to resolve 'arsenalyards.cwtheaters.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "CWX Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "10:20AM",
+     "1:20PM",
+     "4:25PM",
+     "7:30PM"
+    ],
     "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA"
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "2:15PM",
+     "6:15PM",
+     "9:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Paw Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "12:55PM",
+     "3:05PM",
+     "5:15PM",
+     "7:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Insidious: Out Of The Further",
+    "synopsis": "",
+    "showtimes": [
+     "11:05AM",
+     "1:55PM",
+     "4:35PM",
+     "7:15PM",
+     "9:50PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/insidious-out-of-the-further",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "11:10AM",
+     "1:45PM",
+     "4:20PM",
+     "7:05PM",
+     "9:45PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "2:05PM",
+     "4:50PM",
+     "7:20PM",
+     "9:55PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "11:35AM",
+     "2:55PM",
+     "6:00PM",
+     "9:35PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Classical Music (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='classical-scene.com', port=443): Max retries exceeded with url: /calendar/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d8bc50>: Failed to resolve 'classical-scene.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Boston Symphony Tanglewood (K) \u2013 Gustavo Gimeno, conductor",
+    "synopsis": "Man\u00e9 Galoyan, soprano Zoie Reams, mezzo-soprano Ben Bliss, tenor Soloman Howard, bass Tanglewood Festival Chorus Work for unaccompanied chorus BEETHOVEN Symphony No. 9",
+    "showtimes": [
+     "2:30 pm"
+    ],
     "theater": "Classical Music (Boston)",
-    "address": "classical-scene.com"
+    "address": "Koussevitzky Music Shed, in Lenox",
+    "url": "https://secure.bso.org/syos/performance/28294",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Music Mountain \u2013 Lysander Piano Trio",
+    "synopsis": "MOZART Piano Trio in E Major, K. 542 Edvard GRIEG Andante con moto Jennifer HIGDON Color Through SCHOENBERG Verkl\u00e4rte Nacht, Opus 4 (arr. Steuermann)",
+    "showtimes": [
+     "3:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "225 Music Mountain Road,, in Falls Village,",
+    "url": "https://ci.ovationtix.com/36135/pr/1271082/pe/11791071?deepLink=true&overlay=false",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Maverick Concerts \u2013 American Chamber Music Society",
+    "synopsis": "Schumann: String Quartet No. 1 in A minor, Op. 41, Mendelssohn: String Quartet No. 6 in F minor, Op. 80 Chester Biscardi: Piano Quintet (2006) Arthur Foote: Piano Quintet in A minor, Op. 38Evening Postlude: Reed Tetzloff, piano Charles Ives: Piano Sonata No. 2 (\u201cConcord, Mass., 1840\u201360\u201d) (\u201cConcord Sonata\u201d)",
+    "showtimes": [
+     "4:00 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
+    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462091?_gl=1*19d5700*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTcwMTQkajU1JGwwJGgw",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Boston Summer Opera \u2013 Il Barbiere di Siviglia by G. Rossini",
+    "synopsis": "at the Boston SynagogueBoston Summer Opera & the Horizon Ensemble",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "various, in Boston Area",
+    "url": "https://www.eventbrite.com/e/the-barber-of-seville-by-gioachino-rossini-tickets-1986541241329",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "The Beehive": [
    {
-    "error": "HTTPSConnectionPool(host='tockify.com', port=443): Max retries exceeded with url: /api/ngevent?calname=beehive&startms=1787457600000&endms=1787544000000&max=20&longForm=true (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d8a5d0>: Failed to resolve 'tockify.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "title": "Jim Kelly Brunch",
+    "synopsis": "Jim Kelly plays deep and soulful jazz guitar. There is a blues edge to Kelly's playing that informs his jazz vocabulary and cuts to the bone. This band makes beautiful, soulful, funky sounds.",
+    "showtimes": [
+     "10:00 am"
+    ],
     "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA"
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Sunday Blues with Bruce Bears & Friends",
+    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
    }
   ],
   "Scullers Jazz Club": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://scullersjazz.com/\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
+    "error": "No Scullers events today.",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA"
+    "address": "400 Soldiers Field Rd, Boston, MA",
+    "url": "https://scullersjazz.com/"
    }
   ],
   "Regattabar": [
    {
-    "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
+    "error": "No Regattabar events today.",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA"
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
    }
   ],
   "Wally's Cafe Jazz Club": [
@@ -116,16 +1337,18 @@
   ],
   "Boston Ballet": [
    {
-    "error": "HTTPSConnectionPool(host='www.bostonballet.org', port=443): Max retries exceeded with url: /home/tickets-performances/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d89810>: Failed to resolve 'www.bostonballet.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No Boston Ballet performances today.",
     "theater": "Boston Ballet",
-    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA"
+    "address": "Citizens Bank Opera House, 539 Washington St, Boston, MA",
+    "url": "https://www.bostonballet.org/home/tickets-performances/"
    }
   ],
   "Dance & Ballet (Boston)": [
    {
-    "error": "HTTPSConnectionPool(host='www.boston-theater.com', port=443): Max retries exceeded with url: /shows/dance/_payload.json (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x109d8afd0>: Failed to resolve 'www.boston-theater.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "error": "No dance events found for today.",
     "theater": "Dance & Ballet (Boston)",
-    "address": "boston-theater.com"
+    "address": "boston-theater.com",
+    "url": "https://www.boston-theater.com/shows/dance/"
    }
   ]
  }
