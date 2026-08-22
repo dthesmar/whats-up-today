@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-22T08:11:40.814606",
+  "scraped_at": "2026-08-22T12:41:46.739270",
   "date": "2026-08-22"
  },
  "data": {
@@ -22,7 +22,6 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "4:00 PM",
      "7:00 PM",
      "9:45 PM"
@@ -39,11 +38,9 @@
     "synopsis": "",
     "showtimes": [
      "10:45 PM",
-     "10:30 AM",
      "1:30 PM",
      "4:30 PM",
      "7:30 PM",
-     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -59,7 +56,6 @@
     "title": "Irumudi (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "6:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -115,7 +111,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "2:00 PM",
      "4:45 PM",
      "7:30 PM",
@@ -174,9 +169,7 @@
    {
     "title": "Nimrods (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:15 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/nimrods-2026-246455/movie-overview",
@@ -188,7 +181,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -205,7 +197,6 @@
     "title": "Six: The Musical Live! (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -219,7 +210,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:15 PM",
      "5:00 PM",
      "7:45 PM",
@@ -261,9 +251,7 @@
    {
     "title": "KATSEYE: WILD HEARTS (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/katseye-wild-hearts-2026-246437/movie-overview",
@@ -275,7 +263,6 @@
     "title": "One Night Only (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -289,7 +276,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "2:00 PM",
      "5:00 PM",
      "8:00 PM",
@@ -329,8 +315,6 @@
      "4:30 PM",
      "8:00 PM",
      "9:00 PM",
-     "11:30 AM",
-     "12:15 PM",
      "3:00 PM",
      "6:30 PM",
      "10:00 PM"
@@ -346,7 +330,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "2:15 PM",
      "6:15 PM",
      "10:15 PM",
@@ -380,7 +363,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "4:10 PM",
      "6:40 PM",
      "10:00 PM"
@@ -444,7 +426,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:50 AM",
      "12:50 PM",
      "3:00 PM",
      "4:00 PM",
@@ -618,22 +599,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
@@ -690,6 +655,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "One Night Only",
@@ -937,7 +917,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:30 PM",
      "3:00 PM",
      "5:25 PM",
@@ -969,7 +948,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
      "1:45 PM",
      "4:45 PM",
      "7:15 PM",
@@ -998,9 +976,7 @@
    {
     "title": "Awarapan 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:55 AM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/awarapan-2-2026-246601/movie-overview",
@@ -1012,7 +988,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "12:30 PM",
      "2:45 PM",
      "5:00 PM",
@@ -1042,8 +1017,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:15 PM",
      "2:30 PM",
      "7:00 PM",
      "9:30 PM"
@@ -1073,7 +1046,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -1090,8 +1062,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
-     "10:45 AM",
      "12:55 PM",
      "4:00 PM",
      "5:15 PM",
@@ -1110,7 +1080,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "2:15 PM",
      "6:00 PM",
      "9:30 PM"
@@ -1126,8 +1095,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
-     "9:55 AM",
      "4:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
