@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T19:45:14.185902",
+  "scraped_at": "2026-08-21T20:46:32.489491",
   "date": "2026-08-28"
  },
  "data": {
@@ -169,19 +169,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Beetlejuice in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/beetlejuice/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-5.jpg"
-   },
-   {
     "title": "Michael Mann's Manhunter: The Final Cut",
     "synopsis": "",
     "showtimes": [
@@ -210,17 +197,10 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [

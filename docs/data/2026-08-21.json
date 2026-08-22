@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T19:44:07.569686",
+  "scraped_at": "2026-08-21T20:45:25.644906",
   "date": "2026-08-21"
  },
  "data": {
@@ -9,7 +9,6 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -24,7 +23,6 @@
     "synopsis": "",
     "showtimes": [
      "10:45 PM",
-     "7:30 PM",
      "9:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -60,7 +58,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -85,7 +82,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -99,7 +95,6 @@
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -172,7 +167,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -196,9 +190,7 @@
    {
     "title": "Your Name. 10th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "8:00 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/your-name-10th-anniversary-2026-246537/movie-overview",
@@ -249,7 +241,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "10:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -264,7 +255,6 @@
     "synopsis": "",
     "showtimes": [
      "10:45 PM",
-     "8:00 PM",
      "9:00 PM",
      "10:00 PM"
     ],
@@ -372,19 +362,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Beetlejuice in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/beetlejuice/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-5.jpg"
-   },
-   {
     "title": "Michael Mann's Manhunter: The Final Cut",
     "synopsis": "",
     "showtimes": [
@@ -413,17 +390,10 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -656,7 +626,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:50 PM",
      "10:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
