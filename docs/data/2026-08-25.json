@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-21T23:20:24.518016",
+  "scraped_at": "2026-08-22T00:38:41.863427",
   "date": "2026-08-25"
  },
  "data": {
@@ -855,28 +855,15 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Paint Your Wagon",
-    "synopsis": "Director: Joshua Logan Run Time: 164 min. Release Year: 1969",
-    "showtimes": [
-     "3:00 pm 35mm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/paint-your-wagon/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10103244/fhRurTei4K2T6dNeK3YxbGHuqmc.jpg"
-   },
-   {
     "title": "Late Fame",
     "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
     "showtimes": [
-     "6:30 pm",
      "12:00 pm",
      "2:15 pm",
      "4:30 pm",
      "7:00 pm",
      "4:00 pm",
+     "6:30 pm",
      "3:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -890,8 +877,8 @@
     "title": "Train to Busan",
     "synopsis": "Director: Yeon Sang-ho Run Time: 118 min. Format: 4K DCP Release Year: 2016 Language: Korean",
     "showtimes": [
-     "9:00 pm",
-     "9:15 pm"
+     "9:15 pm",
+     "9:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
@@ -959,7 +946,8 @@
     "title": "Irumudi (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM"
+     "3:00 PM",
+     "9:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -985,19 +973,6 @@
     "rating": "R",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
-   },
-   {
-    "title": "Khalifa (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/khalifa-2026-246836/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246836/Khalifa-Theater.jpg"
    },
    {
     "title": "Awarapan 2 (2026)",

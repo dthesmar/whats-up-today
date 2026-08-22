@@ -1,7 +1,7 @@
 {
  "meta": {
-  "scraped_at": "2026-08-22T00:39:21.107669",
-  "date": "2026-08-28"
+  "scraped_at": "2026-08-22T00:39:46.966851",
+  "date": "2026-08-29"
  },
  "data": {
   "AMC Boston Common 19": [
@@ -9,7 +9,7 @@
     "title": "Colony (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 PM"
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -38,7 +38,7 @@
     "title": "Idiots (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM"
+     "6:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -51,7 +51,7 @@
     "title": "Legend of the White Dragon (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM"
+     "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -64,8 +64,8 @@
     "title": "Terminator 2: Judgment Day 35th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -90,10 +90,23 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
    },
    {
+    "title": "GHOST: 2 Big To Rig (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/ghost-2-big-to-rig-2026-246535/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "1 hr 55 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246535/GHOST-2BTR_ONE-SHEET-ARTWORK-ENGLISH.jpg"
+   },
+   {
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM"
+     "7:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -133,30 +146,43 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    },
    {
-    "title": "Harry Potter and the Prisoner of Azkaban (2004)",
+    "title": "Harry Potter and the Philosopher's Stone 3D",
     "synopsis": "",
     "showtimes": [
      "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-prisoner-of-azkaban-2004-85348/movie-overview",
-    "rating": "PG",
-    "runtime": "2 hr 21 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/85348/prisonerofazkaban.jpg"
+    "url": "https://www.fandango.com/harry-potter-and-the-philosophers-stone-3d-238756/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/238756/HPpS_1000x1480.jpg"
    },
    {
-    "title": "Harry Potter and the Sorcerer's Stone (2001)",
+    "title": "Harry Potter and the Goblet of Fire (2005)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM"
+     "6:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-sorcerers-stone-2001-32227/movie-overview",
-    "rating": "PG",
+    "url": "https://www.fandango.com/harry-potter-and-the-goblet-of-fire-2005-91610/movie-overview",
+    "rating": "PG13",
     "runtime": "2 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/32227/harry_potter_and_the_sorcerers_stone_ver4.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/91610/hpgobletposter.jpg"
+   },
+   {
+    "title": "The Rocky Horror Picture Show",
+    "synopsis": "",
+    "showtimes": [
+     "9:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 35 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -164,14 +190,99 @@
     "error": "Kendall Square Cinema: no movies found on Fandango.",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
-    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-28"
+    "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-29"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 pm",
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "2:30 pm",
+     "5:00 pm",
+     "7:30 pm",
+     "9:45 pm",
+     "11:55 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "3:15 pm",
+     "4:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Waiting for Guffman in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/waiting-for-guffman-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-6.jpg"
+   },
+   {
+    "title": "After Hours",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/after-hours/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-7.jpg"
+   },
+   {
+    "title": "The Craft in 4K",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-craft-in-4k/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-14.jpg"
+   },
+   {
     "title": "Michael Mann's Manhunter: The Final Cut",
     "synopsis": "",
     "showtimes": [
+     "1:30 pm",
      "8:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -182,9 +293,36 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
    },
    {
+    "title": "Bound in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "11:59 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/bound/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-13.jpg"
+   },
+   {
+    "title": "Hundreds of Beavers",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/hundreds-of-beavers/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/Beavers-600x890.webp"
+   },
+   {
     "title": "Batman in 70mm",
     "synopsis": "",
     "showtimes": [
+     "2:00 pm",
      "8:00 pm"
     ],
     "theater": "Somerville Theatre",
@@ -197,25 +335,106 @@
   ],
   "Capitol Theatre": [
    {
-    "error": "No Capitol Theatre screenings found for today.",
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "12:40 pm",
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com"
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Wicked VHS presents: A Secret Summer Camp Slasher Part 2",
-    "synopsis": "A secret VHS screening of a summer camp sequel whose title won't be revealed until it hits the screen!",
+    "title": "Sleepaway Camp II: Unhappy Campers",
+    "synopsis": "This year camp's a scream!",
     "showtimes": [
      "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/wicked-vhs-presents-secret-summer-camp-slasher-part-2",
+    "url": "https://www.coolidge.org/films/sleepaway-camp-ii-unhappy-campers",
     "rating": "",
-    "runtime": "1hr 50mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/5.png"
+    "runtime": "1hr 20mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/sleepaway-camp-ii-still.jpg"
    }
   ],
   "Brattle Theatre": [
@@ -255,17 +474,30 @@
   ],
   "Harvard Film Archive": [
    {
-    "title": "The Heart of the Matter",
-    "synopsis": "Four years after The Third Man, Trevor Howard returned to another Greene adaptation in a role that seems almost a continuation of the stiff upper lip Major Calloway, now given central stage. Howard gives full, tormented life to Harry Scobie, a classic Greene understated anti-hero who, though thoughtful and conscientiou\u2026",
+    "title": "Our Man in Havana",
+    "synopsis": "Portrayed with dry subtlety by Alec Guinness, James Wormold is an English vacuum salesman in Cuba on the eve of the Revolution and facing the ridiculous quandary of how to procure a coveted horse for his spoiled daughter. Happily and haplessly, he is enlisted to join a spy network during this politically combustible mo\u2026",
     "showtimes": [
      "7:00 pm"
     ],
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/the-heart-of-the-matter-2026-08",
+    "url": "https://harvardfilmarchive.org/calendar/our-man-in-havana-2026-08",
     "rating": "",
     "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb/6a75fb9c99b51.jpg?1786117021"
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6a75fc5a2f52c.jpg?1786117314"
+   },
+   {
+    "title": "The Stranger\u2019s Hand",
+    "synopsis": "When his father never appears at the airport to greet him, a young boy must search above and beneath the streets of Venice, with the help of a kind hotel employee who has problems of her own. This British-Italian co-production contains all the suspense and foreboding of Greene\u2019s classic spy thrillers yet is modulated b\u2026",
+    "showtimes": [
+     "9:15 pm"
+    ],
+    "theater": "Harvard Film Archive",
+    "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
+    "url": "https://harvardfilmarchive.org/calendar/the-strangers-hand-2026-08",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6a75fdfdb1594.jpg?1786117631"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -408,14 +640,27 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Berkshire Opera Festival (GB) \u2013 Donizetti\u2019s LUCIA DI LAMMERMOOR",
-    "synopsis": "Christine Lyons as Lucia Terrence Chin-Loy as Edgardo Dean Murphy as Enrico Stefan Egerstrom as Raimondo Luke Norvell as ArturoBerkshire Opera Festival Orchestra and Chorus Conducted by Brian Garman Stage Direction by Jonathon Loy",
+    "title": "Little Songbook Opera \u2013 Korean Art Song Competition",
+    "synopsis": "Join Little Songbook Opera and Boston Summer Opera for an evening of music and community featuring an open mic night, a meet-and-greet with fellow opera lovers, raffle baskets, food, and more. Kevin Lubin, pianist.Free but regisration required",
+    "showtimes": [
+     "6:30 pm"
+    ],
+    "theater": "Classical Music (Boston)",
+    "address": "Somerville Community Growing Center, 22 Vinal Avenue,, in Somerville",
+    "url": "https://givebutter.com/openmicnight",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Arts Empowering LIfe (PACB) \u2013 Triple Cortado",
+    "synopsis": "Ahmed Alom, piano, Achilles Liarmakopoulos, trombone, Caleb Hudson, trumpet.Strauss: Overture from Die Fledermaus Bach: Hermann\u2019s Dream, arr. Ahmed Alom Beethoven: Waldstein Piano Sonata in C major op.53 Mendelssohn: Piano Trio in D minor Piazzolla: La Muerte del Angel Bernstein: Suite from West Side Story, arr. Verlhe\u2026",
     "showtimes": [
      "7:30 pm"
     ],
     "theater": "Classical Music (Boston)",
-    "address": "Mahaiwe Theater, 14 Castle St, in Great Barrington",
-    "url": "https://mahaiwe.my.salesforce-sites.com/ticket/#/events/a0SQK00000r0t0a2AA",
+    "address": "Performing Arts Center, in Brewster",
+    "url": "https://artsempoweringlife.org/triple-cortado-in-concert-2/",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -423,10 +668,23 @@
   ],
   "The Beehive": [
    {
-    "title": "Cheryl Arena -Blues Early Set",
-    "synopsis": "Blues is the vibe for early music! Cheryl Arena travels international stages to make this music happen. The blues set is a chance for intimate connection with the players and music.",
+    "title": "Pop to the Chemist-Brunch Music",
+    "synopsis": "Guitarist Mike Hermans along with bassist George Chinaglia lead this trio of very cool players. These guys are great jazz players who play exquisitely arranged \"pop\" tunes. This is very fun and expressive music.",
     "showtimes": [
-     "6:30 pm"
+     "10:00 am"
+    ],
+    "theater": "The Beehive",
+    "address": "541 Tremont St, Boston, MA",
+    "url": "https://www.beehiveboston.com/calendar",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "LATE BUZZ",
+    "synopsis": "Late-night live music, always top-tier \u2014 the perfect energy to carry the weekend into the night. Check back for who's on stage this night.",
+    "showtimes": [
+     "10:00 pm"
     ],
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
@@ -454,7 +712,7 @@
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Night \u2014 Friday",
+    "title": "Jazz Night \u2014 Saturday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
