@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-23T03:42:50.668016",
+  "scraped_at": "2026-08-23T13:07:14.308704",
   "date": "2026-08-23"
  },
  "data": {
@@ -82,7 +82,6 @@
      "4:30 PM",
      "7:15 PM",
      "10:00 PM",
-     "12:00 PM",
      "3:00 PM",
      "6:00 PM",
      "9:00 PM"
@@ -139,9 +138,7 @@
    {
     "title": "Never Stop Chasing (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:15 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/never-stop-chasing-2026-246676/movie-overview",
@@ -153,7 +150,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "2:00 PM",
      "4:45 PM",
      "7:30 PM",
@@ -199,9 +195,7 @@
    {
     "title": "La La Land 10th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "12:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/la-la-land-10th-anniversary-2026-246636/movie-overview",
@@ -212,9 +206,7 @@
    {
     "title": "Nimrods (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:30 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/nimrods-2026-246455/movie-overview",
@@ -226,7 +218,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -243,7 +234,6 @@
     "title": "Six: The Musical Live! (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -257,7 +247,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "2:15 PM",
      "5:00 PM",
      "7:45 PM",
@@ -287,7 +276,6 @@
     "title": "Your Name. 10th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "3:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -300,9 +288,7 @@
    {
     "title": "KATSEYE: WILD HEARTS (2026)",
     "synopsis": "",
-    "showtimes": [
-     "10:45 AM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/katseye-wild-hearts-2026-246437/movie-overview",
@@ -365,7 +351,6 @@
      "2:00 PM",
      "5:30 PM",
      "9:00 PM",
-     "11:30 AM",
      "3:00 PM",
      "6:30 PM",
      "10:00 PM",
@@ -382,11 +367,9 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "2:15 PM",
      "6:15 PM",
      "10:15 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM"
     ],
@@ -403,7 +386,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "4:10 PM",
      "6:40 PM"
     ],
@@ -463,7 +445,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:50 AM",
      "12:50 PM",
      "3:00 PM",
      "4:00 PM",
@@ -481,7 +462,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "2:50 PM",
      "6:25 PM"
     ],
@@ -592,10 +572,23 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 pm",
+     "3:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "12:40 pm",
      "2:45 pm",
      "5:00 pm",
      "7:10 pm"
@@ -611,7 +604,6 @@
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
      "3:00 pm",
      "5:20 pm",
      "7:40 pm"
@@ -624,25 +616,9 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    },
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "3:15 pm",
      "5:30 pm",
      "7:45 pm"
@@ -655,18 +631,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
-     "3:30 pm"
+     "4:00 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "One Night Only",
@@ -886,8 +862,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:30 PM",
      "3:00 PM",
      "5:25 PM",
      "7:50 PM",
@@ -918,8 +892,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:20 PM",
      "2:40 PM",
      "5:00 PM",
      "7:15 PM",
@@ -948,9 +920,7 @@
    {
     "title": "Awarapan 2 (2026)",
     "synopsis": "",
-    "showtimes": [
-     "11:55 AM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/awarapan-2-2026-246601/movie-overview",
@@ -962,8 +932,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
-     "12:30 PM",
      "2:45 PM",
      "5:00 PM",
      "7:15 PM"
@@ -993,8 +961,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
-     "12:15 PM",
      "2:30 PM",
      "4:45 PM",
      "7:00 PM",
@@ -1025,7 +991,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:00 AM",
      "1:30 PM",
      "4:00 PM",
      "6:30 PM",
@@ -1042,8 +1007,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
-     "10:45 AM",
      "12:55 PM",
      "4:00 PM",
      "5:15 PM",
@@ -1062,7 +1025,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:30 AM",
      "2:15 PM",
      "6:00 PM",
      "9:30 PM"
@@ -1078,8 +1040,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
-     "9:55 AM",
      "4:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1095,10 +1055,10 @@
     "title": "CWX Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "10:20AM",
-     "1:20PM",
-     "4:25PM",
-     "7:30PM"
+     "10:15AM",
+     "1:15PM",
+     "4:15PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1113,29 +1073,11 @@
     "showtimes": [
      "10:30AM",
      "2:15PM",
-     "6:15PM",
-     "9:05PM"
+     "6:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Paw Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "12:55PM",
-     "3:05PM",
-     "5:15PM",
-     "7:25PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1147,12 +1089,27 @@
      "11:05AM",
      "1:55PM",
      "4:35PM",
-     "7:15PM",
-     "9:50PM"
+     "7:10PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/insidious-out-of-the-further",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "11:10AM",
+     "1:45PM",
+     "4:20PM",
+     "7:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -1163,8 +1120,8 @@
     "showtimes": [
      "11:20AM",
      "2:05PM",
-     "7:20PM",
-     "9:55PM"
+     "4:40PM",
+     "7:20PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1174,33 +1131,31 @@
     "poster": ""
    },
    {
-    "title": "Spider-Man: Brand New Day",
+    "title": "Paw Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "11:35AM",
-     "2:55PM",
-     "6:00PM",
-     "9:35PM"
+     "11:55AM",
+     "2:10PM",
+     "4:15PM",
+     "6:30PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
+    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
     "rating": "",
     "runtime": "",
     "poster": ""
    },
    {
-    "title": "Tony",
+    "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "1:45PM",
-     "4:20PM",
-     "7:05PM",
-     "9:45PM"
+     "2:55PM",
+     "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "url": "https://arsenalyards.cwtheaters.com/movie/spider-man-brand-new-day",
     "rating": "",
     "runtime": "",
     "poster": ""
