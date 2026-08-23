@@ -1,322 +1,26 @@
 {
  "meta": {
-  "scraped_at": "2026-08-22T19:11:55.981372",
+  "scraped_at": "2026-08-23T04:01:23.515151",
   "date": "2026-08-29"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "Buddy (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "2:15 PM",
-     "5:00 PM",
-     "8:00 PM",
-     "10:30 PM"
-    ],
+    "error": "AMC Boston Common 19 (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-29\", waiting until \"domcontentloaded\"\n",
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/buddy-2026-245699/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245699/BUDDY-poster.jpg"
-   },
-   {
-    "title": "Colony (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "10:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/colony-2026-245476/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 2 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245476/Colony-2764x4096.jpg"
-   },
-   {
-    "title": "Coyote vs. Acme",
-    "synopsis": "",
-    "showtimes": [
-     "12:45 PM",
-     "3:30 PM",
-     "6:30 PM",
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/coyote-vs-acme-246329/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
-   },
-   {
-    "title": "Idiots (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "6:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/idiots-2026-245445/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/idiots-posterart-presales.jpg"
-   },
-   {
-    "title": "Legend of the White Dragon (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/legend-of-the-white-dragon-2026-245475/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245475/LOTWD-1382x2048.jpg"
-   },
-   {
-    "title": "Terminator 2: Judgment Day 35th Anniversary (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 PM",
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/terminator-2-judgment-day-35th-anniversary-2026-246355/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 22 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246355/1000x1480_Terminator%202_Exhibitor%20Poster.jpg"
-   },
-   {
-    "title": "The Dog Stars (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 PM",
-     "4:15 PM",
-     "1:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-dog-stars-2026-245569/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 58 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
-   },
-   {
-    "title": "GHOST: 2 Big To Rig (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/ghost-2-big-to-rig-2026-246535/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 55 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246535/GHOST-2BTR_ONE-SHEET-ARTWORK-ENGLISH.jpg"
-   },
-   {
-    "title": "Insidious: Out of the Further (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
-    "rating": "PG-13",
-    "runtime": "",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
-   },
-   {
-    "title": "It Ends (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/it-ends-2026-246704/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 29 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246704/itends_v2new.jpg"
-   },
-   {
-    "title": "The Odyssey (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "12:30 PM",
-     "4:30 PM",
-     "8:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
-    "rating": "R",
-    "runtime": "2 hr 52 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
-   },
-   {
-    "title": "Harry Potter and the Philosopher's Stone 3D",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-philosophers-stone-3d-238756/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/238756/HPpS_1000x1480.jpg"
-   },
-   {
-    "title": "Harry Potter and the Goblet of Fire (2005)",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-goblet-of-fire-2005-91610/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/91610/hpgobletposter.jpg"
-   },
-   {
-    "title": "The Rocky Horror Picture Show",
-    "synopsis": "",
-    "showtimes": [
-     "9:30 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-rocky-horror-picture-show-146/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 35 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/146/RHPS.jpg"
+    "url": "https://www.fandango.com/amc-boston-common-19-aapnv/theater-page?date=2026-08-29"
    }
   ],
   "Kendall Square Cinema": [
    {
-    "error": "Kendall Square Cinema: no movies found on Fandango.",
+    "error": "Kendall Square Cinema (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-29\", waiting until \"domcontentloaded\"\n",
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/landmark-kendall-square-cinema-aaeis/theater-page?date=2026-08-29"
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm",
-     "9:45 pm",
-     "11:55 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/tony/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
-   },
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
-   },
-   {
-    "title": "After Hours",
-    "synopsis": "",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/after-hours/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-7.jpg"
-   },
-   {
-    "title": "The Craft in 4K",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-craft-in-4k/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-14.jpg"
-   },
-   {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "",
-    "showtimes": [
-     "4:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Michael Mann's Manhunter: The Final Cut",
-    "synopsis": "",
-    "showtimes": [
-     "1:30 pm",
-     "8:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
-   },
-   {
-    "title": "Bound in 35mm",
-    "synopsis": "",
-    "showtimes": [
-     "11:59 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/bound/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-13.jpg"
-   },
-   {
-    "title": "Hundreds of Beavers",
-    "synopsis": "",
-    "showtimes": [
-     "8:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/hundreds-of-beavers/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/Beavers-600x890.webp"
-   },
    {
     "title": "Batman in 70mm",
     "synopsis": "",
@@ -334,58 +38,17 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
+    "error": "No Capitol Theatre screenings found for today.",
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "7:40 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+    "url": "https://www.capitoltheatreusa.com"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "Sleepaway Camp II: Unhappy Campers",
-    "synopsis": "This year camp's a scream!",
-    "showtimes": [
-     "11:59pm"
-    ],
+    "error": "('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))",
     "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/sleepaway-camp-ii-unhappy-campers",
-    "rating": "",
-    "runtime": "1hr 20mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/sleepaway-camp-ii-still.jpg"
+    "address": "290 Harvard St, Brookline, MA"
    }
   ],
   "Brattle Theatre": [
@@ -393,7 +56,6 @@
     "title": "Late Fame",
     "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
     "showtimes": [
-     "12:00 pm",
      "2:15 pm",
      "4:30 pm",
      "7:00 pm",
@@ -407,20 +69,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
-   },
-   {
-    "title": "Train to Busan",
-    "synopsis": "Director: Yeon Sang-ho Run Time: 118 min. Format: 4K DCP Release Year: 2016 Language: Korean",
-    "showtimes": [
-     "9:15 pm",
-     "9:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/train-to-busan/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/08/13165853/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -453,22 +101,10 @@
   ],
   "Apple Cinemas Cambridge": [
    {
-    "title": "Coyote vs. Acme",
-    "synopsis": "",
-    "showtimes": [
-     "10:00 AM",
-     "12:25 PM",
-     "2:50 PM",
-     "5:15 PM",
-     "7:40 PM",
-     "10:05 PM"
-    ],
+    "error": "Apple Cinemas Cambridge (Fandango) scrape failed: Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-29\", waiting until \"domcontentloaded\"\n",
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/coyote-vs-acme-246329/movie-overview",
-    "rating": "PG",
-    "runtime": "1 hr 41 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+    "url": "https://www.fandango.com/apple-cinemas-cambridge-aabbi/theater-page?date=2026-08-29"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -645,18 +281,16 @@
   ],
   "Scullers Jazz Club": [
    {
-    "error": "No Scullers events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://scullersjazz.com/\", waiting until \"domcontentloaded\"\n",
     "theater": "Scullers Jazz Club",
-    "address": "400 Soldiers Field Rd, Boston, MA",
-    "url": "https://scullersjazz.com/"
+    "address": "400 Soldiers Field Rd, Boston, MA"
    }
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
