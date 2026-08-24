@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-24T12:59:21.182020",
+  "scraped_at": "2026-08-24T14:01:31.403971",
   "date": "2026-08-31"
  },
  "data": {
@@ -148,6 +148,19 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    },
    {
+    "title": "AMC Screen Unseen: August 18",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/amc-screen-unseen-august-18-241593/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241593/MOP%20POSTER_SCREEN%20UNSEEN__R-RATED_400x600.jpg"
+   },
+   {
     "title": "Harry Potter and the Philosopher's Stone 3D",
     "synopsis": "",
     "showtimes": [
@@ -290,35 +303,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "1:15 pm",
-     "3:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -366,6 +350,35 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "Minions & Monsters",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 pm",
+     "1:15 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm",
+     "1:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "One Night Only",
