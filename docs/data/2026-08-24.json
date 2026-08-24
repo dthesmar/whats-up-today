@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-24T17:05:58.441391",
+  "scraped_at": "2026-08-24T18:08:06.865274",
   "date": "2026-08-24"
  },
  "data": {
@@ -52,7 +52,6 @@
      "10:00 PM",
      "10:30 PM",
      "9:00 PM",
-     "5:00 PM",
      "6:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -77,7 +76,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "10:30 PM",
      "7:45 PM"
     ],
@@ -274,7 +272,6 @@
     "showtimes": [
      "6:00 PM",
      "7:00 PM",
-     "5:00 PM",
      "8:30 PM",
      "9:15 PM",
      "6:30 PM",
@@ -503,38 +500,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "5:20 pm",
-     "7:40 pm",
-     "5:40 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:45 pm",
-     "1:00 pm",
-     "3:15 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -577,6 +542,37 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "7:40 pm",
+     "5:40 pm",
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm",
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    },
    {
     "title": "Minions & Monsters",
@@ -783,7 +779,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:25 PM",
      "7:50 PM",
      "10:15 PM"
     ],
@@ -811,7 +806,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:15 PM",
      "9:30 PM"
     ],
@@ -850,7 +844,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "7:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -918,7 +911,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:10 PM",
      "8:30 PM",
      "10:15 PM"
