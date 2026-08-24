@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-24T16:03:50.305911",
+  "scraped_at": "2026-08-24T17:05:58.441391",
   "date": "2026-08-24"
  },
  "data": {
@@ -35,7 +35,6 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:45 PM"
     ],
@@ -106,7 +105,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:30 PM",
      "10:15 PM"
     ],
@@ -121,7 +119,6 @@
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -196,7 +193,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:15 PM",
      "10:00 PM"
     ],
@@ -222,7 +218,6 @@
     "title": "Your Name. 10th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:15 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -249,7 +244,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:15 PM",
      "10:15 PM"
     ],
@@ -264,7 +258,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -299,7 +292,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "4:30 PM",
      "8:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -328,7 +320,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -342,7 +333,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
      "7:05 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -356,7 +346,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "6:55 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -370,7 +359,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -384,7 +372,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -516,22 +503,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:10 pm",
-     "12:40 pm",
-     "2:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
@@ -577,6 +548,22 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm",
+     "12:40 pm",
+     "2:45 pm",
+     "5:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "One Night Only",
@@ -890,7 +877,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:00 PM",
      "9:30 PM"
     ],
@@ -918,7 +904,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -933,7 +918,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "5:15 PM",
      "7:10 PM",
      "8:30 PM",
@@ -963,9 +947,7 @@
    {
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:45 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
