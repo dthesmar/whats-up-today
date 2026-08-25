@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-24T22:12:59.703998",
+  "scraped_at": "2026-08-25T08:35:04.259967",
   "date": "2026-08-29"
  },
  "data": {
@@ -11,8 +11,7 @@
     "showtimes": [
      "2:15 PM",
      "5:00 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -136,8 +135,7 @@
     "synopsis": "",
     "showtimes": [
      "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -508,8 +506,6 @@
     "title": "Late Fame",
     "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
     "showtimes": [
-     "4:00 pm",
-     "6:30 pm",
      "3:30 pm"
     ],
     "theater": "Brattle Theatre",
@@ -520,17 +516,30 @@
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
    },
    {
-    "title": "Train to Busan",
-    "synopsis": "Director: Yeon Sang-ho Run Time: 118 min. Format: 4K DCP Release Year: 2016 Language: Korean",
+    "title": "The Man from Planet X",
+    "synopsis": "Director: Edgar G. Ulmer Run Time: 70 min. Format: Digital Projection Release Year: 1951",
     "showtimes": [
-     "9:00 pm"
+     "6:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/train-to-busan/",
+    "url": "https://brattlefilm.org/movies/the-man-from-planet-x/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/08/13165853/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02105536/6QlHa9BaC2CTcfzCgqeyGRVwlYr.jpg"
+   },
+   {
+    "title": "It Came from Outer Space",
+    "synopsis": "Director: Jack Arnold Run Time: 80 min. Format: DCP Release Year: 1953",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Brattle Theatre",
+    "address": "40 Brattle St, Cambridge, MA",
+    "url": "https://brattlefilm.org/movies/it-came-from-outer-space/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/03173137/it-came-from-outer-space-1.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -570,6 +579,7 @@
      "12:25 PM",
      "2:50 PM",
      "5:15 PM",
+     "7:30 PM",
      "7:40 PM",
      "10:05 PM"
     ],
@@ -579,6 +589,178 @@
     "rating": "PG",
     "runtime": "1 hr 41 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "Toxic: A Fairytale for Grownups (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:30 PM",
+     "5:30 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/toxic-a-fairytale-for-grownups-2026-244612/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244612/TOXIC-70x100.jpg"
+   },
+   {
+    "title": "Bethlehem Kudumba Unit (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "9:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/bethlehem-kudumba-unit-2026-246692/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246692/BethlehemKudumbaUnit-OneSheetPoster.jpg"
+   },
+   {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:30 PM",
+     "4:00 PM",
+     "6:30 PM",
+     "9:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
+     "7:00 PM",
+     "9:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
+     "7:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "12:45 PM",
+     "3:00 PM",
+     "5:15 PM",
+     "7:30 PM",
+     "9:45 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:10 PM",
+     "2:35 PM",
+     "5:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "1:00 PM",
+     "4:10 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
+    "title": "The Odyssey (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "2:15 PM",
+     "6:00 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-odyssey-2026-241283/movie-overview",
+    "rating": "R",
+    "runtime": "2 hr 52 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "Minions & Monsters (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/minions-and-monsters-2026-244409/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 30 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
@@ -609,22 +791,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "1:10PM",
-     "3:35PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
     "rating": "",
     "runtime": "",
     "poster": ""
@@ -678,9 +844,27 @@
     "poster": ""
    },
    {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "11:20AM",
+     "2:05PM",
+     "4:40PM",
+     "7:20PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
+     "11:35AM",
+     "2:55PM",
      "6:00PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
