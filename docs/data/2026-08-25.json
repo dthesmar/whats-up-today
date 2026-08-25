@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-25T08:34:43.510304",
+  "scraped_at": "2026-08-25T10:57:20.793023",
   "date": "2026-08-25"
  },
  "data": {
@@ -54,7 +54,6 @@
      "10:00 PM",
      "4:00 PM",
      "10:30 PM",
-     "10:15 AM",
      "12:00 PM",
      "3:00 PM",
      "6:00 PM",
@@ -116,7 +115,6 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "11:15 AM",
      "2:00 PM",
      "4:45 PM",
@@ -263,7 +261,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "1:15 PM",
      "4:15 PM",
      "7:15 PM",
@@ -321,7 +318,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "2:15 PM",
      "6:15 PM",
      "10:15 PM",
@@ -949,7 +945,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:30 PM",
      "3:00 PM",
      "5:25 PM",
@@ -981,7 +976,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:20 PM",
      "2:40 PM",
      "5:00 PM",
@@ -1012,7 +1006,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 AM",
      "12:30 PM",
      "2:45 PM",
      "5:00 PM",
@@ -1043,7 +1036,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:00 AM",
      "12:15 PM",
      "2:30 PM",
      "4:45 PM",
@@ -1091,7 +1083,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
      "10:45 AM",
      "12:55 PM",
      "2:00 PM",
@@ -1127,8 +1118,6 @@
     "title": "Minions & Monsters (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:50 AM",
-     "9:55 AM",
      "4:45 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1304,10 +1293,9 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\n  - navigating to \"https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta\", waiting until \"domcontentloaded\"\n",
     "theater": "Regattabar",
-    "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "address": "1 Bennett St, Cambridge, MA"
    }
   ],
   "Wally's Cafe Jazz Club": [
