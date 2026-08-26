@@ -1,30 +1,55 @@
 {
  "meta": {
-  "scraped_at": "2026-08-26T08:41:46.190821",
-  "date": "2026-08-30"
+  "scraped_at": "2026-08-26T08:42:01.643663",
+  "date": "2026-09-02"
  },
  "data": {
   "AMC Boston Common 19": [
    {
-    "title": "The Last Blossom (2026)",
+    "title": "Sara Bareilles: Good Grief (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "7:00 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/the-last-blossom-2026-246231/movie-overview",
+    "url": "https://www.fandango.com/sara-bareilles-good-grief-2026-246914/movie-overview",
     "rating": "Not Rated",
-    "runtime": "1 hr 30 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246231/TLB_Poster_Web_2026-06-04_Dated.jpg"
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246914/Sara%20Bareilles%20Good%20Grief.jpg"
+   },
+   {
+    "title": "Katy Perry: The Lifetimes Tour - Live From Paris (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/katy-perry-the-lifetimes-tour-live-from-paris-2026-246686/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 12 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246686/katy-perry-the-lifetimes-tour-live.jpg"
+   },
+   {
+    "title": "Fall 2: Deadpoint (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "6:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/fall-2-deadpoint-2026-245753/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 38 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245753/fall2.jpg"
    },
    {
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
-     "2:30 PM",
-     "5:15 PM"
+     "6:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -37,8 +62,7 @@
     "title": "Colony (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:15 AM",
-     "10:00 PM"
+     "12:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -51,12 +75,11 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "11:00 AM",
-     "2:00 PM",
-     "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "12:00 PM",
+     "12:45 PM",
+     "3:30 PM",
+     "6:30 PM",
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -69,10 +92,10 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
-     "4:45 PM",
-     "7:45 PM",
-     "10:45 PM"
+     "1:00 PM",
+     "2:20 PM",
+     "8:45 PM",
+     "10:20 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -85,8 +108,7 @@
     "title": "Idiots (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM",
-     "10:45 PM"
+     "11:45 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -96,24 +118,11 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/idiots-posterart-presales.jpg"
    },
    {
-    "title": "Legend of the White Dragon (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "7:15 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/legend-of-the-white-dragon-2026-245475/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245475/LOTWD-1382x2048.jpg"
-   },
-   {
     "title": "Terminator 2: Judgment Day 35th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
-     "7:00 PM"
+     "7:00 PM",
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -126,11 +135,12 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM",
-     "4:15 PM",
-     "11:45 AM",
-     "12:45 PM",
-     "10:30 PM"
+     "12:00 PM",
+     "3:00 PM",
+     "1:00 PM",
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -143,10 +153,10 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
+     "12:00 PM",
      "3:00 PM",
      "7:00 PM",
-     "10:00 PM"
+     "9:40 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -159,7 +169,7 @@
     "title": "Hot Spot (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:15 PM"
+     "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -172,7 +182,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:45 AM",
      "1:45 PM",
      "4:40 PM",
      "7:30 PM",
@@ -189,7 +198,7 @@
     "title": "Irumudi (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM"
+     "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -202,8 +211,7 @@
     "title": "It Ends (2026)",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
-     "10:30 PM"
+     "4:20 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -216,10 +224,10 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
-     "5:15 PM",
-     "8:00 PM",
-     "10:45 PM"
+     "1:15 PM",
+     "4:20 PM",
+     "7:45 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -232,8 +240,7 @@
     "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "10:45 AM",
-     "4:20 PM"
+     "1:40 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -260,7 +267,7 @@
     "title": "The Magic Faraway Tree (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM"
+     "11:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -273,10 +280,11 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "5:15 PM",
-     "8:00 PM",
-     "10:15 PM"
+     "11:30 AM",
+     "2:15 PM",
+     "5:00 PM",
+     "6:00 PM",
+     "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -289,10 +297,10 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "2:15 PM",
-     "7:15 PM",
-     "9:15 PM"
+     "12:00 PM",
+     "3:00 PM",
+     "7:20 PM",
+     "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -305,10 +313,10 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
-     "5:00 PM",
-     "8:00 PM",
-     "10:45 PM"
+     "1:45 PM",
+     "4:40 PM",
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -321,15 +329,17 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM",
-     "10:45 PM",
-     "11:30 AM",
-     "3:00 PM",
-     "6:30 PM",
-     "10:00 PM",
+     "6:00 PM",
+     "9:30 PM",
+     "12:00 PM",
+     "3:30 PM",
+     "7:00 PM",
+     "10:30 PM",
      "1:00 PM",
      "4:30 PM",
-     "8:00 PM"
+     "2:30 PM",
+     "5:15 PM",
+     "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -342,8 +352,7 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
-     "3:30 PM",
+     "3:00 PM",
      "10:30 PM",
      "12:30 PM",
      "4:30 PM",
@@ -357,30 +366,30 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
    },
    {
-    "title": "Harry Potter and the Order of the Phoenix",
+    "title": "Harry Potter and the Philosopher's Stone 3D",
     "synopsis": "",
     "showtimes": [
-     "3:50 PM"
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-order-of-the-phoenix-98261/movie-overview",
-    "rating": "PG13",
-    "runtime": "2 hr 18 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/98261/harrypotter5poster2.jpg"
+    "url": "https://www.fandango.com/harry-potter-and-the-philosophers-stone-3d-238756/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/238756/HPpS_1000x1480.jpg"
    },
    {
-    "title": "Harry Potter and the Sorcerer's Stone (2001)",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
     "synopsis": "",
     "showtimes": [
-     "6:45 PM"
+     "7:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/harry-potter-and-the-sorcerers-stone-2001-32227/movie-overview",
-    "rating": "PG",
-    "runtime": "2 hr 32 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/32227/harry_potter_and_the_sorcerers_stone_ver4.jpg"
+    "url": "https://www.fandango.com/harry-potter-and-the-deathly-hallows-part-2-126230/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 5 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/126230/87176_ad2.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -388,7 +397,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:35 PM",
      "7:10 PM"
     ],
@@ -403,7 +411,6 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:20 PM",
      "4:15 PM",
      "7:00 PM"
     ],
@@ -418,9 +425,7 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "4:20 PM",
-     "6:40 PM"
+     "3:55 PM"
     ],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
@@ -433,7 +438,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:00 PM",
      "6:45 PM"
     ],
@@ -448,7 +452,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:25 PM",
      "7:15 PM"
     ],
@@ -463,7 +466,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:10 PM",
      "4:05 PM",
      "6:50 PM"
     ],
@@ -478,8 +480,7 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:55 PM",
-     "3:00 PM",
+     "3:30 PM",
      "6:20 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -488,15 +489,52 @@
     "rating": "R",
     "runtime": "2 hr 52 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/241283/ODY_AdvHorse1Sht1_RGB_2.jpg"
+   },
+   {
+    "title": "Demolition Man",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/demolition-man-134780/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images.fandango.com/redesign/static/img/default_poster.png"
    }
   ],
   "Somerville Theatre": [
    {
+    "title": "The Odyssey in 70mm",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "Burnin\u2019 Down The House",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
+   },
+   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
      "7:30 pm"
     ],
     "theater": "Somerville Theatre",
@@ -510,7 +548,6 @@
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm",
      "6:45 pm"
     ],
     "theater": "Somerville Theatre",
@@ -535,17 +572,56 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
    },
    {
-    "title": "Edie Arnold Is a Loser",
+    "title": "Raiders of the Lost Ark in 35mm",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm"
+     "7:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/edie-arnold-is-a-loser/",
+    "url": "https://www.somervilletheatre.com/production/raiders-of-the-lost-ark-in-35mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/FOR-DIGITAL-Edie-Arnold-is-a-Loser-600x872.png"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-26.jpg"
+   },
+   {
+    "title": "Monty Python and the Holy Grail in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/monty-python-and-the-holy-grail-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/HG_Poster_2mb-600x755.jpg"
+   },
+   {
+    "title": "Casablanca in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/casablanca-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/CasablancaPoster-Gold.jpg"
+   },
+   {
+    "title": "Pink Flamingos in 35mm",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/pink-flamingos-in-35mm/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-15.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -556,7 +632,8 @@
      "12:40 pm",
      "2:45 pm",
      "5:00 pm",
-     "7:10 pm"
+     "7:10 pm",
+     "3:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -569,7 +646,12 @@
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm"
+     "12:45 pm",
+     "3:00 pm",
+     "5:20 pm",
+     "7:40 pm",
+     "5:40 pm",
+     "7:50 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -597,6 +679,9 @@
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
+     "1:00 pm",
+     "3:15 pm",
+     "5:30 pm",
      "7:45 pm"
     ],
     "theater": "Capitol Theatre",
@@ -610,7 +695,8 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm"
+     "1:15 pm",
+     "3:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -618,33 +704,43 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+   },
+   {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
    {
-    "title": "The Odyssey in 70mm",
-    "synopsis": "The new film from filmmaker Christopher Nolan, starring Matt Damon, Tom Holland, and Anne Hathaway.",
+    "title": "The Odyssey (Digital)",
+    "synopsis": "The new film from filmmaker Christopher Nolan (Oppenheimer, Inception).",
     "showtimes": [
-     "11:00am",
      "3:30pm",
-     "8:00pm"
+     "7:45pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/odyssey-70mm",
+    "url": "https://www.coolidge.org/films/odyssey-digital",
     "rating": "",
     "runtime": "2hrs 52mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-03414.jpg"
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-K020-18_CROP.jpg"
    },
    {
     "title": "Coyote vs. Acme",
     "synopsis": "The movie ACME didn't want you to see!",
     "showtimes": [
-     "11:05am",
-     "1:50pm",
-     "4:20pm",
-     "6:30pm",
-     "9:15pm"
+     "4:00pm",
+     "6:45pm",
+     "9:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -657,9 +753,8 @@
     "title": "Teenage Sex and Death at Camp Miasma",
     "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
     "showtimes": [
-     "11:10am",
-     "1:30pm",
      "4:10pm",
+     "6:30pm",
      "10:05pm"
     ],
     "theater": "Coolidge Corner Theatre",
@@ -670,11 +765,37 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
    },
    {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "4:20pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "showtimes": [
+     "4:30pm",
+     "7:30pm",
+     "9:30pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
     "title": "Finding Emily",
     "synopsis": "Right name, wrong number.",
     "showtimes": [
-     "11:20am",
-     "2:15pm",
      "4:45pm",
      "7:15pm",
      "9:45pm"
@@ -687,41 +808,23 @@
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/4239_D023_02090_R.jpg"
    },
    {
-    "title": "Tony (2026)",
-    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "title": "Breathless",
+    "synopsis": "Wild! Violent! Outspoken and Honest!",
     "showtimes": [
-     "11:30am",
-     "1:40pm",
-     "4:00pm",
-     "7:30pm",
-     "9:30pm"
+     "7:00pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/films/tony-2026",
+    "url": "https://www.coolidge.org/films/breathless",
     "rating": "",
-    "runtime": "1hr 46mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
-   },
-   {
-    "title": "Malkovich, Malkovich, Malkovich!",
-    "synopsis": "A triple feature of Being John Malkovich, In the Line of Fire, and Dangerous Liaisons!",
-    "showtimes": [
-     "1:00pm"
-    ],
-    "theater": "Coolidge Corner Theatre",
-    "address": "290 Harvard St, Brookline, MA",
-    "url": "https://www.coolidge.org/events/malkovich-malkovich-malkovich",
-    "rating": "",
-    "runtime": "5hrs 59mins",
-    "poster": "https://www.coolidge.org/sites/default/files/featured_images/MALKOVICH%20MALKOVICH%20MALKOVICH%20banner.png"
+    "runtime": "1hr 30mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Breathles_.png"
    },
    {
     "title": "Buddy (2026)",
     "synopsis": "The feature film debut of Casper Kelly, creator of Too Many Cooks, starring Keegan-Michael Key, Topher Grace, and Cristin Milioti.",
     "showtimes": [
-     "6:45pm",
-     "9:00pm"
+     "9:15pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -774,17 +877,10 @@
   ],
   "Harvard Film Archive": [
    {
-    "title": "Ministry of Fear",
-    "synopsis": "Fritz Lang\u2019s veteran experience in silent cinema is everywhere apparent in this visually dazzling noir which makes incredible use of shadow and stark lighting to follow Ray Milland who stumbles out of release from an asylum into a world of treacherous deceit that will be the greatest test of his sanity yet. Pulled into\u2026",
-    "showtimes": [
-     "3:00 pm"
-    ],
+    "error": "No HFA screenings today.",
     "theater": "Harvard Film Archive",
     "address": "24 Quincy St (Carpenter Center), Cambridge, MA",
-    "url": "https://harvardfilmarchive.org/calendar/ministry-of-fear-2026-08",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://harvardfilmarchive.org/public/upload/events/thumb_wide/6a74ff7f0a378.jpg?1786115471"
+    "url": "https://harvardfilmarchive.org"
    }
   ],
   "Apple Cinemas Cambridge": [
@@ -794,11 +890,11 @@
     "showtimes": [
      "10:00 AM",
      "12:25 PM",
-     "2:50 PM",
-     "5:15 PM",
+     "3:00 PM",
+     "5:20 PM",
      "7:30 PM",
      "7:40 PM",
-     "10:05 PM"
+     "10:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -906,6 +1002,8 @@
     "showtimes": [
      "10:00 AM",
      "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
      "7:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1107,58 +1205,18 @@
   ],
   "Classical Music (Boston)": [
    {
-    "title": "Music Mountain \u2013 CASSATT STRING QUARTET",
-    "synopsis": "& Javier Montiel, Viola with Oskar Espina Ruiz, Clarinet)Florence PRICE Folk Songs in Counterpoint MOZART Viola Quintet in G minor, K. 516 Carl Maria von WEBER Clarinet Quintet in B Flat Major, Javier MONTIEL Clarinet Quintet (World Premiere)",
-    "showtimes": [
-     "3:00 pm"
-    ],
+    "error": "No classical music events found for today.",
     "theater": "Classical Music (Boston)",
-    "address": "225 Music Mountain Road,, in Falls Village,",
-    "url": "https://ci.ovationtix.com/36135/pr/1271083/pe/11791072?deepLink=true&overlay=false",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Maverick Concerts \u2013 Chamber Society of Ft. Worth",
-    "synopsis": "Mozart: Piano Quartet No. 1 in G minor, K. 478 George Tsontakis: Piano Quartet No. 1 (\u201cBagatelles\u201d) George Tsontakis: Piano Quartet No. 2 (1998) Dvo\u0159\u00e1k: Piano Quartet No. 2 in E-flat major, Op. 87",
-    "showtimes": [
-     "4:00 pm"
-    ],
-    "theater": "Classical Music (Boston)",
-    "address": "120 Maverick Rd, Woodstock, in Woodstock, NY",
-    "url": "https://www.tix.com/ticket-sales/MaverickConcerts/2109/event/1462092?_gl=1*rg4ln1*_gcl_au*MjI1OTUzNjQyLjE3Nzc1MTYyNDI.*_ga*MTY2NDUwMjk2MC4xNzc3NTE2MjQy*_ga_06SHDDGCSD*czE3Nzc1MTYyNDIkbzEkZzEkdDE3Nzc1MTcxMDEkajU2JGwwJGgw",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "address": "classical-scene.com",
+    "url": "https://classical-scene.com/calendar/"
    }
   ],
   "The Beehive": [
    {
-    "title": "Lizje Sarria-Brunch Music",
-    "synopsis": "Lizje is one of our favorites. She has a soaring voice, is a talented song writer and band leader. Lizje fills this stage with beautiful energy and sounds.",
-    "showtimes": [
-     "10:00 am"
-    ],
+    "error": "No Beehive events today.",
     "theater": "The Beehive",
     "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Sunday Blues with Bruce Bears & Friends",
-    "synopsis": "Experience the soulful sounds of Blues on Sunday, The Beehive's weekly residency featuring the legendary keyboardist Bruce Bears and a rotating cast of musical stars and VIPS who always set the stage on fire with electrifying performances. Sundays at The Beehive are the ultimate destination for delicious food, refreshi\u2026",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "The Beehive",
-    "address": "541 Tremont St, Boston, MA",
-    "url": "https://www.beehiveboston.com/calendar",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
+    "url": "https://www.beehiveboston.com/calendar"
    }
   ],
   "Scullers Jazz Club": [
@@ -1171,15 +1229,35 @@
   ],
   "Regattabar": [
    {
-    "error": "No Regattabar events today.",
+    "title": "April Varner Quintet",
+    "synopsis": "",
+    "showtimes": [
+     "6:00 PM"
+    ],
     "theater": "Regattabar",
     "address": "1 Bennett St, Cambridge, MA",
-    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta"
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/91/83/14_Listings.jpg?v=3"
+   },
+   {
+    "title": "Blues on the Corner: McCoy Tyner Legacy Band featuring Francisco Mela, Benito Gonzalez, Santi Debriano with special guest, George Garzone",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 PM"
+    ],
+    "theater": "Regattabar",
+    "address": "1 Bennett St, Cambridge, MA",
+    "url": "https://www.ticketweb.com/venue/regattabar-cambridge-ma/748814?pl=regatta",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://i.ticketweb.com//i/00/12/94/99/54_Listings.jpg?v=3"
    }
   ],
   "Wally's Cafe Jazz Club": [
    {
-    "title": "Jazz Brunch & Evening Sets \u2014 Sunday",
+    "title": "Jazz Jam Session \u2014 Wednesday",
     "synopsis": "Jam Session 7\u20139 PM \u2022 Night Sets 10 PM\u2013Midnight. Specific performers listed on Instagram @wallyscafejazzclub.",
     "showtimes": [
      "7:00 PM (Jam)",
