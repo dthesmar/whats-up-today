@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-26T15:49:16.907065",
+  "scraped_at": "2026-08-26T16:50:16.902876",
   "date": "2026-08-26"
  },
  "data": {
@@ -134,7 +134,6 @@
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "7:30 PM",
      "10:30 PM"
     ],
@@ -149,7 +148,6 @@
     "title": "The Magic Faraway Tree (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -186,7 +184,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "10:00 PM"
     ],
@@ -238,7 +235,6 @@
     "title": "Your Name. 10th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -252,7 +248,6 @@
     "title": "One Night Only (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:00 PM",
      "9:45 PM"
     ],
@@ -267,7 +262,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:00 PM"
     ],
@@ -282,7 +276,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:45 PM",
      "9:45 PM"
     ],
@@ -299,7 +292,6 @@
     "showtimes": [
      "6:15 PM",
      "8:45 PM",
-     "4:00 PM",
      "5:15 PM",
      "7:15 PM",
      "10:30 PM"
@@ -316,7 +308,6 @@
     "synopsis": "",
     "showtimes": [
      "10:15 PM",
-     "4:30 PM",
      "8:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -345,7 +336,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:10 PM",
      "6:40 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -358,9 +348,7 @@
    {
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:05 PM"
-    ],
+    "showtimes": [],
     "theater": "Kendall Square Cinema",
     "address": "1 Kendall Sq, Cambridge, MA",
     "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
@@ -372,7 +360,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "6:55 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -386,7 +373,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:15 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -400,7 +386,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:10 PM"
     ],
     "theater": "Kendall Square Cinema",
@@ -493,20 +478,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -551,6 +522,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm",
+     "4:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "One Night Only",
@@ -899,7 +884,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "6:30 PM",
      "9:00 PM"
     ],
@@ -914,7 +898,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM",
      "7:10 PM",
      "10:15 PM"
     ],
