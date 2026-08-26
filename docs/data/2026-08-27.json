@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-25T10:57:45.731211",
+  "scraped_at": "2026-08-25T20:08:01.211394",
   "date": "2026-08-27"
  },
  "data": {
@@ -9,7 +9,8 @@
     "title": "If I Tell You (2024)",
     "synopsis": "",
     "showtimes": [
-     "7:15 PM"
+     "10:30 AM",
+     "1:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -64,12 +65,25 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
    },
    {
+    "title": "Finding Emily (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM",
+     "7:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+   },
+   {
     "title": "Idiots (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
-     "7:30 PM",
-     "10:15 PM"
+     "4:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -108,16 +122,44 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246535/GHOST-2BTR_ONE-SHEET-ARTWORK-ENGLISH.jpg"
    },
    {
+    "title": "Toxic: A Fairytale for Grownups (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/toxic-a-fairytale-for-grownups-2026-244612/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244612/TOXIC-70x100.jpg"
+   },
+   {
+    "title": "Hot Spot (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:45 AM",
+     "1:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hot-spot-2026-246310/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246310/HOTSPOT_POSTER.jpg"
+   },
+   {
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
+     "10:30 AM",
      "1:30 PM",
      "4:30 PM",
      "10:30 PM",
-     "12:00 PM",
-     "3:00 PM",
+     "11:15 AM",
      "6:00 PM",
-     "9:00 PM"
+     "8:45 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -127,10 +169,24 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
    },
    {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:30 AM",
+     "2:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
+   },
+   {
     "title": "It Ends (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM"
+     "3:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -156,24 +212,24 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
    },
    {
-    "title": "Never Stop Chasing (2026)",
+    "title": "Spa Weekend (2026)",
     "synopsis": "",
     "showtimes": [
-     "6:00 PM"
+     "10:30 AM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/never-stop-chasing-2026-246676/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "1 hr 42 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246676/NeverStopChasing_KeyArt_27x40-FINAL_WebReady.jpg"
+    "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245958/SPA_KEY_Main_1Sht_27x40_256_F9.jpg"
    },
    {
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:30 PM",
-     "7:30 PM"
+     "11:15 AM",
+     "4:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -183,13 +239,134 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245980/fastfurious25.jpg"
    },
    {
+    "title": "The Magic Faraway Tree (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-magic-faraway-tree-2026-245875/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245875/TMFT_US-1SHEET_LR.jpg"
+   },
+   {
+    "title": "La La Land 10th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/la-la-land-10th-anniversary-2026-246636/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 8 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246636/LaLaLand_2000x3000_DolbyCinema_r1.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/paw-patrol-the-dino-movie-2026-245603/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 28 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245603/PP3_DOM_Digital_Prehistoric_935x1381px_Indoor_Vertical_Digital_Payoff_One_Sheet.jpg"
+   },
+   {
+    "title": "Six: The Musical Live! (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/six-the-musical-live-2026-245872/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 31 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245872/six_themusical_presale.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:00 AM",
+     "1:45 PM",
+     "4:30 PM",
+     "7:00 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "One Night Only (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:45 AM",
+     "1:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/one-night-only-2026-245604/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 42 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245604/ONO_Tsr1Sheet2_RGB_1SM.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM",
+     "3:45 PM",
+     "7:10 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM",
+     "4:15 PM",
+     "7:10 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
+     "2:30 PM",
+     "6:00 PM",
+     "9:30 PM",
+     "7:15 PM",
+     "12:15 PM",
+     "3:45 PM",
      "11:30 AM",
      "3:00 PM",
      "6:30 PM",
-     "10:00 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -202,6 +379,8 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
+     "1:00 PM",
+     "5:00 PM",
      "12:30 PM",
      "4:30 PM",
      "8:30 PM"
@@ -729,6 +908,22 @@
     "rating": "PG",
     "runtime": "1 hr 41 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "The Dog Stars (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 PM",
+     "4:45 PM",
+     "7:20 PM",
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-dog-stars-2026-245569/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
    },
    {
     "title": "Toxic: A Fairytale for Grownups (2026)",

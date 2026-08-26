@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-25T10:58:52.174194",
+  "scraped_at": "2026-08-25T20:33:31.626752",
   "date": "2026-09-01"
  },
  "data": {
@@ -9,10 +9,11 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
+     "12:15 PM",
      "2:30 PM",
      "5:15 PM",
      "8:00 PM",
-     "10:15 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -38,6 +39,7 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
+     "1:30 PM",
      "12:45 PM",
      "3:30 PM",
      "6:30 PM",
@@ -49,6 +51,22 @@
     "rating": "PG",
     "runtime": "1 hr 41 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "Finding Emily (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 PM",
+     "4:45 PM",
+     "7:40 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
    },
    {
     "title": "Idiots (2026)",
@@ -96,7 +114,8 @@
     "showtimes": [
      "7:30 PM",
      "4:15 PM",
-     "1:00 PM"
+     "1:00 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -106,10 +125,42 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
    },
    {
+    "title": "Toxic: A Fairytale for Grownups (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM",
+     "3:00 PM",
+     "6:00 PM",
+     "10:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/toxic-a-fairytale-for-grownups-2026-244612/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "3 hr 15 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244612/TOXIC-70x100.jpg"
+   },
+   {
+    "title": "Hot Spot (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/hot-spot-2026-246310/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246310/HOTSPOT_POSTER.jpg"
+   },
+   {
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "7:30 PM"
+     "1:45 PM",
+     "4:40 PM",
+     "7:30 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -117,6 +168,19 @@
     "rating": "PG-13",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
+    "title": "Irumudi (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "8:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/irumudi-2026-246361/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246361/IRUMUDI-27x40.jpg"
    },
    {
     "title": "It Ends (2026)",
@@ -134,9 +198,138 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246704/itends_v2new.jpg"
    },
    {
+    "title": "Mutiny (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:45 PM",
+     "3:25 PM",
+     "6:00 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/mutiny-2026-245697/movie-overview",
+    "rating": "R",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
+   },
+   {
+    "title": "Spa Weekend (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 37 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245958/SPA_KEY_Main_1Sht_27x40_256_F9.jpg"
+   },
+   {
+    "title": "The Fast And The Furious: 25th Anniversary (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "12:00 PM",
+     "3:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-fast-and-the-furious-25th-anniversary-2026-245980/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245980/fastfurious25.jpg"
+   },
+   {
+    "title": "The Magic Faraway Tree (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "11:45 AM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-magic-faraway-tree-2026-245875/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 50 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245875/TMFT_US-1SHEET_LR.jpg"
+   },
+   {
+    "title": "The End of Oak Street (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "4:45 PM",
+     "7:45 PM",
+     "9:45 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+    "rating": "PG13",
+    "runtime": "1 hr 39 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245149/OAKST_DEBUT_VERT_DOM_MAIN_2764x4096.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:45 PM",
+     "4:00 PM",
+     "7:30 PM",
+     "10:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/teenage-sex-and-death-at-camp-miasma-2026-244691/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244691/CM_Key-Art_EN-US_DIGI_OS_OnlyInTheatersAugust7.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM",
+     "4:10 PM",
+     "7:15 PM",
+     "10:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 46 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245704/TONY_POSTER_FULL-SIZE.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 PM",
+     "10:30 PM",
+     "2:00 PM",
+     "5:30 PM",
+     "9:00 PM",
+     "1:00 PM",
+     "8:00 PM",
+     "12:15 PM",
+     "3:00 PM",
+     "4:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/spider-man-brand-new-day-2026-243819/movie-overview",
+    "rating": "PG13",
+    "runtime": "2 hr 25 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/243819/SMBND_Onlinefinal.jpg"
+   },
+   {
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
+     "11:45 AM",
+     "3:40 PM",
+     "10:30 PM",
      "12:30 PM",
      "4:30 PM",
      "8:30 PM"
@@ -300,19 +493,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
-   },
-   {
-    "title": "Burnin\u2019 Down The House",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/burnin-down-the-house/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-11.jpg"
    },
    {
     "title": "Tony",
@@ -558,10 +738,6 @@
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "12:45 pm",
-     "3:00 pm",
-     "5:20 pm",
-     "7:40 pm",
      "5:40 pm",
      "7:50 pm"
     ],
@@ -616,22 +792,94 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
+   {
+    "title": "The Odyssey (Digital)",
+    "synopsis": "The new film from filmmaker Christopher Nolan (Oppenheimer, Inception).",
+    "showtimes": [
+     "3:15pm",
+     "8:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/odyssey-digital",
+    "rating": "",
+    "runtime": "2hrs 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CT-K020-18_CROP.jpg"
+   },
+   {
+    "title": "Coyote vs. Acme",
+    "synopsis": "The movie ACME didn't want you to see!",
+    "showtimes": [
+     "3:30pm",
+     "6:00pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/coyote-vs-acme",
+    "rating": "",
+    "runtime": "1hr 41mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/Still%202026-04-22%20120517_1.27.1.jpg"
+   },
+   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "synopsis": "The new film from Coolidge Breakthrough Artist Award winner Jane Schoenbrun.",
+    "showtimes": [
+     "4:10pm",
+     "10:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/teenage-sex-and-death-camp-miasma",
+    "rating": "",
+    "runtime": "1hr 52mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/CampMiasma_Still_1_%C2%A9MUBI.jpg"
+   },
+   {
+    "title": "The Invite (2026)",
+    "synopsis": "From director Olivia Wilde and starring Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz and Edward Norton.",
+    "showtimes": [
+     "4:20pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/invite-2026",
+    "rating": "",
+    "runtime": "1hr 47mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/g2rtsfc8cThe_Invite-Still_1.jpg"
+   },
+   {
+    "title": "Tony (2026)",
+    "synopsis": "From director Matt Johnson (Nirvanna the Band the Show the Movie), starring Dominic Sessa (The Holdovers).",
+    "showtimes": [
+     "4:30pm",
+     "6:45pm",
+     "10:10pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/tony-2026",
+    "rating": "",
+    "runtime": "1hr 46mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/T_16236-Edit.jpg"
+   },
+   {
+    "title": "Finding Emily",
+    "synopsis": "Right name, wrong number.",
+    "showtimes": [
+     "4:45pm",
+     "7:20pm",
+     "9:45pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/finding-emily",
+    "rating": "",
+    "runtime": "1hr 51mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/4239_D023_02090_R.jpg"
+   },
    {
     "title": "Les Liaisons Dangereuses (2026)",
     "synopsis": "Encore screening added! Lesley Manville joins Aidan Turner in a striking new staging of Christopher Hampton\u2019s celebrated adaptation of the classic novel.",
@@ -670,6 +918,19 @@
     "rating": "",
     "runtime": "1hr 38mins",
     "poster": "https://www.coolidge.org/sites/default/files/featured_images/The_Cycle_of_Love_01271908.jpeg"
+   },
+   {
+    "title": "Buddy (2026)",
+    "synopsis": "The feature film debut of Casper Kelly, creator of Too Many Cooks, starring Keegan-Michael Key, Topher Grace, and Cristin Milioti.",
+    "showtimes": [
+     "9:15pm"
+    ],
+    "theater": "Coolidge Corner Theatre",
+    "address": "290 Harvard St, Brookline, MA",
+    "url": "https://www.coolidge.org/films/buddy-2026",
+    "rating": "",
+    "runtime": "1hr 35mins",
+    "poster": "https://www.coolidge.org/sites/default/files/featured_images/BUDDY_Courtesy_of_Roadside_Attractions_1781f70c93.png"
    }
   ],
   "Brattle Theatre": [
@@ -740,6 +1001,23 @@
     "rating": "PG",
     "runtime": "1 hr 41 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246329/Coyote%20vs%20Acme.jpg"
+   },
+   {
+    "title": "The Dog Stars (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:15 AM",
+     "1:00 PM",
+     "4:00 PM",
+     "6:45 PM",
+     "9:30 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/the-dog-stars-2026-245569/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
    },
    {
     "title": "Toxic: A Fairytale for Grownups (2026)",
