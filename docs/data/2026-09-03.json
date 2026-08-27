@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-27T16:18:09.600196",
+  "scraped_at": "2026-08-27T19:07:35.257725",
   "date": "2026-09-03"
  },
  "data": {
@@ -262,7 +262,7 @@
     "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
     "rating": "PG13",
     "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/FINDING_EMILY_1080x1600_W04_FIN01.jpg"
    },
    {
     "title": "The Dog Stars (2026)",
@@ -308,32 +308,6 @@
    }
   ],
   "Somerville Theatre": [
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
-   },
-   {
-    "title": "Member Screening",
-    "synopsis": "",
-    "showtimes": [
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/member-screening/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2025/03/MembersOnly-Square-600-x-900-px.jpg"
-   },
    {
     "title": "Tony",
     "synopsis": "",
@@ -433,9 +407,9 @@
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "5:00 pm",
      "7:10 pm",
-     "3:00 pm"
+     "3:00 pm",
+     "5:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -445,10 +419,22 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
+    "title": "One Night Only",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
+   },
+   {
     "title": "The End of Oak Street",
     "synopsis": "",
     "showtimes": [
-     "5:20 pm",
      "7:40 pm",
      "5:40 pm",
      "7:50 pm"
@@ -464,9 +450,9 @@
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
-     "5:30 pm",
      "7:45 pm",
-     "3:15 pm"
+     "3:15 pm",
+     "5:30 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -479,8 +465,8 @@
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "7:00 pm",
-     "4:00 pm"
+     "4:00 pm",
+     "7:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
@@ -488,19 +474,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
-    "title": "One Night Only",
-    "synopsis": "",
-    "showtimes": [
-     "7:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/one-night-only/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/unnamed-file.jpg"
    },
    {
     "title": "Minions & Monsters",
@@ -698,7 +671,7 @@
     "title": "Love in the Afternoon",
     "synopsis": "Director: \u00c9ric Rohmer Run Time: 97 min. Format: DCP Release Year: 1972 Language: French",
     "showtimes": [
-     "6:30 pm"
+     "6:30 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",

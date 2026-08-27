@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-27T16:17:57.220755",
+  "scraped_at": "2026-08-27T19:07:29.042164",
   "date": "2026-09-02"
  },
  "data": {
@@ -18,6 +18,19 @@
     "rating": "Not Rated",
     "runtime": "1 hr 31 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246914/Sara%20Bareilles%20Good%20Grief.jpg"
+   },
+   {
+    "title": "The Best Little Whorehouse in Texas",
+    "synopsis": "",
+    "showtimes": [
+     "3:30 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-best-little-whorehouse-in-texas-110383/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/110383/BestLittleWhorehouseInTexas-posterart.jpg"
    },
    {
     "title": "Katy Perry: The Lifetimes Tour - Live From Paris (2026)",
@@ -102,7 +115,7 @@
     "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
     "rating": "PG13",
     "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/FINDING_EMILY_1080x1600_W04_FIN01.jpg"
    },
    {
     "title": "Idiots (2026)",
@@ -115,7 +128,7 @@
     "url": "https://www.fandango.com/idiots-2026-245445/movie-overview",
     "rating": "R",
     "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/idiots-posterart-presales.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/IDIOTS_teaser01_socials.jpg"
    },
    {
     "title": "Terminator 2: Judgment Day 35th Anniversary (2026)",
@@ -237,24 +250,10 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245697/MUTINY_2025x3000_Online_1SHT_CARGO_V1.jpg"
    },
    {
-    "title": "Spa Weekend (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "1:40 PM"
-    ],
-    "theater": "AMC Boston Common 19",
-    "address": "175 Tremont St, Boston, MA",
-    "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
-    "rating": "R",
-    "runtime": "1 hr 37 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245958/SPA_KEY_Main_1Sht_27x40_256_F9.jpg"
-   },
-   {
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "3:40 PM"
+     "12:40 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -390,6 +389,19 @@
     "rating": "PG13",
     "runtime": "2 hr 5 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/126230/87176_ad2.jpg"
+   },
+   {
+    "title": "Steel Magnolias (1989)",
+    "synopsis": "",
+    "showtimes": [
+     "1:15 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/steel-magnolias-1989-48199/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/48199/Steel%20Magnolias.jpg"
    }
   ],
   "Kendall Square Cinema": [
@@ -405,7 +417,7 @@
     "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
     "rating": "PG13",
     "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/FINDING_EMILY_1080x1600_W04_FIN01.jpg"
    },
    {
     "title": "The Dog Stars (2026)",
@@ -506,19 +518,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "6:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
-   },
-   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
@@ -530,6 +529,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
+   },
+   {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
    },
    {
     "title": "Onslaught",
@@ -860,7 +872,7 @@
     "title": "Love in the Afternoon",
     "synopsis": "Director: \u00c9ric Rohmer Run Time: 97 min. Format: DCP Release Year: 1972 Language: French",
     "showtimes": [
-     "6:30 pm"
+     "6:30 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",

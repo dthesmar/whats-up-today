@@ -1,10 +1,23 @@
 {
  "meta": {
-  "scraped_at": "2026-08-27T16:13:14.890738",
+  "scraped_at": "2026-08-27T19:07:02.492070",
   "date": "2026-08-29"
  },
  "data": {
   "AMC Boston Common 19": [
+   {
+    "title": "The Best Little Whorehouse in Texas",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/the-best-little-whorehouse-in-texas-110383/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 54 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/110383/BestLittleWhorehouseInTexas-posterart.jpg"
+   },
    {
     "title": "Buddy (2026)",
     "synopsis": "",
@@ -65,7 +78,7 @@
     "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
     "rating": "PG13",
     "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/FINDING_EMILY_1080x1600_W04_FIN01.jpg"
    },
    {
     "title": "Idiots (2026)",
@@ -79,7 +92,7 @@
     "url": "https://www.fandango.com/idiots-2026-245445/movie-overview",
     "rating": "R",
     "runtime": "1 hr 38 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/idiots-posterart-presales.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245445/IDIOTS_teaser01_socials.jpg"
    },
    {
     "title": "Legend of the White Dragon (2026)",
@@ -198,7 +211,8 @@
     "title": "It Ends (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM"
+     "5:30 PM",
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -211,10 +225,8 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "4:15 PM",
      "7:15 PM",
-     "10:45 PM"
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -317,6 +329,7 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
+     "7:15 PM",
      "10:45 PM",
      "11:30 AM",
      "3:00 PM",
@@ -380,10 +393,22 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/91610/hpgobletposter.jpg"
    },
    {
+    "title": "Steel Magnolias (1989)",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 PM"
+    ],
+    "theater": "AMC Boston Common 19",
+    "address": "175 Tremont St, Boston, MA",
+    "url": "https://www.fandango.com/steel-magnolias-1989-48199/movie-overview",
+    "rating": "PG",
+    "runtime": "1 hr 58 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/48199/Steel%20Magnolias.jpg"
+   },
+   {
     "title": "The Rocky Horror Picture Show",
     "synopsis": "",
     "showtimes": [
-     "8:00 PM",
      "9:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -409,7 +434,7 @@
     "url": "https://www.fandango.com/finding-emily-2026-242517/movie-overview",
     "rating": "PG13",
     "runtime": "1 hr 50 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/findingemily.jpg"
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/242517/FINDING_EMILY_1080x1600_W04_FIN01.jpg"
    },
    {
     "title": "The Dog Stars (2026)",
@@ -510,20 +535,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
-   },
-   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
@@ -551,6 +562,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+   },
+   {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "2:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
    },
    {
     "title": "Michael Mann's Manhunter: The Final Cut",
@@ -650,6 +675,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/Primetime-600x889.webp"
+   },
+   {
+    "title": "The Rocky Horror Picture Show in 35mm with shadowcast",
+    "synopsis": "",
+    "showtimes": [
+     "8:00 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-rocky-horror-picture-show-in-35mm-with-shadowcast/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/05/unnamed-file-11.jpg"
    }
   ],
   "Capitol Theatre": [
@@ -885,7 +923,7 @@
     "title": "Love in the Afternoon",
     "synopsis": "Director: \u00c9ric Rohmer Run Time: 97 min. Format: DCP Release Year: 1972 Language: French",
     "showtimes": [
-     "6:30 pm"
+     "6:30 pm Sold Out"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
