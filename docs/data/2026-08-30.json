@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-26T18:52:38.253473",
+  "scraped_at": "2026-08-26T20:06:14.502895",
   "date": "2026-08-30"
  },
  "data": {
@@ -492,6 +492,20 @@
   ],
   "Somerville Theatre": [
    {
+    "title": "The Odyssey (DIGITAL)",
+    "synopsis": "",
+    "showtimes": [
+     "3:00 pm",
+     "6:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
@@ -505,20 +519,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
-   },
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "3:00 pm",
-     "6:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
    },
    {
     "title": "Batman in 70mm",
@@ -550,21 +550,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
@@ -592,6 +577,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "Spa Weekend",
