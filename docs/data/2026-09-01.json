@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-26T23:05:50.754872",
+  "scraped_at": "2026-08-27T00:06:41.404456",
   "date": "2026-09-01"
  },
  "data": {
@@ -961,32 +961,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
-   },
-   {
-    "title": "A Face in the Crowd",
-    "synopsis": "Director: Elia Kazan Run Time: 125 min. Format: DCP Release Year: 1957",
-    "showtimes": [
-     "6:00 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/a-face-in-the-crowd/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02172118/kTFXaktj0cRqshYzWvlhCQ1yAGy.jpg"
-   },
-   {
-    "title": "Nightcrawler",
-    "synopsis": "Director: Dan Gilroy Run Time: 118 min. Format: DCP Release Year: 2014",
-    "showtimes": [
-     "8:45 pm"
-    ],
-    "theater": "Brattle Theatre",
-    "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/nightcrawler/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02172230/bdI6U1mT0kCdTJ6TWtiFxQ42GSn-scaled.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1035,19 +1009,6 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/dog_star_presale.jpg"
    },
    {
-    "title": "Hi! (2026)",
-    "synopsis": "",
-    "showtimes": [
-     "9:50 PM"
-    ],
-    "theater": "Apple Cinemas Cambridge",
-    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
-    "url": "https://www.fandango.com/hi-2026-246532/movie-overview",
-    "rating": "Not Rated",
-    "runtime": "2 hr 20 min",
-    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246532/Hi_Poster_1080x1600.jpg"
-   },
-   {
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
@@ -1066,7 +1027,7 @@
     "title": "Bethlehem Kudumba Unit (2026)",
     "synopsis": "",
     "showtimes": [
-     "9:15 PM"
+     "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
@@ -1218,6 +1179,19 @@
     "rating": "PG",
     "runtime": "1 hr 30 min",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/244409/MM_Adv1Sheet5_Irene_RGB_Rtd_3SM.jpg"
+   },
+   {
+    "title": "Panjaa",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/panjaa-151199/movie-overview",
+    "rating": "Not Rated",
+    "runtime": "2 hr 40 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/151199/Panjaa-27x40.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [
