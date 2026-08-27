@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-27T09:14:53.290428",
+  "scraped_at": "2026-08-27T16:13:05.291260",
   "date": "2026-08-28"
  },
  "data": {
@@ -134,7 +134,6 @@
     "showtimes": [
      "1:15 PM",
      "3:00 PM",
-     "8:40 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -193,8 +192,7 @@
     "showtimes": [
      "10:45 AM",
      "5:30 PM",
-     "8:00 PM",
-     "10:30 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -352,7 +350,8 @@
     "title": "Harry Potter and the Prisoner of Azkaban (2004)",
     "synopsis": "",
     "showtimes": [
-     "4:00 PM"
+     "4:00 PM",
+     "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -365,7 +364,8 @@
     "title": "Harry Potter and the Sorcerer's Stone (2001)",
     "synopsis": "",
     "showtimes": [
-     "6:30 PM"
+     "6:30 PM",
+     "8:40 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -537,6 +537,33 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
    },
    {
+    "title": "Onslaught",
+    "synopsis": "",
+    "showtimes": [
+     "7:20 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/onslaught/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ONSLAUGHT_Teaser-Onesheet_Soldiers-600x888.jpg"
+   },
+   {
+    "title": "Practical Magic 2",
+    "synopsis": "",
+    "showtimes": [
+     "4:45 pm",
+     "7:40 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/practical-magic-2/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/PMAG2_VERT_MAIN_2764x4096_DOM-600x889.jpg"
+   },
+   {
     "title": "Batman in 70mm",
     "synopsis": "",
     "showtimes": [
@@ -548,6 +575,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-33.jpg"
+   },
+   {
+    "title": "Primetime",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/primetime/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/Primetime-600x889.webp"
    }
   ],
   "Capitol Theatre": [
@@ -582,21 +623,6 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    },
    {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
@@ -611,6 +637,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "1:00 pm",
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "Minions & Monsters",
