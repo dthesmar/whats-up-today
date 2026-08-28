@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-28T15:15:53.421332",
+  "scraped_at": "2026-08-28T16:17:13.042372",
   "date": "2026-08-28"
  },
  "data": {
@@ -49,7 +49,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "6:30 PM",
      "9:30 PM"
     ],
@@ -135,7 +134,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -229,9 +227,7 @@
    {
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "3:45 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-fast-and-the-furious-25th-anniversary-2026-245980/movie-overview",
@@ -243,7 +239,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:15 PM",
      "6:00 PM",
      "10:45 PM"
     ],
@@ -290,7 +285,6 @@
     "showtimes": [
      "7:15 PM",
      "10:45 PM",
-     "3:00 PM",
      "6:30 PM",
      "10:00 PM",
      "5:45 PM",
@@ -307,7 +301,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:30 PM",
      "10:30 PM",
      "4:30 PM",
      "8:30 PM"
@@ -576,33 +569,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Minions & Monsters",
-    "synopsis": "",
-    "showtimes": [
-     "3:30 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
-   },
-   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
@@ -657,6 +623,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
+   },
+   {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -977,7 +956,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:15 PM",
      "7:30 PM",
      "9:45 PM"
