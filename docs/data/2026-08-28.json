@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-28T17:18:31.918421",
+  "scraped_at": "2026-08-28T18:19:45.580957",
   "date": "2026-08-28"
  },
  "data": {
@@ -20,7 +20,6 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -182,7 +181,6 @@
     "title": "It Ends (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -196,7 +194,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -261,7 +258,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -280,7 +276,6 @@
      "10:45 PM",
      "6:30 PM",
      "10:00 PM",
-     "5:45 PM",
      "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -540,34 +535,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "5:40 pm",
-     "7:50 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -605,6 +572,32 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
+   },
+   {
+    "title": "The End of Oak Street",
+    "synopsis": "",
+    "showtimes": [
+     "7:50 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/the-end-of-oak-street/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/OAKST_DEBUT_VERT_DOM_MAIN_NIRD_2764x4096-600x889.jpg"
    }
   ],
   "Coolidge Corner Theatre": [
@@ -799,7 +792,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:30 PM",
      "7:40 PM",
      "10:05 PM"
@@ -842,7 +834,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:30 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -921,7 +912,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:30 PM",
      "9:45 PM"
     ],
@@ -935,9 +925,7 @@
    {
     "title": "Tony (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
