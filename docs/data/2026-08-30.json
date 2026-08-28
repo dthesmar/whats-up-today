@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-27T23:26:42.305091",
+  "scraped_at": "2026-08-28T10:04:49.066173",
   "date": "2026-08-30"
  },
  "data": {
@@ -817,43 +817,47 @@
   ],
   "Brattle Theatre": [
    {
-    "title": "Late Fame",
-    "synopsis": "Director: Kent Jones Run Time: 90 min. Format: DCP Release Year: 2026",
+    "title": "Cabaret",
+    "synopsis": "Director: Bob Fosse Run Time: 124 min. Format: 35mm Film Release Year: 1972",
     "showtimes": [
-     "3:30 pm"
+     "3:00 pm 35mm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/late-fame/",
+    "url": "https://brattlefilm.org/movies/cabaret/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/04/09140826/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/10103548/yInvVRrCmEypIt5hm0WvXkjxsQX-scaled.jpg"
    },
    {
-    "title": "Love in the Afternoon",
-    "synopsis": "Director: \u00c9ric Rohmer Run Time: 97 min. Format: DCP Release Year: 1972 Language: French",
+    "title": "The Piano",
+    "synopsis": "Director: Jane Campion Run Time: 120 min. Format: 4K DCP Release Year: 1993",
     "showtimes": [
-     "6:30 pm Sold Out"
+     "6:00 pm",
+     "12:30 pm",
+     "3:00 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/love-in-the-afternoon/",
+    "url": "https://brattlefilm.org/movies/the-piano/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/07111707/AiidLUGpb8lVvH3s4olLjAuwcCz.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02172721/c2O99arhWcuLexMHiuRfSuDMpYm-scaled.jpg"
    },
    {
-    "title": "Basic Instinct",
-    "synopsis": "Director: Paul Verhoeven Run Time: 128 min. Format: DCP Release Year: 1992",
+    "title": "Dreams in Nightmares",
+    "synopsis": "Director: Shatara Michelle Ford Run Time: 128 min. Format: DCP Release Year: 2026",
     "showtimes": [
-     "9:00 pm"
+     "8:30 pm",
+     "3:15 pm",
+     "9:45 pm"
     ],
     "theater": "Brattle Theatre",
     "address": "40 Brattle St, Cambridge, MA",
-    "url": "https://brattlefilm.org/movies/basic-instinct/",
+    "url": "https://brattlefilm.org/movies/dreams-in-nightmares/",
     "rating": "",
     "runtime": "",
-    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02172420/7FRraud59N3s10bbf9bfYjvwx3v-scaled.jpg"
+    "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/192/2026/07/02172934/mIzA2MOTiPP8mE4afzfxa0580V2.jpg"
    }
   ],
   "Harvard Film Archive": [
@@ -1106,104 +1110,12 @@
   ],
   "Majestic 7 at Arsenal Yards": [
    {
-    "title": "CWX Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "10:15AM",
-     "1:15PM",
-     "4:15PM",
-     "7:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The Odyssey",
-    "synopsis": "",
-    "showtimes": [
-     "10:30AM",
-     "2:15PM",
-     "6:15PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "The End of Oak Street",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "1:25PM",
-     "4:00PM",
-     "7:20PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/the-end-of-oak-street",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Paw Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "10:50AM",
-     "1:30PM",
-     "4:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/paw-patrol-the-dino-movie",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Insidious: Out Of The Further",
-    "synopsis": "",
-    "showtimes": [
-     "11:05AM",
-     "1:55PM",
-     "4:35PM",
-     "7:10PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/insidious-out-of-the-further",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "11:10AM",
-     "1:45PM",
-     "4:20PM",
-     "7:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "6:30PM"
+     "10:00AM",
+     "3:30PM",
+     "9:35PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
@@ -1216,11 +1128,121 @@
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "7:00PM"
+     "10:25AM",
+     "1:20PM",
+     "4:15PM",
+     "7:15PM"
     ],
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/the-dog-stars",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Coyote Vs. ACME",
+    "synopsis": "",
+    "showtimes": [
+     "10:30AM",
+     "1:10PM",
+     "4:40PM",
+     "7:05PM",
+     "9:40PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/coyote-vs-acme",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "10:45AM",
+     "12:40PM",
+     "4:00PM",
+     "6:45PM",
+     "10:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "Insidious: Out Of The Further",
+    "synopsis": "",
+    "showtimes": [
+     "10:55AM",
+     "1:35PM",
+     "4:20PM",
+     "7:00PM",
+     "10:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/insidious-out-of-the-further",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "The Odyssey",
+    "synopsis": "",
+    "showtimes": [
+     "1:05PM",
+     "3:10PM",
+     "6:35PM",
+     "9:10PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/the-odyssey",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "2:20PM",
+     "6:25PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-spider-man-brand-new-day",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
+    "title": "CWX The Dog Stars",
+    "synopsis": "",
+    "showtimes": [
+     "10:00PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/cwx-the-dog-stars",
     "rating": "",
     "runtime": "",
     "poster": ""
