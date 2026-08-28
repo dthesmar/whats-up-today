@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-28T12:55:31.999275",
+  "scraped_at": "2026-08-28T14:14:28.716475",
   "date": "2026-08-28"
  },
  "data": {
@@ -50,8 +50,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
-     "12:45 PM",
      "3:30 PM",
      "6:30 PM",
      "9:30 PM"
@@ -67,7 +65,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "7:45 PM",
      "10:45 PM"
     ],
@@ -126,7 +123,6 @@
     "showtimes": [
      "7:30 PM",
      "4:15 PM",
-     "1:00 PM",
      "10:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -140,7 +136,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "3:00 PM",
      "10:00 PM"
     ],
@@ -168,7 +163,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:40 PM",
      "7:30 PM",
      "10:30 PM"
@@ -226,9 +220,7 @@
    {
     "title": "Spa Weekend (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/spa-weekend-2026-245958/movie-overview",
@@ -240,7 +232,6 @@
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "3:45 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -269,7 +260,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "7:00 PM",
      "10:00 PM"
@@ -364,9 +354,7 @@
    {
     "title": "Steel Magnolias (1989)",
     "synopsis": "",
-    "showtimes": [
-     "1:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/steel-magnolias-1989-48199/movie-overview",
@@ -593,25 +581,24 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "Spider-Man: Brand New Day",
+    "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
-     "4:00 pm",
-     "7:00 pm"
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "3:15 pm",
      "5:30 pm",
      "7:45 pm"
@@ -627,7 +614,6 @@
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "1:15 pm",
      "3:30 pm"
     ],
     "theater": "Capitol Theatre",
@@ -638,10 +624,23 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
      "7:20 pm"
     ],
@@ -651,21 +650,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
-   },
-   {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -891,7 +875,6 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "6:45 PM",
      "9:30 PM"
@@ -920,7 +903,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "5:30 PM",
      "9:30 PM"
     ],
@@ -948,7 +930,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM"
@@ -1006,7 +987,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "3:00 PM",
      "5:15 PM",
      "7:30 PM",
@@ -1037,7 +1017,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:10 PM",
      "7:15 PM",
      "10:15 PM"
