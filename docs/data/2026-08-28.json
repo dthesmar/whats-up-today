@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-28T14:14:28.716475",
+  "scraped_at": "2026-08-28T15:15:53.421332",
   "date": "2026-08-28"
  },
  "data": {
@@ -23,8 +23,7 @@
     "synopsis": "",
     "showtimes": [
      "5:15 PM",
-     "8:00 PM",
-     "2:30 PM"
+     "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -205,7 +204,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:15 PM",
      "8:00 PM",
      "10:45 PM"
@@ -275,7 +273,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "5:00 PM",
      "8:00 PM",
      "10:45 PM"
@@ -297,8 +294,7 @@
      "6:30 PM",
      "10:00 PM",
      "5:45 PM",
-     "9:15 PM",
-     "2:15 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -458,7 +454,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:50 PM",
      "6:25 PM",
      "9:00 PM"
     ],
@@ -581,36 +576,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "3:15 pm",
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
     "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
@@ -650,6 +615,34 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "5:30 pm",
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -858,7 +851,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "2:50 PM",
      "5:15 PM",
      "7:30 PM",
      "7:40 PM",
@@ -956,7 +948,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM",
      "9:15 PM"
@@ -972,7 +963,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM"
     ],
@@ -1003,7 +993,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:35 PM",
      "5:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1032,7 +1021,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:00 PM",
      "9:30 PM"
     ],
