@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-28T11:36:04.608547",
+  "scraped_at": "2026-08-28T12:55:31.999275",
   "date": "2026-08-28"
  },
  "data": {
@@ -22,7 +22,6 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:45 AM",
      "5:15 PM",
      "8:00 PM",
      "2:30 PM"
@@ -38,7 +37,6 @@
     "title": "Colony (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -128,7 +126,6 @@
     "showtimes": [
      "7:30 PM",
      "4:15 PM",
-     "11:45 AM",
      "1:00 PM",
      "10:15 PM"
     ],
@@ -257,7 +254,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:30 PM",
      "3:15 PM",
      "6:00 PM",
      "10:45 PM"
@@ -307,7 +303,6 @@
     "showtimes": [
      "7:15 PM",
      "10:45 PM",
-     "11:30 AM",
      "3:00 PM",
      "6:30 PM",
      "10:00 PM",
@@ -326,10 +321,8 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "11:30 AM",
      "3:30 PM",
      "10:30 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM"
     ],
@@ -600,22 +593,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -674,6 +651,21 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
+   },
+   {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "2:45 pm",
+     "5:00 pm",
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -882,7 +874,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "12:25 PM",
      "2:50 PM",
      "5:15 PM",
      "7:30 PM",
@@ -984,7 +975,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "2:30 PM",
      "4:45 PM",
      "7:00 PM",
@@ -1001,7 +991,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "2:30 PM",
      "4:45 PM",
      "7:00 PM"
@@ -1034,7 +1023,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:10 PM",
      "2:35 PM",
      "5:00 PM"
     ],
