@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-29T16:39:19.960219",
+  "scraped_at": "2026-08-29T17:40:29.036560",
   "date": "2026-08-29"
  },
  "data": {
@@ -20,7 +20,6 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -88,9 +87,7 @@
    {
     "title": "Legend of the White Dragon (2026)",
     "synopsis": "",
-    "showtimes": [
-     "4:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/legend-of-the-white-dragon-2026-245475/movie-overview",
@@ -283,7 +280,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:00 PM",
      "8:00 PM",
      "10:45 PM"
     ],
@@ -317,7 +313,6 @@
     "synopsis": "",
     "showtimes": [
      "10:30 PM",
-     "4:30 PM",
      "8:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -382,7 +377,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:35 PM",
      "7:10 PM",
      "9:50 PM"
     ],
@@ -411,7 +405,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:20 PM",
      "6:40 PM",
      "10:00 PM"
     ],
@@ -440,7 +433,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:25 PM",
      "7:15 PM",
      "9:45 PM"
     ],
@@ -482,21 +474,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:30 pm",
-     "9:45 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/tony/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
-   },
-   {
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
@@ -508,6 +485,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "7:30 pm",
+     "9:45 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
     "title": "Michael Mann's Manhunter: The Final Cut",
@@ -623,34 +614,6 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
-    "title": "Spa Weekend",
-    "synopsis": "",
-    "showtimes": [
-     "5:30 pm",
-     "7:45 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
@@ -664,6 +627,19 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
+    "title": "PAW Patrol: The Dino Movie",
+    "synopsis": "",
+    "showtimes": [
+     "7:10 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+   },
+   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
@@ -675,6 +651,19 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
+   },
+   {
+    "title": "Spa Weekend",
+    "synopsis": "",
+    "showtimes": [
+     "7:45 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spa-weekend/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -882,7 +871,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:30 PM",
      "7:40 PM",
      "10:05 PM"
@@ -977,7 +965,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:00 PM",
      "9:15 PM"
     ],
@@ -992,7 +979,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "4:45 PM",
      "7:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1006,7 +992,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "5:15 PM",
      "7:30 PM",
      "9:45 PM"
     ],
@@ -1020,9 +1005,7 @@
    {
     "title": "Tony (2026)",
     "synopsis": "",
-    "showtimes": [
-     "5:00 PM"
-    ],
+    "showtimes": [],
     "theater": "Apple Cinemas Cambridge",
     "address": "168 Alewife Brook Pkwy, Cambridge, MA",
     "url": "https://www.fandango.com/tony-2026-245704/movie-overview",
