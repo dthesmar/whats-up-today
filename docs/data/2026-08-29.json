@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-29T00:00:54.256682",
+  "scraped_at": "2026-08-29T09:10:13.602261",
   "date": "2026-08-29"
  },
  "data": {
@@ -869,7 +869,8 @@
     "synopsis": "The feature film debut of Casper Kelly, creator of Too Many Cooks, starring Keegan-Michael Key, Topher Grace, and Cristin Milioti.",
     "showtimes": [
      "6:45pm",
-     "9:00pm"
+     "9:00pm",
+     "11:59pm"
     ],
     "theater": "Coolidge Corner Theatre",
     "address": "290 Harvard St, Brookline, MA",
@@ -1192,6 +1193,23 @@
     "poster": ""
    },
    {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "10:10AM",
+     "12:40PM",
+     "4:00PM",
+     "6:45PM",
+     "10:05PM"
+    ],
+    "theater": "Majestic 7 at Arsenal Yards",
+    "address": "485 Arsenal Way, Watertown, MA",
+    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
+    "rating": "",
+    "runtime": "",
+    "poster": ""
+   },
+   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
@@ -1233,23 +1251,6 @@
     "theater": "Majestic 7 at Arsenal Yards",
     "address": "485 Arsenal Way, Watertown, MA",
     "url": "https://arsenalyards.cwtheaters.com/movie/coyote-vs-acme",
-    "rating": "",
-    "runtime": "",
-    "poster": ""
-   },
-   {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "10:45AM",
-     "12:40PM",
-     "4:00PM",
-     "6:45PM",
-     "10:05PM"
-    ],
-    "theater": "Majestic 7 at Arsenal Yards",
-    "address": "485 Arsenal Way, Watertown, MA",
-    "url": "https://arsenalyards.cwtheaters.com/movie/tony",
     "rating": "",
     "runtime": "",
     "poster": ""
