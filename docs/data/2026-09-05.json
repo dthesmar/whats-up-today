@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-29T13:22:43.410253",
+  "scraped_at": "2026-08-29T15:23:48.965637",
   "date": "2026-09-05"
  },
  "data": {
@@ -194,38 +194,22 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Michael Mann's Manhunter: The Final Cut",
+    "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "8:30 pm"
+     "4:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
-   },
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "5:00 pm",
      "7:30 pm",
      "9:45 pm"
@@ -238,17 +222,30 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
-    "title": "The Odyssey in 70mm",
+    "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Michael Mann's Manhunter: The Final Cut",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
    },
    {
     "title": "Bound",
@@ -351,10 +348,23 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
      "7:20 pm"
     ],
@@ -369,7 +379,6 @@
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "2:45 pm",
      "5:00 pm",
      "7:10 pm"
     ],
@@ -384,7 +393,6 @@
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
-     "3:15 pm",
      "5:30 pm",
      "7:45 pm"
     ],
@@ -394,20 +402,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -543,6 +537,24 @@
     "rating": "R",
     "runtime": "",
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246005/byanymeans.jpg"
+   },
+   {
+    "title": "Onslaught (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "10:00 AM",
+     "12:15 PM",
+     "2:30 PM",
+     "4:45 PM",
+     "7:00 PM",
+     "9:15 PM"
+    ],
+    "theater": "Apple Cinemas Cambridge",
+    "address": "168 Alewife Brook Pkwy, Cambridge, MA",
+    "url": "https://www.fandango.com/onslaught-2026-245994/movie-overview",
+    "rating": "R",
+    "runtime": "1 hr 32 min",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245994/ONSLAUGHT_Teaser-Onesheet_Soldiers.jpg"
    }
   ],
   "Majestic 7 at Arsenal Yards": [

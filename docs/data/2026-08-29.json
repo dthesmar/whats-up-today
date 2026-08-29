@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-29T13:21:47.846602",
+  "scraped_at": "2026-08-29T15:22:52.025194",
   "date": "2026-08-29"
  },
  "data": {
@@ -20,7 +20,6 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "5:00 PM",
      "8:00 PM"
     ],
@@ -48,7 +47,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "3:30 PM",
      "6:30 PM",
      "9:30 PM"
@@ -146,8 +144,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
-     "3:00 PM",
      "10:00 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -240,9 +236,7 @@
    {
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:40 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-fast-and-the-furious-25th-anniversary-2026-245980/movie-overview",
@@ -296,7 +290,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "5:00 PM",
      "8:00 PM",
      "10:45 PM"
@@ -314,12 +307,10 @@
     "showtimes": [
      "7:15 PM",
      "10:45 PM",
-     "3:00 PM",
      "6:30 PM",
      "10:00 PM",
      "5:45 PM",
-     "9:15 PM",
-     "2:15 PM"
+     "9:15 PM"
     ],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
@@ -403,7 +394,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:35 PM",
      "7:10 PM",
      "9:50 PM"
@@ -419,7 +409,6 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:20 PM",
      "4:15 PM",
      "7:00 PM",
      "9:40 PM"
@@ -450,7 +439,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:00 PM",
      "6:45 PM",
      "9:55 PM"
@@ -466,7 +454,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:25 PM",
      "7:15 PM",
      "9:45 PM"
@@ -482,7 +469,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:10 PM",
      "4:05 PM",
      "6:50 PM",
      "9:20 PM"
@@ -498,7 +484,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "6:25 PM",
      "9:00 PM"
     ],
@@ -512,38 +497,22 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Michael Mann's Manhunter: The Final Cut",
+    "title": "The Odyssey in 70mm",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
-     "8:30 pm"
+     "4:30 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
-   },
-   {
-    "title": "The Odyssey (DIGITAL)",
-    "synopsis": "",
-    "showtimes": [
-     "2:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
    },
    {
     "title": "Tony",
     "synopsis": "",
     "showtimes": [
-     "2:30 pm",
      "5:00 pm",
      "7:30 pm",
      "9:45 pm"
@@ -556,17 +525,30 @@
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
-    "title": "The Odyssey in 70mm",
+    "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
-     "4:30 pm"
+     "7:00 pm"
     ],
     "theater": "Somerville Theatre",
     "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/the-odyssey-in-70mm/",
+    "url": "https://www.somervilletheatre.com/production/the-odyssey-digital/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/06/unnamed-file-9.jpg"
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Michael Mann's Manhunter: The Final Cut",
+    "synopsis": "",
+    "showtimes": [
+     "8:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/michael-manns-manhunter-the-final-cut/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/unnamed-file-11.jpg"
    },
    {
     "title": "Bound",
@@ -669,10 +651,23 @@
   ],
   "Capitol Theatre": [
    {
+    "title": "Spider-Man: Brand New Day",
+    "synopsis": "",
+    "showtimes": [
+     "4:00 pm",
+     "7:00 pm"
+    ],
+    "theater": "Capitol Theatre",
+    "address": "204 Massachusetts Ave, Arlington, MA",
+    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
+   },
+   {
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
      "7:20 pm"
     ],
@@ -687,7 +682,6 @@
     "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "2:45 pm",
      "5:00 pm",
      "7:10 pm"
     ],
@@ -702,7 +696,6 @@
     "title": "Spa Weekend",
     "synopsis": "",
     "showtimes": [
-     "3:15 pm",
      "5:30 pm",
      "7:45 pm"
     ],
@@ -712,20 +705,6 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/SPA_KEY_Main_Soc-Dig_1Sht_1080x1600_256_F2-600x889.jpg"
-   },
-   {
-    "title": "Spider-Man: Brand New Day",
-    "synopsis": "",
-    "showtimes": [
-     "4:00 pm",
-     "7:00 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/spider-man-brand-new-day/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/07/SMBND_Online_1400x2100_Reflection_03-600x900.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -933,7 +912,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "2:50 PM",
      "5:15 PM",
      "7:30 PM",
      "7:40 PM",
@@ -992,7 +970,6 @@
     "title": "Bethlehem Kudumba Unit (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "9:15 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1006,7 +983,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM"
@@ -1033,7 +1009,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM",
      "9:15 PM"
@@ -1049,7 +1024,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM"
     ],
@@ -1064,7 +1038,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "3:00 PM",
      "5:15 PM",
      "7:30 PM",
      "9:45 PM"
@@ -1080,7 +1053,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:35 PM",
      "5:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1109,7 +1081,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:00 PM",
      "9:30 PM"
     ],
