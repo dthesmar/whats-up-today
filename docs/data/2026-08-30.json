@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-30T12:20:56.762912",
+  "scraped_at": "2026-08-30T14:59:38.277832",
   "date": "2026-08-30"
  },
  "data": {
@@ -8,9 +8,7 @@
    {
     "title": "The Best Little Whorehouse in Texas",
     "synopsis": "",
-    "showtimes": [
-     "2:15 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-best-little-whorehouse-in-texas-110383/movie-overview",
@@ -35,7 +33,6 @@
     "title": "Buddy (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:30 PM",
      "5:15 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -62,8 +59,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
-     "2:00 PM",
      "4:45 PM",
      "7:30 PM",
      "10:15 PM"
@@ -79,7 +74,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:45 PM",
      "7:45 PM",
      "10:45 PM"
@@ -138,7 +132,6 @@
     "showtimes": [
      "7:30 PM",
      "4:15 PM",
-     "12:45 PM",
      "10:30 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -152,7 +145,6 @@
     "title": "Toxic: A Fairytale for Grownups (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "7:00 PM",
      "10:00 PM"
     ],
@@ -180,7 +172,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:45 PM",
      "4:40 PM",
      "7:30 PM",
      "10:30 PM"
@@ -250,7 +241,6 @@
     "title": "The Fast And The Furious: 25th Anniversary (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "3:40 PM"
     ],
     "theater": "AMC Boston Common 19",
@@ -263,9 +253,7 @@
    {
     "title": "The Magic Faraway Tree (2026)",
     "synopsis": "",
-    "showtimes": [
-     "1:30 PM"
-    ],
+    "showtimes": [],
     "theater": "AMC Boston Common 19",
     "address": "175 Tremont St, Boston, MA",
     "url": "https://www.fandango.com/the-magic-faraway-tree-2026-245875/movie-overview",
@@ -277,7 +265,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "5:15 PM",
      "8:00 PM",
      "10:15 PM"
@@ -293,8 +280,6 @@
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
-     "2:15 PM",
      "7:15 PM",
      "9:15 PM"
     ],
@@ -309,7 +294,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:00 PM",
      "5:00 PM",
      "8:00 PM",
      "10:45 PM"
@@ -330,7 +314,6 @@
      "3:00 PM",
      "6:30 PM",
      "10:00 PM",
-     "1:00 PM",
      "4:30 PM",
      "8:00 PM"
     ],
@@ -347,7 +330,6 @@
     "showtimes": [
      "3:30 PM",
      "10:30 PM",
-     "12:30 PM",
      "4:30 PM",
      "8:30 PM"
     ],
@@ -403,7 +385,6 @@
     "title": "Finding Emily (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:50 PM",
      "4:35 PM",
      "7:10 PM"
     ],
@@ -418,7 +399,6 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:20 PM",
      "4:15 PM",
      "7:00 PM"
     ],
@@ -430,10 +410,23 @@
     "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/245569/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7.jpg"
    },
    {
+    "title": "Insidious: Out of the Further (2026)",
+    "synopsis": "",
+    "showtimes": [
+     "4:20 PM",
+     "6:40 PM"
+    ],
+    "theater": "Kendall Square Cinema",
+    "address": "1 Kendall Sq, Cambridge, MA",
+    "url": "https://www.fandango.com/insidious-out-of-the-further-2026-246427/movie-overview",
+    "rating": "PG-13",
+    "runtime": "",
+    "poster": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/MasterRepository/fandango/246427/Insidious%20Out%20of%20the%20Further.jpg"
+   },
+   {
     "title": "Teenage Sex and Death at Camp Miasma (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:15 PM",
      "4:00 PM",
      "6:45 PM"
     ],
@@ -448,7 +441,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:25 PM",
      "7:15 PM"
     ],
@@ -463,7 +455,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:10 PM",
      "4:05 PM",
      "6:50 PM"
     ],
@@ -478,7 +469,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:00 PM",
      "3:20 PM",
      "6:20 PM"
     ],
@@ -492,21 +482,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/tony/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
-   },
-   {
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
@@ -519,6 +494,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
     "title": "Onslaught",
@@ -595,26 +584,22 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
+    "title": "Minions & Monsters",
     "synopsis": "",
     "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
+     "3:00 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
+    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
    },
    {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "4:00 pm",
      "7:00 pm"
     ],
@@ -629,7 +614,6 @@
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
      "7:20 pm"
     ],
@@ -641,17 +625,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm"
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
@@ -843,7 +828,6 @@
     "title": "Coyote vs. Acme",
     "synopsis": "",
     "showtimes": [
-     "12:25 PM",
      "2:50 PM",
      "5:15 PM",
      "7:30 PM",
@@ -861,7 +845,6 @@
     "title": "The Dog Stars (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:00 PM",
      "6:45 PM",
      "9:30 PM"
@@ -917,7 +900,6 @@
     "title": "Bethlehem Kudumba Unit (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "9:30 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -931,7 +913,6 @@
     "title": "Insidious: Out of the Further (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:30 PM",
      "4:00 PM",
      "6:30 PM",
      "9:00 PM"
@@ -958,8 +939,6 @@
     "title": "Mutiny (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
-     "2:30 PM",
      "4:45 PM",
      "7:00 PM",
      "9:15 PM"
@@ -975,7 +954,6 @@
     "title": "PAW Patrol: The Dino Movie (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:15 PM",
      "3:00 PM",
      "7:00 PM"
     ],
@@ -990,7 +968,6 @@
     "title": "The End of Oak Street (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:45 PM",
      "5:15 PM",
      "7:30 PM",
      "9:45 PM"
@@ -1006,8 +983,6 @@
     "title": "Tony (2026)",
     "synopsis": "",
     "showtimes": [
-     "12:10 PM",
-     "2:35 PM",
      "5:00 PM"
     ],
     "theater": "Apple Cinemas Cambridge",
@@ -1021,7 +996,6 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "synopsis": "",
     "showtimes": [
-     "1:00 PM",
      "4:10 PM",
      "7:15 PM",
      "10:15 PM"
@@ -1037,7 +1011,6 @@
     "title": "The Odyssey (2026)",
     "synopsis": "",
     "showtimes": [
-     "2:15 PM",
      "6:00 PM",
      "9:30 PM"
     ],

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "scraped_at": "2026-08-30T12:26:33.143457",
+  "scraped_at": "2026-08-30T15:00:51.881782",
   "date": "2026-09-06"
  },
  "data": {
@@ -200,21 +200,6 @@
   ],
   "Somerville Theatre": [
    {
-    "title": "Tony",
-    "synopsis": "",
-    "showtimes": [
-     "2:30 pm",
-     "5:00 pm",
-     "7:30 pm"
-    ],
-    "theater": "Somerville Theatre",
-    "address": "55 Davis Sq, Somerville, MA",
-    "url": "https://www.somervilletheatre.com/production/tony/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
-   },
-   {
     "title": "The Odyssey (DIGITAL)",
     "synopsis": "",
     "showtimes": [
@@ -227,6 +212,20 @@
     "rating": "",
     "runtime": "",
     "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/08/ODY_AdvHorse1Sht1_1080x1920pxH_RGB_2-600x1067.jpg"
+   },
+   {
+    "title": "Tony",
+    "synopsis": "",
+    "showtimes": [
+     "5:00 pm",
+     "7:30 pm"
+    ],
+    "theater": "Somerville Theatre",
+    "address": "55 Davis Sq, Somerville, MA",
+    "url": "https://www.somervilletheatre.com/production/tony/",
+    "rating": "",
+    "runtime": "",
+    "poster": "https://www.somervilletheatre.com/wp-content/uploads/2026/07/Tony_Digi_1-Sheet_Social-600x889.jpg"
    },
    {
     "title": "Onslaught",
@@ -303,26 +302,9 @@
   ],
   "Capitol Theatre": [
    {
-    "title": "PAW Patrol: The Dino Movie",
-    "synopsis": "",
-    "showtimes": [
-     "12:40 pm",
-     "2:45 pm",
-     "5:00 pm",
-     "7:10 pm"
-    ],
-    "theater": "Capitol Theatre",
-    "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
-    "rating": "",
-    "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
-   },
-   {
     "title": "Spider-Man: Brand New Day",
     "synopsis": "",
     "showtimes": [
-     "1:00 pm",
      "4:00 pm",
      "7:00 pm"
     ],
@@ -337,7 +319,6 @@
     "title": "The Dog Stars",
     "synopsis": "",
     "showtimes": [
-     "1:30 pm",
      "4:30 pm",
      "7:20 pm"
     ],
@@ -349,17 +330,18 @@
     "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/DGS_KA_DIGITAL_1SHT_TSR2_sRGB_V7-600x889.jpg"
    },
    {
-    "title": "Minions & Monsters",
+    "title": "PAW Patrol: The Dino Movie",
     "synopsis": "",
     "showtimes": [
-     "3:00 pm"
+     "5:00 pm",
+     "7:10 pm"
     ],
     "theater": "Capitol Theatre",
     "address": "204 Massachusetts Ave, Arlington, MA",
-    "url": "https://www.capitoltheatreusa.com/movie/minions-monsters/",
+    "url": "https://www.capitoltheatreusa.com/movie/paw-patrol-the-dino-movie/",
     "rating": "",
     "runtime": "",
-    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/06/unnamed-file-8.jpg"
+    "poster": "https://www.capitoltheatreusa.com/wp-content/uploads/2026/08/PP3_DOM_Digital_Prehistoric_1080x1600px_Indoor_Vertical_Digital_Static_Payoff_One_Sheet-600x889.jpg"
    },
    {
     "title": "The End of Oak Street",
